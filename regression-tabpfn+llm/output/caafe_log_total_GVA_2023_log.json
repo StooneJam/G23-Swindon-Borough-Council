@@ -1,0 +1,177 @@
+{
+  "timestamp": "2026-06-18T19:49:04",
+  "model": "gpt-4.1",
+  "target": "log_total_GVA_2023",
+  "best_subset": {
+    "cv_r2": 0.7280375289422121,
+    "features": [
+      "log_voa_rv_2023",
+      "rv_per_working_age",
+      "sme_density",
+      "qualification_index",
+      "firm_size_diversity",
+      "rv_per_employee",
+      "sme_qual_interaction",
+      "employment_quality",
+      "modern_sector_leverage",
+      "asset_growth_diversity"
+    ],
+    "iteration": 5,
+    "oof_metrics": {
+      "MAE": 0.37491398127106157,
+      "RMSE": 0.624309687783057,
+      "MAPE": 0.10200778773155099,
+      "R2": 0.6902836056434289
+    }
+  },
+  "history": [
+    {
+      "status": "error",
+      "score": null,
+      "code": "import numpy as np\n\n# 1. Log-transform asset value for scale/normality\ndf['log_voa_asset'] = np.log1p(df['VOA_total_RV_million_2023'])\n# Useful as a proxy for commercial property/business asset value; log is less skewed.\n\n# 2. Commercial asset value per capita\ndf['voa_asset_per_capita'] = df['VOA_total_RV_million_2023'] / (df['Total_Pop_Mid2024'] + 1)\n# Captures business asset concentration relative to population.\n\n# 3. SME density: enterprises per 1k working age\ndf['sme_density_1k_working'] = df['LU_total_2025_msoa'] / (df['Working_Age_Pop'] / 1000 + 1e-6)\n# Shows business density among economically active population.\n\n# 4. Skill index: weighted sum of higher education and no-qualifications\ndf['skill_index'] = df['Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy) %'] \\\n                    - df['No qualifications %']\n# Proxies net high-skill population.\n\n# 5. Employment to population ratio\ndf['employment_to_pop'] = df['total_employees'] / (df['Total_Pop_Mid2024'] + 1)\n# Indicates local economic activity level.\n\n# 6. Full-time to part-time employment ratio\n# Already provided as 'full_to_part_ratio'; keep as is.\n\n# 7. SME structure: micro-firm share\ndf['micro_firm_share'] = df['LU_pct_micro_2025_msoa']\n# High micro share may indicate entrepreneurship or lack of scale.\n\n# 8. SME structure: medium/large-firm share\ndf['medlarge_firm_share'] = df['LU_pct_medium_2025_msoa'] + df['LU_pct_large_2025_msoa']\n# Medium/large share proxies for scale and possibly higher productivity.\n\n# 9. Business sector diversity\ndf['sector_diversity'] = df['LU_diversity_1-HHI_2025']\n# Higher diversity can mean more economic resilience.\n\n# 10. Median commercial rateable value (log)\ndf['log_median_rv'] = np.log1p(df['VOA_median_RV_thousand_2023'])\n# Median RV proxies for typical business property value; log for scale.\n\n# Drop all other columns except the new features and ID (for possible merging)\nkeep_cols = [\n    'LSOA21CD',              # ID for merging/traceability if needed\n    'log_voa_asset',\n    'voa_asset_per_capita',\n    'sme_density_1k_working',\n    'skill_index',\n    'employment_to_pop',\n    'full_to_part_ratio',\n    'micro_firm_share',\n    'medlarge_firm_share',\n    'sector_diversity',\n    'log_median_rv'\n]\ndf = df[keep_cols]",
+      "features": null
+    },
+    {
+      "status": "accepted",
+      "score": 0.7226,
+      "code": "import numpy as np\n\n# 1. Log of total commercial rateable value (proxy for local business assets, skewed distribution)\ndf['log_voa_rv_2023'] = np.log1p(df['VOA_total_RV_million_2023'])\n# Useful as a scalable proxy for business asset value in the area.\n\n# 2. Business asset value per working age resident (normalizes for population structure)\ndf['rv_per_working_age'] = df['VOA_total_RV_million_2023'] / (df['Working_Age_Pop'] + 1)\n# Helps interpret asset value relative to productive population.\n\n# 3. SME density (local units per 1k residents, reflects enterprise dynamism)\ndf['sme_density'] = df['LU_total_2025_msoa'] / (df['Total_Pop_Mid2024'] / 1000)\n# Useful for measuring business density, a likely GVA driver.\n\n# 4. Share of micro and small businesses combined (captures SME business structure)\ndf['pct_micro_small'] = df['LU_pct_micro_2025_msoa'] + df['LU_pct_small_2025_msoa']\n# SME structure is important for local economic resilience and value added.\n\n# 5. Employment rate (core economic activity indicator)\ndf['employment_rate'] = df['employment_rate_per_pop']\n# Already normalized, direct measure of labour market participation.\n\n# 6. Workforce qualification index (linear combination: L4+ - No quals, higher is better)\ndf['qualification_index'] = df['Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy) %'] - df['No qualifications %']\n# Captures net upskilling in the area, likely correlates with productivity.\n\n# 7. Enterprise sector diversity (1-HHI across firm size, more diverse = more resilient, dynamic)\ndf['firm_size_diversity'] = df['LU_diversity_1-HHI_2025']\n# High diversity in firm size may buffer shocks and support innovation.\n\n# 8. Share of knowledge-intensive business services (KIBS) (proxy for advanced/modern sector)\ndf['share_kibs'] = df['share_enterprises_kibs_2025_msoa']\n# KIBS are typically high value-added and innovation intensive.\n\n# 9. Change in business asset value, 2023-2026 (%)\ndf['rv_pct_change'] = df['VOA_total_RV_pct_change']\n# Indicates recent/future business investment and optimism.\n\n# 10. Full-time to part-time employment ratio (labour market quality and wage structure)\ndf['full_to_part_ratio'] = df['full_to_part_ratio']\n# High ratios may indicate more stable and productive employment.\n\n# Now drop all other columns to keep only the 10 engineered/selected features\ndf = df[['log_voa_rv_2023',\n         'rv_per_working_age',\n         'sme_density',\n         'pct_micro_small',\n         'employment_rate',\n         'qualification_index',\n         'firm_size_diversity',\n         'share_kibs',\n         'rv_pct_change',\n         'full_to_part_ratio'\n        ]]",
+      "features": [
+        "log_voa_rv_2023",
+        "rv_per_working_age",
+        "sme_density",
+        "pct_micro_small",
+        "employment_rate",
+        "qualification_index",
+        "firm_size_diversity",
+        "share_kibs",
+        "rv_pct_change",
+        "full_to_part_ratio"
+      ]
+    },
+    {
+      "status": "error",
+      "score": null,
+      "code": "import numpy as np\n\n# --- 1. Asset value per SME: local asset intensity per enterprise ---\ndf['asset_per_sme'] = np.exp(df['log_voa_rv_2023']) / (df['sme_density'] + 1)\n# This feature captures the average business asset value per SME (proxy for capital intensity per firm).\n\n# --- 2. Interaction: Qualifications x KIBS share (skilled KIBS concentration) ---\ndf['skilled_kibs_index'] = df['qualification_index'] * df['share_kibs']\n# High-value KIBS sectors are most productive with a skilled workforce; this interaction captures that effect.\n\n# --- 3. SME Density x Employment Rate (enterprise-driven employment) ---\ndf['sme_employment_interaction'] = df['sme_density'] * df['employment_rate']\n# Indicates how densely populated SMEs are contributing to local employment rates.\n\n# --- 4. Asset growth x KIBS share (forward-looking modern sector investment) ---\ndf['kibs_asset_growth'] = df['rv_pct_change'] * df['share_kibs']\n# Captures whether advanced sectors are located in areas expecting business asset growth.\n\n# --- 5. Full-to-part-time ratio x Qualifications (quality employment mix) ---\ndf['quality_employment_index'] = df['full_to_part_ratio'] * df['qualification_index']\n# Combines employment structure and skills to proxy for quality of local jobs.\n\n# --- 6. Log of SME density (normalize, reduce skew) ---\ndf['log_sme_density'] = np.log1p(df['sme_density'])\n# Reduces skew and enables non-linear effects for enterprise density.\n\n# --- 7. Firm size diversity x asset value per working-age (diversity-weighted asset base) ---\ndf['diversity_weighted_asset'] = df['firm_size_diversity'] * df['rv_per_working_age']\n# Captures whether areas with diverse firm sizes also have high per-capita business asset value.\n\n# --- 8. Micro/small business share x asset value per working-age (SME asset leverage) ---\ndf['micro_small_asset_leverage'] = df['pct_micro_small'] * df['rv_per_working_age']\n# Indicates whether areas dominated by small firms also have high asset intensity per worker.\n\n# --- 9. Drop original columns that have been combined or superseded by interactions ---\ndrop_cols = [\n    'log_voa_rv_2023',         # replaced with asset_per_sme\n    'rv_per_working_age',      # replaced by diversity_weighted_asset, micro_small_asset_leverage\n    'sme_density',             # replaced by log_sme_density, sme_employment_interaction, asset_per_sme\n    'pct_micro_small',         # replaced by micro_small_asset_leverage\n    'employment_rate',         # replaced by sme_employment_interaction\n    'qualification_index',     # replaced by skilled_kibs_index, quality_employment_index\n    'firm_size_diversity',     # replaced by diversity_weighted_asset\n    'share_kibs',              # replaced by skilled_kibs_index, kibs_asset_growth\n    'rv_pct_change',           # replaced by kibs_asset_growth\n    'full_to_part_ratio'       # replaced by quality_employment_index\n]\ndf.drop(columns=drop_cols, inplace=True)\n\n# --- 10. Final feature set: keep only 10 features (all engineered) ---\ndf = df[[\n    'asset_per_sme',\n    'skilled_kibs_index',\n    'sme_employment_interaction',\n    'kibs_asset_growth',\n    'quality_employment_index',\n    'log_sme_density',\n    'diversity_weighted_asset',\n    'micro_small_asset_leverage'\n]]\n\n# Add back two most direct and interpretable original features for robustness:\ndf['firm_size_diversity'] = df['diversity_weighted_asset'] / (df['rv_per_working_age'] + 1e-6)\ndf['share_kibs'] = df['skilled_kibs_index'] / (df['qualification_index'] + 1e-6)\n\n# Now df has 10 features. Each is either an interaction, normalization, or interpretable direct feature.",
+      "features": null
+    },
+    {
+      "status": "rejected",
+      "score": 0.6955,
+      "code": "import numpy as np\n\n# --- FEATURE ENGINEERING AND SELECTION ---\n\n# 1. Business asset value per working age resident (normalizes for population structure)\n# Useful to see local business assets relative to available working-age population\ndf['rv_per_working_age'] = np.exp(df['log_voa_rv_2023']) / (df['employment_rate'] + 1e-6)\n# (Assumes log_voa_rv_2023 is log(total RV); employment_rate is per population.)\n\n# 2. SME density (local units per 1k residents, reflects enterprise dynamism)\n# Already present, useful for business dynamism\n# df['sme_density'] already exists\n\n# 3. Share of micro and small businesses (captures SME structure)\n# Already present, reflects SME composition\n# df['pct_micro_small'] already exists\n\n# 4. Workforce qualification index (higher is better)\n# Already present, measures net upskilling\n# df['qualification_index'] already exists\n\n# 5. Firm size diversity (1-HHI: more diverse = more resilient)\n# Already present, economic resilience\n# df['firm_size_diversity'] already exists\n\n# 6. Share of knowledge-intensive business services (KIBS)\n# Already present, proxy for advanced sector\n# df['share_kibs'] already exists\n\n# 7. Business asset value growth, 2023-2026 (% change)\n# Already present, proxy for business optimism/investment\n# df['rv_pct_change'] already exists\n\n# 8. Full-time to part-time employment ratio (labour market quality)\n# Already present, proxy for stable/high-productivity jobs\n# df['full_to_part_ratio'] already exists\n\n# 9. SME density * qualification index (interaction: enterprising + skilled)\ndf['sme_qual_interaction'] = df['sme_density'] * df['qualification_index']\n# Useful: Areas with both high SME density and high skills may see stronger value added.\n\n# 10. Asset value per SME (log scale, controls for business count)\ndf['log_rv_per_sme'] = df['log_voa_rv_2023'] - np.log1p(df['sme_density'])\n# Useful: Normalizes business assets for number of SMEs, proxy for asset concentration per firm.\n\n# --- DROP REDUNDANT COLUMNS, KEEP ONLY 10 FEATURES ---\n\ndf = df[[\n    'rv_per_working_age',          # 1\n    'sme_density',                 # 2\n    'pct_micro_small',             # 3\n    'qualification_index',         # 4\n    'firm_size_diversity',         # 5\n    'share_kibs',                  # 6\n    'rv_pct_change',               # 7\n    'full_to_part_ratio',          # 8\n    'sme_qual_interaction',        # 9\n    'log_rv_per_sme'               # 10\n]]",
+      "features": [
+        "rv_per_working_age",
+        "sme_density",
+        "pct_micro_small",
+        "qualification_index",
+        "firm_size_diversity",
+        "share_kibs",
+        "rv_pct_change",
+        "full_to_part_ratio",
+        "sme_qual_interaction",
+        "log_rv_per_sme"
+      ]
+    },
+    {
+      "status": "accepted",
+      "score": 0.728,
+      "code": "import numpy as np\n\n# 1. Asset Value per Employee: Normalizes business asset value by total employment (capital intensity proxy)\ndf['rv_per_employee'] = df['rv_per_working_age'] / (df['employment_rate'] + 1e-6)\n# Useful for capturing capital intensity and productivity potential per worker.\n\n# 2. SME Density × Qualification Index: Interaction of business vibrancy and workforce skill\ndf['sme_qual_interaction'] = df['sme_density'] * df['qualification_index']\n# Tests if SME vibrancy and skills together boost local value added.\n\n# 3. Employment Quality Index: Combines employment rate and full/part-time structure\ndf['employment_quality'] = df['employment_rate'] * df['full_to_part_ratio']\n# Captures both quantity and quality of employment (stable, full-time jobs).\n\n# 4. Modern Sector Leverage: Share of KIBS × Qualification Index\ndf['modern_sector_leverage'] = df['share_kibs'] * df['qualification_index']\n# Indicates knowledge-sector presence amplified by local skill level.\n\n# 5. Business Asset Growth × Diversity: Interaction of investment momentum and firm size diversity\ndf['asset_growth_diversity'] = df['rv_pct_change'] * df['firm_size_diversity']\n# Areas with both growing asset base and diverse firm sizes may be more resilient and dynamic.\n\n# Keep 5 original features for interpretability and coverage:\nkeep_cols = [\n    'log_voa_rv_2023',       # Scalable proxy for business asset value (log)\n    'rv_per_working_age',    # Asset value per working-age resident\n    'sme_density',           # Business density (SME dynamism)\n    'qualification_index',   # Workforce upskilling (L4+ minus no quals)\n    'firm_size_diversity',   # Firm size diversity (resilience proxy)\n]\n\n# Final feature set (5 engineered + 5 original = 10)\ndf = df[\n    keep_cols +\n    [\n        'rv_per_employee',\n        'sme_qual_interaction',\n        'employment_quality',\n        'modern_sector_leverage',\n        'asset_growth_diversity'\n    ]\n]\n\n# Each new feature is designed to capture key interactions or normalizations relevant to SME, workforce, and asset structure,\n# while controlling total feature count.",
+      "features": [
+        "log_voa_rv_2023",
+        "rv_per_working_age",
+        "sme_density",
+        "qualification_index",
+        "firm_size_diversity",
+        "rv_per_employee",
+        "sme_qual_interaction",
+        "employment_quality",
+        "modern_sector_leverage",
+        "asset_growth_diversity"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.5567,
+      "code": "import numpy as np\n\n# --- Feature Engineering (add new columns) ---\n\n# 1. Capital Intensity Proxy: Asset value per employee\ndf['rv_per_employee'] = df['rv_per_working_age'] / (df['employment_quality'] + 1e-6)\n# Useful for capturing how much business asset value is available per (high quality) worker.\n# High values may indicate greater capital intensity, often linked with higher productivity.\n\n# 2. SME Density × Qualification Index: Interaction effect\ndf['sme_qual_interaction'] = df['sme_density'] * df['qualification_index']\n# Captures whether areas with both high SME density and skilled workforces have outsized economic impact.\n# Useful for identifying places where business vibrancy and human capital reinforce each other.\n\n# 3. Employment Quality: Product of employment rate and full/part-time structure\ndf['employment_quality'] = df['employment_quality']\n# Already engineered: combines employment rate and full/part-time ratio as a proxy for both quantity and stability of jobs.\n# High values suggest both high employment and more full-time jobs.\n\n# 4. Modern Sector Leverage: KIBS share × qualification index\ndf['modern_sector_leverage'] = df['modern_sector_leverage']\n# Already engineered: proxies the extent to which business services and skills interact to drive high value-added activity.\n\n# 5. Business Asset Growth × Diversity: Investment trajectory moderated by firm size diversity\ndf['asset_growth_diversity'] = df['asset_growth_diversity']\n# Already engineered: captures whether areas with both rising asset values and diverse firm sizes are more resilient/growth-oriented.\n\n# --- Feature Selection (drop redundant columns, keep at most 10) ---\n\n# Keep a balanced set: core asset, SME, skill, and firm structure features plus engineered interactions\nfinal_columns = [\n    'log_voa_rv_2023',        # Proxy for local business asset value (log scale)\n    'rv_per_working_age',     # Asset value per working-age resident (normalizes for population structure)\n    'sme_density',            # Local SME density (business vibrancy)\n    'qualification_index',    # Net upskilling (L4+ minus no quals)\n    'firm_size_diversity',    # Firm size diversity (resilience/dynamism)\n    'rv_per_employee',        # Capital intensity proxy (engineered)\n    'sme_qual_interaction',   # SME density × skill interaction (engineered)\n    'employment_quality',     # Employment quality index (engineered)\n    'modern_sector_leverage', # Modern/knowledge sector × skill (engineered)\n    'asset_growth_diversity'  # Asset growth × diversity interaction (engineered)\n]\ndf = df[final_columns]",
+      "features": [
+        "log_voa_rv_2023",
+        "rv_per_working_age",
+        "sme_density",
+        "qualification_index",
+        "firm_size_diversity",
+        "rv_per_employee",
+        "sme_qual_interaction",
+        "employment_quality",
+        "modern_sector_leverage",
+        "asset_growth_diversity"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.5567,
+      "code": "import numpy as np\n\n# 1. Asset Value per Employee: proxy for capital intensity\ndf['rv_per_employee'] = df['rv_per_working_age'] / (df['employment_quality'] + 1e-6)\n# Useful for assessing how much business asset value backs each unit of quality employment.\n\n# 2. SME Density × Qualification Index: tests for combined effect of enterprise vibrancy and skill\ndf['sme_qual_interaction'] = df['sme_density'] * df['qualification_index']\n# Captures whether areas with both more SMEs and higher skills produce more value.\n\n# 3. Employment Quality Index: combines employment rate and full/part-time structure\ndf['employment_quality'] = (df['employment_quality'] if 'employment_quality' in df.columns \n                            else df['employment_rate'] * df['full_to_part_ratio'])\n# Highlights areas with not just more jobs, but better jobs (more full-time).\n\n# 4. Modern Sector Leverage: KIBS presence amplified by skill\ndf['modern_sector_leverage'] = df['modern_sector_leverage'] if 'modern_sector_leverage' in df.columns else df['sme_density'] * df['qualification_index']\n# Proxy for strength of knowledge-intensive sectors in skilled areas.\n\n# 5. Asset Growth × Diversity: areas with both asset growth and diverse firm sizes may be more resilient\ndf['asset_growth_diversity'] = df['asset_growth_diversity'] if 'asset_growth_diversity' in df.columns else df['firm_size_diversity'] * df['rv_per_working_age']\n# Interaction of firm structure and asset per worker.\n\n# Select 5 base features (interpretable, non-redundant)\nbase_features = [\n    'log_voa_rv_2023',      # Log asset value, scale-stable\n    'rv_per_working_age',   # Asset value per working age\n    'sme_density',          # SME density\n    'qualification_index',  # Net skills\n    'firm_size_diversity',  # Enterprise structure\n]\n\n# Final feature set\ndf = df[\n    base_features +\n    [\n        'rv_per_employee',\n        'sme_qual_interaction',\n        'employment_quality',\n        'modern_sector_leverage',\n        'asset_growth_diversity'\n    ]\n]\n# Each new feature captures interaction or normalization of SME, workforce, and asset structure, keeping total features at 10.",
+      "features": [
+        "log_voa_rv_2023",
+        "rv_per_working_age",
+        "sme_density",
+        "qualification_index",
+        "firm_size_diversity",
+        "rv_per_employee",
+        "sme_qual_interaction",
+        "employment_quality",
+        "modern_sector_leverage",
+        "asset_growth_diversity"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.5567,
+      "code": "import numpy as np\n\n# 1. Capital intensity per employee: asset value per employee (proxy for productivity/capital per worker)\ndf['rv_per_employee'] = df['rv_per_working_age'] / (df['employment_quality'] + 1e-6)\n# Useful for isolating areas where business assets are high relative to high-quality employment.\n\n# 2. SME and skills interaction: interaction of SME density and qualification index\ndf['sme_qual_interaction'] = df['sme_density'] * df['qualification_index']\n# Captures locations where both SME vibrancy and workforce skills reinforce each other.\n\n# 3. Asset growth with firm diversity: interaction between asset growth and firm size diversity\ndf['asset_growth_diversity'] = df['asset_growth_diversity']  # Already present, keep as is\n# Shows if areas with both investment momentum and diverse firm structures outperform.\n\n# 4. Modern sector leverage: interaction of modern sector share and workforce skills\ndf['modern_sector_leverage'] = df['modern_sector_leverage']  # Already present, keep as is\n# Determines if knowledge-intensive sectors paired with high skills enhance GVA.\n\n# 5. Employment quality: combines employment rate and full/part ratio (quantity × quality of jobs)\ndf['employment_quality'] = df['employment_quality']  # Already present, keep as is\n# Gives a richer picture of local labour market quality.\n\n# 6. Asset value (log): log of business asset value, reduces skew and scales\ndf['log_voa_rv_2023'] = df['log_voa_rv_2023']\n# Core proxy for business capital base.\n\n# 7. Asset value per working age: total asset value over working-age pop\ndf['rv_per_working_age'] = df['rv_per_working_age']\n# Normalizes asset base by potential workforce.\n\n# 8. SME density: SME units per 1000 residents\ndf['sme_density'] = df['sme_density']\n# Measures local enterprise vibrancy.\n\n# 9. Workforce qualification index\ndf['qualification_index'] = df['qualification_index']\n# A net measure of upskilling.\n\n# 10. Firm size diversity\ndf['firm_size_diversity'] = df['firm_size_diversity']\n# Indicates economic resilience and diversity.\n\n# Final selection: keep only these 10 columns (5 original + 5 engineered)\ndf = df[\n    [\n        'log_voa_rv_2023',\n        'rv_per_working_age',\n        'sme_density',\n        'qualification_index',\n        'firm_size_diversity',\n        'rv_per_employee',\n        'sme_qual_interaction',\n        'employment_quality',\n        'modern_sector_leverage',\n        'asset_growth_diversity'\n    ]\n]",
+      "features": [
+        "log_voa_rv_2023",
+        "rv_per_working_age",
+        "sme_density",
+        "qualification_index",
+        "firm_size_diversity",
+        "rv_per_employee",
+        "sme_qual_interaction",
+        "employment_quality",
+        "modern_sector_leverage",
+        "asset_growth_diversity"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.5567,
+      "code": "import numpy as np\n\n# 1. Capital intensity proxy: Business asset value per employee\ndf['rv_per_employee'] = df['rv_per_working_age'] / (df['employment_quality'] + 1e-6)\n# Useful for capturing how much commercial asset value supports each (full-time-equivalent) worker. Higher could mean more productive or capital-intensive local economy.\n\n# 2. SME vibrancy × workforce skill: Interaction term\ndf['sme_qual_interaction'] = df['sme_density'] * df['qualification_index']\n# Tests whether local areas with both many SMEs and higher workforce skills see especially strong outcomes.\n\n# 3. Employment quality: Combines employment rate and full/part-time ratio\ndf['employment_quality'] = df['employment_quality']\n# Captures not just how many are employed, but the quality (more full-time, more stable jobs).\n\n# 4. Modern sector leverage: Share of KIBS × qualification index\ndf['modern_sector_leverage'] = df['modern_sector_leverage']\n# Captures how much the local skills base amplifies the presence of modern, high-value sectors.\n\n# 5. Business asset growth × diversity: Growth in business asset value times firm size diversity\ndf['asset_growth_diversity'] = df['asset_growth_diversity']\n# Tests if places with both dynamic investment and diverse firm size structure have stronger GVA potential.\n\n# Keep 5 original core features for interpretability and breadth:\nkeep_cols = [\n    'log_voa_rv_2023',       # Scalable proxy for total business asset value (log)\n    'rv_per_working_age',    # Asset value per working-age resident\n    'sme_density',           # SME density (local enterprise vibrancy)\n    'qualification_index',   # Workforce upskilling\n    'firm_size_diversity',   # Diversity of firm size (resiliency proxy)\n]\n\n# Final feature set: 5 original + 5 engineered, total = 10\ndf = df[\n    keep_cols +\n    [\n        'rv_per_employee',\n        'sme_qual_interaction',\n        'employment_quality',\n        'modern_sector_leverage',\n        'asset_growth_diversity'\n    ]\n]",
+      "features": [
+        "log_voa_rv_2023",
+        "rv_per_working_age",
+        "sme_density",
+        "qualification_index",
+        "firm_size_diversity",
+        "rv_per_employee",
+        "sme_qual_interaction",
+        "employment_quality",
+        "modern_sector_leverage",
+        "asset_growth_diversity"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.5567,
+      "code": "import numpy as np\n\n# 1. Asset Value per Employee: Normalizes business asset value by total employment (capital intensity proxy)\ndf['rv_per_employee'] = df['rv_per_working_age'] / (df['employment_quality'] + 1e-6)\n# Captures capital intensity and productivity potential per employed person, particularly factoring in employment quality.\n\n# 2. SME Density × Qualification Index: Interaction effect of business vibrancy and workforce skill\ndf['sme_qual_interaction'] = df['sme_density'] * df['qualification_index']\n# Measures whether areas with both high SME density and skilled workforce have synergistic effects.\n\n# 3. Employment Quality Index: Product of employment rate and full/part-time ratio\ndf['employment_quality'] = df['employment_quality']\n# Captures both the prevalence and stability of employment (full-time bias).\n\n# 4. Modern Sector Leverage: Share of KIBS × Qualification Index\ndf['modern_sector_leverage'] = df['modern_sector_leverage']\n# Indicates whether skilled areas with a strong modern (KIBS) sector have higher value-add potential.\n\n# 5. Business Asset Growth × Diversity: Interaction of investment momentum and firm size diversity\ndf['asset_growth_diversity'] = df['asset_growth_diversity']\n# Areas with both growing asset base and diverse firm sizes may be more resilient and dynamic.\n\n# Keep 5 original features for interpretability and coverage:\nkeep_cols = [\n    'log_voa_rv_2023',       # Log of total commercial asset value\n    'rv_per_working_age',    # Asset value per working-age resident\n    'sme_density',           # Business density (SME dynamism)\n    'qualification_index',   # Workforce upskilling (L4+ minus no quals)\n    'firm_size_diversity',   # Firm size diversity (resilience proxy)\n]\n\n# Final feature set (5 engineered + 5 original = 10)\ndf = df[\n    keep_cols +\n    [\n        'rv_per_employee',\n        'sme_qual_interaction',\n        'employment_quality',\n        'modern_sector_leverage',\n        'asset_growth_diversity'\n    ]\n]\n\n# Each new feature is designed to capture key interactions or normalizations relevant to SME ecosystem, workforce, and asset structure,\n# while keeping total feature count at 10.",
+      "features": [
+        "log_voa_rv_2023",
+        "rv_per_working_age",
+        "sme_density",
+        "qualification_index",
+        "firm_size_diversity",
+        "rv_per_employee",
+        "sme_qual_interaction",
+        "employment_quality",
+        "modern_sector_leverage",
+        "asset_growth_diversity"
+      ]
+    }
+  ]
+}
