@@ -1,0 +1,199 @@
+{
+  "timestamp": "2026-06-18T19:53:52",
+  "model": "gpt-4.1",
+  "target": "log_GVA_2025_predicted",
+  "best_subset": {
+    "cv_r2": 0.7344972651988152,
+    "features": [
+      "log_voa_2023",
+      "rv_growth_pct",
+      "business_diversity",
+      "share_micro_small",
+      "voa_asset_per_worker",
+      "log_enterprise_density",
+      "diverse_asset_per_worker",
+      "high_skill_ratio",
+      "creative_asset",
+      "ft_share"
+    ],
+    "iteration": 4,
+    "oof_metrics": {
+      "MAE": 0.3970662041538067,
+      "RMSE": 0.6400387002276197,
+      "MAPE": 0.11216579458769076,
+      "R2": 0.6870165935176282
+    }
+  },
+  "history": [
+    {
+      "status": "accepted",
+      "score": 0.7286,
+      "code": "import numpy as np\n\n# 1. Log-transform commercial rateable value proxy (helps normalize skew, relates to local business asset value)\ndf['log_voa_2023'] = np.log1p(df['VOA_total_RV_million_2023'])\n\n# 2. Rateable value growth (resilience/proxy for local economic momentum)\ndf['rv_growth_pct'] = df['VOA_total_RV_pct_change']\n\n# 3. Proxy for business asset value per worker (asset intensity, productivity proxy)\ndf['voa_asset_per_worker'] = df['VOA_total_RV_million_2023'] / (df['total_employees'] + 1)\n\n# 4. Share of micro and small enterprises combined (SME-dominated economies may behave differently)\ndf['share_micro_small'] = df['LU_pct_micro_2025_msoa'] + df['LU_pct_small_2025_msoa']\n\n# 5. Local business diversity (higher diversity may buffer shocks, foster innovation)\ndf['business_diversity'] = df['LU_diversity_1-HHI_2025']\n\n# 6. Percent working age (demographic potential for employment/growth)\ndf['pct_working_age'] = df['Pct_Working_Age']\n\n# 7. Share with Level 4+ qualifications (higher skills often drive GVA growth)\ndf['pct_high_skill'] = df['Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy) %']\n\n# 8. Full-to-part-time ratio (structure of local employment, higher full-time may mean higher productivity)\ndf['ft_to_pt_ratio'] = df['full_to_part_ratio']\n\n# 9. Creative & KIBS enterprise share (innovation/knowledge economy proxy, often strongly linked to GVA)\ndf['creative_kibs_share'] = df['share_enterprises_creative_2025_msoa'] + df['share_enterprises_kibs_2025_msoa']\n\n# 10. Enterprises per 1k residents (business density, related to entrepreneurship and local activity)\ndf['enterprise_density'] = df['enterprises_per_1k_residents_2025']\n\n# Drop all other columns to keep only the selected 10 features\ncolumns_to_keep = [\n    'log_voa_2023',\n    'rv_growth_pct',\n    'voa_asset_per_worker',\n    'share_micro_small',\n    'business_diversity',\n    'pct_working_age',\n    'pct_high_skill',\n    'ft_to_pt_ratio',\n    'creative_kibs_share',\n    'enterprise_density'\n]\ndf = df[columns_to_keep]",
+      "features": [
+        "log_voa_2023",
+        "rv_growth_pct",
+        "voa_asset_per_worker",
+        "share_micro_small",
+        "business_diversity",
+        "pct_working_age",
+        "pct_high_skill",
+        "ft_to_pt_ratio",
+        "creative_kibs_share",
+        "enterprise_density"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.6892,
+      "code": "import numpy as np\n\n# 1. Create an interaction feature between business diversity and enterprise density.\n#    Rationale: High diversity in a densely entrepreneurial area may amplify local GVA.\ndf['diversity_x_density'] = df['business_diversity'] * df['enterprise_density']\n\n# 2. Log-transform enterprise density to reduce skew and highlight diminishing returns.\n#    Rationale: A log scale can better capture saturation effects in dense areas.\ndf['log_enterprise_density'] = np.log1p(df['enterprise_density'])\n\n# 3. Ratio of high-skill (%) to working age (%), proxy for \"talent density\".\n#    Rationale: Areas with more skilled people relative to working population may have higher productivity.\ndf['high_skill_to_working_age'] = (df['pct_high_skill'] + 1e-6) / (df['pct_working_age'] + 1e-6)\n\n# 4. Interaction between asset per worker and full-to-part-time ratio.\n#    Rationale: Capital intensity may matter more in areas with more full-time work.\ndf['asset_per_worker_x_ftpt'] = df['voa_asset_per_worker'] * df['ft_to_pt_ratio']\n\n# Now select 6 original features that maximize variety and minimize redundancy:\n# Keep: log_voa_2023, rv_growth_pct, share_micro_small, creative_kibs_share, business_diversity, pct_working_age\n\ncolumns_to_keep = [\n    'log_voa_2023',            # Asset base (transformed)\n    'rv_growth_pct',           # Momentum/resilience\n    'share_micro_small',       # SME prevalence\n    'creative_kibs_share',     # Knowledge/creative economy\n    'business_diversity',      # Diversity (main effect)\n    'pct_working_age',         # Demographic base\n\n    # 4 engineered features for interactions, nonlinearity, and ratios:\n    'diversity_x_density',\n    'log_enterprise_density',\n    'high_skill_to_working_age',\n    'asset_per_worker_x_ftpt'\n]\n\ndf = df[columns_to_keep]",
+      "features": [
+        "log_voa_2023",
+        "rv_growth_pct",
+        "share_micro_small",
+        "creative_kibs_share",
+        "business_diversity",
+        "pct_working_age",
+        "diversity_x_density",
+        "log_enterprise_density",
+        "high_skill_to_working_age",
+        "asset_per_worker_x_ftpt"
+      ]
+    },
+    {
+      "status": "accepted",
+      "score": 0.7335,
+      "code": "import numpy as np\n\n# 1. Log-transform business density for normalization (enterprise_density is often highly skewed)\ndf['log_enterprise_density'] = np.log1p(df['enterprise_density'])\n# Useful for reducing skew, better capturing diminishing returns of density on output.\n\n# 2. Interaction: business asset per worker × business diversity (productive diversity effect)\ndf['diverse_asset_per_worker'] = df['voa_asset_per_worker'] * df['business_diversity']\n# Measures whether asset intensity is magnified in more diverse economies (potential for more productive, resilient local economies).\n\n# 3. Ratio: pct_high_skill to pct_working_age (proportion of working-age population with high skills)\ndf['high_skill_ratio'] = df['pct_high_skill'] / (df['pct_working_age'] * 100 + 1e-6)\n# Adjusts for demographic structure—distinguishes areas with genuinely skilled populations from those simply younger.\n\n# 4. Interaction: creative_kibs_share × log_voa_2023 (creative sector asset-weighted effect)\ndf['creative_asset'] = df['creative_kibs_share'] * df['log_voa_2023']\n# Captures the scale of creative/knowledge enterprises in high-asset localities—may signal innovative, high-value economies.\n\n# 5. Employment structure: full-time share of total employees\ndf['ft_share'] = df['ft_to_pt_ratio'] / (df['ft_to_pt_ratio'] + 1)\n# Converts the ratio to an interpretable share: proportion of employment that is full-time.\n\n# Now select the 5 most interpretable original features to pair with the 5 new ones:\ncolumns_to_keep = [\n    # Original features:\n    'log_voa_2023',            # local business asset value (log)\n    'rv_growth_pct',           # economic momentum/resilience\n    'business_diversity',      # economic structure\n    'share_micro_small',       # SME composition\n    'voa_asset_per_worker',    # asset intensity\n    # Engineered features:\n    'log_enterprise_density',\n    'diverse_asset_per_worker',\n    'high_skill_ratio',\n    'creative_asset',\n    'ft_share'\n]\ndf = df[columns_to_keep]",
+      "features": [
+        "log_voa_2023",
+        "rv_growth_pct",
+        "business_diversity",
+        "share_micro_small",
+        "voa_asset_per_worker",
+        "log_enterprise_density",
+        "diverse_asset_per_worker",
+        "high_skill_ratio",
+        "creative_asset",
+        "ft_share"
+      ]
+    },
+    {
+      "status": "accepted",
+      "score": 0.7345,
+      "code": "import numpy as np\n\n# 1. Log-transform business density to reduce skew and capture diminishing returns\ndf['log_enterprise_density'] = np.log1p(df['log_enterprise_density'])\n# (Already a log, but sometimes a double-log stabilizes extreme outliers further.)\n\n# 2. Asset-weighted business diversity: combines asset intensity and business diversity\ndf['diverse_asset_per_worker'] = df['voa_asset_per_worker'] * df['business_diversity']\n# Useful for capturing whether diverse economies with higher assets per worker are even more productive.\n\n# 3. High-skill share of working age population: adjusts for local age structure\ndf['high_skill_ratio'] = df['high_skill_ratio']\n# (Already ratio: retained for clarity.)\n\n# 4. Creative sector asset effect: interaction of creative/KIBS sector scale with asset value\ndf['creative_asset'] = df['creative_asset']\n# (Already calculated: retained for clarity.)\n\n# 5. Full-time share: interpretable employment structure metric\ndf['ft_share'] = df['ft_share']\n# (Already calculated: retained for clarity.)\n\n# 6. Economic momentum: rateable value growth as local economic resilience proxy\ndf['rv_growth_pct'] = df['rv_growth_pct']\n# (Already present: retained for clarity.)\n\n# 7. Core economic structure: business diversity index\ndf['business_diversity'] = df['business_diversity']\n# (Already present: retained for clarity.)\n\n# 8. SME composition: share of micro and small enterprises\ndf['share_micro_small'] = df['share_micro_small']\n# (Already present: retained for clarity.)\n\n# 9. Asset intensity: business assets per worker\ndf['voa_asset_per_worker'] = df['voa_asset_per_worker']\n# (Already present: retained for clarity.)\n\n# 10. Local asset value (log): overall business asset scale\ndf['log_voa_2023'] = df['log_voa_2023']\n# (Already present: retained for clarity.)\n\n# Now, keep only these 10 features\ndf = df[\n    [\n        'log_voa_2023',\n        'rv_growth_pct',\n        'business_diversity',\n        'share_micro_small',\n        'voa_asset_per_worker',\n        'log_enterprise_density',\n        'diverse_asset_per_worker',\n        'high_skill_ratio',\n        'creative_asset',\n        'ft_share'\n    ]\n]",
+      "features": [
+        "log_voa_2023",
+        "rv_growth_pct",
+        "business_diversity",
+        "share_micro_small",
+        "voa_asset_per_worker",
+        "log_enterprise_density",
+        "diverse_asset_per_worker",
+        "high_skill_ratio",
+        "creative_asset",
+        "ft_share"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.7345,
+      "code": "import numpy as np\n\n# 1. Interaction: business asset per worker × business diversity (productive diversity effect)\ndf['diverse_asset_per_worker'] = df['voa_asset_per_worker'] * df['business_diversity']\n# This feature captures whether local economies with both high asset intensity and high business diversity are especially productive or resilient.\n\n# 2. High-skill share of working age population\ndf['high_skill_ratio'] = df['high_skill_ratio']\n# Retain: already engineered, measures the proportion of working-age population with high skill, adjusting for demographics.\n\n# 3. Creative sector asset effect: interaction of creative/KIBS sector scale with asset value\ndf['creative_asset'] = df['creative_asset']\n# Retain: already engineered, quantifies the scale of creative/knowledge enterprises in asset-rich areas.\n\n# 4. Full-time share: interpretable employment structure metric\ndf['ft_share'] = df['ft_share']\n# Retain: interpretable proxy for employment structure; higher values may be linked to higher productivity.\n\n# 5. Economic momentum: rateable value growth as local economic resilience proxy\ndf['rv_growth_pct'] = df['rv_growth_pct']\n# Retain: proxy for local economic momentum or resilience.\n\n# 6. Core economic structure: business diversity index\ndf['business_diversity'] = df['business_diversity']\n# Retain: measures the variety of local businesses; higher diversity may buffer shocks and foster innovation.\n\n# 7. SME composition: share of micro and small enterprises\ndf['share_micro_small'] = df['share_micro_small']\n# Retain: indicates whether the local business structure is dominated by SMEs, which may affect GVA.\n\n# 8. Asset intensity: business assets per worker\ndf['voa_asset_per_worker'] = df['voa_asset_per_worker']\n# Retain: proxy for capital intensity per employee, often linked to productivity.\n\n# 9. Log-transform of business asset value (scale effect)\ndf['log_voa_2023'] = df['log_voa_2023']\n# Retain: log-transformed total business asset value for normalization and interpretability.\n\n# 10. Log-transform business density to reduce skew and capture diminishing returns\ndf['log_enterprise_density'] = df['log_enterprise_density']\n# Retain: log of enterprise density stabilizes the effect of entrepreneurship on GVA.\n\n# (No further columns to drop, as these are the 10 selected features.)\n\ndf = df[\n    [\n        'log_voa_2023',\n        'rv_growth_pct',\n        'business_diversity',\n        'share_micro_small',\n        'voa_asset_per_worker',\n        'log_enterprise_density',\n        'diverse_asset_per_worker',\n        'high_skill_ratio',\n        'creative_asset',\n        'ft_share'\n    ]\n]",
+      "features": [
+        "log_voa_2023",
+        "rv_growth_pct",
+        "business_diversity",
+        "share_micro_small",
+        "voa_asset_per_worker",
+        "log_enterprise_density",
+        "diverse_asset_per_worker",
+        "high_skill_ratio",
+        "creative_asset",
+        "ft_share"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.7341,
+      "code": "import numpy as np\n\n# 1. Interaction: asset per worker × business diversity (captures productive, resilient local economies)\ndf['diverse_asset_per_worker'] = df['voa_asset_per_worker'] * df['business_diversity']\n# Useful for capturing whether asset intensity combined with diversity boosts local output.\n\n# 2. Double-log transform of enterprise density (reduces skew, emphasizes diminishing returns)\ndf['log_log_enterprise_density'] = np.log1p(df['log_enterprise_density'])\n# Further stabilizes extreme outliers in highly dense areas.\n\n# 3. High-skill share of working-age population (demographic-adjusted skills supply)\ndf['high_skill_ratio'] = df['high_skill_ratio']\n# Retained as is; helps distinguish truly skilled labour pools.\n\n# 4. Creative sector asset effect (innovative sector scale × asset base)\ndf['creative_asset'] = df['creative_asset']\n# Retained as is; signals the size and quality of the creative/knowledge economy.\n\n# 5. Full-time employment share (interpretable employment structure)\ndf['ft_share'] = df['ft_share']\n# Retained as is; higher values often relate to higher productivity.\n\n# 6. Economic momentum: rateable value growth\ndf['rv_growth_pct'] = df['rv_growth_pct']\n# Proxy for resilience and recent economic change.\n\n# 7. Core economic structure: business diversity\ndf['business_diversity'] = df['business_diversity']\n# Economic diversity can buffer shocks and foster innovation.\n\n# 8. SME composition: share of micro and small enterprises\ndf['share_micro_small'] = df['share_micro_small']\n# SME-dominated areas may have different growth and resilience dynamics.\n\n# 9. Asset intensity: business assets per worker\ndf['voa_asset_per_worker'] = df['voa_asset_per_worker']\n# Higher asset intensity often relates to higher productivity.\n\n# 10. Local asset value (log): overall business asset base\ndf['log_voa_2023'] = df['log_voa_2023']\n# Captures overall scale of local business assets.\n\n# Now, keep only these 10 features\ndf = df[\n    [\n        'log_voa_2023',\n        'rv_growth_pct',\n        'business_diversity',\n        'share_micro_small',\n        'voa_asset_per_worker',\n        'log_log_enterprise_density',\n        'diverse_asset_per_worker',\n        'high_skill_ratio',\n        'creative_asset',\n        'ft_share'\n    ]\n]",
+      "features": [
+        "log_voa_2023",
+        "rv_growth_pct",
+        "business_diversity",
+        "share_micro_small",
+        "voa_asset_per_worker",
+        "log_log_enterprise_density",
+        "diverse_asset_per_worker",
+        "high_skill_ratio",
+        "creative_asset",
+        "ft_share"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.7298,
+      "code": "import numpy as np\n\n# 1. Drop 'log_enterprise_density' (redundant with log-enterprise-density idea)\n# 2. Add: log-transform 'voa_asset_per_worker' (normalizes asset intensity, controls for skew)\ndf['log_asset_per_worker'] = np.log1p(df['voa_asset_per_worker'])\n# This helps capture diminishing returns of asset intensity, improving interpretability.\n\n# 3. Add: interaction between 'business_diversity' and 'rv_growth_pct'\ndf['diverse_growth'] = df['business_diversity'] * df['rv_growth_pct']\n# This captures whether resilience (growth) is magnified or dampened by local business diversity.\n\n# 4. Add: SME-weighted asset intensity (share_micro_small × voa_asset_per_worker)\ndf['sme_asset_intensity'] = df['share_micro_small'] * df['voa_asset_per_worker']\n# Measures how much of the local asset base is attributable to micro/small enterprises.\n\n# 5. Add: nonlinear effect of skills – square of 'high_skill_ratio'\ndf['high_skill_ratio_sq'] = df['high_skill_ratio']**2\n# Allows for potential nonlinear (e.g., threshold) effects of high-skill population on GVA.\n\n# 6. Drop 'voa_asset_per_worker' (replaced by log, SME-weighted, and interaction forms)\n# 7. Drop 'business_diversity' (replaced by interactions, log, and more complex forms)\n# 8. Drop 'log_enterprise_density' (redundant with other density/SME features)\n\ncolumns_to_keep = [\n    'log_voa_2023',        # log total business asset value (scale)\n    'rv_growth_pct',       # business asset value growth (resilience)\n    'share_micro_small',   # SME composition\n    'log_asset_per_worker',# log asset intensity per worker (normalized)\n    'diverse_asset_per_worker', # asset intensity × diversity (productive diversity)\n    'high_skill_ratio',    # high-skill share of working-age pop\n    'creative_asset',      # creative industries × asset scale\n    'ft_share',            # full-time employment share\n    'diverse_growth',      # diversity × growth (synergistic resilience)\n    'sme_asset_intensity', # SME share × asset intensity (SME productivity)\n    # 'high_skill_ratio_sq' # (OPTIONAL: swap this in for another, if preferred)\n]\n\n# If you want exactly 10 columns, drop one of the above (e.g., 'diverse_asset_per_worker' or 'high_skill_ratio_sq')\ndf = df[columns_to_keep[:10]]\n\n# The resulting columns are:\n# 1. log_voa_2023\n# 2. rv_growth_pct\n# 3. share_micro_small\n# 4. log_asset_per_worker\n# 5. diverse_asset_per_worker\n# 6. high_skill_ratio\n# 7. creative_asset\n# 8. ft_share\n# 9. diverse_growth\n#10. sme_asset_intensity",
+      "features": [
+        "log_voa_2023",
+        "rv_growth_pct",
+        "share_micro_small",
+        "log_asset_per_worker",
+        "diverse_asset_per_worker",
+        "high_skill_ratio",
+        "creative_asset",
+        "ft_share",
+        "diverse_growth",
+        "sme_asset_intensity"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.7345,
+      "code": "import numpy as np\n\n# 1. Asset-weighted business diversity: combines asset intensity and business diversity\ndf['diverse_asset_per_worker'] = df['voa_asset_per_worker'] * df['business_diversity']\n# Useful for capturing whether diverse economies with higher assets per worker are even more productive.\n\n# 2. High-skill share of working age population: adjusts for local age structure\ndf['high_skill_ratio'] = df['high_skill_ratio']\n# (Already a ratio: retained for clarity and interpretability.)\n\n# 3. Creative sector asset effect: interaction of creative/KIBS sector scale with asset value\ndf['creative_asset'] = df['creative_asset']\n# (Already calculated: retained for clarity.)\n\n# 4. Full-time share: interpretable employment structure metric\ndf['ft_share'] = df['ft_share']\n# (Already calculated: retained for clarity.)\n\n# 5. Log-transform business density to reduce skew and capture diminishing returns\ndf['log_enterprise_density'] = np.log1p(np.expm1(df['log_enterprise_density']))\n# If already log-transformed, this reconstructs and re-logs for stability.\n\n# Keep core interpretable original features:\ncolumns_to_keep = [\n    'log_voa_2023',            # local business asset value (log)\n    'rv_growth_pct',           # economic momentum/resilience\n    'business_diversity',      # economic structure\n    'share_micro_small',       # SME composition\n    'voa_asset_per_worker',    # asset intensity\n    'log_enterprise_density',  # normalized business density\n    'diverse_asset_per_worker',\n    'high_skill_ratio',\n    'creative_asset',\n    'ft_share'\n]\ndf = df[columns_to_keep]",
+      "features": [
+        "log_voa_2023",
+        "rv_growth_pct",
+        "business_diversity",
+        "share_micro_small",
+        "voa_asset_per_worker",
+        "log_enterprise_density",
+        "diverse_asset_per_worker",
+        "high_skill_ratio",
+        "creative_asset",
+        "ft_share"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.7155,
+      "code": "import numpy as np\n\n# 1. Economic momentum: Rateable value growth as resilience proxy (already in df)\n#    'rv_growth_pct' is useful for capturing recent trajectory in local asset value.\n\n# 2. SME composition: Share of micro and small enterprises (already in df)\n#    'share_micro_small' reflects dominance of small firms, relevant for GVA structure.\n\n# 3. Business diversity: Economic structure proxy (already in df)\n#    'business_diversity' (1-HHI) can buffer shocks and foster innovation.\n\n# 4. Asset intensity: Business asset value per worker (already in df)\n#    'voa_asset_per_worker' proxies capital deepening/productivity.\n\n# 5. Log enterprise density: Normalized business density (already in df)\n#    'log_enterprise_density' reflects entrepreneurship and local activity.\n\n# 6. High-skill ratio: Proportion of working-age population with high skills (already in df)\n#    'high_skill_ratio' adjusts for demographics, capturing true local skill advantage.\n\n# 7. Creative sector asset effect: Asset scale × creative/KIBS share (already in df)\n#    'creative_asset' signals innovative, high-value economies.\n\n# 8. Full-time employment share (interpreted from ratio, already in df)\n#    'ft_share' proxies employment structure and productivity potential.\n\n# 9. Diverse asset per worker: Asset per worker × business diversity (already in df)\n#    'diverse_asset_per_worker' measures whether asset intensity is magnified in diverse economies.\n\n# 10. Composite productivity proxy: Multiply log_voa_2023 by high_skill_ratio\ndf['asset_skill_interaction'] = df['log_voa_2023'] * df['high_skill_ratio']\n#    This feature captures the interaction between local business asset scale and concentration of high-skill workers,\n#    which may jointly drive higher value creation.\n\n# Drop one original feature to keep total at 10 (drop 'log_voa_2023', since its effect is now captured in the interaction)\ndf = df.drop(columns=['log_voa_2023'])\n\n# Keep only the 10 selected features\ndf = df[\n    [\n        'rv_growth_pct',              # 1\n        'business_diversity',         # 2\n        'share_micro_small',          # 3\n        'voa_asset_per_worker',       # 4\n        'log_enterprise_density',     # 5\n        'diverse_asset_per_worker',   # 6\n        'high_skill_ratio',           # 7\n        'creative_asset',             # 8\n        'ft_share',                   # 9\n        'asset_skill_interaction'     # 10 (new)\n    ]\n]",
+      "features": [
+        "rv_growth_pct",
+        "business_diversity",
+        "share_micro_small",
+        "voa_asset_per_worker",
+        "log_enterprise_density",
+        "diverse_asset_per_worker",
+        "high_skill_ratio",
+        "creative_asset",
+        "ft_share",
+        "asset_skill_interaction"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.7345,
+      "code": "import numpy as np\n\n# 1. Economic momentum: rateable value growth as local economic resilience proxy\n# Already present as 'rv_growth_pct'\n\n# 2. Core economic structure: business diversity index (higher is more diverse)\n# Already present as 'business_diversity'\n\n# 3. SME composition: share of micro and small enterprises\n# Already present as 'share_micro_small'\n\n# 4. Asset intensity: business assets per worker (proxy for local productivity potential)\n# Already present as 'voa_asset_per_worker'\n\n# 5. Log-transform of asset value for normalization (diminishing returns, skewed distribution)\n# Already present as 'log_voa_2023'\n\n# 6. Log-transform of enterprise density: captures scale/density of business activity with reduced skew\ndf['log_enterprise_density'] = np.log1p(np.expm1(df['log_enterprise_density']))\n# (If already log, this restores then log1p again, but safe; or just: df['log_enterprise_density'] = df['log_enterprise_density'])\n\n# 7. Asset-weighted business diversity: captures effect of diverse, asset-rich economies\ndf['diverse_asset_per_worker'] = df['voa_asset_per_worker'] * df['business_diversity']\n\n# 8. High-skill share of working age population: ratio adjusts for age structure\n# Already engineered as 'high_skill_ratio'\n\n# 9. Creative sector asset effect: interaction of creative/KIBS sector scale with asset value\n# Already engineered as 'creative_asset'\n\n# 10. Full-time share: interpretable employment structure metric (from ft_to_pt_ratio)\n# Already engineered as 'ft_share'\n\n# Select the final 10 features\ndf = df[\n    [\n        'log_voa_2023',            # Business asset value (log)\n        'rv_growth_pct',           # Economic momentum/resilience\n        'business_diversity',      # Economic structure\n        'share_micro_small',       # SME composition\n        'voa_asset_per_worker',    # Asset intensity\n        'log_enterprise_density',  # Business density (log)\n        'diverse_asset_per_worker',# Productive diversity effect\n        'high_skill_ratio',        # Skilled working-age ratio\n        'creative_asset',          # Creative/KIBS sector asset-weighted effect\n        'ft_share'                 # Full-time employment share\n    ]\n]",
+      "features": [
+        "log_voa_2023",
+        "rv_growth_pct",
+        "business_diversity",
+        "share_micro_small",
+        "voa_asset_per_worker",
+        "log_enterprise_density",
+        "diverse_asset_per_worker",
+        "high_skill_ratio",
+        "creative_asset",
+        "ft_share"
+      ]
+    }
+  ]
+}

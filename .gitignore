@@ -1,0 +1,13 @@
+# Environment / secrets
+.env
+*.env
+!*.env.example
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Internal working docs (methods + report outlines, not for commit)
+0-application methods/
+1-report outline/

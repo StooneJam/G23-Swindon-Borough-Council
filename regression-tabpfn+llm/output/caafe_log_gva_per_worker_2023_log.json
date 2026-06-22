@@ -1,0 +1,183 @@
+{
+  "timestamp": "2026-06-18T19:51:27",
+  "model": "gpt-4.1",
+  "target": "log_gva_per_worker_2023",
+  "best_subset": {
+    "cv_r2": 0.305374865792332,
+    "features": [
+      "asset_value_per_worker",
+      "log_median_hereditament_value",
+      "real_asset_value_growth",
+      "working_age_share",
+      "pct_level4plus",
+      "employment_to_pop",
+      "full_time_share",
+      "sme_share",
+      "enterprise_density",
+      "sector_diversity"
+    ],
+    "iteration": 1,
+    "oof_metrics": {
+      "MAE": 0.3828193527860697,
+      "RMSE": 0.6295842252122565,
+      "MAPE": 0.03358031730171898,
+      "R2": 0.26201957729077796
+    }
+  },
+  "history": [
+    {
+      "status": "accepted",
+      "score": 0.3054,
+      "code": "import numpy as np\n\n# 1. Asset value per worker: proxy for capital intensity/productivity\ndf['asset_value_per_worker'] = df['VOA_total_RV_million_2023'] * 1e6 / (df['total_employees'] + 1)\n# 2. Median hereditament value: reflects business property value (proxy for sector mix, capital)\ndf['log_median_hereditament_value'] = np.log1p(df['VOA_median_RV_thousand_2023'] * 1e3)\n# 3. Change in commercial asset value: growth/decline proxy, forward-looking\ndf['real_asset_value_growth'] = df['VOA_total_RV_pct_change']\n# 4. Share of working age: labor force composition\ndf['working_age_share'] = df['Pct_Working_Age']\n# 5. High-skill human capital: captures workforce skills\ndf['pct_level4plus'] = df['Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy) %']\n# 6. Employment rate: utilization of local labor supply\ndf['employment_to_pop'] = df['employment_rate_per_pop']\n# 7. Full-time share: labor intensity/quality\ndf['full_time_share'] = df['full_time_employees'] / (df['total_employees'] + 1)\n# 8. SME composition: proportion of micro and small businesses (dynamism, innovation)\ndf['sme_share'] = df['LU_pct_micro_2025_msoa'] + df['LU_pct_small_2025_msoa']\n# 9. Enterprise density: businesses per 1,000 residents (local dynamism)\ndf['enterprise_density'] = df['enterprises_per_1k_residents_2025']\n# 10. Sectoral diversity: business structure resilience proxy\ndf['sector_diversity'] = df['LU_diversity_1-HHI_2025']\n\n# Keep only the engineered features (max 10)\ndf = df[['asset_value_per_worker',\n         'log_median_hereditament_value',\n         'real_asset_value_growth',\n         'working_age_share',\n         'pct_level4plus',\n         'employment_to_pop',\n         'full_time_share',\n         'sme_share',\n         'enterprise_density',\n         'sector_diversity']]",
+      "features": [
+        "asset_value_per_worker",
+        "log_median_hereditament_value",
+        "real_asset_value_growth",
+        "working_age_share",
+        "pct_level4plus",
+        "employment_to_pop",
+        "full_time_share",
+        "sme_share",
+        "enterprise_density",
+        "sector_diversity"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.2887,
+      "code": "import numpy as np\n\n# 1. Capital intensity proxy: log asset value per worker (stabilizes skew, proxies capital per worker)\ndf['log_asset_value_per_worker'] = np.log1p(df['asset_value_per_worker'])\n\n# 2. Interaction of skills and SME share: high skills in SME-dominated areas may drive productivity\ndf['skills_x_sme'] = df['pct_level4plus'] * df['sme_share']\n\n# 3. Enterprise density per working-age population: proxies entrepreneurial environment, normalized\ndf['enterprise_density_per_working_age'] = df['enterprise_density'] / (df['working_age_share'] + 1e-5)\n\n# 4. Full-time to employment ratio: quality of jobs relative to employment rate\ndf['full_time_to_employment'] = df['full_time_share'] / (df['employment_to_pop'] + 1e-5)\n\n# 5. Log median hereditament value: reflects local business property values (already log transformed)\n# Already present as 'log_median_hereditament_value'\n\n# 6. Real asset value growth: forward-looking capital trend\n# Already present as 'real_asset_value_growth'\n\n# 7. Sectoral diversity: resilience to sector-specific shocks\n# Already present as 'sector_diversity'\n\n# 8. SME share: composition of enterprise landscape\n# Already present as 'sme_share'\n\n# 9. Employment to pop: labor market utilization\n# Already present as 'employment_to_pop'\n\n# 10. Working age share: labor force composition\n# Already present as 'working_age_share'\n\n# Drop less informative or redundant features to keep total at 10\ndf = df[[\n    'log_asset_value_per_worker',            # 1. Log capital per worker\n    'skills_x_sme',                         # 2. Interaction: high skills in SME areas\n    'enterprise_density_per_working_age',    # 3. Normalized entrepreneurial density\n    'full_time_to_employment',               # 4. FT/PT balance adjusted for overall employment\n    'log_median_hereditament_value',         # 5. Commercial property value (log)\n    'real_asset_value_growth',               # 6. Forward-looking capital growth\n    'sector_diversity',                      # 7. Enterprise sector diversity\n    'sme_share',                             # 8. Proportion of SMEs\n    'employment_to_pop',                     # 9. Employment rate\n    'working_age_share'                      # 10. Labor force share\n]]",
+      "features": [
+        "log_asset_value_per_worker",
+        "skills_x_sme",
+        "enterprise_density_per_working_age",
+        "full_time_to_employment",
+        "log_median_hereditament_value",
+        "real_asset_value_growth",
+        "sector_diversity",
+        "sme_share",
+        "employment_to_pop",
+        "working_age_share"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.3013,
+      "code": "import numpy as np\n\n# 1. Capital per worker: proxy for local capital intensity and productivity\n# Already in df as 'asset_value_per_worker'\n\n# 2. Log median hereditament value: scale normalization, proxies capital/sector mix\n# Already in df as 'log_median_hereditament_value'\n\n# 3. Real commercial asset value growth: forward-looking economic momentum/resilience\n# Already in df as 'real_asset_value_growth'\n\n# 4. Share of working age: labor supply composition\n# Already in df as 'working_age_share'\n\n# 5. Share with degree-level or higher qualifications: high-skill human capital\n# Already in df as 'pct_level4plus'\n\n# 6. Employment-to-population ratio: labor market engagement\n# Already in df as 'employment_to_pop'\n\n# 7. Full-time employment share: labor quality/structure\n# Already in df as 'full_time_share'\n\n# 8. SME share: business structure, innovation environment\n# Already in df as 'sme_share'\n\n# 9. Enterprise density: business dynamism/competition\n# Already in df as 'enterprise_density'\n\n# 10. Economic complexity proxy: combine sector diversity and enterprise density\n# New feature: product of sector diversity and enterprise density\ndf['complexity_density'] = df['sector_diversity'] * df['enterprise_density']\n# Rationale: Areas with both diverse sectors and many enterprises may be more resilient and dynamic.\n\n# Drop 'sector_diversity' to maintain 10 columns (since 'complexity_density' uses it)\ndf.drop(columns=['sector_diversity'], inplace=True)\n\n# Final set of features (10):\n# asset_value_per_worker, log_median_hereditament_value, real_asset_value_growth,\n# working_age_share, pct_level4plus, employment_to_pop, full_time_share,\n# sme_share, enterprise_density, complexity_density\n\ndf = df[['asset_value_per_worker',\n         'log_median_hereditament_value',\n         'real_asset_value_growth',\n         'working_age_share',\n         'pct_level4plus',\n         'employment_to_pop',\n         'full_time_share',\n         'sme_share',\n         'enterprise_density',\n         'complexity_density']]",
+      "features": [
+        "asset_value_per_worker",
+        "log_median_hereditament_value",
+        "real_asset_value_growth",
+        "working_age_share",
+        "pct_level4plus",
+        "employment_to_pop",
+        "full_time_share",
+        "sme_share",
+        "enterprise_density",
+        "complexity_density"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.2776,
+      "code": "import numpy as np\n\n# 1. Capital intensity: Log asset value per worker (robust to skew)\ndf['log_asset_value_per_worker'] = np.log1p(df['asset_value_per_worker'])\n# Useful as a proxy for capital deepening, which can drive GVA per worker.\n\n# 2. Interaction: Asset value growth × sector diversity (places with both growth & diversity may be especially resilient)\ndf['growth_diversity_interaction'] = df['real_asset_value_growth'] * df['sector_diversity']\n# Captures where both commercial property values are rising and the business base is diverse.\n\n# 3. SME share × enterprise density (entrepreneurial dynamism, not just prevalence)\ndf['sme_density_interaction'] = df['sme_share'] * df['enterprise_density']\n# High SME density may indicate vibrant, competitive local economies.\n\n# 4. High-skill employment: pct_level4plus × employment_to_pop\ndf['skill_utilization'] = df['pct_level4plus'] * df['employment_to_pop']\n# Reflects not just qualifications, but their deployment in the workforce.\n\n# 5. Full-time employment share (labor market quality)\n# Already in df; keep as is.\n\n# 6. Sector diversity (business structure resilience)\n# Already in df; keep as is.\n\n# 7. Working age share (demographic labor force supply)\n# Already in df; keep as is.\n\n# Drop original features now encapsulated by new ones or redundant:\ndf.drop(columns=[\n    'asset_value_per_worker',          # replaced by log form\n    'real_asset_value_growth',         # captured in interaction\n    'sme_share',                       # captured in interaction\n    'enterprise_density',              # captured in interaction\n    'pct_level4plus',                  # used in interaction\n    'employment_to_pop'                # used in interaction\n], inplace=True)\n\n# Keep only 10 features (original + new) focused on theory and correlation:\ndf = df[[\n    'log_asset_value_per_worker',      # 1\n    'log_median_hereditament_value',   # 2\n    'growth_diversity_interaction',    # 3\n    'sme_density_interaction',         # 4\n    'skill_utilization',               # 5\n    'full_time_share',                 # 6\n    'sector_diversity',                # 7\n    'working_age_share',               # 8\n    # Retain two additional most theory-relevant/least correlated features:\n    # Here, keep employment_to_pop and pct_level4plus out since encapsulated.\n    # Add enterprise_density and real_asset_value_growth if not already included.\n    # But both are covered in interactions. So instead, keep 'employment_to_pop' and 'pct_level4plus' if you want 10 features:\n    # But if not, the above 8 are the main features.\n]]\n\n# If you want to pad to 10, add back two most relevant single features (not covered in interactions):\n# Uncomment below if you want strictly 10 features:\n# df['employment_to_pop'] = df['employment_to_pop']\n# df['pct_level4plus'] = df['pct_level4plus']",
+      "features": [
+        "log_asset_value_per_worker",
+        "log_median_hereditament_value",
+        "growth_diversity_interaction",
+        "sme_density_interaction",
+        "skill_utilization",
+        "full_time_share",
+        "sector_diversity",
+        "working_age_share"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.3051,
+      "code": "import numpy as np\n\n# 1. Capital intensity per worker: already present as asset_value_per_worker\n# 2. Log median hereditament value: proxy for property/business mix\n# 3. Real asset value growth: forward-looking indicator\n# 4. Share of working age: local labor supply\n# 5. High-skill share: human capital\n# 6. Employment-to-population ratio: labor utilization\n# 7. Full-time share: labor quality/composition\n# 8. SME share: proxy for business structure and dynamism\n# 9. Enterprise density: business dynamism\n# 10. Sector diversity: economic resilience\n\n# --- Feature Engineering and Improvements: ---\n\n# A. Interaction: Capital intensity × High-skill share\n#    Rationale: Returns to capital may depend on local skills.\ndf['capital_skill_interaction'] = df['asset_value_per_worker'] * df['pct_level4plus']\n\n# B. Nonlinear effect: Log of enterprise density (saturates at high values)\n#    Rationale: Diminishing returns to business density on GVA.\ndf['log_enterprise_density'] = np.log1p(df['enterprise_density'])\n\n# C. SME-to-enterprise density ratio: Are areas with many SMEs crowded or sparse?\n#    Rationale: Controls for context of SME prevalence.\ndf['sme_density_ratio'] = df['sme_share'] / (df['enterprise_density'] + 1)\n\n# --- Feature Selection (choose best 10, remove redundancy): ---\n\nkeep_cols = [\n    'asset_value_per_worker',              # capital intensity\n    'real_asset_value_growth',             # forward-looking asset change\n    'working_age_share',                   # labor supply\n    'pct_level4plus',                      # skills\n    'employment_to_pop',                   # labor utilization\n    'full_time_share',                     # job quality\n    'sector_diversity',                    # economic resilience\n    'capital_skill_interaction',           # interaction effect\n    'log_enterprise_density',              # nonlinear density\n    'sme_density_ratio'                    # SME context\n]\n\ndf = df[keep_cols]\n\n# Comments:\n# - Dropped 'log_median_hereditament_value', 'sme_share', 'enterprise_density' to avoid redundancy with engineered features.\n# - New features capture interactions and nonlinearities in economic structure, skills, and local business context.",
+      "features": [
+        "asset_value_per_worker",
+        "real_asset_value_growth",
+        "working_age_share",
+        "pct_level4plus",
+        "employment_to_pop",
+        "full_time_share",
+        "sector_diversity",
+        "capital_skill_interaction",
+        "log_enterprise_density",
+        "sme_density_ratio"
+      ]
+    },
+    {
+      "status": "error",
+      "score": null,
+      "code": "import numpy as np\n\n# 1. Capital intensity per worker (proxy for productivity)\ndf['log_asset_value_per_worker'] = np.log1p(df['asset_value_per_worker'])\n# Why: Diminishing returns and skewness in asset value; log transform improves modeling and comparability.\n\n# 2. Human capital 'index': Combine share with Level 4+ and full-time share (interaction)\ndf['human_capital_ft'] = df['pct_level4plus'] * df['full_time_share']\n# Why: Areas with higher skill levels AND more full-time work likely have higher productivity.\n\n# 3. SME density: SMEs per 100 workers\ndf['sme_density'] = df['sme_share'] * df['enterprise_density'] / (df['employment_to_pop'] + 1e-4)\n# Why: Adjusts for workforce size, emphasizing SME 'intensity' in local economy.\n\n# 4. Redundant: Drop 'asset_value_per_worker', 'enterprise_density', 'sme_share', 'full_time_share', and 'pct_level4plus'\n# (as they are now incorporated in above features)\n\n# 5. Sector resilience index: sectoral diversity * real asset value growth\ndf['sector_resilience'] = df['sector_diversity'] * df['real_asset_value_growth']\n# Why: High sectoral diversity + strong asset growth = resilient, future-proof economic mix.\n\n# 6. Employment intensity: employment/pop * working age share\ndf['employment_intensity'] = df['employment_to_pop'] * df['working_age_share']\n# Why: Measures labor market utilization among prime working-age group.\n\n# 7. Drop 'employment_to_pop' and 'working_age_share' (now combined above).\n\n# 8. Keep log_median_hereditament_value (business property value proxy)\n# 9. Keep real_asset_value_growth (economic momentum/prospect)\n# 10. Keep sector_diversity (structural diversification)\n\n# Final columns to keep (total 10)\ndf = df[\n    [\n        'log_asset_value_per_worker',      # 1\n        'log_median_hereditament_value',   # 2\n        'real_asset_value_growth',         # 3\n        'sector_diversity',                # 4\n        'sector_resilience',               # 5\n        'human_capital_ft',                # 6\n        'sme_density',                     # 7\n        'employment_intensity',            # 8\n    ]\n]\n\n# Optionally, if you want 10 features, keep two more original, e.g.:\ndf['original_sme_share'] = df['sme_share']\ndf['original_enterprise_density'] = df['enterprise_density']\ndf = df[\n    [\n        'log_asset_value_per_worker',\n        'log_median_hereditament_value',\n        'real_asset_value_growth',\n        'sector_diversity',\n        'sector_resilience',\n        'human_capital_ft',\n        'sme_density',\n        'employment_intensity',\n        'original_sme_share',\n        'original_enterprise_density'\n    ]\n]\n\n# All columns are unique, interpretable, and within the 10-feature limit.",
+      "features": null
+    },
+    {
+      "status": "rejected",
+      "score": 0.3054,
+      "code": "import numpy as np\n\n# 1. Asset value per worker: proxy for capital intensity/productivity\n# Already present\n\n# 2. Log median hereditament value: reflects business property value (proxy for sector mix, capital)\n# Already present\n\n# 3. Change in commercial asset value: growth/decline proxy, forward-looking\n# Already present\n\n# 4. Share of working age: labor force composition\n# Already present\n\n# 5. High-skill human capital: captures workforce skills\n# Already present\n\n# 6. Employment rate: utilization of local labor supply\n# Already present\n\n# 7. Full-time share: labor intensity/quality\n# Already present\n\n# 8. SME composition: Use existing 'sme_share' feature (share of micro+small business units)\n# Already present\n\n# 9. Enterprise density: businesses per 1,000 residents (local dynamism)\n# Already present\n\n# 10. Sectoral diversity: business structure resilience proxy\n# Already present\n\n# The error was likely caused by dropping or not creating 'sme_share' properly, but based on your column listing, it already exists.\n# So, just keep the relevant columns.\n\ndf = df[[\n    'asset_value_per_worker',           # 1\n    'log_median_hereditament_value',    # 2\n    'real_asset_value_growth',          # 3\n    'working_age_share',                # 4\n    'pct_level4plus',                   # 5\n    'employment_to_pop',                # 6\n    'full_time_share',                  # 7\n    'sme_share',                        # 8\n    'enterprise_density',               # 9\n    'sector_diversity'                  # 10\n]]",
+      "features": [
+        "asset_value_per_worker",
+        "log_median_hereditament_value",
+        "real_asset_value_growth",
+        "working_age_share",
+        "pct_level4plus",
+        "employment_to_pop",
+        "full_time_share",
+        "sme_share",
+        "enterprise_density",
+        "sector_diversity"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.2723,
+      "code": "import numpy as np\n\n# 1. Capital intensity: asset value per worker (proxy for capital productivity)\n# Already present as 'asset_value_per_worker'\n\n# 2. Median hereditament value (log): property value proxies sector/capital structure\n# Already present as 'log_median_hereditament_value'\n\n# 3. Real asset value growth: forward-looking local business strength\n# Already present as 'real_asset_value_growth'\n\n# 4. Working-age share: labor force composition\n# Already present as 'working_age_share'\n\n# 5. Share with Level 4+ qualifications: high-skill labor supply\n# Already present as 'pct_level4plus'\n\n# 6. Employment rate: labor utilization\n# Already present as 'employment_to_pop'\n\n# 7. Full-time share: labor quality/intensity\n# Already present as 'full_time_share'\n\n# 8. SME share: sum of micro + small enterprise shares (business structure/dynamism)\n# Already present as 'sme_share'\n\n# 9. Enterprise density: businesses per 1,000 residents (local dynamism)\n# Already present as 'enterprise_density'\n\n# 10. Sector diversity: inverse HHI, economic resilience proxy\n# Already present as 'sector_diversity'\n\n# Improve: Add feature interaction for human capital and enterprise density\n# (areas with both high skills and high firm density may be especially productive)\ndf['skill_density_interaction'] = df['pct_level4plus'] * df['enterprise_density']\n# Useful for capturing nonlinear effects of \"smart density\"\n\n# Drop one less-informative feature to stay at 10 columns; drop 'full_time_share' (can be correlated with employment_to_pop)\ndf.drop(columns=['full_time_share'], inplace=True)\n\n# Final feature set (10 features)\ndf = df[['asset_value_per_worker',\n         'log_median_hereditament_value',\n         'real_asset_value_growth',\n         'working_age_share',\n         'pct_level4plus',\n         'employment_to_pop',\n         'sme_share',\n         'enterprise_density',\n         'sector_diversity',\n         'skill_density_interaction']]",
+      "features": [
+        "asset_value_per_worker",
+        "log_median_hereditament_value",
+        "real_asset_value_growth",
+        "working_age_share",
+        "pct_level4plus",
+        "employment_to_pop",
+        "sme_share",
+        "enterprise_density",
+        "sector_diversity",
+        "skill_density_interaction"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.3054,
+      "code": "import numpy as np\n\n# --- Feature Engineering for Local GVA Prediction ---\n\n# 1. Asset value per worker (proxy for local capital intensity)\n#    Useful as capital per worker is a classic predictor of productivity.\n#    Already present, keep as is.\n\n# 2. Log median hereditament value (log of property value per business unit)\n#    Captures property market value, proxying capital quality and sector mix.\n#    Already present, keep as is.\n\n# 3. Real asset value growth (percent change in total asset value 2023–2026)\n#    Signals forward-looking local business dynamism or decline.\n#    Already present, keep as is.\n\n# 4. Working age population share\n#    Higher share implies greater labor pool and possible productivity effects.\n#    Already present, keep as is.\n\n# 5. Share of population with Level 4+ qualifications\n#    Proxy for high-skilled labor pool.\n#    Already present, keep as is.\n\n# 6. Employment-to-population ratio\n#    Indicates labor market utilization.\n#    Already present, keep as is.\n\n# 7. Full-time employment share\n#    Higher share suggests more stable, higher-productivity jobs.\n#    Already present, keep as is.\n\n# 8. SME share (micro + small local units)\n#    Proxy for local business dynamism, innovation, and resilience.\n#    Already present, keep as is.\n\n# 9. Enterprise density (enterprises per population)\n#    Reflects local business vibrancy and competition.\n#    Already present, keep as is.\n\n# 10. Sector diversity (1-HHI, higher = more diverse)\n#     Economic resilience: more diverse economies are less vulnerable to shocks.\n#     Already present, keep as is.\n\n# -- Optional: Feature improvements or interactions --\n# Example: Asset value growth per worker (dynamic capital intensity)\n# Skipped for now to keep exactly 10 features as instructed.\n\n# -- Final feature set --\n\n# No changes needed; all 10 features are well-justified and non-redundant.\n# If you wish to further improve, consider interaction terms or log transforms,\n# but that would require dropping existing ones to stay within the 10-feature limit.\n\n# Ensure only the 10 selected columns are kept:\ndf = df[['asset_value_per_worker',\n         'log_median_hereditament_value',\n         'real_asset_value_growth',\n         'working_age_share',\n         'pct_level4plus',\n         'employment_to_pop',\n         'full_time_share',\n         'sme_share',\n         'enterprise_density',\n         'sector_diversity']]",
+      "features": [
+        "asset_value_per_worker",
+        "log_median_hereditament_value",
+        "real_asset_value_growth",
+        "working_age_share",
+        "pct_level4plus",
+        "employment_to_pop",
+        "full_time_share",
+        "sme_share",
+        "enterprise_density",
+        "sector_diversity"
+      ]
+    },
+    {
+      "status": "rejected",
+      "score": 0.2894,
+      "code": "import numpy as np\n\n# 1. Capital intensity: log of asset value per worker (diminishing returns, reduces skew)\ndf['log_asset_value_per_worker'] = np.log1p(df['asset_value_per_worker'])\n# Useful as a proxy for capital intensity per worker, which is often linked to productivity.\n\n# 2. Human capital & skill interaction: combine pct_level4plus and working_age_share\ndf['skill_workforce_index'] = df['pct_level4plus'] * df['working_age_share']\n# Captures areas with both high skill levels and a large working age population.\n\n# 3. SME composition × sectoral diversity: possible resilience/innovation effect\ndf['sme_diversity_interaction'] = df['sme_share'] * df['sector_diversity']\n# High SME share in diverse economies may boost adaptability and aggregate value.\n\n# 4. Full-time employment intensity: full_time_share × employment_to_pop\ndf['ft_employment_intensity'] = df['full_time_share'] * df['employment_to_pop']\n# Indicates areas with high full-time employment rate relative to population, proxy for stable jobs.\n\n# 5. Real asset value growth (retain original): forward indicator of local economic momentum\n# Already in df as 'real_asset_value_growth'\n\n# 6. Enterprise density (retain original): proxy for local business dynamism\n# Already in df as 'enterprise_density'\n\n# 7. Sectoral diversity (retain original): business structure resilience proxy\n# Already in df as 'sector_diversity'\n\n# 8. Log of median hereditament value (retain original): proxy for property value/business mix\n# Already in df as 'log_median_hereditament_value'\n\n# Drop the original columns that are now combined via interactions or transformed:\ndrop_cols = [\n    'asset_value_per_worker',    # replaced by log_asset_value_per_worker\n    'pct_level4plus',            # now in skill_workforce_index\n    'working_age_share',         # now in skill_workforce_index\n    'sme_share',                 # now in sme_diversity_interaction\n    'sector_diversity',          # keep as base and in interaction\n    'full_time_share',           # now in ft_employment_intensity\n    'employment_to_pop'          # now in ft_employment_intensity\n]\nkeep_cols = [\n    'log_asset_value_per_worker',\n    'skill_workforce_index',\n    'sme_diversity_interaction',\n    'ft_employment_intensity',\n    'real_asset_value_growth',\n    'enterprise_density',\n    'sector_diversity',\n    'log_median_hereditament_value'\n]\ndf.drop(columns=[col for col in drop_cols if col in df.columns], inplace=True)\ndf = df[[col for col in keep_cols if col in df.columns]]\n\n# At this point, df has 8 features: all engineered or transformed for interpretability and non-redundancy.",
+      "features": [
+        "log_asset_value_per_worker",
+        "skill_workforce_index",
+        "sme_diversity_interaction",
+        "ft_employment_intensity",
+        "real_asset_value_growth",
+        "enterprise_density",
+        "log_median_hereditament_value"
+      ]
+    }
+  ]
+}
