@@ -1,0 +1,93 @@
+@book{wooldridge2016introductory,
+  title={Introductory Econometrics: A Modern Approach},
+  author={Wooldridge, Jeffrey M},
+  edition={6th},
+  year={2016},
+  publisher={Cengage Learning},
+  address={Boston, MA}
+}
+
+@incollection{combes2015empirics,
+  title={The Empirics of Agglomeration Economies},
+  author={Combes, Pierre-Philippe and Gobillon, Laurent},
+  booktitle={Handbook of Regional and Urban Economics},
+  volume={5},
+  pages={247--348},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@book{pearl2018book,
+  title={The Book of Why: The New Science of Cause and Effect},
+  author={Pearl, Judea and Mackenzie, Dana},
+  year={2018},
+  publisher={Basic Books}
+}
+
+@article{grinsztajn2022why,
+  title={Why do tree-based models still outperform deep learning on typical tabular data?},
+  author={Grinsztajn, L{\'e}o and Oyallon, Edouard and Varoquaux, Ga{\"e}l},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={507--520},
+  year={2022}
+}
+
+@article{hollmann2025accurate,
+  title={Accurate predictions on small data with a tabular foundation model},
+  author={Hollmann, Noah and M{\"u}ller, Samuel and Purucker, Lennart and Krishnakumar, Arjun and K{\"o}rfer, Max and Hoo, Shi Bin and Schirrmeister, Robin Tibor and Hutter, Frank},
+  journal={Nature},
+  volume={637},
+  pages={319--326},
+  year={2025},
+  publisher={Nature Publishing Group},
+  doi={10.1038/s41586-024-08328-6}
+}
+
+@article{priorlabs2026tabpfn3,
+  title={TabPFN-3: Technical Report},
+  author={{Prior Labs Team}},
+  journal={arXiv preprint arXiv:2605.13986},
+  year={2026}
+}
+
+@article{zhang2025tabpfn,
+  title={TabPFN: One Model to Rule Them All?},
+  author={Zhang, Qiong and Tan, Yan Shuo and Tian, Qinglong and Li, Pengfei},
+  journal={arXiv preprint arXiv:2505.20003},
+  year={2025}
+}
+
+@inproceedings{hegselmann2023tabllm,
+  title={TabLLM: Few-shot Classification of Tabular Data with Large Language Models},
+  author={Hegselmann, Stefan and Buendia, Alejandro and Lang, Hunter and Agrawal, Monica and Jiang, Xiaoyi and Sontag, David},
+  booktitle={Proceedings of The 26th International Conference on Artificial Intelligence and Statistics},
+  series={Proceedings of Machine Learning Research},
+  volume={206},
+  year={2023},
+  publisher={PMLR}
+}
+
+@book{awad2026model,
+  title={Model and Data Engineering: 14th International Conference, MEDI 2025, Cairo, Egypt, November 2-4, 2025, Proceedings},
+  editor={Awad, Ahmed and Ordonez, Carlos and Hassan, Ahmed and Bellatreche, Ladjel},
+  volume={16427},
+  series={Lecture Notes in Computer Science},
+  year={2026},
+  publisher={Springer Nature Switzerland AG},
+  address={Cham, Switzerland}
+}
+
+@inproceedings{hollmann2023large,
+  title={Large Language Models for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering},
+  author={Hollmann, Noah and M{\"u}ller, Samuel and Hutter, Frank},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2023}
+}
+@article{ahn2025georeg,
+  title={GeoReg: Weight-Constrained Few-Shot Regression for Socio-Economic Estimation using LLM},
+  author={Ahn, Kyeongjin and Han, Sungwon and Lee, Seungeon and Ahn, Donghyun and Kim, Hyoshin and Kim, Jungwon and Kim, Jihee and Park, Sangyoon and Cha, Meeyoung},
+  journal={arXiv preprint arXiv:2507.13323},
+  year={2025},
+  doi={10.48550/arXiv.2507.13323}
+}

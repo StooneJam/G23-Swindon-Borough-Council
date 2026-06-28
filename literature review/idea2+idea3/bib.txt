@@ -1,0 +1,62 @@
+@inproceedings{lundberg2017unified,
+  title     = {A Unified Approach to Interpreting Model Predictions},
+  author    = {Lundberg, Scott M. and Lee, Su-In},
+  booktitle = {Advances in Neural Information Processing Systems},
+  volume    = {30},
+  pages     = {4765--4774},
+  year      = {2017},
+  publisher = {Curran Associates, Inc.}
+}
+
+@inproceedings{janzing2020feature,
+  title     = {Feature Relevance Quantification in Explainable {AI}: A Causal Problem},
+  author    = {Janzing, Dominik and Minorics, Lenon and Bl\"obaum, Patrick},
+  booktitle = {Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS)},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {108},
+  pages     = {2907--2916},
+  year      = {2020},
+  editor    = {Chiappa, Silvia and Calandra, Roberto},
+  publisher = {PMLR},
+  url       = {https://proceedings.mlr.press/v108/janzing20a.html}
+}
+
+@article{gerstenberg2024counterfactual,
+  title   = {Counterfactual Simulation in Causal Cognition},
+  author  = {Gerstenberg, Tobias},
+  journal = {Trends in Cognitive Sciences},
+  volume  = {28},
+  number  = {10},
+  pages   = {924--936},
+  year    = {2024},
+  doi     = {10.1016/j.tics.2024.04.012},
+  publisher = {Elsevier}
+}
+
+@article{fantechi2026counterfactual,
+  title   = {The Counterfactual Challenge: How Machine Learning Can Enhance Policy Evaluation},
+  author  = {Fantechi, F. and Cusimano, A.},
+  journal = {Journal of Policy Modeling},
+  volume  = {48},
+  pages   = {343--355},
+  year    = {2026},
+  doi     = {10.1016/j.jpolmod.2025.05.007},
+  publisher = {Elsevier}
+}
+@inproceedings{rundel2024interpretable,
+  title     = {Interpretable Machine Learning for {TabPFN}},
+  author    = {Rundel, David and Kobialka, Julius and von Crailsheim, Constantin and Feurer, Matthias and Nagler, Thomas and R{\"u}gamer, David},
+  booktitle = {Explainable Artificial Intelligence (xAI 2024), Communications in Computer and Information Science},
+  volume    = {2154},
+  pages     = {465--476},
+  year      = {2024},
+  publisher = {Springer},
+  doi       = {10.1007/978-3-031-63797-1_23}
+}
+@book{nardo2008handbook,
+  title={Handbook on Constructing Composite Indicators: Methodology and User Guide},
+  author={Nardo, Michela and Saisana, Michaela and Saltelli, Andrea and Tarantola, Stefano and Hoffmann, Anders and Giovannini, Enrico},
+  year={2008},
+  publisher={OECD Publishing},
+  isbn={978-92-64-04345-9}
+}
