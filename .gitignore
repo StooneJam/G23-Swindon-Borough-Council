@@ -11,3 +11,6 @@ __pycache__/
 # Internal working docs (methods + report outlines, not for commit)
 0-application methods/
 1-report outline/
+
+# Large raw data files (too big for GitHub, keep local only)
+commuting-regression/ODWP01EW_OA.csv
