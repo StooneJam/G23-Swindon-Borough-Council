@@ -1,0 +1,138 @@
+﻿LSOA21CD,LSOA21NM,MSOA21CD,label,cluster_name
+E01015471,Swindon 028A,E02006849,1,Skilled residential
+E01015498,Swindon 021B,E02003232,1,Skilled residential
+E01015499,Swindon 018A,E02003229,1,Skilled residential
+E01015504,Swindon 018C,E02003229,1,Skilled residential
+E01015505,Swindon 018D,E02003229,1,Skilled residential
+E01015512,Swindon 028C,E02006849,1,Skilled residential
+E01015513,Swindon 004A,E02003215,1,Skilled residential
+E01015515,Swindon 004C,E02003215,1,Skilled residential
+E01015518,Swindon 028D,E02006849,1,Skilled residential
+E01015522,Swindon 001D,E02003212,1,Skilled residential
+E01015525,Swindon 026A,E02006847,1,Skilled residential
+E01015526,Swindon 006A,E02003217,1,Skilled residential
+E01015562,Swindon 011A,E02003222,1,Skilled residential
+E01015563,Swindon 011B,E02003222,1,Skilled residential
+E01015565,Swindon 011C,E02003222,1,Skilled residential
+E01015566,Swindon 011D,E02003222,1,Skilled residential
+E01015584,Swindon 025B,E02003236,1,Skilled residential
+E01015586,Swindon 025D,E02003236,1,Skilled residential
+E01032700,Swindon 026B,E02006847,1,Skilled residential
+E01032701,Swindon 027A,E02006848,1,Skilled residential
+E01032702,Swindon 027B,E02006848,1,Skilled residential
+E01032703,Swindon 026C,E02006847,1,Skilled residential
+E01032704,Swindon 027C,E02006848,1,Skilled residential
+E01032705,Swindon 026D,E02006847,1,Skilled residential
+E01032706,Swindon 021E,E02003232,1,Skilled residential
+E01032707,Swindon 021F,E02003232,1,Skilled residential
+E01032709,Swindon 026E,E02006847,1,Skilled residential
+E01032711,Swindon 027D,E02006848,1,Skilled residential
+E01032712,Swindon 027E,E02006848,1,Skilled residential
+E01032713,Swindon 026F,E02006847,1,Skilled residential
+E01015481,Swindon 013A,E02003224,2,Lower-asset residential
+E01015482,Swindon 013B,E02003224,2,Lower-asset residential
+E01015483,Swindon 013C,E02003224,2,Lower-asset residential
+E01015484,Swindon 013D,E02003224,2,Lower-asset residential
+E01015485,Swindon 013E,E02003224,2,Lower-asset residential
+E01015486,Swindon 013F,E02003224,2,Lower-asset residential
+E01015500,Swindon 018B,E02003229,2,Lower-asset residential
+E01015506,Swindon 007A,E02003218,2,Lower-asset residential
+E01015507,Swindon 007B,E02003218,2,Lower-asset residential
+E01015514,Swindon 004B,E02003215,2,Lower-asset residential
+E01015516,Swindon 004D,E02003215,2,Lower-asset residential
+E01015517,Swindon 004E,E02003215,2,Lower-asset residential
+E01015524,Swindon 001F,E02003212,2,Lower-asset residential
+E01015527,Swindon 007C,E02003218,2,Lower-asset residential
+E01015528,Swindon 006B,E02003217,2,Lower-asset residential
+E01015529,Swindon 006C,E02003217,2,Lower-asset residential
+E01015530,Swindon 006D,E02003217,2,Lower-asset residential
+E01015537,Swindon 020A,E02003231,2,Lower-asset residential
+E01015538,Swindon 016A,E02003231,2,Lower-asset residential
+E01015539,Swindon 020B,E02003231,2,Lower-asset residential
+E01015540,Swindon 020C,E02003231,2,Lower-asset residential
+E01015541,Swindon 020D,E02003231,2,Lower-asset residential
+E01015542,Swindon 020E,E02003231,2,Lower-asset residential
+E01015543,Swindon 003A,E02003214,2,Lower-asset residential
+E01015544,Swindon 003B,E02003214,2,Lower-asset residential
+E01015545,Swindon 003C,E02003214,2,Lower-asset residential
+E01015546,Swindon 003D,E02003214,2,Lower-asset residential
+E01015555,Swindon 005A,E02003216,2,Lower-asset residential
+E01015558,Swindon 005D,E02003216,2,Lower-asset residential
+E01015559,Swindon 005E,E02003216,2,Lower-asset residential
+E01015580,Swindon 007D,E02003218,2,Lower-asset residential
+E01015475,Swindon 015A,E02003226,3,Local mixed economy
+E01015477,Swindon 015C,E02003226,3,Local mixed economy
+E01015480,Swindon 015D,E02003226,3,Local mixed economy
+E01015487,Swindon 023A,E02003234,3,Local mixed economy
+E01015489,Swindon 023C,E02003234,3,Local mixed economy
+E01015490,Swindon 023D,E02003234,3,Local mixed economy
+E01015492,Swindon 023F,E02003234,3,Local mixed economy
+E01015502,Swindon 022B,E02003233,3,Local mixed economy
+E01015508,Swindon 010A,E02003221,3,Local mixed economy
+E01015510,Swindon 010C,E02003221,3,Local mixed economy
+E01015511,Swindon 010D,E02003221,3,Local mixed economy
+E01015550,Swindon 009B,E02003220,3,Local mixed economy
+E01015553,Swindon 009E,E02003220,3,Local mixed economy
+E01015554,Swindon 009F,E02003220,3,Local mixed economy
+E01015567,Swindon 014C,E02003225,3,Local mixed economy
+E01015569,Swindon 022D,E02003233,3,Local mixed economy
+E01015570,Swindon 022E,E02003233,3,Local mixed economy
+E01015571,Swindon 022F,E02003233,3,Local mixed economy
+E01015572,Swindon 016B,E02003227,3,Local mixed economy
+E01015573,Swindon 016C,E02003227,3,Local mixed economy
+E01015574,Swindon 017C,E02003228,3,Local mixed economy
+E01015575,Swindon 016D,E02003227,3,Local mixed economy
+E01015576,Swindon 017D,E02003228,3,Local mixed economy
+E01015579,Swindon 012C,E02003223,3,Local mixed economy
+E01033846,Swindon 015F,E02003226,3,Local mixed economy
+E01015478,Swindon 021A,E02003232,4,Skilled enterprise corridor
+E01015494,Swindon 019A,E02003230,4,Skilled enterprise corridor
+E01015496,Swindon 019C,E02003230,4,Skilled enterprise corridor
+E01015497,Swindon 019D,E02003230,4,Skilled enterprise corridor
+E01015519,Swindon 001A,E02003212,4,Skilled enterprise corridor
+E01015520,Swindon 001B,E02003212,4,Skilled enterprise corridor
+E01015521,Swindon 001C,E02003212,4,Skilled enterprise corridor
+E01015523,Swindon 001E,E02003212,4,Skilled enterprise corridor
+E01015532,Swindon 021D,E02003232,4,Skilled enterprise corridor
+E01015533,Swindon 024A,E02003235,4,Skilled enterprise corridor
+E01015534,Swindon 024B,E02003235,4,Skilled enterprise corridor
+E01015535,Swindon 024C,E02003235,4,Skilled enterprise corridor
+E01015548,Swindon 008D,E02003219,4,Skilled enterprise corridor
+E01015556,Swindon 005B,E02003216,4,Skilled enterprise corridor
+E01015557,Swindon 005C,E02003216,4,Skilled enterprise corridor
+E01015560,Swindon 005F,E02003216,4,Skilled enterprise corridor
+E01015585,Swindon 025C,E02003236,4,Skilled enterprise corridor
+E01015587,Swindon 025E,E02003236,4,Skilled enterprise corridor
+E01015588,Swindon 025F,E02003236,4,Skilled enterprise corridor
+E01032710,Swindon 028E,E02006849,4,Skilled enterprise corridor
+E01032714,Swindon 019E,E02003230,4,Skilled enterprise corridor
+E01033841,Swindon 008F,E02003219,4,Skilled enterprise corridor
+E01033843,Swindon 008H,E02003219,4,Skilled enterprise corridor
+E01033847,Swindon 024E,E02003235,4,Skilled enterprise corridor
+E01033848,Swindon 024F,E02003235,4,Skilled enterprise corridor
+E01033849,Swindon 025G,E02003236,4,Skilled enterprise corridor
+E01033850,Swindon 025H,E02003236,4,Skilled enterprise corridor
+E01033860,Swindon 028F,E02006849,4,Skilled enterprise corridor
+E01033861,Swindon 028G,E02006849,4,Skilled enterprise corridor
+E01015473,Swindon 008A,E02003219,5,Employment hub
+E01015479,Swindon 017A,E02003228,5,Employment hub
+E01015488,Swindon 023B,E02003234,5,Employment hub
+E01015491,Swindon 023E,E02003234,5,Employment hub
+E01015493,Swindon 017B,E02003228,5,Employment hub
+E01015501,Swindon 022A,E02003233,5,Employment hub
+E01015503,Swindon 022C,E02003233,5,Employment hub
+E01015509,Swindon 010B,E02003221,5,Employment hub
+E01015547,Swindon 008C,E02003219,5,Employment hub
+E01015549,Swindon 009A,E02003220,5,Employment hub
+E01015551,Swindon 009C,E02003220,5,Employment hub
+E01015552,Swindon 009D,E02003220,5,Employment hub
+E01015561,Swindon 014A,E02003225,5,Employment hub
+E01015564,Swindon 014B,E02003225,5,Employment hub
+E01015568,Swindon 014D,E02003225,5,Employment hub
+E01015578,Swindon 012B,E02003223,5,Employment hub
+E01015581,Swindon 012D,E02003223,5,Employment hub
+E01015582,Swindon 012E,E02003223,5,Employment hub
+E01032708,Swindon 012F,E02003223,5,Employment hub
+E01032715,Swindon 019F,E02003230,5,Employment hub
+E01032716,Swindon 012G,E02003223,5,Employment hub
+E01033845,Swindon 015E,E02003226,5,Employment hub
