@@ -1,0 +1,4 @@
+scheme,spearman_vs_base,top5_overlap,top10_overlap
+indirect_low,0.996,0.8,0.8
+commute_down,0.996,0.8,0.9
+uniform_lever,0.996,0.8,0.9

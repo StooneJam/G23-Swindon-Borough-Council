@@ -1,0 +1,26 @@
+feature,label,group,weight,mean_abs_shap
+lsoa_inbound_to_swindon_count,Inbound to Swindon (n),commuting,0.0,0.27920093998457973
+lsoa_workers_at_workplace,Workers at workplace (n),commuting,0.0,0.2271342778800468
+firm_size_diversity,Firm-size diversity,engineered,0.5,0.16168922700549845
+lsoa_inbound_worker_count,Inbound workers (n),commuting,0.0,0.1567905521940286
+employment_quality,Employment quality,engineered,0.5,0.10319067047605263
+log_voa_rv_2023,log VOA rateable value,engineered,0.0,0.07522469408574475
+lsoa_same_lsoa_worker_count,Same-LSOA workers (n),commuting,0.0,0.054506753274486563
+rv_per_employee,RV per employee,engineered,0.0,0.05088310734235167
+rv_per_working_age,RV per working-age adult,engineered,0.0,0.04799219985331643
+lsoa_home_or_no_fixed_share,Home/no-fixed share,commuting,0.5,0.03231307078524519
+lsoa_local_worker_share,Local worker share,commuting,1.0,0.028872954827300526
+sme_qual_interaction,SME x qualification,engineered,0.5,0.02750379348903387
+lsoa_total_employed,Total employed (n),commuting,0.0,0.027493495185952406
+lsoa_same_lsoa_work_share,Same-LSOA work share,commuting,1.0,0.026601380314632626
+sme_density,SME density,engineered,0.5,0.026578018914028983
+lsoa_out_commute_share,Out-commute share,commuting,1.0,0.02609558735414432
+qualification_index,Qualification index,engineered,0.5,0.022293776096073668
+lsoa_in_commute_share,In-commute share,commuting,1.0,0.017203300834209664
+lsoa_home_or_no_fixed_count,Home/no-fixed workers (n),commuting,0.0,0.017138376641665058
+lsoa_inbound_to_swindon_share,Inbound to Swindon share,commuting,1.0,0.01530413267603754
+lsoa_workplace_commuters,Workplace commuters (n),commuting,0.0,0.015142626790307163
+lsoa_outbound_from_swindon_share,Outbound from Swindon share,commuting,1.0,0.013993567940745041
+lsoa_outbound_from_swindon_count,Outbound from Swindon (n),commuting,0.0,0.011913481822414116
+asset_growth_diversity,Asset-growth diversity,engineered,0.5,0.011570253250372678
+modern_sector_leverage,Modern-sector leverage,engineered,0.5,0.010988754269705494

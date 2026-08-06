@@ -1,0 +1,6 @@
+rank,LSOA21CD,MSOA21CD,IPI,bottleneck,bottleneck_label,gva_observed_m,gva_now_model_m,gva_unrealised_m,gva_target_+30pct_m,lever_now,lever_at_+30pct,lever_change,reachable_within_observed_range
+1,E01033845,E02003226,0.9781,lsoa_out_commute_share,Out-commute share,20.8,81.2,60.4,105.6,0.9731,0.9711,-0.002,True
+2,E01015569,E02003233,0.9057,lsoa_home_or_no_fixed_share,Home/no-fixed share,25.9,45.5,19.6,59.1,0.3646,0.3454,-0.0193,True
+3,E01015507,E02003218,0.8847,employment_quality,Employment quality,7.2,7.3,0.1,9.5,0.0037,0.0228,0.0192,True
+4,E01015473,E02003219,0.793,lsoa_out_commute_share,Out-commute share,496.3,535.2,38.9,695.7,0.8531,0.9885,0.1354,True
+5,E01015501,E02003233,0.7638,lsoa_home_or_no_fixed_share,Home/no-fixed share,411.4,478.6,67.2,622.2,0.44,,,False
