@@ -1,0 +1,26 @@
+feature,label,group,weight,mean_abs_shap
+lsoa_inbound_to_swindon_count,Inbound to Swindon (n),commuting,0.0,0.30950287
+lsoa_workers_at_workplace,Workers at workplace (n),commuting,0.0,0.20275007
+firm_size_diversity,Firm-size diversity,engineered,0.5,0.13206227
+employment_quality,Employment quality,engineered,0.5,0.09397804
+log_voa_rv_2023,log VOA rateable value,engineered,0.0,0.0775723
+lsoa_inbound_worker_count,Inbound workers (n),commuting,0.0,0.066108406
+rv_per_working_age,RV per working-age adult,engineered,0.0,0.058168158
+lsoa_local_worker_share,Local worker share,commuting,1.0,0.055394653
+lsoa_same_lsoa_work_share,Same-LSOA work share,commuting,1.0,0.053474944
+sme_density,SME density,engineered,0.5,0.038998123
+sme_qual_interaction,SME x qualification,engineered,0.5,0.02611152
+lsoa_home_or_no_fixed_count,Home/no-fixed workers (n),commuting,0.0,0.01841483
+lsoa_home_or_no_fixed_share,Home/no-fixed share,commuting,0.5,0.018225437
+lsoa_inbound_to_swindon_share,Inbound to Swindon share,commuting,1.0,0.018178856
+lsoa_workplace_commuters,Workplace commuters (n),commuting,0.0,0.012984507
+rv_per_employee,RV per employee,engineered,0.0,0.0122764995
+asset_growth_diversity,Asset-growth diversity,engineered,0.5,0.011336078
+lsoa_in_commute_share,In-commute share,commuting,1.0,0.011114812
+qualification_index,Qualification index,engineered,0.5,0.009842332
+lsoa_total_employed,Total employed (n),commuting,0.0,0.00907862
+lsoa_same_lsoa_worker_count,Same-LSOA workers (n),commuting,0.0,0.008099931
+lsoa_outbound_from_swindon_share,Outbound from Swindon share,commuting,1.0,0.0048873904
+lsoa_outbound_from_swindon_count,Outbound from Swindon (n),commuting,0.0,0.0048764716
+lsoa_out_commute_share,Out-commute share,commuting,1.0,0.002468244
+modern_sector_leverage,Modern-sector leverage,engineered,0.5,0.0017669044

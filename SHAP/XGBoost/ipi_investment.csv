@@ -1,0 +1,6 @@
+rank,LSOA21CD,MSOA21CD,IPI,bottleneck,bottleneck_label,gva_observed_m,gva_now_model_m,gva_unrealised_m,gva_target_+30pct_m,lever_now,lever_at_+30pct,lever_change,reachable_within_observed_range
+1,E01015569,E02003233,0.9275,lsoa_local_worker_share,Local worker share,25.9,74.3,48.4,96.6,0.038,0.011,-0.027,True
+2,E01033850,E02003236,0.8631,firm_size_diversity,Firm-size diversity,16.2,35.0,18.8,45.4,0.9049,0.9164,0.0115,True
+3,E01033845,E02003226,0.8394,firm_size_diversity,Firm-size diversity,20.8,79.8,59.0,103.7,0.9059,0.9121,0.0062,True
+4,E01032715,E02003230,0.8324,firm_size_diversity,Firm-size diversity,58.0,80.4,22.4,104.5,0.8989,0.91,0.0111,True
+5,E01015510,E02003221,0.7859,lsoa_local_worker_share,Local worker share,38.9,60.4,21.5,78.5,0.0444,0.008,-0.0363,True
