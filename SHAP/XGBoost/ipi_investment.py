@@ -1,17 +1,3 @@
-"""
-Stage 3 of the XGBoost IPI pipeline: "government-intervention investment" table.
-
-For each top-N priority area, sweeps its bottleneck lever across Swindon's observed
-range (holding the area's other features fixed) and reads off the predicted GVA
-response. It records where the response reaches current x 1.30 -- the +30% GVA
-ambition -- so the "investment" is expressed as the lever movement required, not a
-pound cost (no cost model exists in the data). This mirrors SHAP/TabPFN/app.py's
-logic but produces DATA ONLY (no figures), for later XGBoost-vs-TabPFN comparison.
-
-Outputs (SHAP/XGBoost/): ipi_investment.csv, lever_curves.json
-Run:  python SHAP/XGBoost/ipi_investment.py   (after ipi_shap.py + ipi_build.py)
-"""
-
 from __future__ import annotations
 
 import os

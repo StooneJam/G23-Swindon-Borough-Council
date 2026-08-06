@@ -1,23 +1,3 @@
-"""
-Stage 1 of the XGBoost IPI pipeline: out-of-fold `need` + local SHAP.
-
-Mirrors SHAP/TabPFN/ipi_shap.py but swaps the model to XGBoost and the dataset to
-the LSOA-commute file. Two products feed the IPI build:
-
-  * need_i  = max(0, oof_pred_i - y_i)   -- underperformance vs the model's
-              out-of-fold expectation (log-GVA). OOF avoids in-sample optimism.
-  * phi_ij  = local SHAP contribution of feature j for area i, from the EXACT
-              TreeExplainer (a genuine XGBoost advantage over TabPFN, which needs
-              a slower model-agnostic explainer).
-
-XGBoost hyper-parameters are tuned once on the full Swindon sample and cached to
-xgb_best_params.json so every stage uses the same fitted configuration.
-
-Outputs (SHAP/XGBoost/): ipi_need.csv, shap_local.csv, shap_global.csv,
-                         xgb_best_params.json
-Run:  python SHAP/XGBoost/ipi_shap.py   (env N_ITER, default 80)
-"""
-
 from __future__ import annotations
 
 import os
@@ -72,19 +52,17 @@ def main():
     C.save_params(params)
     print(f"tuned XGBoost | CV R2(search)={cv_r2:.4f}", flush=True)
 
-    # ---- need (out-of-fold underperformance) --------------------------------- #
     oof = oof_predict(X, y, params)
     need = np.clip(oof - y, 0, None)
     print(f"OOF R2={r2_score(y, oof):.4f} | areas with need>0: {(need > 0).sum()}", flush=True)
 
-    # ---- local + global SHAP on the full-fit model (exact TreeExplainer) ------ #
     model = xgb.XGBRegressor(objective="reg:squarederror", random_state=C.RANDOM_STATE,
                              n_jobs=-1, **params)
     model.fit(X, y)
     print(f"in-sample R2={r2_score(y, model.predict(X)):.4f}", flush=True)
 
     explainer = shap.TreeExplainer(model)
-    phi = explainer(X).values  # (n_areas, n_feats), signed, in log-GVA units
+    phi = explainer(X).values
 
     shap_local = pd.DataFrame(phi, columns=C.FEATS)
     shap_local.insert(0, "LSOA21CD", df["LSOA21CD"].to_numpy())

@@ -1,16 +1,3 @@
-"""
-Shared config/helpers for the TabPFN IPI pipeline on the LSOA-commute dataset.
-
-This is a deliberate, verbatim copy of the feature list, actionability weights,
-labels and IPI definition used by SHAP/XGBoost/ipi_common.py. Keeping the two
-identical is what makes the XGBoost-vs-TabPFN comparison like-for-like: only the
-model (TabPFN + PermutationExplainer here vs XGBoost + TreeExplainer there) and the
-`need` estimator differ. If you change weights/features in one, change both.
-
-Dataset: data_swindon_with_lsoa_commute.csv (Swindon-only, 137 LSOAs,
-25 predictors = 10 engineered + 15 LSOA commuting). Target: log_total_GVA_2023.
-"""
-
 from __future__ import annotations
 
 from pathlib import Path
@@ -40,7 +27,6 @@ COMMUTE = [
 ]
 FEATS = ENG + COMMUTE
 
-# Actionability weights (policy judgement, NOT learned) — identical to XGBoost run.
 W = {
     "log_voa_rv_2023": 0, "rv_per_working_age": 0, "rv_per_employee": 0,
     "sme_density": 0.5, "qualification_index": 0.5, "firm_size_diversity": 0.5,

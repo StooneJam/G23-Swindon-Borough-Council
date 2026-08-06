@@ -1,22 +1,3 @@
-"""
-Shared configuration and helpers for the XGBoost IPI pipeline.
-
-This is the XGBoost counterpart to the TabPFN IPI scripts in SHAP/TabPFN/. It runs
-on the Swindon-only LSOA-commute dataset (`data_swindon_with_lsoa_commute.csv`),
-which merges the 10 LLM-engineered features with 15 LSOA-level commuting features.
-Target: log_total_GVA_2023.
-
-The three pipeline stages import from here so that feature lists, actionability
-weights, and the IPI definition stay identical across stages:
-    ipi_shap.py        -> out-of-fold `need` + local SHAP (TreeExplainer)
-    ipi_build.py       -> IPI, bottlenecks, sensitivity analysis
-    ipi_investment.py  -> bottleneck lever curves + "+30% GVA" table (data only)
-
-Design mirrors SHAP/TabPFN so an XGBoost-vs-TabPFN comparison is like-for-like,
-EXCEPT the commuting geography (LSOA here vs MSOA in the current TabPFN run). For a
-clean model comparison the TabPFN pipeline should be re-run on this same dataset.
-"""
-
 from __future__ import annotations
 
 import json
@@ -47,25 +28,16 @@ COMMUTE = [
 ]
 FEATS = ENG + COMMUTE
 
-# Actionability weights (policy judgement, NOT learned). Three tiers:
-#   0    structural / scale / headcount counts the Council cannot directly move
-#   0.5  semi-actionable, influenced slowly through the market
-#   1    direct commuting-share levers
 W = {
-    # engineered — structural
     "log_voa_rv_2023": 0, "rv_per_working_age": 0, "rv_per_employee": 0,
-    # engineered — semi-actionable
     "sme_density": 0.5, "qualification_index": 0.5, "firm_size_diversity": 0.5,
     "sme_qual_interaction": 0.5, "employment_quality": 0.5,
     "modern_sector_leverage": 0.5, "asset_growth_diversity": 0.5,
-    # commute — headcount / absolute counts (scale proxies)
     "lsoa_total_employed": 0, "lsoa_home_or_no_fixed_count": 0,
     "lsoa_workplace_commuters": 0, "lsoa_same_lsoa_worker_count": 0,
     "lsoa_workers_at_workplace": 0, "lsoa_inbound_worker_count": 0,
     "lsoa_outbound_from_swindon_count": 0, "lsoa_inbound_to_swindon_count": 0,
-    # commute — semi-actionable (home/no-fixed working)
     "lsoa_home_or_no_fixed_share": 0.5,
-    # commute — direct share levers
     "lsoa_out_commute_share": 1, "lsoa_in_commute_share": 1,
     "lsoa_same_lsoa_work_share": 1, "lsoa_local_worker_share": 1,
     "lsoa_outbound_from_swindon_share": 1, "lsoa_inbound_to_swindon_share": 1,
@@ -88,7 +60,6 @@ LABELS = {
     "lsoa_inbound_to_swindon_share": "Inbound to Swindon share",
 }
 
-# XGBoost search space (same as SHAP/XGBoost/shap_analysis_commute.py).
 PARAM_DIST = {
     "n_estimators": [100, 200, 300, 500, 700, 1000],
     "max_depth": [2, 3, 4, 5, 6, 7],
@@ -119,7 +90,6 @@ def is_commute(col):
 
 
 def ipi(need, absphi, ws):
-    """IPI = rank%(need) * rank%(weighted |SHAP|), zeroed where need <= 0."""
     wv = pd.Series(ws).reindex(FEATS).fillna(0)
     L = absphi.mul(wv, axis=1).sum(axis=1)
     score = need.rank(pct=True) * L.rank(pct=True)
@@ -127,7 +97,6 @@ def ipi(need, absphi, ws):
 
 
 def topk_overlap(base, alt, codes, k):
-    """Fraction of base top-k priority areas retained by an alternative weighting."""
     b = set(codes[np.argsort(-np.asarray(base))[:k]])
     a = set(codes[np.argsort(-np.asarray(alt))[:k]])
     return len(b & a) / k

@@ -1,18 +1,3 @@
-"""
-Stage 1 (TabPFN, LSOA): out-of-fold `need` + local SHAP.
-
-Same recipe and outputs as SHAP/XGBoost/ipi_shap.py so the two are comparable, but
-the model is TabPFN and, because TabPFN is not a tree, SHAP uses the model-agnostic
-PermutationExplainer (not TreeSHAP).
-
-  need_i = max(0, oof_pred_i - y_i)         (5-fold TabPFN out-of-fold)
-  phi_ij = permutation SHAP contribution    (log-GVA units, signed)
-
-Outputs (SHAP/TabPFN_LSOA/): ipi_need.csv, shap_local.csv, shap_global.csv
-Run:  python SHAP/TabPFN_LSOA/ipi_shap.py
-Env:  MAX_BG (background samples, default 80), MAX_EVALS (per row, default 200)
-"""
-
 from __future__ import annotations
 
 import os
@@ -65,7 +50,7 @@ def main():
 
     bg = shap.maskers.Independent(X, max_samples=min(MAX_BG, len(X)))
     sv = shap.PermutationExplainer(reg.predict, bg)(X, max_evals=MAX_EVALS)
-    phi = sv.values  # (n_areas, n_feats), signed, log-GVA units
+    phi = sv.values
 
     shap_local = pd.DataFrame(phi, columns=C.FEATS)
     shap_local.insert(0, "LSOA21CD", df["LSOA21CD"].to_numpy())

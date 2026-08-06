@@ -1,17 +1,3 @@
-"""
-Stage 2 of the XGBoost IPI pipeline: build the index + sensitivity analysis.
-
-Combines the stage-1 `need` with policy-weighted absolute local SHAP to form
-    IPI_i = rank%(need_i) * rank%(sum_j w_j |phi_ij|),   zeroed where need_i<=0,
-identifies each area's bottleneck (the leverable feature with the most negative
-local SHAP), and stress-tests the (subjective) weights under three alternative
-schemes, reporting Spearman rank correlation and top-k overlap against the base.
-
-Outputs (SHAP/XGBoost/): ipi_xgboost.csv (ranked, all 137 areas),
-                         ipi_sensitivity.csv
-Run:  python SHAP/XGBoost/ipi_build.py   (after ipi_shap.py)
-"""
-
 from __future__ import annotations
 
 import numpy as np
@@ -32,7 +18,7 @@ def main():
 
     base = C.ipi(need, absphi, C.W)
     levered = [c for c in C.FEATS if w[c] > 0]
-    bottleneck = phi[levered].idxmin(axis=1)  # most negative local SHAP among levers
+    bottleneck = phi[levered].idxmin(axis=1)
 
     out = pd.DataFrame({
         "LSOA21CD": phi["LSOA21CD"], "MSOA21CD": phi["MSOA21CD"],
@@ -40,7 +26,6 @@ def main():
         "bottleneck_label": bottleneck.map(lambda c: C.LABELS.get(c, c)),
     })
 
-    # ---- sensitivity: alternative actionability weightings ------------------- #
     schemes = {
         "indirect_low": {**C.W, **{c: 0.3 for c in C.ENG if C.W[c] == 0.5}},
         "commute_down": {**C.W, **{c: 0.5 for c in C.COMMUTE if C.W[c] == 1}},

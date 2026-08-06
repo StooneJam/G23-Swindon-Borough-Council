@@ -1,11 +1,3 @@
-"""
-Stage 2 (TabPFN, LSOA): build the IPI + sensitivity analysis.
-
-Model-agnostic: identical to SHAP/XGBoost/ipi_build.py, only the input SHAP/need
-come from the TabPFN stage 1. Outputs ipi_tabpfn_lsoa.csv and ipi_sensitivity.csv.
-Run:  python SHAP/TabPFN_LSOA/ipi_build.py   (after ipi_shap.py)
-"""
-
 from __future__ import annotations
 
 import numpy as np

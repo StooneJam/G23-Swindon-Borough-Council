@@ -1,15 +1,3 @@
-"""
-Stage 3 (TabPFN, LSOA): bottleneck-lever "investment" to +30% GVA (data only).
-
-Same logic as SHAP/XGBoost/ipi_investment.py, model = TabPFN. For each top-N area
-the bottleneck lever is swept across Swindon's observed range and the predicted GVA
-response recorded; the "+30%" crossing gives the required lever movement (not a
-pound cost). No plots.
-
-Outputs (SHAP/TabPFN_LSOA/): ipi_investment.csv, lever_curves.json
-Run:  python SHAP/TabPFN_LSOA/ipi_investment.py   (after ipi_shap.py + ipi_build.py)
-"""
-
 from __future__ import annotations
 
 import os
