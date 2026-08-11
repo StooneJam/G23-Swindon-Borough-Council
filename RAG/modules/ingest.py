@@ -25,6 +25,7 @@ from chromadb.utils import embedding_functions
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 import config
+import pdf_store
 
 _splitter = RecursiveCharacterTextSplitter(
     chunk_size=config.CHUNK_SIZE,
@@ -289,11 +290,8 @@ def ingest_file(filepath: Path, corpus: str) -> int:
 
     sidecar = _read_sidecar_meta(filepath)
 
-    # A sibling .pdf (same stem, saved by search_agent.py / carried through review_panel.py)
-    # is the actual viewable source document — record it so citations can point at it,
-    # not just the extracted-text chunk.
-    pdf_sidecar = filepath.with_name(filepath.stem + ".pdf")
-    pdf_filename = pdf_sidecar.name if pdf_sidecar.exists() else None
+    pdf_store.migrate_sibling_to_docs(corpus, filepath)
+    pdf_filename = pdf_store.resolve_pdf_filename(corpus, filepath)
 
     pages = _split_by_pages(text)
 
@@ -396,11 +394,7 @@ def move_document(filename: str, from_corpus: str, to_corpus: str) -> int:
     if old_meta.exists():
         old_meta.rename(dest_path.with_name(dest_path.stem + ".meta.json"))
 
-    old_pdf = (config.DATA_VERIFIED / from_corpus / filename).with_name(
-        (config.DATA_VERIFIED / from_corpus / filename).stem + ".pdf"
-    )
-    if old_pdf.exists():
-        old_pdf.rename(dest_path.with_name(dest_path.stem + ".pdf"))
+    pdf_store.move_corpus_pdf(dest_path.stem, from_corpus, to_corpus)
 
     n = ingest_file(dest_path, to_corpus)
     print(f"  [moved] {filename}: {from_corpus} -> {to_corpus} ({n} chunks)")
