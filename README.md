@@ -3,10 +3,10 @@
 MSc dissertation project (Group 23) developed with Swindon Borough Council, applying data science methods to understand neighbourhood-level economic variation and support evidence-based, place-targeted policy.
 
 ## 1. Team
-**Name:** Shi Qin, Anis Binti Shahrulhisham, Bo-Yan Lu
-**Supervisor:** Dr. Ayush Joshi
-**Degree:** MSc, University of Bristol
-**Project title:** *How SME Composition, Commuting and Employment Shape Small Area GVA in Swindon*
+**Name:** Shi Qin, Anis Binti Shahrulhisham, Bo-Yan Lu //
+**Supervisor:** Dr. Ayush Joshi //
+**Degree:** MSc, University of Bristol //
+**Project title:** *How SME Composition, Commuting and Employment Shape Small Area GVA in Swindon* //
 **Year:** 2026
 
 ## 2. Project Overview
