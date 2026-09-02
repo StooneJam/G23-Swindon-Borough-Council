@@ -14,5 +14,5 @@ __pycache__/
 2-dissertation/
 
 # Large raw data files (too big for GitHub, keep local only)
-commuting-regression/ODWP01EW_OA.csv
-Scenario Simulation/code/ODWP01EW_MSOA.csv
+08-commuting-data/ODWP01EW_OA.csv
+07-Scenario Simulation/code/ODWP01EW_MSOA.csv
