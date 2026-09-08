@@ -41,10 +41,3 @@ cluster_analysis/
   swindon_cluster_labels.csv
 ```
 
-## Tableau
-
-Rebuild from **`swindon_clusters_for_tableau.geojson`** only (one file). Color = `cluster_name`; bar = AVG(`log_total_GVA_2023`).
-
-## Chat message
-
-> 已改 k=6（silhouette 0.274，接近最高，最小類 n=5）。notebook / 地圖 / CSV / Tableau geojson 都更新了。請用新的 `swindon_clusters_for_tableau.geojson` 重建 Dashboard。
