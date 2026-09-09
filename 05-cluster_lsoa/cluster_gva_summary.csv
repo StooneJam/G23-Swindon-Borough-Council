@@ -1,0 +1,7 @@
+cluster,n,mean_log_gva,median_log_gva,label
+0,17,4.937,4.934,Employment & enterprise hub
+1,39,2.662,2.548,Deprived low-enterprise residential
+2,33,2.876,2.612,High-skilled outbound residential
+3,5,4.378,3.846,High-RV compact workplace
+4,30,3.871,3.637,Mid SME / mixed residential
+5,13,3.003,2.783,Moderate-skill local-work residential

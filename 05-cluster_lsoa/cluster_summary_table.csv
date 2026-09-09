@@ -1,0 +1,7 @@
+cluster,n_lsoa,label,mean_log_gva,gva_rank
+0,17,Employment & enterprise hub,4.937,1
+1,39,Deprived low-enterprise residential,2.662,6
+2,33,High-skilled outbound residential,2.876,5
+3,5,High-RV compact workplace,4.378,2
+4,30,Mid SME / mixed residential,3.871,3
+5,13,Moderate-skill local-work residential,3.003,4
