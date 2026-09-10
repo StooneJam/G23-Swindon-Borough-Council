@@ -1,0 +1,1103 @@
+<<<PDF_PAGE_1>>>
+AUTHOR ACCEPTED MANUSCRIPT
+FINAL PUBLICATION INFORMATION
+Microeconomic Consequences and Macroeconomic Causes
+of Foreign Direct Investment in Southern African Economies
+The definitive version of the text was subsequently published in
+Applied Economics, 45(25), 2012-10-26
+Published by Taylor and Francis
+THE FINAL PUBLISHED VERSION OF THIS ARTICLE
+IS AVAILABLE ON THE PUBLISHER’S PLATFORM
+This Author Accepted Manuscript is copyrighted by the World Bank and published by Taylor and Francis. It is
+posted here by agreement between them. Changes resulting from the publishing process—such as editing, corrections,
+structural formatting, and other quality control mechanisms—may not be reflected in this version of the text.
+You may download, copy, and distribute this Author Accepted Manuscript for noncommercial purposes. Your license
+is limited by the following restrictions:
+(1) You may use this Author Accepted Manuscript for noncommercial purposes only under a CC BY-NC-ND
+3.0 Unported license http://creativecommons.org/licenses/by-nc-nd/3.0/.
+(2) The integrity of the work and identification of the author, copyright owner, and publisher must be preserved
+in any copy.
+(3) You must attribute this Author Accepted Manuscript in the following format: This is an Author Accepted
+Manuscript of an Article by Lederman, Daniel; Mengistae, Taye; Xu, Lixin Colin Microeconomic
+Consequences and Macroeconomic Causes of Foreign Direct Investment in Southern African Economies ©
+World Bank, published in the Applied Economics45(25) 2012-10-26 http://creativecommons.org/licenses/
+by-nc-nd/3.0/
+© 2013 The World Bank
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+<<<PDF_PAGE_2>>>
+Microeconomic Consequences and Macroeconomic Causes of Foreign
+Direct Investment in Southern African Economies1
+Daniel Lederman
+Taye Mengistae
+Lixin Colin Xu
+World Bank
+September 4, 2012
+Abstract. The authors use a new data set on firms in thirteen countries of the Southern
+African Development Community (SADC) and comparators from other regions to
+identify the benefits and determinants of FDI in this region. FDI has facilitated local
+development in the SADC. Foreign owned firms perform better than domestic firms, are
+larger, and locate in richer and better-governed countries, and in countries with more
+competitive financial intermediaries. They are also more likely to export than domestic
+firms and evidence suggests that they might have positive spillover effects on domestic
+firms. Based on a standard empirical model, the SADC is attracting the inward FDI per
+capita the region’s level of income would predict. But this means that there are less
+capital inflows per capita to the region than there are to wealthier parts of the developing
+world. Moreover, the SADC is attracting less FDI than comparators for reasons that are
+possibly more fundamental than current income, namely, countries’ past growth record,
+demographic structure and the quality of physical infrastructure. Interestingly, inward
+FDI is less sensitive to variation in income within the SADC than in other parts of the
+world, but is more responsive to changes in country’s openness to trade.
+Key words: FDI, spillovers, firm performance, exports, Africa, SADC.
+1 We thank Robert Cull and Justin Lin for helpful comments, and Randall Morck and Bernard Yeung for t
+insights from related research. We are grateful to Naguib Lallmahomed for some excellent background o
+advice. The paper is a product of background research done for a report on business environment issues in :
+trade and market integration in the SADC prepared by the financial and private sector department of the
+Africa Region Vice Presidency of the World Bank. The views expressed here are those of the authors’ and
+do not implicate the World Bank, its executive directors, or the countries that they represent.
+1
+<<<PDF_PAGE_3>>>
+1. Introduction
+This article offers empirical evidence on the microeconomic consequences and
+macroeconomic causes of Foreign Direct Investment (FDI) in the Southern African
+Development Community (SADC, hereafter), which is a regional economic community
+of 13 member states of a combined population of 250 million.2 Would countries in the
+region grow faster if there were more FDI than is the case presently? Is the region
+attracting as much foreign capital as it would be expected given the region’s
+macroeconomic performance? If it is not, what could be the reasons for it? These
+questions cannot be answered by referring to current literature. This article addresses
+these questions with analyses of the World Bank’s Enterprise Surveys, a global cross
+country dataset that combines observations on the performance of firms with information
+on their ownership and overall business environment, and macroeconomic data.
+A common hypothesis about the determinants and consequences of FDI inflows is
+that FDI can reduce income gaps between developing and advanced economies. In the
+neoclassical world of perfect factor mobility and technology transfer, capital readily
+flows from rich to poor countries, seeking higher returns in capital-scarce economies.
+However, we do not always see this in actual data, some of which actually suggest that
+hopes that FDI inflows are a “supply side remedy” to catapult poor countries into the fast
+track of development, as prescribed by the United Nations (1999), could be too optimistic.
+This observation applies to the data being analyzed in this paper. Even though the
+average income of SADC countries is lower than the average of all countries covered by
+our data, per capita FDI inflows to the SADC region are only 36.6 U.S. dollars (in 2000
+prices) per annum whereas the average for all other countries is 202.8 dollars. SADC
+countries are also attracting less FDI than other countries with comparable incomes, for
+which FDI inflows per capita average 63.2 dollars. This positive (and counter intuitive)
+association between per capita income and net FDI inflows is also evident within the
+SADC, where cross country gaps in flows are large. Within the SADC, annual per capita
+FDI inflows are less than 10 dollars among the low-income countries, but range between
+2 The members are: Angola, Botswana, the Democratic Republic of Congo (DRC), Lesotho, Madagascar, Malawi,
+Mauritius, Mozambique, Namibia, the Seychelles, South Africa, Swaziland, Tanzania, Zambia, and Zimbabwe.
+2
+<<<PDF_PAGE_4>>>
+50 and 167 dollars per capita among the middle income countries of Angola, Botswana
+and South Africa.3
+Turning to the consequences of FDI, another common hypothesis is that FDI can
+foster local economic development either because it relaxes capital constraints to growth
+or because it facilitates the transfer of new technology or knowhow. However, it is also
+plausible that foreign-owned companies merely capture rents, crowd out domestic
+investment, and do not provide technological spillovers for domestic firms. Even if FDI
+does facilitate local growth by relaxing capital constraints or through technology transfer
+or spillovers, the magnitude of these benefits would be hard to identify a priori in any
+setting, because they could vary across countries. For example, the benefits may depend
+on the market size of the host country and the time-horizon of the commitments involved
+in the investment. This combination of high hopes and unclear evidence puts empirical
+research in center stage. Thus, it is useful to investigate empirically whether FDI plays a
+positive role in SADC, and if so, how. Many also presume that the FDI inflow levels to
+the region are too low. How much is too little? What factors can explain the observed
+FDI inflows?
+On the question of the role of FDI in the SADC, our data suggest that this is likely
+to have been one of facilitating growth in the region. In the data, foreign owned firms
+grow faster on average than domestic firms. Also, foreign owned firms are, on average,
+more productive, larger, and more likely to export. Furthermore, there is some evidence
+that domestic firms perform better in the presence of foreign owned firms than they do
+otherwise. At the same time, foreign owned firms are more likely to locate in richer and
+better-governed countries, and countries that have more competitive financial industries.
+To assess the determinants of inward FDI to the region, we use an accepted
+empirical model described in Fan et al. (2009) in which FDI per capita is a function of
+market size, infrastructure, education, exchange rates, the quality of institutions, and past
+economic performance (as measured by the mean and variability of growth). The data
+are broadly consistent with the predictions of the model. However, market size appears to
+3 It is worth noting that there is a similar if not more pronounced variation in FDI inflow per capita among
+regions within China (Wang, Xu and Zhu 2012).
+3
+<<<PDF_PAGE_5>>>
+be a weaker determinant of FDI in the SADC than in other countries, while openness to
+trade is more important than in the other countries.4
+The next section presents our firm-level evidence on the consequences of FDI.
+Section three examines the macroeconomic determinants of FDI inflows with panel data.
+Section four concludes.
+2. Micro Consequences of Foreign Ownership in SADC
+If FDI supports economic development, its direct effects should show up in the
+growth and productivity of firms benefitting from foreign capital investment, or at least
+on some other indicator of performance, such as export orientation. In addition, FDI can
+have indirect effects on the economic performance of other domestic firms through
+spillover effects, as mentioned above. The mechanism by which FDI boosts productivity
+and growth of recipient firms could be that it addresses or relaxes the capital shortages
+and financial constraints that limit the scale of domestic firms. To the extent that this is
+true, part of the productivity advantage of foreign owned firms should come from their
+operating on a larger scale than domestic firms. A related but distinct source of the
+potential productivity advantage of foreign owned firms is that they often have better
+access to new technology or can afford to engage in R& D investment. If true, FDI could
+influence the growth and productivity of the domestic industry by becoming sources of
+learning spillovers for domestic firms.
+To investigate the effects of FDI through these microeconomic channels, we
+analyze the correlation between the foreign ownership of firms and the performance of
+SADC firms in terms of sales growth and total factor productivity. The literature has not
+produced a consensus on the effect of foreign ownership on productivity (Caves, 1999).
+4
+The result relating to openness is consistent with the view that FDI tends to be more export oriented in
+smaller countries. Our conclusion here does not necessarily contradict that of Asiedu (2002), which shows
+that the behavior of FDI to Sub-Saharan Africa differs from that in other regions. We focus here on the
+southern African countries (SADC), which attracts relatively more FDI than the rest of Sub-Saharan Africa .
+Moreover, Asiedu (2002) does not control for cross country differences in economic performance.
+4
+<<<PDF_PAGE_6>>>
+Although some papers have found significant productivity gaps between foreign-owned
+and domestic firms, others have reported that this correlation largely disappears after
+controlling for differences in the quality of inputs. Examples of studies that have found
+significant productivity premiums for foreign owned firms are Konings (2001), Yasar and
+Paul (2007), Hallward-Driemeier, Wallsten and Xu (2006), Xu, Zhu and Lin ( 2005) and
+Zhang, Zhang and Zhao (2001).
+Data
+The data set we use to investigate the relationship between foreign ownership and firm
+performance in this paper comes from the Enterprise Surveys that the World Bank has
+carried out over the past decade in more than 100 countries. The surveys take a snapshot
+of a range of indicators of various aspects of a country's business environment, including
+access to finance and business services, physical and institutional infrastructure, the
+quality of governance and control of corruption, and information on variables needed to
+calculate productivity, including revenue from sales and other sources, as well as various
+expenses. To date, at least one wave of the survey has been conducted in all countries of
+the SADC except the Seychelles and Zimbabwe, with some countries having had two
+waves. The member countries covered by the data are: Angola (two waves), Botswana
+(two waves), Democratic Republic of Congo, Lesotho, Madagascar, Malawi, Mauritius,
+Mozambique, Namibia (two waves), South Africa, Swaziland (two waves), Tanzania
+(two waves), and Zambia. For each wave and each country, the number of firms in the
+sample ranges from 75 (Lesotho) to 1057 (second wave of South Africa). Each sample
+was selected through a stratified random sampling scheme from a sample frame drawn
+from official listings of the universe of firms for each country. While the timing of the
+surveys differs across countries, all were carried out between 2005 and 2009.
+Table 1 lists the variables used in the firm-level regressions. Table 2 provides
+descriptive statistics of those variables for the SADC and highlights the differences in
+sample between foreign owned and domestic firms. A foreign owned firm is one in
+5
+<<<PDF_PAGE_7>>>
+which a foreign entity has some ownership share.5 A contrast worth noting is that foreign
+owned firms are significantly larger--the median foreign firm in SADC is 70 log points
+(or 100 percent) larger than domestic firms. The share of foreign owned firms in the
+overall sample is also larger in richer countries. Surprisingly, host countries tend to have
+higher firing costs. A possible explanation is that, in response to opening up to foreign
+ownership, countries impose higher firing costs to respond to populist demands.
+Unsurprisingly, foreign firms tend to be located in countries with more competitive banks,
+which are characterized by lower interest spreads (i.e., the discrepancy between lending
+and borrowing rates at banks). Similarly, foreign firms tend to be located in countries
+exhibiting higher indices of government efficiency (by ICRG). Foreign firms tend to
+suffer lower losses of sales due to crimes.
+Our measure of productivity, total factor productivity (TFP hereafter), was
+estimated from industry-specific translog production functions. 6 Table 2 suggests that
+foreign owned firms in the SADC are typically more productive than domestic firms. For
+example, the median TFP of foreign firms is higher by 5 log points. A foreign owned
+firm is also more likely to be an exporter than a domestic firm (21 versus 8 percent). In
+terms of sales growth,7 the median growth rate is slightly lower for foreign owned firms
+than for domestic firms (7.8 versus 9.3 percent), but this reflects the fact the median
+foreign owned firm is larger than the median domestic firm. That is, the median domestic
+firm grows faster than the median foreign owned firm because of dynamic economies of
+scale or learning by doing, but foreign owned firms could grow faster if they were to
+have the same initial size.
+Firm performance and foreign ownership: productivity and growth
+In order to identify the sources of the correlation between foreign ownership,
+productivity and growth of firms, we estimated the following model:
+5 An alternative definition would be to deem a firm foreign only if foreign entities hold a minimum of
+ownership share such as 51 percent (or majority) share or some lower threshold. However, it turns out that
+the quantitative results remain very similar with this alternative definition.
+6 As a sensitivity check, we also estimate Cobb-Douglas TFP, which is less general than the translog
+specification. The results are qualitatively very similar.
+7 Three years of sales are reported in the data.
+6
+<<<PDF_PAGE_8>>>
+Y  FRN F Z e (1)
+ic ic ic c ic
+where i refers to a firm, and c refers to a country. Y is either TFP or sales growth. FRN
+is foreign ownership. The variable set F consists of firm level controls, and includes the
+share of ownership by the largest shareholder, the age of the firm (in logarithm), and the
+share of losses of sales due to crime.8 The variable set Z consists of country level
+controls, and include lagged GDP per capita, the ICRG index of government efficiency,
+the firing costs in terms of years of salary, and the interest spread (as a measure of
+banking competitiveness). All the country-level variables come from the World
+Development Indicators of the World Bank. Estimations of models with micro and
+macro units of analysis are known to lead to potential biases in precision, which we
+addressed by clustering the standard errors at the country level (Moulton 1986).
+We report two sets of results, one set with, and the other without, including South
+Africa in the sample, because South Africa is larger and richer than other African
+economies. Table 3 reports the results. Since the results without South Africa tend to be
+very similar, we focus on the first two columns.
+The most important finding is that foreign ownership has a strong and significant
+relationship with both sales growth and TFP. Increasing foreign ownership by 10
+percentage points would increase sales growth by 2 percentage points, and TFP by 1.4
+percentage points. To put this in perspective, Table A1 in the appendix compares SADC
+with the East Asia and Pacific region (consisting of China, Indonesia, Malaysia, and
+Thailand, EAP hereafter) and all non-SADC countries with similar income level as
+SADC members.9 Foreign ownership is significantly higher in SADC (17.5 percent) than
+in EAP (13.5 percent) and the similar-income sample (10.8 percent). In light of the
+positive effect of foreign ownership and SADC's advantage in this measure, foreign
+ownership has reduced the disadvantage of SADC toward other regions.
+8 We also estimated specifications including the share of losses of sales due to power outages and the
+average level of schooling of firm employees. The results including these additional controls are similar to
+the results obtained in the basic specification. However, several countries do not have these indicators. To
+preserve as many SADC countries as possible in our sample, we opted to report the results without them.
+9 That is, with income less than South Africa’s 4600 U.S. dollars of 2000.
+7
+<<<PDF_PAGE_9>>>
+The other findings on performance determinants are also illuminating. The
+intensity of crime (as measured by the share of sales lost to crimes) is positively
+associated with sales growth but negatively with TFP. Firms in countries with higher
+income levels tend to have higher TFP--a country that is richer by 100 log points tends to
+have a productivity premium of 7.5 percent, which could reflect the forces of a large
+market or better infrastructure. Unsurprisingly, high firing cost and, thus, a high exit costs,
+are associated with lower productivity. An interpretation is that firing costs cause
+shirking by workers and, therefore, reduce the efficiency of a fixed amount of capital and
+labor. This is consistent with what is commonly found in many developing countries (Xu
+2011). Another noteworthy finding is that both sales growth and TFP are negatively
+affected by high bank interest spreads. Our interpretation is that when banks are less
+competitive--with a higher interest spread--firms cannot expand as much because capital
+costs are too high or because it is more difficult to find alternative sources of finance.
+Similarly, high interest spreads distort capital-labor ratios and, therefore, reduce
+productivity. Interestingly, countries with higher government efficiency levels are
+associated with a higher sales growth rates but lower productivity levels. Finally, larger
+firms tend to grow faster in SADC.
+Foreign ownership and exporting status
+Exporting may be particularly important for SADC and other small African economies.
+Exports also signal stronger competitiveness in the region. Thus, one way to gauge the
+benefits of foreign ownership is to examine whether it also helps firms to export. In
+general, one expects foreign ownership to facilitate exports because foreign firms tend to
+have better technologies, management know-how, besides possessing better information
+on exporting opportunities. On the other hand, foreign owners could enter the local
+market seeking profits in the domestic market. They may also set up operations in host
+countries to circumvent import tariffs. To investigate this issue, we thus report the
+following linear probability model:
+Export Frn F Z 
+ic ic ic c ic
+8
+<<<PDF_PAGE_10>>>
+where Export is a dummy variable for exporting firms. Subscripts i and c indicate firm
+and country. Frn is foreign ownership, F are firm characteristics, and Z are country
+characteristics. We also experimented with probit and logit specifications, and the results
+were similar. We report the linear probability model because the coefficients are easier
+to interpret.10 Again, standard errors are clustered at the country level. The results are in
+Table 4. Again, the results with and without including South Africa are quite similar, and
+we focus on the first column results which include South Africa.
+Relative to a domestic firm, the probability of exporting for a foreign firm is
+higher by almost 6 percentage points. This effect is quite large since the average
+probability of exporting for domestic firms is only 7.7 percent. Only a few other
+determinants of exporting status have statistically significant coefficients. Large firms,
+not surprisingly, tend to export. Interestingly, firms featuring a higher share of ownership
+by the largest owner (e.g., a proxy of family ownership) are less likely to export.
+Are there Spillover Effects of FDI?
+Potentially important benefits from FDI are spillovers on domestic firms in terms of
+transfers of technologies, managerial know-how, and competition effects. These
+spillover effects can be either horizontal or vertical. Horizontal spillovers refer to the
+effects of the presence of foreign-owned firms on domestic firms within the same
+industry (or specializing in the same product). There are two counteracting effects
+related to horizontal spillovers: (a) the positive aspects such as technological spillovers,
+personnel movements, transfer of managerial know-how, and the cultivation of more
+efficient local input suppliers; and (b) the negative aspects associated with foreign firms
+being competitors of domestic firms, taking away market shares, increasing the average
+fixed costs, thus reducing the productivity of domestic firms. The positive horizontal
+effects could be limited by foreign firms’ incentives to restrict the flow of commercial
+secrets to domestic firms, for example, via intellectual property rights and paying for
+efficiency wages to reduce personnel departures. Indeed, recent studies find
+insignificant and even negative horizontal spillover effects—sometimes dubbed the
+10 Further controlling for employee schooling and the share of losses due to power shortages does not
+change our results but reduce the sample significantly.
+9
+<<<PDF_PAGE_11>>>
+“market-stealing” effect; see Haddad and Harrison (1993) on Morocco, Aitken and
+Harrison (1999) on Venezuela, Djankov and Hoekman (2000) on the Czech Republic,
+and Konings (2001) on Bulgaria, Romania and Poland. The evidence on positive
+horizontal spillovers appears to be more prominent in developed countries, such as the
+United Kingdom and the United Sates (Haskel et al. 2002; Keller and Yeaple 2003).
+However, Kee (2010) finds positive horizontal FDI spillover effects through local input
+suppliers used by foreign and domestic garment firms in Bangladesh.
+Vertical spillover effects refer to the potential benefits for input suppliers or clients of
+foreign companies, such as by offering technological help, stronger quality control, and
+so on. Since there are no conflicts of interests between foreign firms, their clients and
+input suppliers related to technology and know-how, positive vertical spillover effects are
+more plausible than positive horizontal spillovers. This is indeed what is found in
+Javorcik (2004) for Lithuania. Thus, it is safe to say that the evidence on spillovers is
+mixed. In surveying related evidence, Rodrik (1999) stated that “today’s policy literature
+is filled with extravagant claims about positive spillover effects from FDI but the
+evidence is sobering.” Our understanding of spillover effects is further complicated by
+the idea that the effects of policies tend to differ across contexts due to differences in
+complementary institutions, regulatory environments, and even skill levels of local
+employees, which probably shape the nature of inter-firm spillovers (Kremer 1993;
+Hausman, Rodrik and Velasco 2005; Xu 2011).
+The data only allowed us to identify spillover effects within broad industry
+categories. We first computed country-industry-level average foreign ownership,
+weighted by the share of employment in the industry (FRN ). We then estimated the
+c, j
+productivity model with the sample of domestic firms only, but added FRN as an
+c, j
+additional regressor. A positive coefficient indicates positive spillovers.11 Note that we
+do not interpret the results as pure horizontal spillovers. The industry category in our
+data is at the two-digit level. The spillovers effect is thus a mixture of both horizontal
+and vertical spillovers effects. That is, in addition to horizontal spillovers, our broad
+externality measure also captures the vertical spillovers of, say, downstream foreign-
+11 We dropped firms in industries with fewer than five domestic firms.
+10
+<<<PDF_PAGE_12>>>
+owned firms specializing in apparel on upstream domestic firms specializing in yarns or
+textiles.
+The results, in Table 5, show a robust and positive spillover effect from foreign-
+owned firms. When South Africa is included, FRN has a positive and significant
+c, j
+coefficient of around 0.23. The magnitude is nontrivial: increasing average foreign
+ownership by 10 percentage points would increase domestic firms’ productivity in the
+same industry by 2 percentage points. Thus, besides the direct effect of raising average
+productivity, foreign-owned firms also seem to enhance the productivity of domestic
+firms within broad industries. The results, however, strongly hinges on whether South
+Africa is excluded, in which case, it remains positive, but its magnitude drops to 0.14,
+and it becomes statistically insignificant (with a t-statistic of 1.51). Thus, the FDI
+spillover effect is stronger in South Africa than in the smaller southern African countries.
+3. SADC's FDI inflows per capita in international perspective
+Foreign ownership seems to play a positive role in SADC.12 In this section we
+examine the relative performance of SADC countries in attracting FDI, as measured by
+FDI inflow per capita. In particular, what are the key determinants of FDI? What may
+explain the differences between SADC countries and comparison groups (such as other
+countries with similar income levels)? We proceed in several steps. First, we lay out a
+simple theoretical framework for the key determinants of FDI across countries. Second,
+we explain our empirical framework and key variables. Finally, we present the results
+from cross-country regressions on FDI.
+A Simple Theoretical Framework
+The literature on FDI points towards a relatively simple generic empirical specification
+(Fan et al., 2009). The literature views prospective multinational firms as possessing
+12 See also Ahmed, Cheng and Messinis (2011), which find that FDI has significant impacts on growth in
+Sub-Saharan Africa.
+11
+<<<PDF_PAGE_13>>>
+information-based firm-specific capabilities that they could profitably apply in foreign
+countries. Indeed, these capabilities allow them to overcome the “difficulties of being
+foreign” to generate returns to justify the investment (Morck and Yeung 1991, 1992).
+Agency problems, information asymmetries, and property rights protection problems that
+render information-based assets inalienable prevent these firms from selling or leasing
+those capabilities to foreign firms. To profitably apply their unique capabilities abroad,
+multinationals resort to establishing controlled foreign operations and engage in FDI.
+Still, FDI is an investment like any other in the sense that it aims to capture positive net
+present values.
+The net present value of a corporate investment project depends on a number of
+factors. The first is the size of an economy (Caves 1999). With a larger economy,
+investment projects with high fixed cost components yield higher net present values due
+to a larger extent of domestic market that allows the firm to reduce the average cost of the
+product. All else equal, FDI inflows should rise with the size of the host economy. The
+net present value a firm sees also depends on local product and factor market
+development and growth potential. It depends negatively on market risks and the costs of
+doing business. The latter is perhaps more important and contributing factors include
+high taxes, high wages relative to productivity, and poor infrastructure.13
+All these factors hinge on an economy’s institutional environment. If local
+commercial disputes are adjudicated through transparent and predictable norms or
+through established legal and political institutions, the disadvantage of being foreign
+diminishes and FDI flows in. This consideration echoes the finance and growth literature,
+which emphasizes that sound and well-enforced rules and regulations, like property rights
+protection and information disclosure, encourage economic development in general and
+capital market development in particular (La Porta et al. 1997 and 1998; King and Levine
+13 Coughlin, Terza, and Arromdee (1991) provide empirical support for these factors influencing inward
+FDI, though they do not consider financial development. Froot and Stein (1991), while showing that
+undervalued host country currencies attract inward FDI, also stress the barriers firms confront in raising
+capital to finance new investment projects. These barriers are particularly daunting for domestic firms in
+economies with underdeveloped capital markets. In such countries, foreign firms could have an advantage
+in capturing the NPVs of new investment projects because of their access to better functioning foreign
+capital markets (Foley, Mahir, and Hines, 2004).
+12
+<<<PDF_PAGE_14>>>
+1993). The reason is that these rules and regulations constrain opportunistic behavior and
+build transactional trust between parties (North 1991). Indeed, governments that are less
+corrupt, have more efficient bureaucracies, and those that impose less burdensome
+regulations foster economic development (La Porta et al. 1998) and attract FDI (Alfaro et
+al. 2005, Globerman and Shapiro 2002).
+In summary, FDI is attracted by basic economic and institutional factors. The
+economic factors include the size of the market, the current level of development, and
+variables such as education and infrastructure development that affect productivity and
+expected future development. Obviously, other considerations like trade openness and
+the host country’s currency (see, e.g., Froot and Stein 1991) also may affect FDI. The
+institutional factors are proxied by general indicators of “good government” such as the
+establishment of law and order as well as high quality government bureaucracy.
+The empirical relationship
+Our dependent variable is the logarithm of per capita FDI inflows in constant US dollars
+of 2000, winsorized at the tail 5 percent.14 We added a constant to the FDI observations
+because some countries have negative FDI inflows (negative FDI inflow represents
+repatriation of previous investment). Although dropping the negative FDI inflow
+observations leads to qualitatively similar results, we do not see a good reason to exclude
+them.
+Our objectives are twofold. First, we want to empirically investigate the
+correlates of FDI. Second, we want to assess if the determinants of FDI flowing into
+SADC are similar to those of the FDI flowing into other countries. To these ends, we
+follow the discussion in the previous section and regress each country’s FDI inflows on a
+set of country characteristics associated with the quality of government, along with some
+basic measures of the level of development and other country characteristics such as
+14 The winsorization is done to prevent the influence of outliers and measurement errors. This variable is
+highly skewed. The qualitative results are similar when we winsorize at the 1 or 5 percent levels. However,
+giving the winsorization threshold is around 0 at 5 percent level, the interpretation of magnitude is a lot
+easier--log(FDI per capita + constant) is close to log(FDI per capita) when the constant is 1.4 instead of
+around 92, and log point is close to percentage point in interpretation.
+13
+<<<PDF_PAGE_15>>>
+population size, demographic characteristics and trade policies. We include the SADC
+dummy in these regressions and then ask whether SADC’s FDI inflows behave.
+We proxy general institutional quality by a commonly-used indicator of the
+general quality of government: the rule of law index from ICRG. Rule of law is an ICRG
+survey result gauging the state of law and order in each country. It ranges from 1 to 6,
+with higher values connoting greater general respect for the rule of law.15 It contains a
+law component, which captures the strength and impartiality of the legal and political
+establishment in judicial matters, and an order component, which captures the extent to
+which residents of a country accept established legal and political institutions as the
+solely legitimate way to make and implement laws and to adjudicate disputes.
+In place of the ICRG corruption index we alternatively use the control of
+corruption index. This indicator is most commonly used in the related economics
+literature. This variable is meant to capture the extent to which illegal payments are
+expected throughout various levels of government. In addition to being consistent with
+previous studies, the data has a broad international coverage.16 The index itself takes on
+values ranging from zero (most corrupt) to six (least corrupt).
+Macroeconomic performance. Macroeconomic performance plays an interesting
+role. FDI is large if foreign corporate investors regard a location’s investment
+opportunities highly. Obviously, investment opportunities are more abundant in locations
+with better macroeconomic performance, due perhaps partly to better institutions, where
+government officials are not corrupt, bureaucracies are efficient, and the rule of law is
+generally upheld. At the same time, positive shocks on investment opportunities often
+entice governments seeking to attract foreign capital to provide these institutions.17
+Hence, a simple relationship between measures of government quality and foreign direct
+investment could be misleading. At the very least, to sort this out, our empirical
+15 ICRG data has the advantage of covering the majority of countries from 1982 on. For details, see Knack
+and Rahman (2007).
+16 We also considered other indexes such as those from Kaufman-Kraay-Mastruzzi (2010). However, these
+data start in 1996, which would reduce the estimation sample significantly.
+17 See Easterly et al. (1993), which shows that temporal shocks rather than good policies often lead to
+positive growth.
+14
+<<<PDF_PAGE_16>>>
+investigation should incorporate proxies for the presence of profitable investment
+opportunities. These are:
+Growth trend is a country’s per capita GDP growth rate averaged over the
+previous five years. We interpret a high past growth rate as both indicative of profitable
+investment opportunities and a track record of the country’s government fostering, or at
+least not impeding, their exploitation.
+Macro volatility is the standard deviation of per capita GDP growth over the prior
+five years. More unstable economic growth, all else equal, is likely less conducive to
+FDI, and less indicative of sound and predictable government policies.
+General development is measured by the following variables: the log of per
+capita GDP in 2000 constant US dollars at PPP; education, measured by the log of the
+average years of schooling completed by the country’s adult population; infrastructure
+quality, represented by telephones per 1000 residents; and the level of urbanization,18
+which is the share of urban in total population. These are a set of variables commonly
+used in the literature (see Coughlin et al. 1991).
+Following the discussion in the previous section, we incorporate other country
+characteristics that can be expected to affect FDI. We include country size, measured as
+the log of total population, to control for scale, as well as the the availability of adult
+labor force, as measured by the adult share of the population.19
+We include each country’s currency exchange rate relative to the US dollar, all
+normalized by the rate in 2000. This means that a higher value of exchange rate implies
+a more depreciated local currency. Countries with undervalued currencies, all else equal,
+appear to attract more FDI (e.g., see, Froot and Stein, 1991).
+In sensitivity check we also include a measure of openness (i.e., imports plus
+exports divided by GDP) for two reasons. Being open to international trade reduces the
+18 We have also tried including the percent of GDP accounted by manufacturing and services, and found
+that they don't matter for attracting FDI after controlling for GDP per capita, urbanization, and other
+controls.
+19 Adults are defined to be between the age of 15 and 64.
+15
+<<<PDF_PAGE_17>>>
+need for trade-barrier jumping FDI. The variable is lagged by one period to avoid
+contemporaneous endogeneity bias.
+The SADC dummy. To assess whether FDI inflows to SADC are “exceptional”
+compared to other countries with similar income levels, we include a SADC dummy
+variable in the regression.
+The specification of our empirical analysis is therefore the following:
+Ln(FDIPC )  SADCX 'TRACK INST  (1)
+it 0 SADC it it it it
+where X represents variables related to general development and other characteristics,
+including log GDP per capita, log(mean years of schooling), telephone density, the urban
+share of population, the adult share of population, log population, exchange rate, and
+openness; TRACK includes the growth trend and its volatility in the past five years; INST
+are the institutional measures represented by Rule of Law or control of corruption.20
+Since many of the explanatory variables, especially the institutional variables, tend to be
+stable over time, using fixed effects would exacerbate the influence of measurement
+problems (Griliches and Hausman, 1986), and thus we present OLS estimates. Because
+the errors are likely to be correlated within countries, we allow clustering of the error
+term at the country level (Moulton, 1986).
+Summary Statistics
+Table 6 reports the differences in key variables between the SADC region and the two
+comparison groups for the 2001 to 2006 period, namely, non-SADC countries and non-
+SADC countries with similar income levels. The latter group drops country-year
+observations with incomes exceeding the highest income level for the countries within
+the SADC region. The SADC region has an average growth rate in real GDP per capita
+20
+There are some missing observations for rule of law, corruption, and schooling. Since dropping all
+missing observations for these variables would entail a significant loss of sample, we imputed these
+variables with basic country indicators such as GDP per capita and the urbanization share; we then also
+include missing indicators for the three vairables to capture potential mis-imputation. We reach similar
+conclusions about our key results if we drop the sample with imputed missing observations for the three
+variables.
+16
+<<<PDF_PAGE_18>>>
+of 2.3 percent, lower than the non-SADC group (3.1 percent) and the similar-income
+sample (3.1 percent) by 0.8 percentage points. The average GDP per capita is around
+1300 U.S. dollars, slightly higher than the similar-income sample, and much lower than
+the non-SADC sample. Per capital FDI is 36.6 U.S. dollars (in 2000 value), about 18
+percent of the average for the non-SADC sample (202.8 dollars), and 58 percent of the
+similar-income sample (63.2 dollars). The two proxies of institutions, the rule of law
+index and the control of corruption index, are similar between SADC and the similar-
+income sample, but slightly lower than the non-SADC sample. Thus, it appears that
+SADC lags slightly behind in attracting FDI inflows relative to similar-income countries
+and further behind when compared with the non-SADC sample. Moreover, it seems that
+the institutional disadvantage is negligible; key disadvantages for SADC seem to be its
+lower growth rate and its lower income level to the extent that these factors are important.
+Results
+Table 7 reports the results. The pooled-sample results appear in the first three columns,
+and the similar-income sample results are reported in the next two columns. The
+institutional variable is the rule of law in Column (1), and the control-of-corruption index
+in Column (2). Column (3) adds "trade/GDP lagged" as an additional control to test the
+robustness of our results. The structure of the last two columns with the similar-income
+subsample is similar, but for the sake of brevity we do not report the results using the
+control-of-corruption index as an alternative institutional measure.21
+The alternative measures of institutions yield similar results (see columns (2) and
+(3)). In addition, adding lagged trade/GDP does not change our main results. However,
+since trade/GDP can be affected by FDI, it is potentially endogenous. Thus, we leave it
+out of our base specification. But for readers who are concerned that a major omitted
+variable might be openness, our main results are unaffected by its inclusion. Finally, the
+main results from the similar-income sample are also similar to those of the pooled
+sample.
+21 The results are very similar and are available upon request.
+17
+<<<PDF_PAGE_19>>>
+We thus focus on Column (1). Good macroeconomic performance track records
+attract FDI. The average growth in the previous five years appears with a positive and
+significant coefficient while growth volatility has the opposite sign (though statistically
+insignificant). The general government quality, the rule of law variable, does not directly
+affect FDI. Growth expectations, therefore, are the most important determinant of FDI.
+Measures of economic fundamentals matter a great deal. Schooling, though
+statistically insignificant, has the expected sign. Phone density is significant, indicating
+that FDI tends to flow to countries with better infrastructure. Similarly, FDI tends to
+flow to richer countries, due perhaps to better protection of property rights, market sizes
+and so on. Another important variable is the share of adult labor force in total population,
+which has the expected positive sign and is highly significant. This is potentially
+worrisome for SADC because the region has a higher share of dependents than other
+regions. Interestingly, countries with a smaller population tend to have higher FDI per
+capita—perhaps the benefits of FDI (such as through bringing export opportunities) are
+higher for smaller countries, which face a tighter constraint of small domestic markets.
+The SADC dummy is not statistically significant. This means that once we
+control for the observed variables, the region on average does not lag behind other
+countries in attracting FDI per capita. It appears that SADC’s relatively low FDI is
+therefore a consequence of relative under-performance in terms of the observed
+explanatory variables.
+A more general test of the SADC effect is to allow SADC to interact with the
+other explanatory variables. It turns out that only the interaction terms with phone
+density, income level, and openness are close to being statistically significant. Thus, we
+report a specification in Table 8 in which the SADC dummy variable is interacted with
+these three variables. The coefficients of the non-interacting variables remain largely the
+same as those reported in Table 7. The SADC dummy variable still is statistically
+insignificant. The three interaction terms, SADC GPD per capita, SADC openness,
+and SADC phone density are all statistically significant. For SADC, phone density is
+not important for attracting FDI. Neither is the income level, which makes sense because
+18
+<<<PDF_PAGE_20>>>
+for the relatively small SADC countries, market size (partially captured by the level of
+income) is not important because FDI probably tends to be export-oriented, a tendency
+confirmed by our earlier firm-level analysis. Finally, openness is much more important,
+with a coefficient that is twice that of the rest of the world. Again, our interpretation is
+that for small countries, openness increases the expected value of FDI as openness
+facilitates exports. In other words, there is a stronger complementarity of openness and
+FDI for SADC.
+What Explains the SADC Disadvantage in FDI?
+To shed light on how the key variables explain the relatively low FDI per capita of SADC,
+we choose two comparison groups: the East-Asia Pacific countries (EAP, consisting of
+China, Indonesia, Malaysia, and Thailand), and the similar-income sample (consisting of
+all countries in our sample that have the same range of income per capita as the SADC).
+While our choice of the similar-income sample is easy to understand, we chose EAP to
+explain the gap between SADC and the front-runners among the developing countries.
+The results are contained in Table 9.
+The first comparison concerns SADC versus EAP. The difference in the
+dependent variable is 1.08 in favor of EAP. The percent of this difference explained by
+variable X is calculated as 100*(EX EX )/Y , where ,EX ,Y are
+k k k,EAP k,SADC k k,R
+the estimated coefficients (with the specification under the first column of Table 7
+without the SADC dummy), the mean X for region R, and the difference in the outcome,
+k
+respectively. The higher adult share of population in EAP explains 43 percent of the
+observed difference. The higher previous growth rate explains a further 32 percent.
+EAP’s advantage in phone density explains another 24 percent. The income level
+advantage of EAP adds 16 percent, and a better schooling becomes the last (somewhat)
+important factor, explaining about 9 percent.22 Country sizes, which is negatively
+correlated with FDI, actually help SADC countries since they tend to be smaller.
+22 The sum of the shares of the contribution of reported explanatory variables need not add to 100 percent
+because we do not report the shares that are explained by other variables, and because SADC and the
+comparator countries do not constitute the full sample of the regression.
+19
+<<<PDF_PAGE_21>>>
+The second comparison is between SADC and countries with similar income.
+The comparison group has an advantage in the dependent variable of 0.41. The most
+important variables for explaining this difference are phone density (43 percent of the
+difference), the adult share of population (39 percent), the income level (23 percent), and
+previous growth rates (7 percent).
+4. Conclusions
+At the beginning we asked three questions about FDI in SADC: Have FDI inflows
+played a positive role in SADC economies? Are SADC countries attracting too little FDI?
+What can be done to attract more FDI to this region? The answer to the first question is
+yes. We found evidence that FDI helped southern African economies. Foreign firms
+tend to be larger, export more, have higher productivity and sales growth rates; the
+presence of these firms thus raises the average firm performance and creates jobs for host
+countries. Moreover, domestic firms in the same industry tend to benefit from a stronger
+presence of foreign firms.
+Regarding the second question, we found that FDI flows to countries with good
+macroeconomic performance, as indicated by stable high growth in the past and good
+economic fundamentals (i.e., phone density, the adult share of population, and income
+level). Usual suspects – corruption or the rule of law – do not appear to significantly
+affect FDI. Importantly, we did not find that SADC's ability to attract foreign direct
+investment is exceptional: the SADC dummy is never statistically different from zero.
+There may be some differences between SADC and the rest of the world in FDI behavior,
+however: the income level appears less important, while openness to international trade is
+particularly important.
+The comparisons with other regions suggest that SADC has lower FDI per capita
+due to poorer economic fundamental (previous growth rates, lower income level, phone
+density, and the adult share of the population). The accounting exercise raises another
+question: Why do SADC countries have worse economic fundamentals? This is beyond
+20
+<<<PDF_PAGE_22>>>
+the scope of this paper. But there are plenty of analyses shedding light on this question.
+Some of the potential culprits include ethnic polarization (Easterly and Levine, 1997),
+political instability and civil wars (Collier and Gunning 1999), among others. The key
+for attracting FDI in SADC would be to build a fundamentally sound economy that
+naturally lures FDI. In addition, the results indicate that openness is especially important
+for SADC. Policies and procedures to encourage openness would therefore be especially
+important for the region.
+21
+<<<PDF_PAGE_23>>>
+References
+Acemoglu, Daron, Simon Johnson, James Robinson, 2005. “Institutions as the Fundamental
+Cause of Long-run Growth,” NBER wp 10481, the Handbook of Economic Growth,
+Elsevier, North-Holland.
+Aitken, Brian J., Ann E. Harrison. 1999. “Do Domestic Firms Benefit from Direct Foreign
+Investment? Evidence from Venezuela.” American Economic Review 89， 605-18.
+Ahmed, AD, E.J. Cheng, G. Messinis. “The role of exports, FDI and imports in development:
+evidence from Sub-Saharan African countries,” Applied Economics 43, 3719-3731.
+Asiedu, Elizabeth. 2006. “Foreign Direct Investment in Africa: The Role of Government Policy,
+Institutions and Political Instability,” World Economy, 29 (1), 63-77.
+Asiedu, Elizabeth. 2002. “On the Determinants of Foreign Direct Investment to Developing
+Countries: Is Africa Different?” World Development, 2002, 30 (1), 107-119.
+Alfaro, Laura, Sebnem Kalemli-Ozcan, and Vadym Volosovych, 2005. “Why doesn’t capital
+flow from rich to poor countries? An Empirical investigation,” NBER WP 11901.
+Calderon, Cesar, Luis Serven. 2008. "Infrastructure and Economic Development in Sub-Saharan
+Africa," World Bank Working Paper 4712, Washington, D.C.
+Caves, Richard, 1971, “International Corporations: the Industrial Economics of Foreign
+Investment,” Economica, Vol. 38, (Feb), pp. 1-27.
+Caves, Richard. 1999. Multinational Enterprise and Economic Analysis. Cambridge,
+Massachusetts: Cambridge Press.
+Collier, P., and JW Gunning. 1999. “Explaining African Economic Performance.” Journal of
+Economic Literature 37(1), 64-111.
+Coughlin, Cletus C., Joseph V. Terza, and Vachira Arromdee, 1991. "State Characteristics and
+the Location of Foreign Direct investment within the U. S.," Review of Economics and
+Statistics, Vol. 73, p. 675 – 683.
+Devarajan, Shantayanan, William Easterly, and Howard Pack. "Low Investment Is Not the
+Constraint on African Development," Economic Development and Cultural Change,
+51(3), 547-71.
+Djankov, Simeon, and Bernard Hoekman. 2000. “Foreign Investment and Productivity Growth in
+Czech Enterprises.” World Bank Economic Review 14, 49-64.
+Durnev, Artyom, and E Han Kim, 2005, “To Steal or Not to Steal: Firm Attributes, Legal
+Environment, and Valuation,” Journal of Finance, Vol.60, No.3 , June 2005, 1461-1493
+Easterly, William, M. Kremer, L. Pritchett, L. Summers. 1993. “Good policy or good luck?
+Country Growth Performance and Temporary Shocks.” Journal of Monetary Economics
+32, 459-483.
+Easterly, William, Ross Levine. 1997. "Africa's Tragedy: Policies and Ethnic Divisions,"
+Quarterly Journal of Economics 112(4), 1203-1250.
+22
+<<<PDF_PAGE_24>>>
+Fan, Joseph, Randall Morck, Bernard Yeung, Lixin Colin Xu. 2009. "Institutions and Foreign
+Direct Investment: China vs. the Rest of the World", World Development 37 (4), pp. 852-
+865.
+Foley, C. Fritz, Mihir A. Desai, and James R. Hines Jr. 2004. "A Multinational Perspective on
+Capital Structure Choice and Internal Capital Markets." Journal of Finance, 59, no. 6
+(December 2004): 2451-2488.
+Foroutan, Faezeh, Lant Pritchett. “Intra-Sub-Saharan African Trade: Is It Too Little,” World
+Bank wokring paper.
+Froot, Kenneth A. and Jeremy C. Stein, (1991) "Exchange Rates and Foreign Direct Investment
+and Imperfect Capital Market Approach," Quarterly Journal of Economics, Nov, p. 1191
+– 1217.
+Globerman, Steven, and Daniel Shapiro, 2002, “Global Foreign Direct Investment Flows: the
+Role of Governance Infrastructure,” Industry Canada.
+Griliches, Zvi, and Jerry Hausman. 1986. "Errors in Variables in Panel data" Journal of
+Econometrics 31(1), pp. 93-118.
+Haddad, Mona, and Ann E. Harrison. 1993. “Are There Positive Spillovers from Direct Foreign
+Investment? Evidence from Panel Data for Morocco.” Journal of Developing Economics
+42, 51-74.
+Hallward-Driemeier, Mary, Scott Wallsten, Lixin Colin Xu. "Ownership, Investment Climate and
+Firm Performance," Economics of Transition 14(4), 629-47.
+Haskel, Janathan; Sonia Pereira, and Mathew Slaughter. 2002. “Does Inward Foreign Direct
+Investment Boost the Productivity of Domestic Firms?” NBER working paper No. 8724.
+Kaufman, Daniel, Aart Kraay, and Massimo Mastruzzi. 2010. “The Worldwide Governance
+Indicators: Methodology and Analytical Issues.” World Bank Policy Research Working
+Paper No. 5430.
+Keller, Wolfgang, and Stephen Yeaple. 2003. “Multinational Enterprises, International Trade and
+Productivity Growth: Firm Level Evidence from the United States.” NBER working
+paper No. 9504.
+Konings, J. 2001. "The Effects of Foreign Direct Investment on Domestic Firms: Evidence from
+Firm-Level Panel Data in Emerging Countries," Economics of Transition 9(3), 619-33.
+Hanson, Gordon, Matthew Slaughter, and Raymond Mataloni, 2001, "Expansion Strategies of
+U.S. Multinational Firms," in Dani Rodrik and Susan Collins, eds., Brookings Trade
+Forum 2001, 2001: 245-282.
+Hausman, R., Dani Rodrik, Andres Velasco. 2005. “Growth Diagnostics.” in J. Stiglitz and N.
+Serra, eds., The Washington Consensus Reconsidered: Towards a New Global
+Governance, Oxford University Press, New York.
+Javorcik, Beata. 2004. “Does Foreign Direct Investment Increase the Productivity of Domestic
+Firms? In Search of Spillovers through Backward Linkages,” American Economic
+Review 94, 605-27.
+Kee, Hiau Looi. 2010. “Uncovering Horizontal Spillovers: When Foreign and Domestic Firms
+Share Common Local Input Supplier.” Working paper, World Bank, Washington, D.C.
+23
+<<<PDF_PAGE_25>>>
+King, Robert G and Ross Levine. 1993. “Finance, Entrepreneurship, and Growth: Theory and
+Evidence,” Journal of Monetary Economics 32:3, pp. 513-42.
+Knack, Stephen; Rahman, Aminur. 2007. "Donor Fragmentation and Bureaucratic Quality in Aid
+Recipients," Journal of Development Economics 83(1), 176-97.
+Kremer, Michael. 1993. “The O-Ring Theory of Economic Development.” Quarterly Journal of
+Economics 108, 551-575.
+La Porta, Rafael, Florencio Lopez-de-Silanes, Andrei Shleifer and Robert Vishny. 1997. “Legal
+Determinants of External Finance,” Journal of Finance 52:3, pp. 1131-50.
+La Porta, Rafael, Florencio Lopez-de-Silanes, Andrei Shleifer, and Robert Vishny. 1998. “Law
+and Finance,” Journal of Political Economy. 106:6, pp. 1113-55.
+Lin, Justin Yifu. 2009. Economic Development and Transition: Thought, Strategy, and Viability.
+New York: Cambridge University Press.
+Markusen, J.R. 2001. Multinational Firms and the Theory of International Trade. Cambridge, MA:
+MIT Press.
+Morck, Randall and Bernard Yeung (1992) “Internalization: An Event Study Test,” Journal of
+International Economics, Vol. 33, (August), p. 41-56.
+Morck, Randall and Bernard Yeung (1991) “Why Investors Value Multinationality,” Journal of
+Business, 64(2): 165-87.
+Moulton, Brent. 1986. "Random group effects and the precision of regression estimates," Journal
+of Econometrics 32, 385-397.
+North, Douglass C. 1990. Institutions, Institutional Change, and Economic Performance,
+Cambridge University Press, New York.
+Rankin, Neil, Mans Soderbom. 2006. "Exporting from Manufacturing Firms in Sub-Saharan
+Africa," Journal of African Economies 15(4), 671-87.
+Rodrik, Dani. 1999. “The New Global Economy and Developing Countries: Making Openness
+Work.” Overseas Development Council (Baltimore, MC) Policy Essay No. 24.
+Rogoff, Kenneth, Carmen M. Reinhard. 2002. “FDI to Africa: The Role of Price Stability and
+Currency Instability,” (with Carmen M. Reinhart), in Boris Pleskovic and Nicholas Stern
+(eds.), Annual World Bank Conference on Development Economics 2002: The New
+Reform Agenda, (Washington, DC: World Bank/Oxford University Press), 247-82
+United Nations. 1999. Foreign Direct Invesmtent in Africa: Performance and Potential. Geneva.
+Wheeler, David, and Ashoka Mody (1992), “International investment location decisions,”Journal
+of International Economics, 33, pp. 57-76.
+Wang, Xiaozu, Lixin Colin Xu, Tian Zhu. 2012. “Foreign Direct Investment under a Weak Rule
+of Law: Theory and Evidence from China.” Economics of Transition 20(3), July, 401-424,
+Lead article.
+Xu, Lixin Colin, Tian Zhu, Yi-Min Lin. 2005. "Politician Control, Agency Problems and
+Owership Reform: Evidence from China," Economics of Transition 13(1), 1-24.
+24
+<<<PDF_PAGE_26>>>
+Xu, Lixin Colin. 2011. "The Effects of Business Environments on Development: A Survey of
+New Firm-Level Evidence,” World Bank Research Observer 26 (2), 310-340, August.
+World Bank. 2009. World Development Report: Reshaping Economic Geography. The World
+Bank, Washington, D.C.
+Yasar, Mahmut, Catherine J. Morrison Paul. 2007. "International Linkages and Productivity at the
+Plant Level: Foreign Direct Investment, Exports, Imports and Licensing," Journal of
+International Economics 71(2), 373-88.
+Zhang, AM, YM Zhang, R Zhao. 2001. "Impact of Ownership and Competition on the
+Productivity of Chinese Enterprises," Journal of Comparative Economics 29(2), 327-46.
+25
+<<<PDF_PAGE_27>>>
+Table 1. Definitions of variables in firm-level analysis
+Variable Definitions
+FRN Share of foreign ownership
+largest owner Ownership shares by the largest shareholder.
+ln(firm age) The logarithm of firm age.
+Loss_crime The share of losses in sales due to crime.
+Ln(GDPpc) Ln(GDP per capita of the country)
+Firing_cost Firing costs in terms of weeks of wages, from WDI.
+Interest_spread Interest spread, from WDI.
+Govt_efficiency Government effectiveness index, from ICRG.
+Control_CR Control of corruption, from ICRG.
+26
+<<<PDF_PAGE_28>>>
+Table 2. Firm-level summary statistics for the SADC region as a whole
+Foreign firms Domestic firms
+mean p50 sd mean p50 sd
+Ln(L) 3.395 3.091 1.619 2.530 2.398 1.333
+Ln(GDPpc) 7.013 7.230 1.201 6.852 6.951 1.181
+Firing_cost 61.230 53.200 41.204 53.537 32.000 41.339
+Interest_spead 10.583 7.587 10.571 12.157 8.720 12.880
+Govt_efficiency -0.176 -0.306 0.746 -0.273 -0.334 0.754
+Sales growth 0.405 0.078 1.370 0.285 0.093 1.008
+TFPtran 0.091 0.023 0.581 0.001 -0.030 0.492
+Exporter 0.207 0.000 0.406 0.077 0.000 0.267
+FRN 0.834 1.000 0.264 0.000 0.000 0.000
+Largest owner 0.711 0.700 0.245 0.839 1.000 0.241
+Ln(firm age) 2.139 2.079 0.984 2.036 1.946 0.968
+Loss_crime 0.012 0.000 0.038 0.021 0.000 0.514
+27
+<<<PDF_PAGE_29>>>
+Table 3. Effects of foreign ownership: SADC sample
+All SADC countries Excluding South Africa
+sales growth TFPtran sales growth TFPtran
+coef/se coef/se coef/se coef/se
+foreign ownership 0.200** 0.141*** 0.151* 0.097**
+(0.081) (0.048) (0.084) (0.045)
+largest owner 0.174** 0.029 0.215** 0.037
+(0.075) (0.026) (0.085) (0.032)
+ln(firm age) -0.168*** -0.018 -0.190*** -0.016
+(0.049) (0.012) (0.050) (0.014)
+loss_crime 0.039*** -0.022*** 0.040*** -0.021***
+(0.003) (0.002) (0.003) (0.001)
+ln(GDPpc) -0.218*** 0.075** -0.199*** 0.085**
+(0.053) (0.036) (0.045) (0.036)
+Firing_cost -0.001* -0.002*** -0.002*** -0.002***
+(0.001) (0.000) (0.000) (0.000)
+interest spread -0.015*** -0.004*** -0.015*** -0.004***
+(0.003) (0.001) (0.003) (0.002)
+government effectiveness 0.169* -0.124* 0.217** -0.082
+(0.101) (0.064) (0.093) (0.062)
+lnS 0.041 0.065***
+(0.025) (0.023)
+industry dummies yes no yes no
+Number of observations 3,842 2,929 3,186 2,299
+Adjusted R2 0.094 0.066 0.105 0.078
+standard errors in parentheses, clustered at the country level.
+*, ** and ***: statistical significance at the 10, 5 and 1 percent levels.
+28
+<<<PDF_PAGE_30>>>
+Table 4. Exporting and Foreign ownership:
+The SADC sample
+All SADC countries Excluding South Africa
+exporter exporter
+coef/se coef/se
+foreign 0.055*** 0.050***
+(0.021) (0.019)
+largest owner -0.061*** -0.050**
+(0.024) (0.023)
+ln(firm age) 0.012 0.005
+(0.009) (0.006)
+loss_crime 0.000 0.000
+(0.001) (0.001)
+Lgdppc 0.000 0.002
+(0.016) (0.018)
+Firing_cost -0.000 -0.000
+(0.000) (0.000)
+interest spread -0.001 -0.001
+(0.001) (0.001)
+government effectiveness -0.008 0.000
+(0.021) (0.024)
+lnS 0.037*** 0.038***
+(0.004) (0.005)
+industry dummies yes yes
+Number of observations 6,248 5,368
+Adjusted R2 0.189 0.197
+standard errors in parentheses, clustered at the country level.
+*, ** and ***: statistical significance at the 10, 5 and 1 percent levels.
+29
+<<<PDF_PAGE_31>>>
+Table 5. Effects of foreign ownership on productivity of SADC domestic firms
+All SADC countries Excluding South Africa
+TFPtran TFPtran TFPtran TFPtran
+coef/se coef/se coef/se coef/se
+largest owner 0.070** 0.066** 0.091*** 0.090***
+(0.028) (0.026) (0.028) (0.027)
+ln(firm age) -0.021 -0.023 -0.018 -0.019
+(0.014) (0.015) (0.016) (0.016)
+loss_crime -0.021*** -0.022*** -0.021*** -0.021***
+(0.001) (0.001) (0.001) (0.001)
+ln(GDPpc) 0.094*** 0.081*** 0.107*** 0.099***
+(0.026) (0.029) (0.028) (0.027)
+firing_cost -0.002*** -0.002*** -0.002*** -0.002***
+(0.000) (0.000) (0.000) (0.000)
+interest spread -0.003*** -0.003** -0.003*** -0.003**
+(0.001) (0.001) (0.001) (0.001)
+government effectiveness -0.148*** -0.130* -0.079 -0.065
+(0.057) (0.067) (0.057) (0.058)
+industry-level employment-weighted 0.232*** 0.139
+average foreign ownership (0.082) (0.092)
+Number of observations 2,210 2,210 1,669 1,669
+Adjusted R2 0.066 0.062 0.087 0.086
+Note. Standard errors in parentheses, clustered at the country level.
+***, **, and * represent statistical significance at the 1, 5 and 10 percent levels.
+The sample consists of domestic firms in SADC countries..
+30
+<<<PDF_PAGE_32>>>
+Table 6. Summary Statistics for SADC and Comparator countries:
+2001-2006 average.
+Non-SADC:
+SADC Non-SADC
+similar income countries
+Mean Mean Mean
+Real growth rate of GDP per capita 2.261 3.128 3.102
+GDP per capital, USD real 1,289.358 7,248.203 1,229.144
+FDI per capita 36.599 202.808 63.167
+FDI/GDP 0.037 0.068 0.041
+Rulelaw 0.991 1.181 0.946
+Control_CR 0.651 0.834 0.661
+31
+<<<PDF_PAGE_33>>>
+Table 7. Is the SADC region different?
+The dependent variable is ln(FDI per capita + constant)
+Pooled Sample Similar-Income Sample
+coef/se coef/se coef/se coef/se coef/se
+ln(schooling ) 0.198 0.200 0.138 0.218 0.065
+t-1
+(0.170) (0.166) (0.177) (0.169) (0.175)
+ln(phone density ) 0.243** 0.231** 0.261** 0.159 0.121
+t-1
+(0.116) (0.111) (0.114) (0.110) (0.106)
+the adult share of population 4.391** 4.456** 2.505 4.914** 3.621*
+t-1
+(2.103) (2.086) (2.097) (2.080) (2.000)
+urban share 0.334 0.348 0.145 0.378 0.456
+t-1
+(0.614) (0.610) (0.616) (0.653) (0.642)
+Ln(population) -0.123* -0.124** -0.009 -0.177*** -0.047
+(0.063) (0.063) (0.068) (0.061) (0.064)
+Relative exchange rate -0.002* -0.002 -0.002** 0.003 0.001
+t-1
+(0.001) (0.001) (0.001) (0.008) (0.009)
+Ln(GDPpc ) 0.275* 0.268* 0.326** 0.300* 0.376**
+t-1
+(0.148) (0.149) (0.151) (0.159) (0.156)
+Mean GDPpc growth 0.075*** 0.074*** 0.072*** 0.069*** 0.068***
+in the previous 5 yrs (0.015) (0.015) (0.013) (0.015) (0.014)
+S.D. GDPpc growth -0.890 -0.860 -1.304* -0.693 -1.071
+in the previous 5 yrs (0.714) (0.706) (0.738) (0.680) (0.715)
+Rulelaw 0.025 0.036 0.018 0.014
+t-1
+(0.056) (0.055) (0.057) (0.058)
+Control of Corruption 0.064
+t-1
+(0.070)
+Trade/GDP 0.702*** 0.960***
+t-1
+(0.160) (0.195)
+SADC dummy 0.018 -0.011 -0.117 0.049 -0.085
+(0.305) (0.306) (0.286) (0.287) (0.255)
+Number of observations 3,265 3,265 3,187 2,311 2,269
+Adjusted R2 0.442 0.443 0.455 0.376 0.409
+Note. ***, **, and * represent statistical significance at the 1, 5 and 10 percent levels.
+Standard errors clustered at the country level.
+The constant in the dependent variable is 1.4.
+32
+<<<PDF_PAGE_34>>>
+Table 8. Is SADC Different? Another Look
+The dependent variable is ln(FDI per capita + constant)
+ln(schooling ) 0.109
+t-1
+(0.631)
+ln(phone density ) 0.308***
+t-1
+(2.711)
+the adult share of population 2.560
+t-1
+(1.263)
+urban share 0.091
+t-1
+(0.148)
+Ln(population) -0.015
+(-0.228)
+Relative exchange rate -0.002*
+t-1
+(-1.743)
+Ln(GDPpc ) 0.329**
+t-1
+(2.149)
+Mean GDPpc growth in the previous 5 yrs 0.077***
+(5.839)
+S.D. GDPpc growth in the previous 5 yrs -1.388*
+(-1.862)
+Rulelaw 0.018
+t-1
+(0.341)
+Trade/GDP 0.639***
+t-1
+(3.924)
+SADC 1.928
+(1.347)
+SADC * ln(phone density ) -0.293*
+t-1
+(-1.791)
+SADC * Ln(GDPpc ) -0.386*
+t-1
+(-1.696)
+SADC * Trade/GDP 0.683*
+t-1
+(1.939)
+Number of observations 3,187
+Adjusted R2 0.464
+Note: ***, **, and * represent statistical significance at the 1, 5 and 10 percent levels.
+Standard errors clustered at the country level.
+The constant in the dependent variable is 1.4.
+33
+<<<PDF_PAGE_35>>>
+Table 9. Accounting for the log FDI per capita outcome
+Mean for = 1.08
+Co eff SDDC EAP (EX EX )/Y
+k EAP SADC
+Independent variables: 2.09 3.17
+Share of adult population 4.37 0.53 0.64 42.58
+t-1
+Mean real GDPpc growth rate in the
+previous five years 0.08 0.59 5.17 31.81
+ln(phone density ) 0.24 0.42 1.50 24.23
+t-1
+ln(GDPpc )
+t-1 0.27 6.41 7.05 16.35
+ln(schooling) 0.20 1.10 1.60 9.33
+urban 0.33 0.31 0.37 2.08
+t-1
+S.D. of real GDPpc growth rate in the
+previous five years -0.89 0.07 0.06 1.32
+rulelaw 0.03 2.62 3.14 1.22
+t-1
+Relative exchange rate 0.00 2.71 0.69 0.32
+t-1
+ln(population) -0.12 1.91 4.83 -33.30
+similar income
+SDDC countries:
+mean 2.09 mean 2.50 = 0.41
+ln(phone density ) 0.24 0.42 1.15 43.04
+t-1
+Share of adult population 4.37 0.53 0.57 38.51
+t-1
+ln(GDPpc )
+t-1 0.27 6.41 6.75 22.66
+urban 0.33 0.31 0.43 9.64
+t-1
+Mean real GDPpc growth rate in the
+previous five years 0.08 0.59 0.98 7.09
+ln(population) -0.12 1.91 1.66 7.58
+ln(schooling) 0.20 1.10 1.18 3.86
+Relative exchange rate 0.00 2.71 0.69 0.84
+t-1
+S.D. of real GDPpc growth rate in the
+previous five years -0.89 0.07 0.08 -2.53
+rulelaw 0.03 2.62 2.46 -1.01
+t-1
+Notes: The results for other variables are not reported. The coefficients are based on the same
+specification in Column (1) of Table 7--except that we do not control for SADC dummy here, since it is not
+statistically significant.
+34
+<<<PDF_PAGE_36>>>
+The Appendix
+Table A.1. Mean Characteristics for SADC, EAP and the similar-income sample
+mean mean mean
+SADC EAP Similar income as SADC
+Foreign 0.175 0.135 0.108
+Largest owner 0.813 0.678 0.753
+ln(firm age) 2.058 2.354 2.324
+Loss_crime 0.020 0.004 0.012
+ln(GDPpc) 6.886 7.247 6.937
+Fire_cost 55.152 88.344 64.715
+interest_spread 11.822 3.542 9.335
+govt_efficiency -0.253 0.052 -0.275
+ln(sales) 4.856 8.288 6.361
+Note. “Similar income as SADC” means income less than 4600 USD (in 2000 value)
+35

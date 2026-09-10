@@ -1,0 +1,1019 @@
+<<<PDF_PAGE_1>>>
+Levelling Up Fund
+Technical Note – UK wide
+May 2021
+1
+Version 1.1
+<<<PDF_PAGE_2>>>
+1 Introduction
+1.1 This document sets out further guidance on eligibility, MP support and the
+application and assessment process for the first round of the Levelling Up Fund for
+Great Britain (GB) and Northern Ireland (NI). It is designed to support bidding
+authorities to complete the LUF application form by the deadline of 12.00 noon
+on 18 June. Applications received after that deadline will not be considered.
+This guidance should be read alongside the Levelling Up Fund Application form and
+the Levelling Up Fund Prospectus and which sets out the objectives of the Fund and
+how it will be delivered.
+1.2 The Levelling Up Fund is a capital only fund, administered by the Ministry of
+Housing, Communities and Local Government (MHCLG), Department for Transport
+(DfT) and HM Treasury (HMT). References to the ‘Secretary of State’ are to the
+Secretary of State for Housing, Communities and Local Government, Secretary of
+State for Transport and the Chancellor of the Exchequer.
+1.3 Bidding authorities should note that we will publish FAQs in April, and further
+guidance later in the Spring. This will include guidance on delivery assurance and
+governance, monitoring and data requirements and the national evaluation
+approach. Government may also update or amend the technical requirements and
+guidance from time to time and lead entities must ensure they are using the most up
+to date versions of all documents which will be available on gov.uk
+2
+Version 1.1
+<<<PDF_PAGE_3>>>
+2 Contents
+Section Page reference
+Section 3: Timetable Page 3
+Section 4: Communicating with HMG Page 4
+Section 5: Subsidy Control, State Aid and compliance with Page 4
+UK legislation
+The Levelling Up Fund Process in Great Britain
+Section 6: Role of MPs in bidding Page 5
+Section 7: Eligibility Page 5-6
+Section 8: Capacity Funding Page 6
+Section 9: Preparing and Submitting LUF Bids Page 6-7
+Section 10: LUF assessment and decision making Page 7 - 12
+The Levelling Up Fund Process in Northern Ireland
+Section 11: Eligibility Page 13
+Section 12: Capacity Funding Page 13
+Section 13: Preparing and Submitting LUF Bids Page 13 – 14
+Section 14: LUF assessment and decision making Page 14 - 15
+Annexes
+Annex A: Glossary Page 16
+Annex B: Table of interventions Page 17 - 19
+Annex C: Further value for money guidance Page 20 - 21
+Annex D: Large transport scheme checklist Page 22 - 29
+3 Timetable
+When Activity
+March 2021 Webinars conducted by UKG officials to clarify the policy,
+application process and assessment.
+14 April 2021 Deadline for places to submit their questions to
+levellingupfund@communities.gov.uk
+April 2021 FAQs Published on
+https://www.gov.uk/government/publications/levelling-up-fund-
+additional-documents
+12.00 noon18 Bidding entities submit bids to MHCLG -
+June 2021 levellingupfund@communities.gov.uk
+June – Autumn Bid assessment by MHCLG and DfT
+Autumn Decision making and announcements
+3
+Version 1.1
+<<<PDF_PAGE_4>>>
+4 How do you communicate with us?
+4.1 Applications should be sent to the Levelling Up Fund inbox
+levellingupfund@communities.gov.uk by 12.00 noon on 18 June. Bidders are also
+invited to send any questions to that same inbox by no later than 14 April. FAQs will
+be published later in April 2021. Webinars will also be held on 29 and 30 March.
+5 Subsidy Control, State Aid and compliance with UK legislation
+5.1 If the Levelling Up Fund is used to provide a subsidy, expenditure must be compliant
+with the UK’s obligations on subsidy control.
+5.2 All bids that may be considered subsidy must consider how they will deliver in line
+with subsidy control (or State Aid for aid in scope of the Northern Ireland Protocol) as
+per UK Government guidance - which can be found
+here: https://www.gov.uk/government/publications/complying-with-the-uks-
+international-obligations-on-subsidy-control-guidance-for-public-authorities
+5.3 Bids supported by the Levelling Up Fund must comply with all relevant UK
+legislation.
+4
+Version 1.1
+<<<PDF_PAGE_5>>>
+The Levelling Up Fund Process in Great Britain
+6 Role of MPs in bidding
+6.1 The Government recognises the important role of Members of Parliament in
+championing the interests of their constituents. We expect bidding authorities to
+consult local Members of Parliament as they develop the bid. MPs can play a
+positive role in prioritising bids and helping broker local consensus. Support and
+engagement from local stakeholders and local MPs will be considered as part of the
+strategic fit assessment of bids (see assessment framework below) but is only one
+part of a wider assessment and is not a necessary condition for a successful bid.
+6.2 MPs have the option of providing formal written support for one bid which they see
+as a priority. The lead authority must submit that letter of priority support along with
+their application. A bid may have priority support from multiple MPs and local
+stakeholders.
+6.3 In addition to formally backing one bid, MPs may also want to support any or all
+schemes that would have a benefit to their constituencies as part of the wider
+stakeholder input process. Individual MPs should not provide a letter offering their
+priority support to more than one bid. We will not be able to consider formal priority
+support in the assessment process if an MP offers this to more than one bid.
+6.4 Information on the role of MPs in future bidding rounds will be confirmed after
+funding has been announced for bids from the first funding round.
+7 Eligibility
+7.1 Unitary authorities (including metropolitan borough councils), London borough
+councils and district councils in two tier areas in England; and unitary authorities in
+Scotland and Wales are eligible to submit bids.
+7.2 Local authorities will be able to submit a number of bids determined by the number
+of parliamentary constituencies wholly within the local authority boundary and the
+area’s agreement when constituencies cross more than one local authority:
+• Local authorities can submit one bid for every MP whose constituency lies
+wholly within their boundary.
+• Where an MP’s constituency crosses more than one local authority, one local
+authority must take responsibility as the lead bidder. Local areas should work
+together and with the local MP to designate that lead bidder. Lead authorities
+will receive an additional bid once they are designated as such
+7.3 Underpinning this, every local authority will be able to submit at least one bid, even if
+they do not have any constituencies wholly lying within their boundaries and are not
+5
+Version 1.1
+<<<PDF_PAGE_6>>>
+the designated lead authority for constituencies crossing into multiple local
+authorities.
+Transport-only bids
+7.4 In addition to the above, county councils with transport powers, combined
+authorities, mayoral combined authorities and the Greater London Authority (GLA)
+are eligible to submit one transport bid; and unitary authorities in Scotland and
+Wales, and unitary authorities in England with transport powers are able to submit
+one additional bid which also must be for transport. These transport-only bids are
+allocated independently of constituency boundaries.
+8 Capacity Funding
+8.1 Capacity funding of £125,000 will be provided to eligible local authorities: the 93 local
+authorities in England that fall into category 1 on the index of priority places
+published alongside the prospectus; and all local authorities in Scotland and Wales.
+This revenue funding will not be ringfenced and is expected to be used by bidders to
+assist them to build capacity. Further information on how and when this funding will
+be paid will be published in our FAQs.
+9 Preparing and submitting LUF bids
+9.1 Local Authorities are invited to submit one or more capital bids (by filling out the LUF
+application form). A capital bid can be for an individual project or a package of up
+to three projects, up to £20 million in value per bid, or in exceptional cases up to
+£50m per bid for larger transport projects. Both individual and package bids can
+contain proposals within a single theme, or across multiple themes, so long as they
+form part of a coherent, consistent proposal. All bids must be submitted in full with
+all supporting documentation, and where appropriate the approval of the
+responsible authority to levellingupfund@communities.gov.uk by 12.00 noon 18
+June 2021. Any bids or supporting documentation submitted after this
+deadline will not be assessed or considered for funding. Any incomplete bids
+will be assessed based on what has been submitted.
+9.2 Package bids (those with two or three projects) must clearly explain how their
+component elements are aligned with each other and represent a coherent set of
+interventions. In this instance, they will be assessed together at the bid level rather
+than as individual projects. This is for two reasons: firstly, to ensure competition
+outcomes can be announced in the autumn to enable spend and delivery to get
+underway in 2021/22; secondly because the fund has been designed in such a way
+that LAs should be presenting a coherent set of bids. We therefore need to be able
+to assess how packages of projects work together. If there are weaknesses in one
+of the projects, places should be mindful that it will adversely impact on the
+overall score of their bid.
+6
+Version 1.1
+<<<PDF_PAGE_7>>>
+9.3 Bids will be accepted for larger transport schemes, by exception, such as
+investments in the local road network. Such bids will need to be between £20 million
+and £50 million and can be submitted by any bidding local authority (provided they
+have the support of the authority with responsibility for transport).
+9.4 The application form should be submitted by 18 June for all larger transport project
+bids that are submitted for the first round of the Fund. It is expected that a more
+detailed business case will need to be appraised before funding can be confirmed
+for larger transport schemes. Therefore, DfT will assess the application form for
+larger transport project bids and advise whether they should be developed further
+and a more detailed business case should be prepared for review.
+9.5 If available, a more detailed business case may be submitted for larger transport
+project bids by 18 June in addition to the application form. The assessment of more
+detailed business cases will occur at a later stage before funding can be confirmed
+for larger transport project bids.
+9.6 Please note that more detailed business cases for larger transport projects should
+be in a transport business case format and be compliant with the Green Book’s five-
+case model and the Department for Transport’s guidance on transport analysis
+(TAG). More detailed business cases should include information requested in the
+Application Form and more comprehensive plans and information for relevant
+projects. A checklist of the relevant information and materials that should be
+provided in more detailed business case submissions is at Annex D in the technical
+note.
+9.7 Eligible local authorities may wish to submit a joint bid, where two or more local
+authorities are collaborating on a project or a package bid of up to 3 projects. This
+may be appropriate where a project or projects cross administrative boundaries.
+Joint bids will count towards the maximum number of bids that each local authority is
+able to submit. Each local authority can submit a maximum of £20m (i.e. one bid’s
+worth) of funding to a joint bid. For example, a joint bid from two local authorities
+could request a maximum of £40m, and a joint bid from three local authorities could
+request a maximum of £60m. A joint bid may not request more than £50m of
+investment for any individual project. When assessing joint bids on the
+“Characteristics of the Place” criterion we will reflect the index category that relates
+to location of where the majority of the project or projects are delivered/ where most
+funding is spent.
+10 LUF assessment and decision-making
+10.1 There will be a three staged approach to assessment and decision making.
+10.2 Stage 1 Gateway: The first stage is a pass/fail gateway criterion, where bids will be
+assessed against whether they can deliver some LUF expenditure in 2021/221. Bids
+that do not meet this gateway criteria will not be assessed further and will not be
+eligible to be considered for funding in this round.
+1 Eligible expenditure in 2021-22 could include capital development costs
+7
+Version 1.1
+<<<PDF_PAGE_8>>>
+10.3 Stage 2 Assessment and Shortlisting Bids: Bids will be assessed against the
+criteria set out in the Prospectus to deliver a shortlist of the strongest bids. To create
+a shortlist, applications will be assessed at the bid level against place characteristics,
+strategic fit, deliverability and value for money. Table 1 below provides detailed
+guidance on what places will be expected to demonstrate against strategic fit,
+deliverability and value for money in their application form. These three criteria,
+together with the place characteristics will carry equal weighting. The sub criteria in
+Table 1 also carry an equal weighting. This only applies to assessing projects for the
+shortlist – different weightings for these criteria may be applied when making final
+funding decisions in line with the published wider considerations. As explained
+above, places should note that where package bids are submitted, if one project is
+particularly weak it will affect the overall bid score. A funding shortlist for GB will be
+drawn up from those bids that score the highest overall, and who score at least
+average or above on strategic fit, value for money and deliverability.
+10.4 Stage 3 Decision Making: Once bid assessment and moderation has concluded,
+and the shortlist is drawn up, Ministers will make funding decisions. In making these
+decisions ministers may take account of some or all of these additional
+considerations:
+• Ensuring a reasonable thematic split of approved projects (e.g. across
+regeneration and town centre, transport and culture and heritage);
+• Ensuring a fair spread of approved projects across Great Britain;
+• Ensuring a fair balance of approved projects across places in need;
+• Prioritisation of either ‘strategic fit’ or ‘deliverability’ or ‘value for money’ over the
+other criteria. The prioritisation and weighting at this stage may be different from
+the weighting at assessment (noting this must be applied consistently to all
+projects);
+• Taking into account other investment in a local area. In future rounds, this could
+include funding provided to local areas through the first round of this Fund.
+10.5 We expect to announce the outcome of the competition by Autumn 2021
+Table 1: Assessment Framework for shortlisting bids
+Strategic Fit
+Sub-Criteria Factors that will be taken into account
+MP • You should explain whether any MP(s) have formally given the bid
+Endorsement their priority support in this funding round, with a signed letter
+included.
+8
+Version 1.1
+<<<PDF_PAGE_9>>>
+Stakeholder There is an expectation of engagement with all relevant stakeholders.
+Engagement The range of relevant stakeholders will vary and therefore there is no
+and Support list of stakeholders for whom evidence of support must be provided
+with the exception of where the local MP is supporting the bid as a
+priority (see section below). Wider MP (non-priority MP support)
+should be demonstrated here.
+We are looking for applications that set out:
+• what engagement has been done with local stakeholders and the
+community
+• How you have identified those stakeholders, and the efforts you
+have made to reach those that might not normally engage
+• The methods you have used, including innovative virtual methods
+given the constraints of ongoing Covid-19 restrictions
+• The extent to which this engagement has informed the bid.
+• This should be evidenced, including links to any current/ ongoing
+consultations, community forums, etc
+• Where success of the bid is reliant on the cooperation and
+supporto f stakeholders or the local community, that should be
+made cleara nd evidenced in the response.
+The case for We are looking for applications to set out a strong case for investment
+investment and a realistic theory of change demonstrating:
+• Evidence of the local challenges/barriers to growth and context that
+the bid is seeking to respond. A clear explanation on what you are
+proposing to invest in and why the proposed interventions in the bid
+will address those challenges and barriers with evidence to support
+that explanation. As part of this, we would expect to understand the
+rationale for the location that the bid is focusing on. This will be
+reviewed alongside how places have been categorised on the
+Characteristics of Place Index
+• For transport schemes this should be presented as an Options
+Assessment Report (OAR).
+• Set out what your planned outputs and outcomes are and how you
+will deliver the outputs and confirms these results are likely to flow
+from the interventions. Bidders may wish to refer to annex B, which
+provides an illustrative summary of the outputs and outcome
+indicators based on likely interventions that fall within the scope of
+this fund
+• An explanation on why Government investment is needed (what is
+the market failure)
+• Explain whether/ how other public and private funding will be
+leveraged
+9
+Version 1.1
+<<<PDF_PAGE_10>>>
+Alignment We are looking for applications that explain how the bid aligns to and
+with the local supports:
+and national
+• relevant local strategies (such as Local Plans, local economic
+context
+strategies or Local Transport Plans) and local objectives for
+investment, improving infrastructure, local economic development
+and levelling up.
+• UK Government policy objectives, legal and statutory commitments,
+such as delivering Net Zero carbon emissions and improving air
+quality. Bids for transport projects in particular should clearly
+explain their carbon benefits.
+• Other investments from different funding streams, such as (but not
+limited to) the Towns Fund, Future High Streets Fund and
+Transforming Cities Fund.
+• The Government’s expectation is that all local road projects will
+also deliver or improve cycling and walking infrastructure and
+include bus priority measures (unless it can be shown that there is
+little or no need to do so). Cycling elements of proposals should
+follow the Government’s cycling design guidance which sets out
+the standards required.
+Value for Money
+Criteria Factors that will be considered
+Appropriaten The quality of data analysis and evidence for explaining the scale and
+ess of data significance of local problems and issues including:
+sources and • Quality of data analysis and evidence is sufficient to
+evidence demonstrate the scale and significance of local problems and
+issues.
+• Data collection and survey methods are sufficient to ensure data
+is robust and unbiased.
+• Data is comprehensive in coverage, i.e. the area of interest.
+Effectiveness Analysis and evidence on how the proposals will address existing or
+of proposal in anticipated future problems. Quantifiable impacts should, where
+addressing appropriate, usually be forecasted using a suitable model. Key factors
+problems are:
+• Robustness of the forecast assumptions, methodology and
+model outputs
+• Quality of the analysis or model (in terms of its accuracy and
+functionality)
+For non-transport measures, theory of change evidence should be
+identified and referenced.
+Economic Economic costs should be consistent with the costs in the financial
+costs of case but adjusted for the economic case. Inflation should be included,
+proposal fully explained and appropriate. The costs should be adjusted to an
+appropriate price base year, including adjustment for risk and optimism
+bias.
+10
+Version 1.1
+<<<PDF_PAGE_11>>>
+Analysis of • The economic benefits of the proposal are properly measured.
+monetised These should, where possible, be explained in terms of
+costs and outcomes. For example, the economic case analysis for
+benefits transport bids could estimate how they will reduce journey times,
+support economic growth, support employment, or reduce
+carbon emissions. For regeneration bids, direct and wider land
+value uplift, amenity, air quality may be relevant.
+• Explanation of how benefits and costs are analysed and
+estimated, and of how this approach to the analysis is
+proportionate for the proposal being considered.
+Value for A summary of the overall value for money of the proposal.
+money of • This should include reporting of Benefit Cost Ratios, with a
+proposal methodology note. A template for capturing the BCR for non–
+transport will be provided with the published FAQs.
+• Other non-monetised impacts are properly assessed.
+• A summary assessment of risks and uncertainties that could
+affect the overall Value for Money.
+Further details of requirements for Value for Money assessment are
+provided in Annex C.
+Deliverability
+Criteria Factors that will be considered
+Financial Provide details of:
+• Costs and spend profile at the project and bid level. This should
+also set out clearly what funding is secured from other sources and
+major interdependencies where funding has not been secured
+• Local and third-party contributions (a minimum local contribution of
+10%) (local authority and/or third party) of the bid costs is
+encouraged.
+• Certainty over the whole funding package, including evidence of
+any wider public or private sector co-funding commitments (i.e.
+letters, contractual commitments). Identification of any gaps in
+funding
+• Information on margins and contingencies that have been allowed
+for and the rationale.
+• The main financial risks and how they will be mitigated, including
+how cost overruns will be dealt with and shared between non-UKG
+funding partners.
+11
+Version 1.1
+<<<PDF_PAGE_12>>>
+Commercial Provide a robust procurement strategy which sets out the rationale for
+the strategy selected and other options considered and discount. The
+procurement route should also be set out with an explanation as to why
+it is appropriate for a bid of the scale and nature submitted.
+All procurements must be made in accordance with all relevant legal
+requirements. Applicants must describe their approach to ensuring full
+compliance in order to discharge their legal duties.
+Management • A delivery plan which demonstrates:
+o Clear milestones, key dependencies and interfaces, resource
+requirements, task durations and contingency.
+o An understanding of the roles and responsibilities, skills,
+capability, or capacity needed.
+o Arrangements for managing any delivery partners and the
+plan for benefits realisation.
+o Engagement of developers/ occupiers (where needed)
+o The strategy for managing stakeholders and considering
+their interests and influences.
+o Confirmation of statutory approvals eg Planning permission
+and details of information of ownership or agreements of
+land/ assets needed to deliver the bid
+o Please also list any powers / consents etc needed/ obtained,
+details of date acquired, challenge period (if applicable) and
+date of expiry of powers and conditions attached to them.
+o The ability to spend some LUF in 2021/22
+• A detailed risk assessment which sets out:
+o the barriers and level of risk to the delivery of your bid.
+o appropriate and effective arrangements for managing and
+mitigating these risks
+o a clear understanding on roles / responsibilities for risk
+• Evidence of a track record and past experience of delivering
+schemes of a similar scale and type.
+Monitoring A proportionate monitoring and evaluation plan which sets out:
+and
+• Bid level M&E objectives and research questions
+Evaluation
+• Outline of bid level M&E approach
+• Overview of key metrics for M&E (covering inputs, outputs,
+outcomes and impacts), informed by bid objectives and Theory
+of Change
+• Resourcing and governance arrangements for bid level M&E
+12
+Version 1.1
+<<<PDF_PAGE_13>>>
+The Levelling Up Fund Process in Northern Ireland
+We are taking a different approach to delivering the Fund in Northern Ireland, which
+reflects the different local government landscape compared to England, Scotland
+and Wales.
+11 Eligibility
+11.1 Recognising the different local government landscape in Northern Ireland, different
+organisations will be eligible to bid compared to Great Britain. The UK Government
+will accept bids from a range of local applicants, including but not limited to
+businesses, voluntary and community sector organisations, district councils, the
+Northern Ireland Executive and other public sector bodies
+11.2 For transport projects specifically, the Northern Ireland Executive holds many of the
+relevant powers. Where they are the lead bidder they must engage with and secure
+the support of the relevant district council for the area in which the bid is based, in
+order to be considered for funding. Northern Ireland Executive Departments are not
+eligible to bid for projects under the other two investment themes, where the lead
+bidder should operate at a more local level. In all cases the lead bidder will need to
+have the powers to deliver the projects that form part of their bid.
+11.3 The role of MPs is also different in NI – they can express support for bids as part of
+the wider stakeholder engagement process, but formal priority backing of MPs will
+not be considered as part of bid assessment, unlike in GB.
+11.4 As a wider range of organisations can apply to the fund in NI, we will expect bidders
+to demonstrate through two additional gateway criteria that they have the capacity
+and capability to deliver capital projects. See the section on assessment below.
+12 Capacity Funding
+12.1 In Northern Ireland, there will be a different approach to capacity funding based on
+the funding landscape. This will see all district councils and some other identified
+bidding entities receive capacity funding. Further details on capacity funding will be
+picked up in an FAQ that will be published shortly.
+13 Preparing and Submitting LUF Applications
+13.1 As with bidding authorities in GB, places are invited to submit a capital bid (by filling
+out the LUF application form) for an individual project or a package of projects,
+up to £20 million in value. Bids for larger transport schemes will be considered by
+exception. As with GB bids, NI bidders must submit their application in full with
+all supporting documentation to levellingupfund@communities.gov.uk by 12.00
+noon 18 June 2021. Any bids submitted after this deadline will not be
+13
+Version 1.1
+<<<PDF_PAGE_14>>>
+assessed or considered for funding. Any incomplete bids will be assessed
+based on what has been submitted.
+13.2 Package bids (those with two or three projects) must clearly explain how their
+component elements are aligned with each other and represent a coherent set of
+interventions. In this instance, they will be assessed together at the bid level rather
+than as individual projects. This is for two reasons: firstly, to ensure competition
+outcomes can be announced in the autumn to enable spend and delivery to get
+underway in 2021/22; secondly because the fund has been designed in such a way
+that bidding entities should be presenting a coherent set of bids. We therefore need
+to be able to assess how packages of projects work together. If there are
+weaknesses in one of the projects, places should be mindful that it will
+adversely impact on the overall score of their bid.
+13.3 Bidding entities may wish to submit a joint bid, where two or more organisations are
+collaborating on a project or a package bid of up to 3 projects.
+14 LUF Assessment and Decision Making
+14.1 LUF applications from NI organisations and authorities will also be assessed in a
+three staged approach.
+14.2 Stage 1 Gateway: The first stage is a pass/fail gateway criterion, where bids will be
+assessed against whether they can delivery some LUF expenditure in 2021/222. In
+NI, for feasibility reasons bidders from non-Government organisations will also need
+to demonstrate:
+• Two years of audited accounts.
+• Evidence that they have delivered two capital projects of a similar scale
+and scope in the last five years.
+14.3 Stage 2 Assessment and Shortlisting: Bids will be assessed against 3 of the 4
+criteria set out in the Prospectus. This is because there is no Characteristics of
+Place Index in Northern Ireland for this first round. NI applications will be assessed
+against strategic fit, value for money and deliverability in the same way as GB bids
+(see Table 1 above for details), with the exception of MP support which will not be
+reflected in the assessment, as MPs are not being asked to offer priority backing to
+bids. The three criteria and the sub criteria under those again carry equal weighting.
+A funding shortlist for NI will be drawn up from those bids that score the highest
+overall, and who score at least average or above on strategic fit, value for money
+and deliverability.
+14.4 Stage 3 Decision making: After bid assessment and moderation has concluded,
+and the shortlist has been drawn up, ministers will the make funding decisions from
+the NI shortlist of bids. Ministers may also factor some or all of these additional
+considerations into their decision making:
+2 Eligible expenditure in 2021-22 could include capital development costs.
+14
+Version 1.1
+<<<PDF_PAGE_15>>>
+Ensuring a reasonable thematic split of approved projects (e.g. across regeneration
+and town centre, transport and culture and heritage);
+• Ensuring a fair spread of approved projects across NI;
+• Ensuring a fair balance of approved projects across places in need;
+• Prioritisation of either ‘strategic fit’ or ‘deliverability’ or ‘value for money’
+over the other criteria. The prioritisation and weighting at this stage may
+be different from the weighting at assessment (noting this must be applied
+consistently to all projects);
+• Taking into account other investment in a local area. In future rounds, this
+could include funding provided to local areas through the first round of this
+Fund.
+14.5 NI bids will only be assessed against other NI bids for fairness reasons, with funding
+awarded from a ringfenced NI pot, in the region of £20 million, subject to strength of
+bids submitted. This is because the NI assessment is only based on 3 out of the 4
+criteria. We expect to announce the outcome of the competition in the Autumn.
+15 List of Annexes
+Annex A Glossary
+Annex B Table of Interventions
+Annex C Further Value for Money Guidance
+Annex D Large Transport Scheme checklist
+15
+Version 1.1
+<<<PDF_PAGE_16>>>
+Annex A: Glossary
+Individual bid Submission made up of 1 project from 1 bidding entity/
+local authority
+Package bid A submission made up of 2 or 3 projects from 1 bidding
+entity/ local authority
+Joint bid A submission made up of 1 project or a package of up to
+three projects by more than 1 bidding entity or local
+authority
+OAR Options Assessment Report
+Cost-Benefit Analysis which assesses the value of as many of the
+Analysis (CBA) costs and benefits of a proposal as feasible, including
+items for which the market does not provide a
+satisfactory measure of economic value.
+Appraisal Refers to the assessment made before decisions are
+taken of the economic, social, environmental, public
+account and distributional impacts that an intervention
+may have.
+Benefit-Cost Ratio Given by PVB / PVC and indicates how much benefit is
+(BCR) obtained for each unit of cost, with a BCR greater than 1
+indicating that the benefits outweigh the costs.
+Present Value of The sum of discounted costs and revenues to the budget
+Costs (PVC) available over the appraisal period, and gives the value
+of these impacts in the prices of a given base year.
+Present Value of The sum of all discounted benefits and dis-benefits not
+Benefits (PVB) included in the definition of the PVC over the appraisal
+period, and gives the value of these impacts in the prices
+of a given base year
+Distributional Considers the variance of transport intervention impacts
+Impacts (DIs) across different social groups.
+Optimism Bias (OB The demonstrated systematic tendency for appraisers to
+be over-optimistic about key project parameters,
+including capital costs, operating costs, works duration
+and benefits delivery.
+A Quantified Risk Allows an expected value (defined as the average of all
+Assessment (QRA possible outcomes, taking account of the different
+probabilities of those outcomes occurring) of the cost of
+the proposal to be calculated. This expected value should
+form the ‘risk-adjusted' cost estimate.
+Evaluation A systematic analytical process which examines the
+effectiveness of a project based on actual results. This
+can include what difference it made (impact evaluation),
+whether its benefits justified its costs (economic
+evaluation) and how it was delivered (process
+evaluation).
+16
+Version 1.1
+<<<PDF_PAGE_17>>>
+Annex B: Intervention framework
+The table below outlines the types of interventions in scope for the Levelling Up Fund. Places may find this intervention framework
+with associated outputs, outcomes ad indicators helpful in informing their logic models, and M&E plans. For proposed
+interventions, bids should align with:
+• Outputs: This sets out the kinds of intervention outputs that will be considered acceptable.
+• Outcomes: This lists the acceptable outcomes that we would expect to flow from your chosen interventions. Local
+authorities will be required to clearly demonstrate, through a Theory of Change (with supporting evidence and assumptions
+clearly set out), how your proposed projects will deliver one or more of the outcomes in the table below.
+• Outcome indicators: These are the indicators that will be used to set targets and measure progress and determine whether
+the outcomes have been delivered.
+Outputs Outcomes Outcome indicators
+Examples include: • Impact of scheme on travel • Impact of scheme on travel demand
+• Bus infrastructure demand o Road traffic flows for road schemes
+Transport
+upgrades e.g. bus priority o Road traffic flows for o Patronage for public transport schemes
+Interventions
+lanes. road schemes o Pedestrian / cycle counts for cycling /
+• New or upgraded road o Patronage for public walking schemes
+(Transport
+infrastructure transport schemes o Reduced journey times and improved
+projects o Pedestrian / cycle journey reliability
+• New or upgraded cycle or
+should have counts for cycling / o Travel times in the corridors of
+walking paths.
+the support walking schemes interest
+• Wider cycling
+of the • Reduced journey times and o Variability of travel times in the
+infrastructure such as
+relevant improved journey reliability corridors of interest
+cycle parking.
+authority or • Local economic benefits • Local economic benefits
+body • Reduced transport carbon o Travel times / accessibility changes
+responsible to businesses
+emissions
+for delivery). o Employment levels
+• Improved air quality
+o Rental values
+17
+Version 1.1
+<<<PDF_PAGE_18>>>
+Outputs Outcomes Outcome indicators
+o Other metrics of relevance to scheme
+objectives
+• Reduced transport carbon emissions
+o modelled based on demand/vehicle
+speed information
+• Improved air quality
+o Effect of the scheme on local air
+quality in the area of interest
+• Reduced noise
+o Effect of the scheme on noise at
+important receptor locations
+• Fewer accidents
+o Effect of the scheme on traffic
+accidents in the area of interest
+• Remediation and/or • Enhanced townscape that is • Perceptions of the place by
+development of more attractive and more residents/businesses/visitors
+abandoned or dilapidated accessible to residents, • Land values
+sites businesses and visitors. • Footfall
+Regeneration
+• Delivery of quality
+and town
+residential or commercial
+centre
+space in key locations
+investment
+(town centres, gateway
+areas, employment sites)
+• Delivery of new public
+spaces
+18
+Version 1.1
+<<<PDF_PAGE_19>>>
+• New, upgraded or • Improved arts, cultural and • Number of visitors to arts, cultural and heritage
+protected community heritage offer that is more events and venues
+Cultural centres, sports or visible and easier for • Perceptions of the place by residents/visitors
+investment athletics facilities, residents/visitors to access
+museums, arts
+venues, theatres,
+libraries, film facilities,
+prominent landmarks
+or historical buildings,
+parks or gardens
+• New, upgraded or
+protected community
+hubs, spaces or assets,
+where this links to local
+• inclusive growth
+19
+Version 1.1
+<<<PDF_PAGE_20>>>
+Annex C: Further Value for Money Assessment
+An economic case will be required that assesses the value for money of the proposal
+for which funding is sought.
+Overall, the value for money assessment should provide suitable and proportionate
+evidence of the expected impacts, benefits and costs, and overall value for money,
+and associated risks and uncertainties.
+The economic case should be assessed in a way that is consistent with the HM
+Treasury Green Book and with relevant departmental guidance. For transport
+schemes, the economic case analysis should be consistent with guidance in DfT’s
+Transport Analysis Guidance. For regeneration projects and cultural projects, the
+economic case should be consistent with MHCLG appraisal guidance. There are
+further sources of appraisal guidance published by DfT or MHCLG that bidders may
+use to provide appropriate analysis for specific types of projects. For example, DFT’s
+Active Mode Appraisal Toolkit can be used for cycling and walking interventions.
+Templates for appraisal tables for transport projects (including the Appraisal
+Summary Table) are available at
+https://www.gov.uk/government/publications/webtag-appraisal-tables.
+In line with the principles of these sources of appraisal guidance, benefits should,
+where possible, be explained in terms of outcomes. For example, the economic case
+analysis for transport proposals could demonstrate how they will reduce journey
+times, support economic growth, or reduce carbon emissions.
+The economic case should include the following:
+• appropriate identification and estimation of relevant impacts, benefits and
+costs. There should be clear justification provided for which types of impacts,
+benefits and costs are considered, and that the analysis of these is
+proportionate for the impacts and proposal being considered.
+• a summary of the overall value for money of the proposal. Benefit Cost Ratios
+(BCRs) should be reported if they can be estimated, and these should be
+consistent with the relevant departmental appraisal guidance. If it is not
+possible to estimate a BCR for the specific project, a clear explanation and
+justification should be provided of why not.
+• there should be appropriate identification and analysis of risks and
+uncertainties that could affect the project impacts, benefits, costs, and overall
+value for money.
+• evidence of whether the project is likely to meet its strategic objectives,
+referencing to and consistent with the assessment provided in the strategic
+case.
+A range of benefits could be considered in the value for money assessment of bids.
+This includes potential to boost local economic growth, environmental benefits
+(including contribution to achieving the UK Government’s Net Zero carbon
+commitments and improving local air quality), greater employment opportunities,
+reduced travel times to key services, increased footfall in town and city centres, crime
+20
+Version 1.1
+<<<PDF_PAGE_21>>>
+reduction and social value to local communities. Bids for transport proposals in
+particular should include clearly explaining their carbon benefits.
+The level of detail provided should be in proportion to the amount of funding that is
+requested. Bids will need to include comprehensive but proportionate assessment.
+This will vary according to the cost of the proposal and the outcomes at stake.
+For transport projects, evidence or metrics that can be used to understand the extent
+to which the scheme contributes to local objectives/levelling-up could include:
+• Socio-economic metrics. These metrics demonstrate whether the proposed
+investment is focused on an area which is a priority for levelling-up. For
+instance:
+o Gross weekly earnings
+o Unemployment rate; Employment rate
+o Proportion of population educated to degree level or equivalent.
+o Multiple Index of Deprivation Ranking
+• Transport metrics. These metrics present comparative data on the
+performance of the transport network in the targeted area. For example:
+o Connectivity Measures such as the National Infrastructure
+Commission’s Connectivity dataset
+• Economic Impact metrics. The metrics provide insight on the potential impact
+of the proposed investment on the local economy. For example:
+o Transport User Benefits
+o Wider Economic Impacts (where these have been estimated in the
+business case)
+21
+Version 1.1
+<<<PDF_PAGE_22>>>
+Annex D: Checklist for detailed business case submissions for larger
+transport projects
+The requirements in the tables below relate to larger transport projects. By
+exception, there is also scope for the Fund to invest in larger transport projects of
+between £20m and £50m.
+The application form should be submitted by 18 June for all larger transport project
+bids that are submitted for the first round of the Fund. It is expected that a more
+detailed business case will need to be appraised before funding can be confirmed
+for larger transport schemes. Therefore, DfT will assess the application form for
+larger transport project bids and advise whether they should be developed further
+and a more detailed business case should be prepared for review.
+If available, a more detailed business case may be submitted for larger transport
+project bids by 18 June in addition to the application form. The assessment of more
+detailed business cases will occur at a later stage before funding can be confirmed
+for larger transport project bids.
+Please note that more detailed business cases for larger transport projects should
+be in a transport business case format and be compliant with the Green Book’s five-
+case model and the Department for Transport’s guidance on transport analysis
+(TAG). More detailed business cases should include information requested in the
+Application Form and more comprehensive plans and information for relevant
+projects.
+More detailed business case submissions should include information and materials
+in the below checklist where applicable. The checklist should be completed and
+submitted as part of any business case submissions in order to reference where
+relevant information and materials are located the business case.
+Strategic Case
+Item Section/Page
+A detailed description of the physical scope of the scheme
+The objectives of the scheme and the case for investment
+A description of the process by which the scheme came to be
+identified as the preferred option for meeting those objectives
+including why alternative options were discarded
+For schemes that directly aim to facilitate commercial or housing
+development on specific sites, details of the sites, current
+planning status, status of developer commitment and the
+expected impact of the scheme
+22
+Version 1.1
+<<<PDF_PAGE_23>>>
+Item Section/Page
+Details on how the project aligns with relevant local strategies
+(such as Local Plans, Local Industrial Strategies or Local
+Transport Plans) and local objectives for investment, improving
+infrastructure and levelling up.
+Evidence or metrics that can be used to understand the extent
+to which the scheme contributes to local objectives/levelling-up
+could include:
+• Socio-economic metrics. These metrics demonstrate
+whether the proposed investment is focused on an area
+which is a priority for levelling-up. For instance:
+o Gross weekly earnings
+o Unemployment rate; Employment rate
+o Proportion of population educated to degree level
+or equivalent.
+o Multiple Index of Deprivation Ranking
+• Transport metrics. These metrics present comparative
+data on the performance of the transport network in the
+targeted area. For example:
+o Connectivity Measures such as the National
+Infrastructure Commission’s Connectivity dataset
+• Economic Impact metrics. The metrics provide insight on
+the potential impact of the proposed investment on the
+local economy. For example:
+o Transport User Benefits
+Wider Economic Impacts (where these have been estimated in
+the business case)
+Explanation of how the project support UK Government policy
+objectives and legal and statutory commitments. In particular,
+OBCs or FBCs should explicitly explain how they support:
+1. UK’s commitment to achieve net zero carbon emissions;
+2. Improve cycling and walking infrastructure3
+3. Improve bus infrastructure and services4
+Details and evidence of support for the project from local
+stakeholders
+Details and evidence of support for the project from the local MP
+3 UK Government expects that all local road projects in England funded by the UK Government will deliver or improve
+cycling and walking infrastructure (unless it can be shown that there is little or no need to do so). Cycling proposals
+should follow the Government’s cycling design guidance which sets out the standards required if schemes are to
+receive funding.
+4 Local road projects are expected to either support bus priority measures (unless bids can explain why doing so would
+not be necessary or appropriate).
+23
+Version 1.1
+<<<PDF_PAGE_24>>>
+Item Section/Page
+Details of public consultation activities on the scheme to date,
+and key findings including how any key questions/concerns
+have been addressed.
+Economic Case
+As well as referencing the location of the below items of information within the
+business case, please complete the checklist of appraisal and modelling supporting
+materials and supply these materials as part of business case submissions.
+Item Section/Page
+Option Assessment Report (OAR)
+Data Collection Report
+Local Model Validation Report (LMVR)
+Present Year Validation Report (if required)
+Forecasting Report
+Economic Appraisal Report
+Social and Distributional Impacts Assessment
+Monitoring and Evaluation Plan
+Management Case
+Item Section/Page
+Governance structure including SRO, Project Board, Project
+Manager, delivery partners and other key roles
+Explanation of roles and responsibilities and resourcing levels
+Detailed Project Plan
+Risk Management:
+Detailed Risk Register
+1 Narrative to explain the most significant risks; how they are
+being managed and their potential impact on time and
+budget.
+2 Risk management strategy
+Project Assurance e.g. Gateway Reviews
+Evaluation: Outline evaluation plan including a statement of core
+evaluation objectives
+24
+Version 1.1
+<<<PDF_PAGE_25>>>
+Commercial Case
+Item Section/Page
+Description of the preferred procurement strategy.
+Rational for the selection of preferred procurement route against
+possible alternatives.
+Explanation of how costs and risks will be shared throughout the
+contract.
+Financial Case
+Item Section/Page
+Detailed cost breakdown
+Detailed breakdown of funding sources, including UK
+Government contribution, local and any third-party contributions
+Explanation of the status of any third-party contributions (i.e.
+whether these contributions are secured and confirmed) and
+supporting evidence
+Independent surveyor's report verifying cost estimates.
+Details of and justification for inflation assumption used.
+Quantified Risk Assessment
+All scheme costings should include an amount for risk, based on
+the results of a Quantified Risk Assessment (QRA) which
+should be proportionate to the nature and complexity of the
+project.
+25
+Version 1.1
+<<<PDF_PAGE_26>>>
+Checklist of appraisal and modelling supporting material
+Option Assessment
+Item Section/Page
+An Option Assessment Report to include steps 1 to 8 set out in
+TAG – the transport appraisal process.
+Modelling
+Item Section/Page
+Details of the sources, locations (illustrated on a map), methods
+of collection, dates, days of week, durations, sample factors,
+estimation of accuracy, etc.
+Details of any specialist surveys (e.g. stated preference).
+An Existing Data and Traffic Surveys Report to include:
+Traffic and passenger flows; including daily, hourly and seasonal
+profiles, including details by vehicle class where appropriate.
+Journey times by mode, including variability if appropriate.
+Details of the pattern and scale of traffic delays and queues.
+Desire line diagrams for important parts of the network.
+Diagrams of existing traffic flows, both in the immediate corridor
+and other relevant corridors.
+An Assignment Model Validation Report to include:
+Description of the road traffic and public transport passenger
+assignment model development, including model network and
+zone plans, details of treatment of congestion on the road
+system and crowding on the public transport system.
+Description of the data used in model building and validation
+with a clear distinction made for any independent validation
+data.
+Evidence of the validity of the networks employed, including
+range checks, link length checks, and route choice evidence.
+Details of the segmentation used, including the rationale for that
+chosen.
+26
+Version 1.1
+<<<PDF_PAGE_27>>>
+Item Section/Page
+Validation of the trip matrices, including estimation of
+measurement and sample errors.
+Details of any 'matrix estimation' techniques used and evidence
+of the effect of the estimation process on the scale and pattern
+of the base travel matrices.
+Validation of the trip assignment, including comparisons of flows
+(on links and across screenlines/cordons) and, for road traffic
+models, turning movements at key junctions.
+Journey time validation, including, for road traffic models,
+checks on queue pattern and magnitudes of delays/queues.
+Detail of the assignment convergence.
+Present year validation if the model is more than 5 years old.
+A diagram of modelled traffic flows, both in the immediate
+corridor and other relevant corridors.
+A Demand Model Report to include:
+Where no Variable Demand Model has been developed
+evidence should be provided to support this decision (e.g. follow
+guidance in TAG M2 Variable Demand Modelling – section 2.2).
+Description of the demand model.
+Description of the data used in the model building and
+validation.
+Details of the segmentation used, including the rationale for that
+chosen. This should include justification for any segments
+remaining fixed.
+Evidence of model calibration and validation and details of any
+sensitivity tests.
+Details of any imported model components and rationale for
+their use.
+Validation of the supply model sensitivity in cases where the
+detailed assignment models do not iterate directly with the
+demand model.
+Details of the realism testing, including outturn elasticities of
+demand with respect to fuel cost and public transport fares.
+Details of the demand/supply convergence.
+27
+Version 1.1
+<<<PDF_PAGE_28>>>
+Item Section/Page
+A Forecasting Report to include:
+Description of the methods used in forecasting future traffic
+demand.
+Description of the future year demand assumptions (e.g. land
+use and economic growth - for the do minimum, core and variant
+scenarios).
+An uncertainty log providing a clear description of the planning
+status of local developments
+Description of the future year transport supply assumptions (i.e.
+networks examined for the do minimum, core scenario and
+variant scenarios).
+Description of the travel cost assumptions (e.g. fuel costs, PT
+fares, parking).
+Comparison of the local forecast results to national forecasts,
+at an overall and sectoral level.
+Presentation of the forecast travel demand and conditions for
+the core scenario and variant scenarios including a diagram
+of forecast flows for the do-minimum and the scheme options
+for affected corridors.
+If the model includes very slow speeds or high junction
+delays evidence of their plausibility.
+An explanation of any forecasts of flows above capacity,
+especially for the do-minimum, and an explanation of how
+these are accounted for in the modelling/appraisal.
+Presentation of the sensitivity tests carried out (to include
+high and low demand tests).
+Cost Benefit Analysis
+Item Section/Page
+A clear explanation of the underlying assumptions used in the
+Cost Benefit Analysis.
+Information on local factors used. For example the derivation of
+growth factors and annualisation factors in TUBA (to include full
+details of any calculations).
+A diagram of the network (if COBALT used).
+28
+Version 1.1
+<<<PDF_PAGE_29>>>
+Item Section/Page
+Information on the number of junctions modelled (if COBALT
+used), for both the do-minimum and the do-something.
+Details of assumptions about operating costs and commercial
+viability (e.g. public transport, park and ride, etc).
+Full appraisal inputs/outputs (when used, COBALT and/or
+TUBA input and output files in text format should be supplied).
+Evidence that TUBA/COBALT warning messages have been
+checked and found to be acceptable.
+Spatial (sectoral) analysis of TEE benefits.
+Details of the maintenance delay costs/savings.
+Details of the delays during construction.
+Appraisal tables (AMCB, PA, TEE) in excel format.
+Economic Case Assessment
+Item Section/Page
+A comprehensive Appraisal Summary Table in excel format.
+Assessment of Economic impacts.
+Economic impacts worksheets.
+Assessment of Environmental impacts, to include an
+environmental constraints map.
+Environmental impacts worksheets.
+Assessment of Safety impacts and the assumed accident rates
+presented (when used, COBALT output should be provided).
+Assessment of Social impacts.
+Assessment of Distributional impacts.
+Social and distributional impacts worksheets (including DI
+screening pro forma).
+Cost pro forma.
+29
+Version 1.1

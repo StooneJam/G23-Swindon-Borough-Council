@@ -1,0 +1,861 @@
+<<<PDF_PAGE_1>>>
+FOR OFFICIAL USE ONLY
+Report No: 145392-MV
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+SUPPLEMENT TO THE
+PROJECT APPRAISAL DOCUMENT
+ON A RESTRUCTURING AND A
+PROPOSED GUARANTEE
+IN THE AMOUNT OF UP TO US$ 5 MILLION
+TO
+THE REPUBLIC OF MALDIVES
+FOR THE
+ACCELERATING SUSTAINABLE PRIVATE INVESTMENTS IN RENEWABLE ENERGY (ASPIRE) PROJECT
+January 23, 2020
+Energy & Extractives Global Practice
+South Asia Region
+This document has a restricted distribution and may be used by recipients only in the performance of
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+<<<PDF_PAGE_2>>>
+CURRENCY EQUIVALENTS
+(Exchange Rate Effective Dec 31, 2019)
+Currency Unit = M a l d i v i a n R u f i y a a (MVR)
+MVR 15.46 = US$1
+FISCAL YEAR
+January 1 - December 31
+Regional Vice President: Hartwig Schafer
+Country Director: Idah Z. Pswarayi-Riddihough
+Regional Director: Guangzhe Chen
+Practice Manager: Demetrios Papathanasiou
+Practice Manager Guarantee: Sebnem Erol Madan
+Task Team Leader(s): Amit Jain, Joonkyung Seong, Ghita Benabderrazik
+2
+<<<PDF_PAGE_3>>>
+ABBREVIATIONS AND ACRONYMS
+ARISE Accelerating Renewable Energy Integration and Sustainable Energy
+ASPIRE Accelerating Sustainable Private Investments in Renewable Energy
+CPF Country Partnership Framework
+EPA Environmental Protection Agency
+ESMF Environmental and Social Management Framework
+ESMP Environmental and Social Management Plan
+ESRS Environmental and Social Review Summary
+GDP Gross Domestic Production
+GoM Government of Maldives
+GRS Grievance Redress Service
+IDA International Development Association
+IPP Independent Power Producer
+IUFR Interim Unaudited Financial Report
+ME Ministry of Environment
+MFD Maximizing Finance for Development
+MWSC Male' Water and Sewerage Company
+NDC Nationally Determined Contribution
+OP World Bank’s Operational Policy
+ORAF Operation Risk Assessment Framework
+PAD Project Appraisal Document
+PDO Project Development Objective(s)
+PMU Project Management Unit
+PPA Power Purchase Agreement
+PQ Pre-qualification
+PS Performance Standards
+SREP Scaling-up Renewable Energy Program
+STELCO State Electric Company Limited
+STO State Trading Organization
+WB World Bank
+3
+<<<PDF_PAGE_4>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+TABLE OF CONTENTS
+I. INTRODUCTION .................................................................................................................................................. 11
+II. STRATEGIC CONTEXT .......................................................................................................................................... 11
+A. Country Context .............................................................................................................................................. 11
+B. Sectoral and Institutional Context .................................................................................................................. 12
+C. Relevance to Higher Level Objectives ............................................................................................................. 13
+III. PROJECT DESCRIPTION ................................................................................................................................... 14
+IV. IMPLEMENTATION ......................................................................................................................................... 16
+A. Institutional and Implementation Arrangements ........................................................................................... 16
+B. Results Monitoring and Evaluation Arrangements ......................................................................................... 16
+V. APPRAISAL SUMMARY ....................................................................................................................................... 16
+A. Technical, Economic and Financial Analysis ................................................................................................... 16
+B. Fiduciary .......................................................................................................................................................... 17
+C. Safeguards ...................................................................................................................................................... 17
+VI. KEY RISKS ........................................................................................................................................................ 18
+VII. RESULTS FRAMEWORK................................................................................................................................... 18
+VIII. INDICATIVE TERMS AND CONDITIONS FOR GUARANTEE ............................................................................. 20
+4
+<<<PDF_PAGE_5>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+DATASHEET
+BASIC INFORMATION
+BASIC_INFO_TABLE
+Country(ies) Project Name
+Maldives Accelerating Sustainable Private Investments in Renewable Energy
+Project ID Financing Instrument Environmental Assessment Category
+P145482 Investment Project Financing B-Partial Assessment
+Financing & Implementation Modalities
+[ ] Multiphase Programmatic Approach (MPA) [ ] Contingent Emergency Response Component (CERC)
+[✓] Series of Projects (SOP) [ ] Fragile State(s)
+[ ] Disbursement-linked Indicators (DLIs) [✓] Small State(s)
+[ ] Financial Intermediaries (FI) [ ] Fragile within a non-fragile Country
+[✓] Project-Based Guarantee [ ] Conflict
+[ ] Deferred Drawdown [ ] Responding to Natural or Man-made Disaster
+[ ] Alternate Procurement Arrangements (APA)
+Expected Approval Date Expected Closing Date
+14-Feb-2020 30-Sep-2021
+Bank/IFC Collaboration
+No
+Proposed Development Objective(s)
+The project development objective of ASPIRE Project is to increase PV generation in Maldives through private sector
+investment.
+Components
+Component Name Cost (US$, millions)
+Technical Assistance (TA) to Government of Maldives 1.75
+5
+<<<PDF_PAGE_6>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+Structuring and Delivery of Tariff Buy Down for Currently Planned and Subsequent 6.034
+Projects
+Security Package 19.9
+Organizations
+Borrower: Republic of Maldives
+Implementing Agency: Ministry of Environment (ME)
+PROJECT FINANCING DATA (US$, Millions)
+SUMMARY
+-NewFin1
+Total Project Cost 27.684
+Total Financing 27.684
+of which IBRD/IDA 16.00
+Financing Gap 0.00
+DETAILS
+-NewFinEnh1
+World Bank Group Financing
+International Development Association (IDA) 16.00
+Guarantee 16.00
+INSTITUTIONAL DATA
+Practice Area (Lead) Contributing Practice Areas
+Energy & Extractives Infrastructure, PPP's & Guarantees
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT)
+Risk Category Rating
+1. Political and Governance ⚫ Moderate
+2. Macroeconomic ⚫ Substantial
+6
+<<<PDF_PAGE_7>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+3. Sector Strategies and Policies ⚫ Moderate
+4. Technical Design of Project or Program ⚫ Moderate
+5. Institutional Capacity for Implementation and Sustainability ⚫ Moderate
+6. Fiduciary ⚫ Moderate
+7. Environment and Social ⚫ Moderate
+8. Stakeholders ⚫ Moderate
+9. Other
+10. Overall ⚫ Moderate
+COMPLIANCE
+Policy
+Does the project depart from the CPF in content or in other significant respects?
+[ ] Yes [✓] No
+Does the project require any waivers of Bank policies?
+[ ] Yes [✓] No
+Safeguard Policies Triggered by the Project Yes No
+Environmental Assessment OP/BP 4.01 ✔
+Performance Standards for Private Sector Activities OP/BP 4.03 ✔
+Natural Habitats OP/BP 4.04 ✔
+Forests OP/BP 4.36 ✔
+Pest Management OP 4.09 ✔
+Physical Cultural Resources OP/BP 4.11 ✔
+Indigenous Peoples OP/BP 4.10 ✔
+Involuntary Resettlement OP/BP 4.12 ✔
+Safety of Dams OP/BP 4.37 ✔
+Projects on International Waterways OP/BP 7.50 ✔
+Projects in Disputed Areas OP/BP 7.60 ✔
+7
+<<<PDF_PAGE_8>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+Legal Covenants
+Sections and Description
+The Government of Maldives shall maintain, throughout the implementation of the Project, a Project Management
+Unit within MEE, responsible for implementation of the Project.
+Sections and Description
+The Recipient shall: (a) notify the World Bank of any downgrade in the credit ratings of the escrow bank; (b) ensure
+that the escrow account(s) shall at all times contain funds at least equal to the total amount of Securities issued; (c)
+ensure that the escrow account(s) are replenished in the event of a draw down; (d) notify the World Bank in the
+event of a draw down on an escrow account; and (e) ensure that proceeds from the grant transferred to the escrow
+account are protected against set-off, seizure, or attachment.
+Sections and Description
+In the event that any of the proceeds of the grant allocated to Securities will not have been committed to a security
+by the Closing Date, then Recipient and the World Bank shall consult and agree on the use of such proceeds by the
+Closing Date, failing which the Recipient shall refund all such uncommitted proceeds, and the World Bank shall
+cancel all of such proceeds.
+Sections and Description
+In the event that any proceeds of the grant have been committed to Securities and will remain so committed as of
+the Closing Date, then the proceeds shall be retained in the escrow account(s) established for such securities until
+such securities have expired/terminated subject to oversight arrangements consistent with those required by the
+Project Operations Manual, and thereafter, the proceeds may be transferred from the escrow account(s) to the
+Recipient to be used for productive purposes.
+Sections and Description
+The Recipient shall carry out the Project in accordance with the Project Operations Manual, including the bidding
+and selection of subprojects, and the provision of Tariff Buy Downs and/or Securities.
+Sections and Description
+Prior to making any Securities available to investors, the Recipient shall enter into one or more Escrow Agreements
+with an escrow bank acceptable to the World Bank, for the establishment and maintenance of one or more escrow
+accounts from which claims by investors under Securities may be paid; such Escrow Agreement(s) to be in form and
+substance satisfactory to the World Bank, and meeting the requirements set forth in the Grant Agreement.
+Sections and Description
+For each subproject to be supported through a Tariff Buy Down or a Security, the Recipient shall enter into an
+Implementation Agreement with the investor, meeting the requirements of the Grant Agreement, in form and
+substance satisfactory to the World Bank, and containing the terms and conditions set forth in the Grant
+8
+<<<PDF_PAGE_9>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+Agreement with respect to the provision of Tariff Buy Downs or Securities.
+Sections and Description
+The Recipient shall ensure that, by no later than June 30, 2015, at least one subproject has been identified and the
+relevant Implementation Agreement and PPA have been entered into with the respective investor, all in form and
+substance satisfactory to the World Bank.
+Sections and Description
+The Recipient shall ensure that the Project and subprojects are carried out in accordance with the provisions of the
+Safeguards Instruments (ESMF, EIAs, and EMPs), and the World Bank Performance Standards.
+Sections and Description
+Covenants and Conditions for the World Bank Guarantees would be agreed when the guarantee related
+agreements are finalized with the Government of Maldives, STELCO/FENAKA and subproject investors.
+Conditions
+Type Description
+Disbursement No withdrawal of Grant proceeds can be made prior to the date of execution of the Grant
+Agreement, and until the Recipient has finalized and adopted the Project Operations Manual
+(POM) in form and substance satisfactory to the World Bank.
+Type Description
+Disbursement The first disbursement with respect to a Tariff Buy Down will be conditioned upon the
+following:
+(i) the investor’s entry into a Power Purchase Agreement (PPA) in form and substance
+satisfactory to the World Bank,
+(ii) signing of an Implementation Agreement on the subproject, in form and substance
+satisfactory to the World Bank, and
+(iii) fulfillment of other disbursement conditions specified in the POM for release of
+Tariff Buy Down (Component 2) payments.
+Subsequent claims against Component 2 will be processed by the Bank upon submission of a
+withdrawal application which shall include the Bank’s no-objection letter for subprojects as
+an attachment, as stipulated in the disbursement letter.
+Type Description
+Disbursement The full amount allocated to Component 3 will be disbursed as advance once the following
+conditions are met:
+a. At least one Implementation Agreement in form and substance satisfactory to the Bank
+has been entered between the GoM and an investor for purposes of a security.
+b. At least one PPA in form and substance satisfactory to the Bank has been entered into
+between the STELCO/FENAKA and an investor in a subproject.
+c. GoM and the Bank have reached agreement on all the terms of the escrow mechanism,
+9
+<<<PDF_PAGE_10>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+including the determination of the risks to be covered by GoM under such mechanism.
+d. An Escrow Agreement between the GoM and a commercial bank has been entered with
+respect to a related Escrow Account, in form and substance satisfactory to the World
+Bank.
+e. All legal opinions or certificates required by the World Bank attesting that the Escrow
+Agreement has been duly executed, delivered and is legally binding on the parties
+thereto have been provided.
+10
+<<<PDF_PAGE_11>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+Supplement to Project Appraisal Document1
+Maldives Accelerating Sustainable Private Investments in Renewable Energy (ASPIRE) Project
+INTRODUCTION
+1. This Supplement to Project Appraisal Document (PAD) seeks approval from the Executive Directors to issue
+a guarantee in an amount of up to US$5 million2 to provide partial termination coverage for a Power Purchase
+Agreement (PPA) to be entered into between State Electric Company Limited (STELCO) and Ensys Company Limited.
+2. The Maldives Accelerating Sustainable Private Investments in Renewable Energy (ASPIRE) Project (the
+“Project”), which is supported by SDR 10.325 million (US$16 million equivalent) in guarantees in aggregate from
+the International Development Association (IDA) and a US$11.684 million grant from the Scaling-up Renewable
+Energy Program (SREP) of the Climate Investment Funds, was approved by the World Bank Board of Executive
+Directors on June 26, 2014. The guarantee of up to US$5 million requested in this Supplement to PAD is part of the
+series of guarantees in an amount of US$16 million under the ASPIRE Project.
+3. At the time of appraisal, a proposed series of IDA guarantees (aggregate US$16 million) was presented to
+the Board, and it was agreed that any subsequent transaction in the series would be presented to the Board on
+absence-of-objection basis once the transactions were ready and the due diligence and safeguard requirements
+were completed. The issuance of a first IDA guarantee was appraised as part of the Board-approved package in
+2014 in the amount of US$2.5 million and is now effective as part of the ASPIRE guarantee series.
+4. In connection with the foregoing, this Supplement to PAD has been prepared to support the installation of
+a 5 MW Grid-tied Solar Photovoltaic System in the Greater Malé Region on a design, build, finance, own, operate,
+and transfer basis. IDA intends to support this 5 MW Grid-tied Solar Photovoltaic System by issuing a second
+guarantee in the amount of up to US$5 million to provide partial termination coverage for a PPA to be entered into
+between STELCO, the state-owned offtaker and Ensys Company Limited, the private independent power producer.
+STRATEGIC CONTEXT
+A. Country Context
+5. Maldives is an island state comprising nearly 1,200 coral islands grouped into 26 atolls, spread across
+roughly 90,000 square kilometers of Indian Ocean. The Maldivian population, about 515,696 as of 2018, is widely
+dispersed across the islands, many of them remote, and physically vulnerable to rising sea levels. Eighty percent of
+the total land area of the country, which is less than 300 square kilometers, is lower than 1 meter above mean sea
+level. The country’s exposure to natural hazards and climate variability poses a threat to lives and the economy.
+More than 30 percent of the population live in the capital city Malé, while the rest are distributed among just under
+200 other inhabited islands. Basic human development indicators are high. Maldives ranks 101 out of 189 countries
+in the Human Development Index (HDI) for 2017, the second-highest HDI rank in South Asia after Sri Lanka.
+1 Project Appraisal Document No: 84835-MV dated May 23, 2014
+2 The exact amount to be confirmed upon negotiations with the guarantee beneficiary
+11
+<<<PDF_PAGE_12>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+6. Real GDP grew by 6.7 percent in 2018 and is a middle-income country with gross domestic production (GDP)
+per capita of US$10,224 (2018). The sustained growth performance has translated into significant gains in poverty
+reduction and Maldives performs well on poverty outcomes compared to its regional, income, and small island
+peers. The economy is dependent on a small number of sectors, with the following having the largest share to GDP
+in 2018: tourism (20.2 percent), transport and communication (11.1 percent), construction (9.3 percent), and trade
+(9.0 percent). The high share of tourism in the economy is both a strength and a limitation. The rapid rise in
+economic standards and living conditions in Maldives over the last three decades has been driven by fast growth in
+tourism. However, it also makes the Maldivian economy highly vulnerable to fluctuations in global economic
+through their effects on tourism and the direct and indirect transmission of these effects to other sectors. Periods
+of global recession, when tourist arrivals have fallen, have been particularly difficult for Maldives. The high
+dependence on tourism, and its economic benefits and risks, are typical of small island economies.
+7. The extremely dispersed population has led to a high cost of service delivery. The government is
+emphasizing decentralization and the development of the atolls to facilitate improved service delivery for citizens.
+The government is seeking to improve the efficiency and effectiveness of public services, promoting the
+development of regional hubs where necessary, while also exploiting economies of scale and scope in larger urban
+areas to enable agglomeration benefits. Under this strategy, the government is developing infrastructure, housing
+and public services, and promoting economic development on the larger islands.
+8. In recent years, the government has embarked in an ambitious infrastructure program. These upfront
+investments – to address bottlenecks in the tourism sector, increase resilience to climate change, ease constraints
+in service delivery and support housing projects— have led to a rapid increase in public and publicly guaranteed
+external debt. Maldives’ total debt is estimated at 75.3 percent in June 2019. Debt-to-GDP grew by 10.9 percentage
+points between end-2017 and June-2019, mainly on account of a large leap in guaranteed debt – which rose from
+4.3 percent of GDP to 16.3 percent. Maldives’ risk of external debt distress remains high (IMF, 2019).
+B. Sectoral and Institutional Context
+9. While the Maldives achieved universal electrification in 2008, at 14-50 US cents/kWh3 it has one of the
+highest residential end-user tariffs in South and South-East Asia. The total installed generation capacity of the
+inhabited islands is about 247 MW, with the resort islands having an additional 144 MW (which are managed
+independently of the government) and 20 MW on industrial islands. Total annual electricity consumption was 704
+GWh in 2017, about 56 percent of which is accounted for by the Greater Malé region. Electricity consumption per
+capita was 1840 kWh/year in 2016 and electricity demand is projected to grow 7 percent per annum.
+10. The Maldives comprises a number of small, isolated island-based grid systems that pose challenges for
+security of supply and high costs of electricity service. Three vertically integrated state-owned utilities STELCO,
+FENAKA, and MWSC4 operate a total of 186 powerhouses on inhabited and industrial islands. STELCO is the utility
+serving Male, while FENAKA was formed in 2012 as a merger of 6 regional utilities to serve the outer islands, except
+resort islands.
+11. The sector is almost 95 percent reliant on diesel fuel for power generation and diesel imports range from
+US$240-400 million annually, resulting in budget uncertainty and fiscal burden for the Government. End-user
+3 ME, "Ministry of Environment, Maldives - Island Electricity Data Book," Male, 2018
+4 MWSC operates 1 power house on V.Rakeedhoo.
+12
+<<<PDF_PAGE_13>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+tariffs are insufficient to cover costs and, despite significant budgetary support being provided to utilities by the
+GoM, the electricity sector is not financially sustainable. Costs for the most efficient diesel generator in the Maldives
+are estimated to range between 23-33 US cents/kWh, while for many of the outer islands costs can be as high as
+70 US cents/kWh. Energy demands have grown exponentially over the past three to four decades as a result of
+unprecedented economic growth in key sectors and increased demand for electricity generation. The demand for
+energy generation is still expected to grow fast, increasing pressure on the fiscal budget and balance of payments.
+12. Subsidies paid by the Government of Maldives (GoM) to the electricity sector reached about US$60
+million in 2018, about 1 percent of GDP. Both STELCO and FENAKA rely heavily on GoM subsidies. Fuel subsidy
+accounts for the volatility in fuel prices and makes up about 65 percent of the direct subsidy budget in 2018. It is
+applied if the fuel cost per liter is above a threshold baseline rate. The difference between the market price and
+baseline is then paid off directly to State Trading Organization (STO) as a subsidy to allow the utilities to purchase
+fuel from STO at a lower price. Usage subsidy accounts for about 35% of latest direct subsidy budget, to be paid to
+the utilities to compensate an adjustment for harmonizing domestic and business category tariffs across all islands.
+13. Increasing renewable energy penetration in the electricity sector is a solution to address the current
+challenges. The cost of generation is lower from renewable energy than from diesel. It would not only improve
+financial performance of the public utilities but also reduce the need for budget support for the electricity sector,
+thus improving fiscal sustainability. Furthermore, renewable energy would positively impact the cost of electricity
+service as logistical difficulty of shipping and storing fuel across a large number of islands would decrease.
+Therefore, it would enhance electricity service reliability and security as well as resilience against natural disasters.
+14. The Government of Maldives is committed to harnessing renewable energy resource and increasing its
+use. Reducing dependence on imported fuel and investing in renewable energy is a key priority of the Government.
+Peaceful transition of power after the September 2018 elections has ushered in a new Government that is
+prioritizing resilience and sustainability of the country. The Maldives Energy Policy and Strategy 2016 seeks to
+promote renewable energy in the country and to encourage private sector renewable energy development as one
+of its nine key policies. Moreover, the national Strategic Action Plan for the Maldives (2019-2023) includes a specific
+pillar for Clean Energy with clear renewable energy targets to increase the share of renewable energy by 20%
+compared to 2018 levels. Reinforcing the commitments made under the SAP, the Minister of Environment
+announced a target to increase the share of renewable energy to 70 percent by 2030 at the UN Climate Action
+Summit in September 2019.
+15. To support renewable energy development, the World Bank has been engaging with the Government
+through the ASPIRE project. The Bank-financed ASPIRE project has been under implementation since its approval
+in June 2014. Implementation has been slow, as the project for the first time in the Maldives attempted to bring in
+private sector investment in rooftop PV in the service areas of public utilities using IDA guarantee and there were
+issues of quality of rooftops available to mount the panels. The first sub-project of 1.5 MW of rooftop solar PV in
+Hulhumale’ has been operational since March 2018. A private sector developer was awarded through an
+international competitive tendering to be an independent power producer (IPP). It sells electricity generated from
+the rooftop solar PV to STELCO under a 20-year power purchase agreement (PPA) at a fixed price of 21 US
+cents/kWh, which is lower than the all-in cost of diesel-based power generation in the Maldives. US$3.3 million of
+private capital has been mobilized for the first sub-project.
+C. Relevance to Higher Level Objectives
+13
+<<<PDF_PAGE_14>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+16. The ASPIRE Project supports the following two broad engagement areas of the Maldives Revised Country
+Partnership Framework (CPF): (i) Pillar 2 on Strengthening Natural Resource Management and Climate Resilience
+– The Project aims to support electricity generation from RE and improve climate resilience by diversifying energy
+mix; and (ii) Pillar 3 on Strengthening Fiscal Sustainability – This Project aims to contribute to strengthening fiscal
+sustainability by reducing fossil fuel import and thus government subsidy to fossil fuel and electricity.
+17. The Project is closely aligned with Government’s policies and national plans including the Nationally
+Determined Contribution (NDCs) targets, the national Strategic Action Plan (2019-2023) and the announcement by
+the Minister of Environment to target to increase the share of renewable energy to 70 percent of the generation
+mix in the country by 2030.
+18. Maximizing Finance for Development (MFD), the Project was able to successfully bid out the first sub-
+project. Th first sub-project attracted interests from the private sector and mobilized private investment of US$3.3
+million. Investment climate for renewable energy in the Maldives has been improved through developing a full
+package of financeable contracts and building local capacity in implementing such a sub-project. Supporting
+subsequent sub-projects is expected to further increase private capital mobilized for renewable energy.
+PROJECT DESCRIPTION
+19. Project Development Objective(s) (PDO): The PDO of ASPIRE5 to increase PV generation in Maldives
+through private sector investment remains unchanged.
+20. Components. There is no proposed change in the Project components. The Project therefore continues to
+implement three components: (1) technical assistance support to GoM, (2) structuring and delivery of tariff buy
+downs for currently planned and subsequent subprojects, and (3) a security package consisting of: (i) escrow
+accounts to cover payment defaults by the offtaker under the subproject power purchase agreements (PPAs), and
+(ii) IDA guarantees to partially backstop the payment by the Government of subproject termination payments. IDA
+funding is used for this guarantee support only, covering partial termination payments as part of the security
+package under Component 3. Grant from the Scaling-up Renewable Energy Program (SREP) is used for all other
+components, including to fund escrow accounts as part of the security package under Component 3 to be used for
+short-term payment shortfalls. US$16 million of IDA guarantee and US$11.684 million of SREP grant was approved
+for the three components on June 26, 2014 by the Board of Executive Directors.
+21. The first sub-project has proven the private-sector oriented approach to developing renewable energy in
+the Maldives. The first sub-project is fully compliant with all World Bank requirements, and even though it was
+implemented on the roofs of already occupied social housing units, the Grievance Redress Mechanism has not
+received a single complaint against the Project during construction, or since. It is also pertinent to note that while
+there were nearly two years of delays (from contract award to commencement of construction) for various reasons,
+the actual construction of the facility was very smooth and took less than six months. The first sub-project
+successfully navigated these issues and has been selling sustainable solar PV generated electricity to STELCO under
+a 20-year PPA and backed by a security package that includes an IDA partial risk guarantee, since March 2018.
+5 Page 7, para 22 of the Original PAD.
+14
+<<<PDF_PAGE_15>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+22. Building upon the contracts developed and lessons learned from the first sub-project, the second sub-
+project was developed. Multiple sites for a total of 5 MW of potential installed capacity were identified in Greater
+Male’. The sub-project is comprised of rooftops of Government-owned buildings and spaces on the side of the road
+connecting Hulhumale’ and the international airport in the North Male’ Atoll. Canopies are proposed to be installed
+on the road sides to install solar PV and allow land sites to be available for other uses. Hence no land acquisition is
+required. The bid package includes a security package of SREP grant for the escrow mechanism and IDA guarantee
+from Component 3 as well as US$2 million of Tariff Buydown Grant from Component 2 to lower tariff bids while
+keeping the level of risk mitigation same with the first sub-project.
+23. The second sub-project was competitively tendered in 2019, and its results indicate that the investment
+climate in solar PV by the private sector has been significantly improved. Pre-qualification (PQ) tender received
+34 registrations from Maldivian, regional and global companies; 21 of these filed completed applications, which was
+a significant improvement over the first sub-project. Of these, 16 were deemed qualified by GoM, thus laying a firm
+foundation for renewable energy investments in the Maldives and opening a new field for foreign investments. On
+September 12, 2019, bids were opened, and six companies submitted bids. The lowest bid was 10.9 US cents per
+kWh for a 15-year PPA, significantly lower than 21 cents per kWh for the first sub-project thanks to lower solar
+costs, the security package (IDA guarantee covering partial termination + SREP grant funding the escrow account)
+proposed in accordance with the Project design as well as the use of the Tariff Buydown (not used in Phase I).
+24. The PPA will be entered into between STELCO and Ensys Company Limited, the private independent power
+producer. Established in 1996, Ensys Company Limited is a company incorporated and existing under the laws of
+Thailand with ample experience in grid-connected solar PV ranging up to 20 MW scale in Thailand6. The solar PV
+facility of the second sub-project is expected to generate 7,870 MWh in the first year of operation with 16 percent
+of capacity utilization factor. Timely implementation of the second sub-project will be key in accelerating RE
+investments in the Maldives and opening a new field for investments and employment. GoM is expected to sign the
+PPA with the selected bidder in February 2020.
+25. The updated disbursements for the components are shown in Table 1 below. The original allocated amounts
+are the numbers without brackets. The numbers within brackets represent the amounts disbursed or committed
+(in the case of the IDA guarantee) within that component, per the Project’s Interim Unaudited Financial Report
+(IUFR) for the third quarter of 2019 (July - September 2019).
+Table 1: Updated Project Disbursements as of December 2019 (in US$ million)
+ASPIRE Component SREP IDA Guarantee
+Component 1: Technical Assistance Support 1.75 (1.07) 0 (0)
+Component 2: Structuring Tariff Buydown 6.03 (0) 0 (0)
+Component 3: Security Package 3.9 (0.24) * 16.0 (2.50) #
+Total 11.68 (1.31) 16.0 (2.50)
+* This is earmarked for the escrow security mechanism
+# This is earmarked for partial risk guarantees to be issued for sub-projects
+26. The second sub-project is projected to utilize US$2 million of Tariff Buydown grant under Component 2,
+about US$0.5 million of SREP grant for the escrow mechanism and up to US$5 million of IDA guarantee under
+Component 3, subject to finalization of negotiations with the winning bidder. Supporting the second sub-project
+6 Note that certain integrity checks have been completed (Web search; INT Company Risk Profile Database; list of
+debarred firms) and will be supplemented with integrity due diligence from IFC and/or MIGA to the extent involved.
+15
+<<<PDF_PAGE_16>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+would expedite the disbursement of SREP grant and commitment of the Bank guarantee under the Project and
+enable the Borrower to enhance the development effectiveness of the operation for the Project.
+27. In November 2019, the closing date of the Project has been extended by 21 months from December 31,
+2019 to September 30, 2021. The extension was granted to support the second sub-project in accordance with the
+bidding package that indicates ASPIRE’s financial support. It has allowed the Borrower to provide positive signals to
+the market regarding the credibility of the GoM to run a competitive tendering process to international standards
+and result in an improved enabling environment for future private sector investment in renewable energy.
+IMPLEMENTATION
+A. Institutional and Implementation Arrangements
+28. Implementing Agencies. ASPIRE has been managed through a Project Management Unit (PMU) at GoM’s
+Ministry of Environment (ME). ME has been collaborating in active World Bank projects such as the Maldives Clean
+Energy for Climate Mitigation Project (P128268), Maldives Environmental Management Project (P108078), and
+Maldives Ari Atoll Solid Waste Management Project (P130163). Additionally, ME has successfully implemented the
+first ASPIRE subproject (1.5 MW Hulhumale’). Having learnt valuable lessons from this implementation, ASPIRE’s
+PMU has added a lawyer, environmental and social safeguards specialist, and a project engineer to its ranks. This
+allows ME to handle much of the sub-project preparation work in-house – something that will become increasingly
+important with the development of renewables in the Maldives.
+B. Results Monitoring and Evaluation Arrangements
+29. Overall monitoring and evaluation of the Project will remain the responsibility of ME with no change. ME
+will continue to carry out monitoring and evaluation of the Project components and sub-projects supported under
+the Project in accordance with the indicators included in the original results framework.
+APPRAISAL SUMMARY
+A. Technical, Economic and Financial Analysis
+30. Incorporating lessons from the first sub-project, the Bank conducted a due diligence of the second sub-
+project. The bidding package for the second sub-project, including all project documents such as the PPA,
+Implementation Agreement, Roof Lease Agreement, Escrow Agreement, and Licensing Agreement, has been
+revised for the second sub-project with lessons incorporated from the first sub-project. Contracts for the second
+sub-project also include appropriate provisions for a tariff buy-down, to keep bid prices in an acceptable range. The
+lowest bid of 10.9 US cents per kWh is below the utility’s subsidized variable cost of diesel-generation, resulting in
+savings at the utility and national levels.
+31. STELCO, the utility covering the Greater Male region is the offtaker for the second sub-project. The utility,
+which benefits from a fuel subsidy which caps STELCO’s fuel costs at a certain level independently from the market
+price, has been profitable over the last two years in 2016 and 2017. Additionally, STELCO has been setting a positive
+16
+<<<PDF_PAGE_17>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+track record for the second sub-project. Nevertheless, STELCO is faced with upcoming investment needs for new
+generation capacity as well as sizeable amount of trade payables on its balance sheet which will need to be
+monitored.
+B. Fiduciary
+32. Financial Management. Adhering to the structure outlined in the Original PAD, the Project has complied
+with all the Financial Management requirements. The Project was rated Satisfactory in the latest implementation
+status report and as outlined in the Original PAD all the Bank projects implemented by ME have been rated as
+Satisfactory on the Financial Performance.
+33. Procurement. The Project is being carried out in accordance with: World Bank "Guidelines: Procurement of
+Goods, Works and Non-Consulting Services under IBRD Loans and IDA Credits & Grants by World Bank Borrowers"
+dated January 2011 (Procurement Guidelines); "Guidelines: Selection and Employment of Consultants under IBRD
+Loans and IDA Credits & Grants by World Bank Borrowers" dated January 2011 (Consultant Guidelines); and the
+provisions stipulated in the SREP Grant Agreement. The procurement performance of the Project is rated as
+“satisfactory”. All the bidding documents, including invitation for pre-qualification, request for bids and bid
+evaluation reports, have been reviewed and provided no-objection by the Bank to ensure compliance with the
+relevant Bank policies.
+C. Safeguards
+34. Environmental Safeguards. Since ASPIRE follows a private sector approach as per the original PAD (see
+paragraph 100), Performance Standards are followed for each sub-project. The first sub-project is compliant with
+the World Bank’s Operational Policy (OP) 4.01 – Environmental Assessment and OP 4.03 (including Performance
+Standards (PS) 1: Assessment and management of environmental and social risks and impacts, 2: Labor and working
+conditions; 3: Resource efficiency and pollution prevention and 4: Community health, safety and security).
+Therefore, the environmental safeguards performance is rated as ‘Satisfactory”. The overall safeguard risk
+continues to be “Moderate.”
+35. Social Safeguards. Activities under the first sub-project have not led to any adverse social impact on the
+community in terms of land acquisition and resettlement. Awareness-raising activities among relevant community
+members, and consultations with the stakeholders prior to the installation of solar PVs, have been carried out
+regularly as per the Environmental and Social Management Framework (ESMF). Social safeguards performance is
+thus rated as ‘satisfactory.’
+36. The second sub-project has been also following the relevant Bank safeguards policies. No revision has been
+made in the ESMF, as there is no additional risk anticipated for the second sub-project or the need to trigger
+additional PSs. As per the request of the Environmental Protection Agency (EPA) and Civil Aviation a specific Glare
+Assessment has also been conducted and cleared and has confirmed that the impacts to flight operations will be
+almost negligible. Although the sub-project utilizes spaces on the side of the road, canopies will be built for installing
+solar PV therefore no land acquisition is required.
+37. In accordance with the ESMF, ME submitted during the bid evaluation period the Environmental and Social
+Management System and the Independent Environmental Certification of Ensys Company Limited, the winning
+bidder. The Bank has reviewed them to assess the environmental and social performance and compliance standards
+17
+<<<PDF_PAGE_18>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+of the winning bidder and provided clearance. The requisite clearances (e.g., civil aviation, HDC, Ministry of Defense)
+have been obtained for the installation of solar panels on the side of the link road under the second sub-project.
+Following procedures set out in the ESMF, once the contract is awarded, expected in February 2020, Environmental
+and Social Management Plans (ESMPs) will be prepared by Ensys Company Limited, review by the Bank and EPA,
+and disclosed to public. The Bank will prepare the Environmental and Social Review Summary (ESRS) in accordance
+with OP 4.03 upon review of ESMPs.
+38. Grievance Redress Services. Communities and individuals who believe that they are adversely affected by
+a World Bank (WB) supported project may submit complaints to existing project-level grievance redress
+mechanisms or the WB’s Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly
+reviewed in order to address project-related concerns. Project affected communities and individuals may submit
+their complaint to the WB’s independent Inspection Panel which determines whether harm occurred, or could
+occur, as a result of WB non-compliance with its policies and procedures. Complaints may be submitted at any time
+after concerns have been brought directly to the World Bank's attention, and Bank Management has been given an
+opportunity to respond. For information on how to submit complaints to the World Bank’s corporate Grievance
+Redress Service (GRS), please visit http://www.worldbank.org/en/projects-operations/products-and-
+services/grievance-redress-service. For information on how to submit complaints to the World Bank Inspection
+Panel, please visit www.inspectionpanel.org.
+39. The first sub-project is compliant with World Bank procedures for the establishment of a Grievance Redress
+Mechanism. As noted in paragraph 7, for the first sub-project, no complaint was received during construction or
+since. ME has sufficient capacity to replicate this approach for the second sub-project.
+KEY RISKS
+40. With the benefit of 5 years of implementation, some key take-aways are as follows. Inexperience with PV
+technology and a volatile business and political environment in the Maldives were challenging for the first sub-
+project. Resistance from various sources including the off-taker resulted in significant delays. Additionally, the
+Government’s initial reluctance to provide a foreign exchange convertibility security to the private sector created
+challenges. Despite this, private investment has come in due to the persistence of the Bank and ME. The successful
+operation of the first sub-project has built support for the PPA model and private sector investment. This will be
+cemented further with the 5 MW bid under the second sub-project.
+RESULTS FRAMEWORK
+41. The Results Framework is presented below. The current status comes from the July 2019 technical mission.
+18
+<<<PDF_PAGE_19>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+Table 3: ASPIRE Project Results Matrix
+Indicator Current Status Previous Status
+PDO Level Results Indicators
+Cumulative Installed 1.5MW in operation since March 1.5MW in operation since March
+Generation Capacity of Solar 2018; 5MW Phase II Greater Male’ 2018.
+Energy Constructed bid to be installed through the
+second sub-project.
+Annual Electricity Output Solar 2,280 MWh for the first year of the 2,280 MWh for the first year of the
+Energy under the project first sub-project; 7,870 MWh per year first sub-project.
+to be added through the second sub-
+project.
+Private Capital Mobilized Approximately $3.3 million of private Approximately $3.3 million of private
+capital was mobilized for the first capital was mobilized for the first
+sub-project; about $6 million of sub-project.
+private capital expected to be
+mobilized through the second sub-
+project.
+Annual Reduction in Bulk Based on unsubsidized cost of diesel, Based on unsubsidized cost of diesel,
+Power Cost in Project Areas the expected annual saving is the expected annual saving is
+$24,700. This assumes no change in $24,700. This assumes no change in
+capital cost of diesel generators. capital cost of diesel generators.
+When the second sub-project is
+commissioned, the result number will
+increase.
+Intermediate Results Indicators
+Development of Standard Completed - Contract and concepts Completed and proven for 1.5 MW
+Contracts and Guidelines developed in Phase I were replicated Phase I
+for Phase II and released
+Cumulative Megawatts of PV 27.5 MW prepared, including Phase I, 6.5MW prepared
+pipeline subprojects prepared II and a new sub-project in outer
+islands
+42. The Project restructuring is proposed to adjust the PDO indicators and intermediate indicators as outlined
+in Table 4 below. These proposed changes to the results targets will reflect the development of the first and second
+sub-projects. Due to implementation delays at the beginning of the Project, despite the extension of the closing
+date granted in November 2019, the Project would only be able to support up to the second sub-project by the
+closing date. Subsequent sub-projects currently under development would be proposed to be supported under the
+new Bank operation, Accelerating Renewable Energy Integration and Sustainable Energy (ARISE) Project (P172788),
+which is under preparation targeting the Board approval by May 2020.
+19
+<<<PDF_PAGE_20>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+Table 4: Summary of the proposed changes in the Results Framework
+Original Proposed
+Indicators Remark
+Target Target
+PDO Level Results Indicators
+Cumulative Installed Generation Capacity of Solar Energy
+20 6.5 End target revised
+Constructed (MW)
+Annual Electricity Output from Solar Energy under the Project
+32,610.6 10,000 End target revised
+(MWh/yr)
+Private Capital Mobilized (US$ million) 42 9.3 End target revised
+Annual Reduction in Bulk Power Cost in the Project Areas (US$
+1.63 0.5 End target revised
+million)
+Intermediate Results Indicators
+Development of Standard Contracts and Guidelines (Number) 7 7 No change
+Cumulative Megawatts of PV pipeline subprojects prepared
+35 27.5 End target revised
+(MW)
+INDICATIVE TERMS AND CONDITIONS FOR GUARANTEE
+43. A summary of the Terms and Conditions of the Agreements to be signed in the context of providing a
+Termination Payment IDA Guarantee, including the Indemnity Agreement to be signed with the Government of
+Maldives (GoM)7 is provided in Annex 1.
+7 This term sheet will be applicable to each subproject.
+20
+<<<PDF_PAGE_21>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+Annex 1: ASPIRE Guarantee Term Sheet
+This term sheet contains a summary of indicative terms and conditions of proposed guarantees (each a
+“Guarantee”) by the International Development Association (“IDA”) for discussion purposes only and does not
+constitute an offer to provide a Guarantee. The provision of a Guarantee is subject, inter alia, to satisfactory
+appraisal by IDA of the specific sub-project (each a “Subproject”) proposed under the framework of the ASPIRE
+Project (“Project”), compliance with all applicable policies of the World Bank, including those related to
+environmental and social safeguards, review and acceptance of the ownership, management, financing structure
+(including in connection with shareholders, suppliers, equipment and Project design, and contracts proposed by
+the winning bidder), review and acceptance of project/transaction documentation by IDA, and the approval of the
+management and Executive Directors of IDA, as applicable, in their sole discretion. Without limiting the generality
+of the foregoing, IDA is highly selective with regard to the clients and beneficiaries it works with and is diligent
+with Know Your Customer requirements for all Project participants (equity investors, ultimate shareholders,
+lenders, contractors, advisors) and will undertake an appraisal of the Project and the Project Company including
+an assessment on these parameters.
+IDA Guarantee Agreement
+Guarantor: International Development Association (IDA)
+Guaranteed Beneficiary: The Project Company undertaking the relevant Subproject
+Guarantee Face Value: The IDA Guarantee Face Value will not exceed US$5 million, with the
+predetermined amount to be calculated based on a percentage of the maximum
+termination amount payable as per the provisions of the Implementation
+Agreement between the Project Company and the Government of Maldives
+(“GoM”) and the Power Purchase Agreement (“PPA”, and together with the
+Implementation Agreement, the “Project Documents”) between the Project
+Company and [STELCO] as buyer under the PPA (the “Offtaker”). 8
+Guarantee Support: The Guarantee would backstop the failure by the Government of Maldives
+(“GoM”) to pay the amounts due to the Beneficiary under the relevant Project
+Documents, following the occurrence of a Guaranteed Event (as defined
+below).
+Guaranteed Events: GoM’s failure to comply with its undisputed/final termination payment
+obligations under the Project Documents.
+For the avoidance of doubt, coverage under the IDA Guarantee shall not extend
+to any termination payment resulting from a termination of the Project
+Documents due to a default by the Beneficiary [or any termination event that is
+otherwise insurable (e.g. natural force majeure) affecting the Beneficiary].
+8 This term sheet is based on the proposed templates of the Project Documents reviewed by IDA. The final documentation will need to be
+acceptable to IDA, and IDA reserves the right to modify or withdraw the proposed Guarantees, including for reasons relating to changes in the
+current terms of the Project Documents.
+21
+<<<PDF_PAGE_22>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+Maximum Guaranteed Guarantee Face Value.
+Amount:
+Maximum Guarantee Period: 20 years from IDA Guarantee effectiveness as referred to below
+Signing: If the Guarantee-related legal agreements are not signed within [24] months
+following approval by the Board of Executive Directors of IDA, IDA may
+withdraw the offer of the Guarantee.
+Exclusions, Withholding, Standard exclusion, withholding, limitation/suspension and termination events
+Limitation/Suspension & for transactions of this nature.
+Termination Events:
+Conditions Precedent to Usual and customary conditions for financings of this type, including but not
+Effectiveness of the IDA limited to the following:
+Guarantee: (a) Firm commitment for sufficient financing to complete the construction of
+the Project, including satisfactory contribution of equity;
+(b) Execution, delivery and effectiveness of all Project and financing
+agreements, in form and substance satisfactory to IDA, including the PPA, the
+Implementation Agreement, the Escrow Agreement for the payment security
+mechanism under the PPA, the applicable Site Agreement granting the Project
+Company the right to use the designated site(s) for purposes of its Subproject,
+the Indemnity Agreement and the Project Agreement;9
+(c) Delivery of all relevant host country environmental approvals required for
+the construction and operation of the Project, and compliance with all
+applicable World Bank requirements relating to Sanctionable Practices and
+environmental and social safeguards, including the World Bank Performance
+Standards;
+(d) [Effectiveness of all required insurance (to include IDA as an additional
+insured on third-party liability insurance);]
+(e) Satisfaction of all conditions precedent for first disbursement under the
+financing documents if applicable, save for any condition that requires the
+effectiveness of the Guarantee Agreement to have occurred;
+(f) Provision of satisfactory legal opinions;
+(g) Payment in full of the [Initiation Fee] and [Processing Fee], , the first
+installment of the [Guarantee Fee] (if applicable) [and the reimbursement of
+IDA's outside legal counsel expenses]; and
+(h) Satisfactory integrity due diligence of Project Company (and related parties)
+and guaranteed parties.
+Subrogation: If and to the extent IDA makes any payment under the Guarantee, IDA will be
+subrogated immediately to the extent of such unreimbursed payment to the
+Guaranteed Beneficiary’s rights under the relevant PPA and under the relevant
+Implementation Agreement to the extent of the unpaid amount under the
+relevant Project Documents that gave rise to the payment under the Guarantee.
+9 The terms of the Project Agreement may be incorporated within the Guarantee Agreement, in which case there will be no separate Project
+Agreement.
+22
+<<<PDF_PAGE_23>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+Claims and disputes: If there is a dispute between the Guaranteed Beneficiary and the Offtaker or
+GoM as to the Offtaker’s or GoM’s obligation to pay or the amount of its
+liability, the Guarantee would be callable only in respect of amounts that the
+offtaker/GoM is obligated to pay, and fails to pay. For the avoidance of doubt,
+IDA will pay only up to the offtaker’s/GOM’s liability that has been
+determined, whether through expert determination, settlement agreement
+between the parties, arbitral award, or in accordance with contractual
+procedures acceptable to IDA, so long as such determination is final and
+binding (i.e., an arbitral award is not necessarily required).
+Governing law: English law or New York Law.
+Indemnity Agreement
+Parties: IDA and Maldives (the “Member Country”)
+Indemnity: The Member Country will reimburse and indemnify IDA on demand, or as IDA
+may otherwise direct, for all payments under the Guarantee and all losses,
+damages, costs, and expenses incurred by IDA relating to or arising from the
+Guarantee.
+Covenants: [Usual and customary covenants included in agreements between member
+countries and IDA.]
+Remedies: If the Member Country breaches any of its obligations under the Indemnity
+Agreement, IDA may suspend or cancel, in whole or in part, the rights of the
+Member Country to make withdrawals under any other loan, credit or grant
+agreement with IBRD or IDA, or any IBRD loan or IDA credit to a third party
+guaranteed by the Member Country, and may declare the outstanding principal
+and interest of any such loan or credit to be due and payable immediately. A
+breach by the Member Country under the Indemnity Agreement will not,
+however, discharge any guarantee obligations of IDA under the Guarantee.
+Governing Law: The Indemnity Agreement will follow the usual legal regime and include
+dispute settlement provisions customary for agreements between member
+countries and IDA.
+Project Agreement
+Parties: IDA and the Beneficiary
+Representations and The Beneficiary will represent, among other standard and project-specific
+Warranties: provisions, as of the effective date, that:
+(a) it is in compliance with applicable environmental laws and the
+applicable World Bank guidelines, environmental and social
+safeguard requirements, including the World Bank Performance
+Standards and other applicable requirements; and
+(b) neither it (nor its direct and indirect shareholders and any other
+relevant project participants, as determined by IDA), nor any of its
+affiliates has engaged in any Sanctionable Practices10 in connection
+with the Project.
+10 “Sanctionable Practices" include corrupt, fraudulent, collusive, coercive, or obstructive practices, as defined in IDA’s Anti-Corruption
+Guidelines
+23
+<<<PDF_PAGE_24>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+Covenants: The Beneficiary will covenant, among other things, that it will:
+(a) comply with applicable laws, including environmental laws, and the
+applicable environmental and social safeguards requirements under
+the World Bank Performance Standards;
+(b) provide annual audited financial statements and other reports;
+(c) provide certain notices and other information to IDA;
+(d) provide access to the Project;
+(e) not engage in (or authorize or permit any affiliate or any other Person
+acting on its behalf to engage in) any Sanctionable Practices in
+connection with the Project;
+(f) comply with World Bank requirements relating to Sanctionable
+Practices regarding individuals or firms included in the World Bank
+Group list of firms debarred from World Bank Group-financed
+contracts; and
+(g) obtain IDA’s consent prior to agreeing to any change to any
+transaction document which would affect the rights or obligations of
+IDA under the Guarantee Agreement or any other guarantee related
+agreement.
+Payment of Fees to IDA: Payment of fees due to IDA is the obligation of the Project Company.
+Initiation Fee: 15 bps of the Guarantee Face Value (but not less than USD 100,000)11.
+Processing Fee: 50 bps of the Guarantee Face Value.12
+Guarantee Fee: 75 basis points per annum. The IDA Guarantee Fee is charged on that portion
+of the guaranteed amount that IDA has contractually committed and for which
+IDA has financial exposure under the guarantee (Maximum Guaranteed
+Amount). The Guarantee Fee must be paid [in advance semi-annually on
+regular payment dates]. The Guarantee will terminate in the event of
+nonpayment of any installment of the Guarantee Fee.
+External Legal Costs: [Reimbursement of IDA external legal counsel expenses by the Project
+Company.]
+Cooperation Agreement
+Parties: IDA and the Offtaker
+11 The Initiation Fee amount in this case will be calculated as follows: (Guarantee Face Value /US$16 million) x US$100,000
+12 In exceptional cases, projects can be charged over 50 bps of the guarantee amount.
+24
+<<<PDF_PAGE_25>>>
+The World Bank
+Accelerating Sustainable Private Investments in Renewable Energy (P145482)
+Cooperation agreement: The Offtaker will covenant, among other things, that it will:
+(a) comply with all its obligations under the transaction documents;
+(b) obtain IDA’s consent prior to agreeing to any change to any
+transaction document which would materially affect the rights or
+obligations of IDA under the Guarantee Agreement or any other
+transaction document;
+(c) provide certain notices to IDA;
+(d) take all action necessary on its part, in accordance with and as
+required by the terms of the project-related agreements to which it is
+a party, to enable the Beneficiary to perform all of the Beneficiary’s
+obligations under the Project Agreement, and other relevant
+transaction document;
+(e) cooperate with IDA and furnish to IDA all such information related
+to such matters as IDA shall reasonably request; and promptly
+inform IDA of any condition which interferes with, or threatens to
+interfere with, such matters; and
+(f) reimburse and indemnify IDA on demand, or as IDA may otherwise
+direct, for any payments under the Guarantee related to a Guaranteed
+Event attributable to the Offtaker.
+25

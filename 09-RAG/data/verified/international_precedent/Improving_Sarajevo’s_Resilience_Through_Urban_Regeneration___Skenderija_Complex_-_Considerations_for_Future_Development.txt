@@ -1,0 +1,2591 @@
+<<<PDF_PAGE_1>>>
+THE WORLD BANK
+IMPROVING SARAJEVO’S
+RESILIENCE THROUGH
+URBAN REGENERATION
+SKENDERIJA COMPLEX:
+CONSIDERATIONS FOR FUTURE
+DEVELOPMENT
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+<<<PDF_PAGE_2>>>
+2 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_3>>>
+DISCLAIMER
+This report is a product of the International Bank for Reconstruction and Development /
+The World Bank. The findings, interpretations and conclusions expressed in this document
+do not necessarily reflect the views of the Executive Directors of the World Bank or the
+governments they represent. The World Bank does not guarantee the accuracy of the
+data included in this work. This report does not necessarily represent the position of the
+European Union or the Government of Bosnia and Herzegovina.
+COPYRIGHT STATEMENT
+The material in this publication is copyrighted. Copying and/or transmitting portions of this
+work without permission may be a violation of applicable laws.
+ACKNOWLEDGMENTS
+The report has been prepared by international built environment consultants Arup in
+collaboration with the World Bank project team. Findings are drawn from engagement with
+stakeholders, though due to the impact of Covid-19, the extent and nature of participation
+with local participants has been constrained.
+This report and related activities has been funded by the Global Facility for Disaster
+Reduction and Recovery (GFDRR) and prepared under the guidance and supervision of
+David N. Sislen (Practice Manager, in Social, Urban, Rural and Resilience, Europe and
+Central Asia) and Emanuel Salinas Munoz (Country Manager, Bosnia and Herzegovina
+and Montenegro. This report was drafted under the coordination of Gary Goliath (Urban
+Development Specialist), with the assistance of Leila Kabalan (Urban Development
+Consultant), with analytics compiled by an Arup team led by Matt Lally and Dima Zogheib.
+The team would like to express its gratitude for the excellent cooperation, guidance and
+feedback received from the representatives of the Canton of Sarajevo, Development
+Planning Institute, Institute for Planning, Centre of Skenderija and many other local and
+regional actors who have contributed to the development of this report.
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 3
+<<<PDF_PAGE_4>>>
+CONTENTS
+4 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_5>>>
+1. Executive summary 6
+2. Context 9
+3. Challenges 31
+4. Establishing the way forward 41
+5. Development potential 67
+Appendices
+A. Exploring Scenarios 97
+B. Analysis 107
+C. Market and fi nancial revenue 135
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 55
+<<<PDF_PAGE_6>>>
+1. EXECUTIVE SUMMARY
+As the largest city economy in Bosnia and The report positions the site in relation to the
+Herzegovina, Sarajevo’s economic growth city-wide and immediate urban context in terms
+and performance is critical for the continued of location, land use, connectivity (transportation
+progress of the country. Like many cities around and mobility, character assets and assets
+the world, Sarajevo has pockets of underutilized in context), heritage and historic value. The
+land and distressed or decaying urban areas report then addresses the site challenges
+which weaken the city’s image, livability, and including previous masterplans, existing uses,
+productivity. public space and user experience, stakeholder
+perceptions, and hazards and risks (including
+The regeneration of decayed neighborhoods wildfires, river floods, earthquakes, landslides,
+and buildings and improved utilization of land air pollution, geo-tech hazards, climate change,
+can improve a city’s economic competitiveness heavy snowfall). Following a comprehensive
+by stimulating new activities. This urban analysis informed by stakeholder feedback and
+regeneration is an opportunity to also increase a an understanding of the resilience challenges
+city’s environmental sustainability, resilience to faced by the complex and wider city, the reports
+natural disasters and other potential shocks and presents five key guiding principles as the
+stresses. These regeneration and redevelopment basis of a regeneration strategy that looks to
+projects are, however, complex and difficult build resilience and de-risk the project while
+to implement. To help forge a successful path maximizing opportunities for investment:
+forward, the World Bank collaborated with
+local partners to help determine how urban 1. Identity: respect site heritage and enhance
+regeneration projects can have a wider positive its relationship to context: The masterplan
+catalytic impact for the city. should respect, conserve and where possible
+repurpose buildings of heritage significance.
+This report focuses on the Skenderija Complex Any new buildings should be respectful of
+in Sarajevo City Center. Built in 1969, the the heritage context and retain and enhance
+Skenderija Complex was conceived as a symbol views in and out of the site. Opportunities
+of modern Yugoslavia – a sports, cultural and for contemporary building forms should be
+trade center in the heart of the city. Home to introduced to project a confident identity.
+the 1984 Winter Olympics, the complex still 2. Safety and accessibility: ensure the
+holds important national significance. During built environment is designed to be safe
+the Bosnian War, the site suffered significant and universally accessible: Any future
+damage. Over the past decade, there have been development for Skenderija should consider,
+several revitalization attempts, including a 2008 understand and manage risks to building
+Masterplan which was not widely supported safety and offer safe inclusive accessibility
+and did not move forward. This report lays the for the physically challenged.
+foundation for a new regeneration process that 3. Healthy environment: protect and enhance
+has recently been initiated, placing the site in environmental quality with sustainable
+its wider city context and summarizing the key solutions: The environmental condition on
+challenges that needs to be addressed in its and around the site should be protected
+redevelopment. Given Sarajevo’s vulnerability to and enhanced including by reducing flood
+natural hazards (earthquakes, urban flooding) risk through the design of blue-green
+and other potential risks, the report includes a infrastructure. This should include using
+focus on identifying how regeneration proposals sustainable urban drainage and water
+can incorporate measures to build greater recycling. Active mobility should be promoted
+levels of resilience – for the site and the wider by creating a safe environment for walking,
+city. cycling, and access to public transport
+4. Economic vitality: a vibrant and viable mix
+6 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_7>>>
+of uses: Introduce a vibrant mix of uses uses to ensure fi nancial sustainability.
+that includes commercial content that can 3. Inject commercial content to boost vitality
+assist viability - helping to cross-subsidize and viability to enhance and diversify revenue
+the cost of the proposed redevelopment, generation as well as activate the spaces.
+particularly the enhanced sports, cultural 4. Build stronger partnerships and invite
+and community facilities. Such uses can help academic, cultural and hospitality partners
+to establish an identity and brand, generate to enhance the offer and the visitors’
+footfall and create a destination, drawing experience.
+people into the site. These should be aimed
+at generating revenue and activation of the Advancing the redevelopment of the Skenderija
+buildings and open spaces. New uses to Complex:
+be considered could include a distinctive
+new niche retail offer for small and medium Large-scale urban development projects are
+enterprises, creative industry and designers, difficult to implement and realize because,
+restaurants and cafes including flexible, by their nature, they involve multiple levels of
+temporary, and interchangeable uses such government, several departments, parastatal
+as pop-ups. The potential for including agencies, citizens, NGOs and the private sector.
+residential uses could be considered in These projects also often stretch over multiple
+order to improve the complex’s economic political and administrative terms where
+resilience. differing agendas and priorities can stunt project
+5. People at the center: human-centered implementation. The redevelopment of the
+design and process for an inclusive and Skenderija Complex will likely be no different.
+welcoming place: This redevelopment of Thus, the above guiding principles articulate a
+Skenderija Complex should enable Sarajevo’s vision for the site that is evidence-based, aware
+urban populations to act and enjoy the new of constraints and opportunities, and integrates
+place collectively. This includes ensuring that the importance of partnership.
+the place is reflective of people’s collective
+identity through engaging the public in
+the regeneration process from planning to
+implementation. Accessible open spaces
+and protection of cultural heritage will also
+play an important role in this.
+Building on the analysis, the report sets out
+a series of key considerations to optimize the
+future development potential of the complex,
+summarized below:
+1. Invest and restore the public realm and
+surrounding landscape to create new inviting
+places where the people of Sarajevo would
+want to visit and dwell by creating a new
+public plaza and a network of connected
+green corridors that extend beyond the site.
+2. Reinforce sports and wellbeing as an
+anchor by creating a center of sport, health
+and wellbeing that will serve both elite
+athletes, sports clubs and the community.
+This should be combined with commercial
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 77
+<<<PDF_PAGE_8>>>
+8 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_9>>>
+2. Context
+This section presents the site in relation to the
+city-wide and immediate urban context.
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 99
+<<<PDF_PAGE_10>>>
+1. /
+LOCATION AND LAND USE
+The Skenderija Complex occupies a strategic 1. SKANDERIJA COMPLEX SITE
+location within Sarajevo, just across from River 2. CITY CENTER
+Miljacka, within walking distance of the old city A. SARAJEVO RAILWAY STATION ŽELJEZNICKA /
+center and at the southern end of the city’s Olympic STANICA BUS STATION
+corridor. It is surrounded by multiple cultural and
+educational facilities.
+Key
+Educational - Univ. of Sarajevo
+Restaurant / Cafe / Hospitality
+Mixed Business / Offi ces
+Commercial Retail
+Educational Other
+Institutions
+Residential
+Sports
+Industrial
+Park
+Grass Field
+Orchard
+Scrubs
+Forest
+Allotment
+Recreational grounds
+Meadows
+Farm
+10 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_11>>>
+N
+A. 1. 2.
+0M 500M
+SARAJEVO CITY CONTEXT
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 1111
+<<<PDF_PAGE_12>>>
+2. /
+CONNECTIVITY
+TRANSPORT INFRASTRUCTURE
+The Skenderija Complex is well connected to 1. SKANDERIJA COMPLEX SITE
+transport infrastructure. It is approximately 15 2. CITY CENTER
+minutes’ walk away to the main railway and bus
+station to the north-west. • A. SARAJEVO RAILWAY STATION
+ŽELJEZNICKA / STANICA BUS STATION
+Terezija and Skenderija roads run east-west
+alongside the site’s northern edge, and a tram stop
+is located less than 5 minutes’ walk away on the
+northern banks of the river.
+Key
+Old city center
+Built environment
+Road infrastructure
+Rails
+River Miljacka
+Tram stops
+12 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_13>>>
+N
+A. 1. 2.
+0M 500M
+W A L K
+S
+N
+MI
+5
+1
+-
+M
+0
+0
+0
+1
+M
+IN S WALK
+7
+-
+M
+0
+0
+5
+SARAJEVO CITY CENTER
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 1133
+<<<PDF_PAGE_14>>>
+CONNECTIVITY
+ACTIVE MOBILITY
+The complex can be accessed via a network of 1. SKANDERIJA COMPLEX SITE
+pedestrian connections to the west, north and 2. CITY CENTER
+east, though walking conditions can at times be
+unpleasant due to issues of traffi c congestion and A. SARAJEVO RAILWAY STATION ŽELJEZNICKA /
+poor road crossings. Skenderija Road is very busy STANICA BUS STATION
+and has the effect of severing the complex from the
+riverside.
+The designated cycling lane north-west of
+Skenderija does not extend beyond the University
+of Sarajevo campus. The roads are car dominated
+and there are opportunities to improve the cycling
+network and infrastructure.
+These are key issues to address to make Skenderija
+as accessible as possible.
+Key
+Cycling network
+Footways
+Pathways
+Pedestrian areas / plazas
+Tram stops
+14 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_15>>>
+N
+A. 1. 2.
+0M 500M
+W A L K
+S
+N
+MI
+5
+1
+-
+M
+0
+0
+0 PLAZA
+1
+M
+IN S WALK
+7
+-
+M
+0
+0
+5
+SARAJEVO CITY CENTER
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 1155
+<<<PDF_PAGE_16>>>
+CONNECTIVITY
+CHARACTER AREAS AND ASSETS IN CONTEXT
+The Skenderija Complex is located at the 1. SKANDERIJA COMPLEX SITE
+intersection of multiple ‘character areas’ within 2. CITY CENTER
+Central Sarajevo. The Old Town extends east of the
+Complex and the center’s commercial core extends • A. SARAJEVO RAILWAY STATION
+eastward on the northern side of the Miljacka River. ŽELJEZNICKA / STANICA BUS STATION
+The administrative institutions and offi ces are
+primarily concentrated north-west of Skenderija
+and dissected by Frana Lehara Road leading
+towards the railway and bus station.
+The Skenderija Complex forms part of a cluster of
+cultural and community facilities. The new Sarajevo
+Concert Hall and Ars Aevi Museum are envisaged
+as major future city landmarks located west of the
+site. Improving pedestrian connectivity between the
+Skenderija Complex and these facilities along the
+Miljacka River is a key consideration.
+Key
+Core city center area
+Skenderija area
+Old town area
+Administrative and business area
+Buisness area
+University area
+Housing area built during socialism
+Housing area on steep topography
+Public spaces
+1. Abdulah Nakas hospital
+2. Archive of Bosnia Herzeg.
+3. Obala highscool
+4. Ministry of Culture & Sport
+5. Academy of fi ne arts
+6. German embassy
+7. Skenderija kindergarten
+8. Institute of history
+9. Bosnia Herz/ Federation
+10. Ars Aevi Museum
+11. Municipality of Sarajevo
+12.Power plant in hisetima
+13. Elementary school Vladislav Skaric
+14. Future Sarajevo concert hall, Zaha hadid
+15. Future Ars Aevi Museum, Renzo Piano
+16 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_17>>>
+N
+0M 500M
+1.
+2.
+11. 3.
+12. 6. 4. 5.
+10.
+7.
+15. 8.
+14.
+13.
+9.
+SARAJEVO CITY CENTER
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 1177
+<<<PDF_PAGE_18>>>
+3. /
+HERITAGE
+CITY EXPANSION THROUGH THE AGES
+There is evidence of human occupation of the valley
+and areas associated with the Miljacka River dating
+back to the Neolithic period. Roman development
+established the basis of the modern-day city.
+Subsequent expansion of the city has evolved over
+the following key socio-economic periods:
+Ottoman Empire 1400 - 1878
+Austro-Hungarian Empire 1878 – 1918
+Kingdom of Yugoslavia 1918 – 1945
+Socialist Federal Republic 1945 - 1992
+Of Yugoslavia
+Bosnia & Herzegovina 1992 – present
+Key: Periods of city expansion
+Ottoman Empire
+Austro Hungarian
+Socialist Era
+Developing suburbs
+18 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_19>>>
+N
+Source: Beslic, S., (2019),The scars of Sarajevo and Skenderija place
+SARAJEVO CITY CENTER
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 1199
+<<<PDF_PAGE_20>>>
+HERITAGE
+HISTORIC VALUE
+The Skenderija Complex buildings have been
+captured in fi lm, photography, televised
+events and represented on stamps. The
+recording of the massing and the signature
+roof forms of the 1969 complex have been
+replicated and offer a consistent and
+progressive representation. The buildings
+have an important location within the greater
+city and have also functioned as a backdrop
+to historical events. Key to the potential
+restoration and development of the site
+will be a careful preservation of its iconic
+features. This works across all scales from
+fabric and details to the massing rhythm of
+any proposed new elements.
+20 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_21>>>
+1969
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 2211
+<<<PDF_PAGE_22>>>
+HERITAGE
+HERITAGE AND IDENTITY
+CONTEXT ASSESSMENT
+As far as we can establish the site of the
+Skenderija Complex has not been listed
+under the Commission to Preserve National
+Monuments of Bosnia and Herzegovina,
+under the jurisdiction of the Council of
+Ministers of Bosnia and Herzegovina. HISTORIC MEMORY
+Establishing a fuller understanding of the
+site’s signifi cance will provide a framework
+with which to establish protection and
+guidelines for future development. Once a
+baseline has been established, we would
+also recommend a programme of ongoing
+assessment of recommendations and
+monitoring.
+In addition to the national and local
+government requirements, assessment
+should be undertaken acknowledging
+the wider aims of conserving cultural
+heritage including those where Bosnia and
+Herzegovina is a signatory. When developing
+the potential scope and outcomes of the
+development of Skenderija, note should also
+be taken of the principles of the Council of
+Europe’s Faro Convention. We encourage
+further engagement of the site to support
+both local and national ambitions for the LEGACY
+preservation of Sarajevo’s cultural heritage.
+Further support, including funding, may
+be found in establishing a collaborative
+partnership for a heritage assessment report
+(HAR) at a national and international level
+with major institutions and agencies such as
+the European Commission, ICOMOS, UNESCO
+and ICCROM.
+22 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_23>>>
+1984
+ICONIC PLACE IN THE CITY, A SYMBOL OF RESILIENCE
+CULTURAL AND ARCHITECTURAL HERITAGE
+INTERNATIONAL RESONANCE
+COMMUNITY HUB
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 2233
+<<<PDF_PAGE_24>>>
+HERITAGE
+SITE MORPHOLOGY: A BRIEF HISTORY
+Analysis of the site history is key to informing
+an understanding the current complex
+and helps to establish a framework for
+development proposals going forward.
+Development of the Skender-Bey begun
+in 1499 by Iskender bey Paša Mihaloglu,
+or Skender Paša who built a tekke (Sufi
+dervich monastery) ) and minaret on the left
+back area now known as Skenderija. These
+buildings were associated with a caravansary
+on the right bank and most likely formed a
+külliye (a complex of buildings associated
+with Ottoman architecture and centered
+on a mosque) linked by the original wooden
+pedestrian Šejhanija Bridge built in the late
+16th Century. It is likely the imaret functioned, 16th century - minaret and wooden footbridge
+as the Ottoman term may suggest, as a soup
+kitchen and place of refuge.
+In 1518 Skender Paša son Mustafa beg
+Skenderpašic built the fi rst domed mosque in
+Bosnia & Herzegovina attached to the side of
+his father’s tekke.
+The Cobanija Bridge made of iron was built
+to replace the original wooden bridge in
+1887. This bridge is on the List of National
+Monuments of Bosnia and Herzegovina
+(declared).
+The complex was used during the Austro-
+Hungarian rule for entertainment and
+events including visiting acts such as Cirkus
+Platzon and after falling into disrepair was
+demolished to form a series of sports fi elds.
+1940s - mosque
+24 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_25>>>
+N
+16th century - minaret and wooden footbridge
+1940s - mosque Historic views of Skenderija and Miljacka River
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 2255
+<<<PDF_PAGE_26>>>
+HERITAGE
+In line with the city’s ambitious expansion
+during the 1950s and 60’s the Skenderija
+site was developed into a new cultural
+and sports complex by President Tito in
+1969. Designed by Živorad Jankovic, Halid
+Muhasilovica and Ognjen Malkin, and it won
+the ‘BORBA’ architectural prize the year it
+opened. The complex became a focus for
+cultural and sporting life of the city and
+supported arts and entertainment events.
+Its unique sculptural forms, innovative
+use of modern materials and complex
+programmatic ambitions are still in evidence
+today. At the time it also functioned as a
+focal point and a social space for both the
+community, the Don Mladih or Youth House,
+and the wider national economic and social
+development.
+In the early 1980s the complex was 1969
+extended to host the 1984 Winter Olympics
+and became a node within the city fabric,
+linking the civic and ceremonial spaces to
+the sporting events held in the Zetra Hall
+to Trebevic Mountain. The complex was
+extended to include the Ledena Dvorana
+ice skating rink and the large forecourt was
+extended, stepping back from the road edge
+to form an enhanced civic space addressing
+the river.
+Various additions to the complex have been
+made since the Olympic development, some
+more sympathetic than others. While the
+complex continues to be used today and
+number of structures have been damaged
+and fallen into disrepair.
+1984 - present
+26 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_27>>>
+N
+1969
+1984 - present
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 2277
+<<<PDF_PAGE_28>>>
+HERITAGE
+SITE AND BUILDINGS TODAY
+Today the Skenderija Complex is in part vacant,
+under-utilized and derelict. Given its multi-layered
+nature, it is important to address the basement
+fl oors (which experiences fl ooding and includes
+poorly performing retail) as well as surface level
+buildings and spaces.
+MUNICIPALITY OF CENTER
+SARAJEVO
+COMMERCIAL BUILDING
+UNPLANNED MARKET
+UNDERGROUND SHOPPING
+CENTER
+DOM MLADIH
+THEATRE, YOUTH HOUSE AND
+ADMIN OFFICES
+MIRZA DELIBASIC DVORANA
+TRAINING FACILITIES
+MIRZA DELIBASIC DVORANA
+BASKETBALL ARENA
+ICE HALL
+LEDENA DVORANA
+A-A’ B-B’ C-C’
+BUILDINGS OCCUPIED
+DERELICT/ NOT OCCUPIED
+POST -OLYMPIC ADDITIONS/ OCCUPIED
+ELEVATED WALKWAY
+28 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_29>>>
+ICE-HALL FACADE
+ACCESS
+EXHIBITION HALL
+PARKING
+SECTION A - A ’
+ICE-HALL
+ACCESS
+EXHIBITION HALL
+PARKING
+SECTION B - B ’
+SPORT HALL
+ACCESS
+SHOPPING CENTER
+FIELD OF PLAY
+SECTION C - C ’
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 2299
+<<<PDF_PAGE_30>>>
+30 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_31>>>
+3. Challenges
+This section presents a summary of the site
+challenges. A detailed spatial analysis can be
+found in Appendix B.
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 3311
+<<<PDF_PAGE_32>>>
+N
+PREVIOUS MASTERPLAN
+PREVIOUS MASTERPLAN
+In 2008, a masterplan was developed for the
+Skenderija Complex which identifi ed areas
+for potential development as well as new
+uses. The masterplan was not adopted as
+some of the proposed building components,
+in particular the massing, use or location
+were not considered appropriate, for example,
+the hotel or the location of the garage.
+Feedback from a stakeholder engagement
+meeting undertaken in January 2020
+highlighted the need to review and revize the 2008
+masterplan.
+32 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_33>>>
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 3333
+<<<PDF_PAGE_34>>>
+CONTEMPORARY CHALLENGES
+EXISTING USES
+Skenderija today is characterized by its
+sports uses and a limited cultural offer. It
+includes a number of retail and commercial
+units that are performing poorly not only due
+to the competition from surrounding shopping
+centers but also because of the condition of
+the built structures.
+PUBLIC SPACE
+The plaza of Skenderija is one of the largest
+public spaces in Sarajevo. Today, it is
+neglected and occupied by commercial units
+with disputed legality.
+USER EXPERIENCE
+Experience in Skenderija is a product of
+people’s relationship and perception of
+space, environment and program. Despite
+the site’s cultural and heritage significance
+for the people of Skenderija, consultation
+undertaken with a number of stakeholders
+in Sarajevo has indicated that the user
+experience is poor and this is linked to the
+condition of the spaces and some of the
+existing uses such as the commercial units
+within the shopping center.
+34 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_35>>>
+STAKEHOLDER PERCEPTIONS
+A stakeholder workshop was undertaken • Financial sustainability
+on the 22nd of January 2020 to discuss - Highest revenue primarily from parking and
+Skenderija, its challenges and potential garage
+opportunities. The workshop was organized by - Fairground revenue reduced signifi cantly
+the World Bank and PRIME Communications. since the roof collapse, it was a good source of
+Key fi ndings are summarized below: revenue
+- Economic City profi t is low
+• A need to review the Masterplan adopted
+10 years ago • Stakeholder engagement is crucial
+- Investment and revitalisation of all existing - Stakeholder discussion should be
+facilities needed maintained
+- Build a civic square in Skenderija - Owners of facilities and the shops are crucial
+for various users but the most important to be involved. Property rights should be
+interest groups are the citizens of Sarajevo addressed.
+- Economic City and the fairs activate - Engagement with the Cantonal Institute
+Skenderija for the Protection of Cultural, Historical and
+- Shop relocation (Economic City) to be solved Natural Heritage is very important in the
+via legal means assessment of the value of the place
+- Site ownerships and management
+challenges should be resolved • Partnerships should eb strengthened -
+A Skenderija Development Committee should
+• Disaster Risk challenges need to be be established
+addressed - Communication strategy (social media etc.)
+- Danger of plateau collapse including a communication team should be
+- Other hazards such as landslides and set up
+fl ooding
+Skenderija’s fi nancial statement from 2018
+indicates that that complex as it is currently
+operating is not generating suffi cient profi t.
+Maintenance and capital expenditures are
+not catered for. The main revenue comes
+from parking charges.
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 3355
+<<<PDF_PAGE_36>>>
+HAZARDS AND RISKS
+Sarajevo faces multiple resilience Any future development for Skenderija
+challenges, many of which are impacting should incorporate measures to mitigate
+Skenderija. Heavy snowfall has caused these risks.
+the Ice Hall roof to collapse, whilst the
+proximity to the river compounded by ageing
+infrastructure within Skenderija is causing
+fl ooding in the shops.
+WILDFIRES URBAN/RIVERINE EARTHQUAKES LANDSLIDES
+FLOODS
+Risk in BiH is high Vey high in BiH Risk moderate in Hazard in Sarajevo
+Life and property Sarajevo medium Sarajevo is high
+loss
+20% chance Strongest 430 signifi cant
+48% forested damaging and life- earthquake in 1962 rainfall-triggered
+threatening urban with epicenter in affect BiH av. each
+Exacerbated by fl oods the mountainous year, of which
+climate change zone of Mount approx. 15 occur in
+Miljacka River can Treskavica Sarajevo
+cause sudden &
+damaging fl oods Buildings Earthquake-
+e.g. the west of constructed triggered in BiH is
+Sarajevo in 2019 1991-2005 more approximately 20.
+& destruction of vulnerable, A total of 816
+bridge along the seismic design landslides in
+Zeljeznica River requirements Sarajevo Canton,
+693 being
+hazardous
+36 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_37>>>
+Ice Hall roof collapse as a result of the heavy snowfall
+AIR POLLUTION GEOTECH HAZARDS CLIMATE CHANGE HEAVY SNOW FALL
+Risk in BiH is high, Settlement of Temperatures to Severe snowfall
+highest mortality structures (valley increase by 1°C by in certain winter
+rate in the world sedimentary 2030 and are made months
+deposits) more extreme by
+In Sarajevo, annual Groundwater the urban heat Risks to building
+PM10 in 2018 fl ooding (buried island effect roofs and city
+exceeded national rivers) functions
+limit and WHO Integrity and Changes in rainfall (Skenderija Ice
+standard stability of and temperature Hall)
+Miljacka river patterns will
+Seasonal trends, channel put a strain on
+often increased in Potential sinkhole Sarajevo’s food
+winter hazards and water security
+Lack of data in future. Rising
+prevents detailed temperatures also
+analysis of exacerbate wildfi re
+potential hazards risks.
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 3377
+<<<PDF_PAGE_38>>>
+SITE CONSTRAINTS
+D. A. C.
+Following a comprehensive analysis summarized
+in Appendix B, this diagram presents a summary
+of the key site features and issues that need to
+be addressed. This is informed by stakeholder
+feedback and an understanding of the resilience
+challenges faced by the complex and wider city.
+1. CAR DOMINATED EDGE CONDITION
+2. ACCESS NON-COMPLIANTFOR LESS-ABLED USE
+3. POOR CONDITION OF BUILT HERITAGE AND ENVIRONMENT
+5.
+4. UNDERUTILIZED BUILDINGS AND SITES
+3.
+5. FRAGILITY TO RISKS LIKE EARTHQUAKES, LANDSLIDES,
+FLOODING ETC.
+6. PHYSICAL DISCONNECT OF SITE FROM SURROUNDING
+CONTEXT, RIVER AND OLD TOWN
+7. SOCIAL DISCONNECT OF SITE FROM COMMUNITY 2. 4.
+8. MULTIPLE SITE OWNERS
+9. RETAIL USES - COMPETITION FROM OTHER SHOPPING MALLS
+10. SPORTS USES - COMPETITION FROM ZETRA STADIUM
+11. UNPLANNED MARKETS ON PLINTH
+38 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_39>>>
+SITE FEATURES X.
+KEY BUILDINGS X.
+D. E. B.
+A. DVORANA MIRZA DELIBASIC/ BASKETBALL
+ARENA
+B. LEDENA DVORANA / ICE HALL - DERELICT
+C. DOM MLADIH
+D. POST OLYMPIC ADDITIONS VACANT -
+PARTIALLY OCCUPIED
+E. UNPLANNED MARKETS ON PLINTH
+F. MUNICIPALITY OF CENTER SARAJEVO
+5.
+4.
+3.
+2.
+For further analysis, see Appendix B
+5. for:
+3.
+1. Scale comparison
+2. Site boundary and footprint areas
+3. Land ownership
+4. Areas around complex with
+potential change/improvement
+5.
+5. Existing building, Olympic and
+3.
+1. post-Olympic additions
+2.
+6. Existing buildings occupation
+6. (current)
+7. Building use (Olympics)
+8. Building use (Post-Olympics)
+9. Building condition
+6.
+10. Building footprint areas
+11. Open Space
+12. Accessibility
+13. Parking areas
+14. Layout plans of Dom Miladih and
+underground shopping center
+15. Field of Play/Sports
+16. Views
+18.
+TRA
+M
+ROUTE
+F.
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 3399
+<<<PDF_PAGE_40>>>
+40 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_41>>>
+4. Establishing
+the way forward
+This section discusses ways to overcome the
+challenges and forms the basis of a regeneration
+strategy that looks to build resilience and de-risk
+the project while maximizing opportunities for
+investment.
+The recommended way forward is guided by
+five key principles seek to address existing site
+constraints and maximize opportunities for
+the site and the contribution it could make to
+sustainable development of Sarajevo as a whole.
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 4411
+<<<PDF_PAGE_42>>>
+RESILIENCE APPROACH
+The resilience approach is guided by a framework
+that highlights the key considerations for
+embedding resilience into the regeneration of
+Skenderija.
+Contribution to city in below Identifi cation, mitigation or
+areas: adaptation to:
+• Health & Well-being • Shocks
+• Infrastructure & • Stresses
+Environment
+• Society & Economy
+• Leadership & Strategy
+R 1 C I T Y
+SHOC
+K S & PI
+LA O F S T L L
+L E R A
+PI N C C ONTEXT E S R 2
+S
+E E
+LI S
+SI M
+E I
+T
+R I
+G
+A
+T
+EMBEDDING I
+O
+RESILIENCE N
+IN
+URBAN
+DEVELOPMENT
+T
+R N
+E E
+S M
+I
+L E
+I G
+E A
+N N
+P
+I
+LT
+SI
+SITE
+M
+A R3
+L A
+R
+4T E
+D E
+SI
+G N S I T
+E
+R I
+S K PILLA
+Design of key urban parameters Understanding, avoiding and
+like: mitigating negative risks beyond
+• Land-use the site through:
+• Access • Reducing cascading risks
+• Infrastructure • Inclusive development
+• Quality engagement and
+integration
+Figure above: Urban Resilience Framework for Regeneration (URFR)
+42 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_43>>>
+Core city center area
+Skenderija area
+Old town area
+Administrative and business area
+Business area
+University area
+0M 500M
+Housing area built during socialism
+Housing area on steep topography
+Public spaces
+River
+Skenderija Complex
+SKENDERIJA CONTEXT
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 4433
+<<<PDF_PAGE_44>>>
+1. /
+FIVE KEY PRINCIPLES
+Drawing on the analysis of key challenges and
+opportunities, whilst incorporating measures to build
+greater levels of resilience, it is recommended that the
+Skenderija Complex development strategy is guided
+by fi ve key principles.
+1. IDENTITY: RESPECT SITE HERITAGE AND
+ENHANCE ITS RELATIONSHIP TO CONTEXT
+SAFETY AND ACCESSIBILITY: ENSURE BUILT
+2.
+ENVIRONMENT IS DESIGNED TO BE SAFE
+AND UNIVERSALLY ACCESSIBLE
+HEALTHY ENVIRONMENT: PROTECT AND
+3.
+ENHANCE ENVIRONMENTAL QUALITY WITH
+SUSTAINABLE SOLUTIONS
+ECONOMIC VITALITY: A VIBRANT AND VIABLE
+4.
+MIX OF USES
+PEOPLE AT THE CENTER: HUMAN-CENTERD
+5.
+DESIGN AND PROCESS FOR AN INCLUSIVE
+AND WELCOMING PLACE
+44 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_45>>>
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 4455
+<<<PDF_PAGE_46>>>
+1.
+IDENTITY:
+RESPECT SITE HERITAGE AND ENHANCE ITS
+RELATIONSHIP TO CONTEXT
+The masterplan should respect, conserve
+and where possible repurpose buildings
+of heritage significance. Any new buildings
+should be respectful of the heritage context
+and retain and enhance views in and out
+of the site. Opportunities for contemporary
+building forms should be introduced to
+project a confident identity.
+Key considerations
+• Preserving the massing and the formal
+hierarchy of the building forms;
+• Enhancing programmatic diversity by
+establishing a stronger relationship
+with the public realm;
+• Restoring and sympathetically
+upgrading the significant fabric;
+• Rebuilding and adapting structures that
+have fallen into disrepair;
+• Removing detracting structures;
+• Preserving and enhancing key views
+into and out of the site.
+A former grain silo in Cape Town
+converted into a South Africa’s largest
+RESILIENCE CONSIDERATIONS
+art museum
+Resilience of the City (Sarajevo Shocks and Stresses Mitigation
+Development Strategy)
+• Improving the administration and • Deteriorating image of city
+business environment for attracting • Lack of civic space
+of domestic and foreign investment, • Loss of identity and cultural heritage
+entrepreneurship development and
+facilitation of capital and human
+resources mobility
+Resilient Site Design Site Risk Management
+• Iconic destination of global significance • Disengaged surrounding community
+• Strong city-wide identity and culture • Deteriorating image of neighbourhood
+– cohesive local identity and culture, • Physical deterioration of the buildings
+in which all citizens feel a sense of
+belonging in the city.
+46 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_47>>>
+N
+NEUTRAL/ DETRACTOR
+SIGNIFICANT MASTERPLAN LEGACY
+SIGNIFICANT OLYMPIC LEGACY
+HIGHLY SIGNIFICANT
+BUILDINGS OF HERITAGE SIGNIFICANCE
+HIGHLY SIGNIFICANT
+VIEWS TO BE PROTECTED - HISTORIC
+VIEW TO BE PROTECTED - URBAN
+DISTRICT VIEWS
+VISIBLE ROOF FORM
+ACTIVE LIGHTING, NIGHTIME
+REFERENCE, AND NIGHTIME
+ECONOMY
+RETAIN AND ENHANCE VIEWS IN AND OUT OF THE SITE
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 4477
+<<<PDF_PAGE_48>>>
+1.
+STRENGTHEN OLYMPIC CORRIDOR
+CONNECT IMPROVED PEDESTRIAN CONNECTIONS
+CONNECT TO RAILWAY TO ZETRA TRAM ROUTES
+STATION AND UNIVERSITY OF STADIUM
+SARAJEVO
+MUNICIPALITY OF CENTER
+SARAJEVO
+MILJACKA
+RIVER
+CONNECT TO OLD CITY AND
+CITY CENTER
+CONNECT TO THE PLANNED
+CONCERT HALL AND MUSEUM
+OF CONTEMPORARY ART
+IMPROVE PHYSICAL AND VISUAL CONNECTION TO RIVER, OLD CITY,
+EDUCATION, CULTURE AND SPORTS FACILITIES
+48 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_49>>>
+N
+STRENGTHEN CONNECTION TO THE CITY
+IMPROVE PEDESTRIAN AREAS
+MUNICIPALITY OF CENTER
+SARAJEVO
+4.3 HA
+MILJACKA
+RIVER
+ENHANCE NIGHTIME
+LIGHTING AND ACTIVITY
+CREATE A NEW CIVIC SPACE BY REMOVING
+THE BARRIER OF THE SURFACE PARKING
+BETWEEN THE SITE AND THE RIVERSIDE
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 4499
+<<<PDF_PAGE_50>>>
+2.
+SAFE BUILDINGS AND SITE:
+ENSURE BUILT ENVIRONMENT IS DESIGNED TO BE SAFE AND ACCESSIBLE
+Any future development for Skenderija
+should consider, understand and manage
+risks to building safety and offer safe
+inclusive accessibility for the physically
+challenged.
+RESILIENCE CONSIDERATIONS
+Resilience of the City (Sarajevo Development Shocks and Stresses Mitigation
+Strategy)
+• Enhancing the development of infrastructure and • Earthquake risk
+accessibility throughout the Skenderija Complex • Heavy snowfall
+• Influence health care and health services system • Landslides
+• Geotechnical hazards
+• Illegal construction
+Resilient Site Design Site Risk Management
+• Comprehensive hazard and exposure mapping – • Structural safety on buildings
+Robust systems in place to map the site’s exposure from earthquakes and snow fall
+and vulnerability to hazards based on current data • Landslides from the nearby hill
+• Appropriate codes, standards and enforcement – • Lack of awareness of risk
+Building and infrastructure codes and standards within planning system and
+are forward looking, appropriate to local context community
+and risk profiles, and enforced
+• Diligence maintenance and continuity - Robust
+monitoring, maintenance and renewal of essential
+infrastructure, with effective contingency planning
+• Adequate continuity for critical assets and services
+– Resourceful, reflective and flexible continuity
+plans to maintain utility services to critical assets
+during emergency situations
+• Widespread community awareness and
+preparedness - Inclusive efforts to build public
+awareness of risks
+• Effective emergency response services –
+Adequately resourced emergency response
+services.
+50 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_51>>>
+N
+FLOODING FROM RIVER AND
+HIGH WATER TABLE
+EARTHQUAKE
+FLOODING / HIGH WATER
+TABLE
+HEAVY SNOWFALL (PAST EVENT)
+LANDSLIDE RISK
+DISASTER RISK MANAGEMENT TO
+ENSURE LIFE SAFETY
+DISASTER MANAGEMENT PLAN
+The masterplan should aim to reduce
+exposure of its occupants to hazards and
+long-term risks and the measures that
+can be put in place to physically protect
+itself and reduce its vulnerability. It should
+consider the extent to which Sarajevo has
+attempted to identify the hazards and
+risks it faces and the strategies employed
+by the city to physically reduce exposure
+and fragility. Where key gaps exist, the
+site planning should include strategies
+to withstand and recover from major
+disruptions. In Skenderija, this would
+include earthquakes, fl ooding from the
+river and landslides at the steeply sloping
+southern edge of the side.
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 5511
+<<<PDF_PAGE_52>>>
+2.
+The masterplan needs
+to overcome existing
+impediments to wheelchair
+access. Any improvements
+or new buildings should
+apply universal accessibility
+standards - including ramps MUNICIPALITY OF CENTER
+and at-grade kerb-free SARAJEVO
+crossings. 4.3 HA
+MILJACKA
+RIVER
+IMPROVE ACCESSIBILITY AND COMPLIANCE WITH UNIVERSAL
+ACCESSIBILITY STANDARDS
+52 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_53>>>
+N
+To avoid landslide risk,
+the steeply sloping land
+at the rear of the site
+should be stabilized. The
+masterplan could also
+explore creative potential
+to incorporate sports and MUNICIPALITY OF CENTER
+recreational facilities SARAJEVO
+(such as a climbing wall
+or landscaped walkways )
+where appropriate.
+MILJACKA
+RIVER
+STEEP SLOPE WITH
+LANDSLIDE RISK
+STABILIZE SLOPES WITH HIGH LANDSLIDE
+RISKS AND RESTORE LANDSCAPES
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 5533
+<<<PDF_PAGE_54>>>
+ACCESSIBLE AND INCLUSIVE DESIGN
+The refurbishment and upgrade of the
+Skenderija sports complex should achieve
+recognized international standards and
+best practice for accessibility and inclusive
+design.
+To support this goal, a detailed review
+of accessibility and inclusive design
+standards should be undertaken of all the
+venues and the adjacent urban fabric and
+transport links.
+Accessible and inclusive design gives
+people greater freedom and independence
+of movement, and creates safer
+environments, which greatly improve the
+experience of all users, regardless of age,
+impairment, gender, or other personal
+circumstance.
+The physical aspects of a design must not
+create barriers that prevent access or limit
+independence, dignity or choice for the
+user. Provision of an inclusive environment
+not only addresses the short-term
+compliance with accessibility guidance, but
+also the long-term implications of social
+sustainability, attitude and viability.
+The goal is to achieve consistency of
+facilities provided for athletes, officials
+and other professionals, staff, spectators
+and the general public and set standards
+of inclusivity and accessibility for all of
+Sarajevo
+54 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_55>>>
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 5555
+<<<PDF_PAGE_56>>>
+3.
+HEALTHY ENVIRONMENT:
+PROTECT AND ENHANCE ENVIRONMENTAL QUALITY WITH
+SUSTAINABLE SOLUTIONS
+The environmental condition on and around Active mobility should be promoted by
+the site should be protected and enhanced creating a safe environment for walking,
+including reducing flood risk through the cycling and access to public transport.
+design of blue-green infrastructure. This
+should include using sustainable urban
+drainage and water recycling.
+RESILIENCE CONSIDERATIONS
+Resilience of the City (Sarajevo Shocks and Stresses Mitigation
+Development Strategy)
+• Providing and improving a sustainable • Climate change
+natural resource management system • Lack of green open spaces in city centers
+and rational use of space • High pollution levels
+• To manage the environment, space, • Urban sprawl
+natural and infrastructural resources
+in a responsible manner and achieving
+environmental sustainability
+Resilient Site Design Site Risk Management
+• Network of green spaces with • Site flooding from river and storm water
+sustainable urban drainage created • Congestion in city center
+within the site, connected with green • Haphazard development
+spaces along the river. • Air pollution from cars
+• Slope stabilisation along the southern
+edge of the site by enhanced landscape
+and recreation amenity.
+• Multi-storey car park located within
+the site to reduce decongestion and
+improve pedestrian safety within the
+city center.
+56 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_57>>>
+The masterplan of the
+Skenderija complex should N
+include an improved and
+barrier free pedestrian link
+to the City Center.
+MUNICIPALITY OF CENTER
+SARAJEVO
+MILJACKA
+RIVER
+PEDESTRIANISATION OF
+SKENDERIJA ROAD TO
+CONNECT TO OLD CITY AND
+CITY CENTER
+REDUCE CONGESTION AND AIR POLLUTION IN THE CITY
+The landscape and buildings
+should be planted and designed
+with permeable surfaces to
+improve water retention as well
+as reducing air pollution and
+improving biodiversity.
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 5577
+<<<PDF_PAGE_58>>>
+3.
+The under-utilized square can be
+designed with rainwater collection
+areas which, when the weather is
+dry, can be used as amphitheatres,
+basketball and volleyball courts,
+or skateboarding rinks. Where
+possible green and blue roofs can
+be incorporated into the building
+design.
+58 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_59>>>
+N
+Incorporating blue-green infrastructure should
+integrate landscape, water design and management
+in order to make the urban landscape resilient
+and adaptive. An integrated landscape with strong
+connections and links between land and water to
+combine and protect the hydrology and ecology
+can also help mitigate fl ood events through water
+attenuation.
+MUNICIPALITY OF CENTER
+SARAJEVO
+CONNECT AND ENHANCE
+GREEN INFRASTRUCTURE
+BLUE INFRASTRUCTURE
+MILJACKA
+RIVER
+RESTORE AND REFOREST
+LANDSCAPE
+GREEN-BLUE INFRASTRUCTURE TO ATTENUATE FLOODING
+AND IMPROVE AIR QUALITY
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 5599
+<<<PDF_PAGE_60>>>
+4444....
+ECONOMIC VITALITY:
+A VIBRANT AND VIABLE MIX OF USES
+N MUNICIPALITY OF CENTER
+SARAJEVO
+4.3 HA
+MILJACKA
+RIVER
+MIX OF USES, SPORTS,
+COMMERCIAL, CULTURAL,
+EDUCATION
+BALANCED MIX OF USES RESPONDING TO MARKET DEMAND AND
+CO-LOCATION SYNERGIES
+Introduce a vibrant mix of uses that and activation of the buildings and open
+includes commercial content that can spaces. New uses to be considered could
+assist viability - helping to cross-subsidize include a distinctive new niche retail
+the cost of of the proposed redevelopment, offer for SMEs, creative industry and
+particularly the enhanced sports, cultural designers, restaurants and cafes. The
+and community facilities. Such uses can potential for including residential uses
+help to establish an identity and brand, could be considered in order to improve the
+generate footfall and create a destination, complex’s economic resilience.
+drawing people into the site. These
+should be aimed at generating revenue
+60 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_61>>>
+SKENDERIJA
++ FINANCIAL + +
+STATEMENT
+DEMAND AND FINANCIAL MULTIPLIER IDENTITY
+SUPPLY STATEMENT EFFECT OF CO- CATALYST OF
+LOCATION AND CHANGE
+SYNERGY
+Activation of Skenderija can be done through Skenderija Complex may develop, ensuring early
+supporting entrepreneurial start-ups and understanding of it as a place. This will offer the
+a diverse range of temporary uses like pop- double benefi t of providing an interim income
+up cafés, shops and temporary uses of empty stream while also enhancing the attractiveness
+property and land. These temporary, fl exible of a place to potential future tenants as well has
+and interchangeable uses should be seen as existing tenants improving their facilities.
+part of the normal response to regeneration.
+These ‘meanwhile uses’ can act as a prototype
+of the character that a new or reformed
+N
+N
+STITIO
+N
+TAL
+TR A
+GOAL
+M E
+N C R E
+I
+EARLY WINS
+INTERIM AND FLEXIBLE USES FOR AN
+ECONOMICALLY SUSTAINABLE TRANSITION
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 6611
+<<<PDF_PAGE_62>>>
+MUNICIPALITY OF CENTER
+N SARAJEVO
+MILJACKA
+RIVER
+4.3 HA
+CONSOLIDATE PARKING AS REVENUE GENERATOR AND INCREASE
+FOOTFALL
+Skenderija Complex’s proximity to the city
+center and availability of underground
+spaces presents an opportunity to
+consolidate the parking in discrete
+underground car parks. These car parks
+will serve the complex as well as the city
+center thereby reducing congestion in the
+city and increasing footfall in the complex.
+The additional footfall and income can
+be leveraged by new retail and other uses
+along pedestrian walking routes within the
+Skenderija Complex.
+62 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_63>>>
+RESILIENCE CONSIDERATIONS
+Resilience of the City (Sarajevo Development Strategy) Shocks and Stresses
+Mitigation
+• Improve the quality, availability and diversity of educational • Unemployment
+services for all target population groups • Youth employment
+• Improve the administration and business environment for rapid • Lack of entrepreneurial
+attraction of domestic and foreign investment, entrepreneurship capacity (e.g.
+development and facilitation of capital and human resources SMEs, PPPs, social
+mobility entrepreneurship,
+• Increase employment and create new, better-rated jobs; creative industries, etc.)
+• Consolidating and increasing the long-term sustainability of public • Mismatch between
+finances and strengthening the development capacity of public education and labour
+finances (budgets and public funds) market demand
+Resilient Site Design Site Risk Management
+• Diversify the economic base • Dislocating existing
+• Create attractive business environment – Diverse and resourceful business on site
+investments within the city, driven by a strong urban brand and • Competing (rather than
+economic and social environment complementing) city
+• Develop appropriate land use and zoning – Integrated and flexible center uses
+land use and zoning plans that ensure appropriate development • Lack on return of
+• Identify relevant skills and training needed with effective investments
+mechanisms for matching skills to the current and emerging • Lack of attractiveness
+employment market place for key stakeholders
+• Improve the quality and availability of educational services for all and private businesses
+target population groups
+• Explore interim and flexible uses to activate and test potential
+permanent uses
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 6633
+<<<PDF_PAGE_64>>>
+5.
+PEOPLE AT THE CENTER:
+HUMAN-CENTERD DESIGN AND PROCESS FOR AN INCLUSIVE AND
+WELCOMING PLACE
+This redevelopment of Skenderija Complex
+should enable Sarajevo’s urban populations
+to act and enjoy the new place collectively.
+This includes ensuring that the place is
+reflective of people’s collective identity and
+people and key stakeholders are involved in
+the regeneration process from planning to
+implementation. Accessible open
+spaces and protection of cultural heritage will
+also play an important role in this.
+Resilience of the City (Sarajevo Development Shocks and Stresses Mitigation
+Strategy)
+• Strengthen citizens’ participation in • Vulnerable groups
+development management of the SC • Lack of participation
+• Empower social and labour activation
+of vulnerable groups of population and
+improve social protection system for
+poverty reduction
+Resilient Site Design Site Risk Management
+• Ensure there is a consultative, transparent • Lack of participation in the design
+and inclusive process to plan and develop process
+strategies • Loss of cultural heritage and unique
+• A place for cohesive communities – identity of the site
+Cohesive, harmonized communities across
+the city.
+• Ensure citizens are actively engaged -
+Citizens actively engaged, express opinion
+and participate in decision making
+64 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_65>>>
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 6655
+<<<PDF_PAGE_66>>>
+66 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_67>>>
+5. Development
+Potential
+This section presents the development potential
+for the site underpinned four key moves that
+are recommended to form the basis for a future
+development strategy.
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 6677
+<<<PDF_PAGE_68>>>
+1. /
+KEY MOVES
+FFoouurr kkeeyy mmoovveess aarree ddeeffiinneedd ttoo uunnddeerrppiinn tthhee 1. INVEST AND RESTORE
+ffuuttuurree ddeevveellooppmmeenntt ooff SSkkeennddeerriijjaa..
+THE PUBLIC REALM AND
+SURROUNDING LANDSCAPE
+2. REINFORCE SPORTS AND
+WELLBEING AS AN ANCHOR
+3. INJECT COMMERCIAL
+CONTENT TO BOOST VITALITY
+AND VIABILITY
+4. BUILD STRONGER
+PARTNERSHIPS AND INVITE
+ACADEMIC, CULTURAL AND
+HOSPITALITY PARTNERS
+68 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_69>>>
+1.
+4
+2. 3.
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 6699
+<<<PDF_PAGE_70>>>
+POTENTIAL FOR DEVELOPMENT
+7700 WWOORRLLDD BBAANNKK || SSAARRAAJJEEVVOO || IIMMPPRROOVVIINNGG RREESSIILLIIEENNCCEE TTHHRROOUUGGHH UURRBBAANN RREEGGEENNEERRAATTIIOONN
+S H UT UO DS TNE GNI
+S K
+ETA B O A R D NI G
+C MIL B NI
+AW
+G
+MILC
+SLL
+NIB G C E N ET R
+C
+U L T
+U
+R
+E
+F
+H
+TI
+U
+N
+B
+E S S
+P A
+&
+RE
+TR
+ART
+ROPS
+MOC
+MROFS
+NI
+T
+M
+A
+NI
+S
+RE
+CN
+G
+C
+E
+AI
+C WS
+L
+O NIKRO ECAP G O U S P OT D
+R
+TO
+O R
+S
+C
+R E W O RATI V
+K E S
+H
+O
+P S
+C O M M E R C O M C IA M
+L
+E R
+T RP L
+C IA
+A A
+L
+INY
++
+IN
+C
+G
+O F IE LM
+D M OE R C IA F L
+This diagram provides an indicative
+illustration of how the four key moves could
+combine to shape a confident new future
+for the Skenderija Complex.
+1. INVEST AND RESTORE THE PUBLIC
+REALM AND SURROUNDING LANDSCAPE
+2. REINFORCE SPORTS AND WELLBEING AS AN ANCHOR
+3. INJECT COMMERCIAL
+CONTENT TO BOOST VITALITY AND VIABILITY
+4. BUILD STRONGER
+PARTNERSHIPS AND INVITE ACADEMIC, CULTURAL AND HOSPITALITY PARTNERS
+A R T S
+PERFORMANCE
+SPACE
+ELITE AND COMMUNITY
+LEAGUES / FLEXIBLE
+MULTI-SPORT SPACE
+PEDESTRIAN
+STREET
+ARTIST
+VILLAGE
+CYCLEWAY
+CONNECTION
+<<<PDF_PAGE_71>>>
+WWOORRLLDD BBAANNKK || SSAARRAAJJEEVVOO || IIMMPPRROOVVIINNGG RREESSIILLIIEENNCCEE TTHHRROOUUGGHH UURRBBAANN RREEGGEENNEERRAATTIIOONN 77777771111111
+C
+P S
+I
+PO AP
+RA
+V
+PS
+PU SEC
+T
+CI
+M STRO
+SREMR TA EF KRAM
+YAL SP E CAPS
+UQS
+P
+E
+A
+A
+D
+L
+T AE
+ENICI
+MOC
+E GV NI INIAR
+NS OT IR TIBIHX ECAPS
+ER
+KR
+M
+C
+P
+E
+FA
+A
+R
+E
+R
+C
+B
+AI
+UO
+K
+L
+QIT U E H O T E L
+C I
+V I
+C
+P
+A
+R
+K
+COMMERCIAL
+SHOW CASE
+G
+R
+E
+E
+N
+O
+LY
+M
+PI
+C
+C O
+R
+RI
+D
+O
+R
+0
+M
+N
+O
+R
+T
+H
+1
+0
+0
+M
+NEW 15000 SEAT CONCERT VENUE
+FOR A WIDE RANGE OF MUSIC &
+FILM EVENTS (RESTORED ICE RINK)
+LINEAR RIVER
+PARK
+VOCATIONAL
+SCHOOL
+NEW TERRACED
+GREEN PUBLIC SPACE
+LINEAR RIVER PARK
+<<<PDF_PAGE_72>>>
+KEY MOVE 1
+INVEST AND RESTORE THE PUBLIC REALM AND
+SURROUNDING LANDSCAPE
+SUMMARY
+The aim is to revitalize the public spaces and
+the surrounding landscapes to create new
+inviting places that people in Sarajevo would
+• Connect with river promenade want to visit and dwell.
+• Create a new civic square for the
+City Restoring the public realm and the landscapes
+• Design landscapes that mitigate will support Skenderija in addressing its
+environmental challenges environmental challenges, in particular,
+• Restore landscape south of the landslides, flooding and air pollution. This can
+site to mitigate landslides and be achieved by creating a network of connected
+support with active uses green corridors that extend beyond the site
+• Create green corridors within towards the river along the northern boundary,
+and around the site and to the hills along the southern boundary.
+• New public space programming
+• Temporary/seasonal activation The restored landscapes should be designed to
+of public spaces perform multiple functions including ecological
+• Design a green-blue biodiversity, absorption of CO and other
+2
+infrastructure network including pollutants, sustainable urban drainage, and
+SuDs to mitigate stormwater provide amenities and other sports/cultural
+flooding , capture and recycle activities.
+water runoff
+• Provide new multi-functional
+spaces that support the building
+programmes
+72 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_73>>>
+REPROGRAM PUBLIC SPACE TO HOST MULTIPLE USES STRENGTHEN
+CONNECTIONS WITH RIVER
+POP-UP AND TEMPORARY ACTIVATION OF GREEN-BLUE INFRASTRUCTURE
+PUBLIC SPACE
+CLIMBING WALLS FLEXIBLE SPACES FOR SPORTS, PEOPLE AND FLOOD
+ATTENUATION
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 7733
+<<<PDF_PAGE_74>>>
+KEY MOVE 2
+REINFORCE SPORTS AND WELLBEING AS AN ANCHOR
+SUMMARY HUB FOR SPORTS EXCELLENCE AND
+COMMUNITY WELL-BEING
+The goal of a center of sport, health and
+wellbeing is to create an athlete centric
+• Enhance community and multi- environment that will serve both elite athletes,
+league (elite) sports offer sports clubs and the community in general.
+• Enhance venues for the National However, to have a sustainable development,
+basketball team and their the sports center should also include
+training needs commercial activities such as shops,
+• Converting sports venues to restaurants, gyms, sports medicine as well as
+flexible use: e.g. football facilities for concerts and exhibitions.
+• Program outdoor spaces
+(including development areas) A guiding principle of a successful sports
+to hold a mix of permanent and complex is flexibility and adaptability. It must
+temporary outdoor sports provide for different user groups, be able to
+• Provide new sports and wellbeing stage many different types of events and be an
+offering such as sports medicine inclusive and accessible environment.
+(Physio / Nutrition / wellbeing)
+• Improve existing (gymnasium,
+training facilities)
+• Activate the open spaces with
+new sports programs such
+as skatepark / urban sports /
+climbing center / gaming center
+• Enhance and build new
+partnerships, for example
+with Skenderija kindergarten,
+elementary school Vladislav
+Skaric & Obala highschool,
+University of Sarajevo
+74 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_75>>>
+OUTDOOR SPORTS TO OUTDOOR EQUIPMENT AND MULTI-PROGRAMME INDOOR
+ACTIVATE THE PLAZA AND SPORTS SPACE SPACE
+THE AREAS OF POTENTIAL
+IMPROVEMENTS
+FOCUS ON MULTI-LEAGUE OUTDOOR EQUIPMENT AND SPORTS MEDICINE AND
+TEAM SPORTS SPORTS SPACE PHYSIO HUB
+MULTIPROGRAM INDOOR FITNESS AND TRAINING HEALTH AND WELLBEING
+SPACE
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 7755
+<<<PDF_PAGE_76>>>
+THE HEART OF THE CENTER
+To achieve an athlete-centerd environment, a
+facility is proposed which we are calling the
+Institute of Sport.
+It will be the main reception of the center and
+the focal point of the athletes’ and visitors’
+arrival.
+It is where the core principles of knowledge
+sharing, nurturing, learning, inspiration,
+aspiration and performance are connected
+together for athletes and the wider public.
+The Institute could centralize the following
+facilities and services:
+• Sports specific strength and conditioning
+gym
+• Sports science and sports medicine
+• Physiotherapy
+• Rehabilitation
+• Research and analysis
+The athletes’ daily training schedule will start
+and finish at the Institute.
+Each athlete will be physically and
+physiologically performance tested,
+monitored, analysed, treated, trained and
+recover within the Institute.
+Athletes’ individual bespoke performance
+plans and analysis will be stored and
+monitored in this building.
+Nutrition and dining facilities should also be
+provided for the athletes in the Institute.
+The Institute building could also
+accommodate offices for sports’ federations
+and anti-doping stations.
+76 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_77>>>
+INSTITUTE OF SPORT - ADJACENCY
+DIAGRAM
+The diagram shows the typical spatial
+relationships of the Institute of Sport
+described on the previous page.
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 7777
+<<<PDF_PAGE_78>>>
+32.10
+78 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+61.00
+43.00
+20.33
+20.33
+20.33
+DIVISION NETS
+DIVISION NETS
+20.33 15.50
+40.80
+28.00 35.00
+19.93
+61.00
+43.00
+20.33
+20.33
+20.33
+DIVISION NETS
+DIVISION NETS
+17.70
+MULTI-PROGRAM SPACES: MIRZA
+DELIBASIC DVORANA HALL
+These diagrams present options for the
+conversion of the fi eld of play into multi-
+sports use.
+MAIN PLAZA ACCESS MAIN PLAZA ACCESS
+BASKETBALL INDOOR FOOTBALL
+FIELD OF PLAY FIELD OF PLAY
+<<<PDF_PAGE_79>>>
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 7799
+17.00 9.00
+28.00
+18.00
+61.00
+43.00
+20.33
+20.33
+20.33
+DIVISION NETS
+DIVISION NETS
+61.00
+43.00
+20.33
+20.33
+20.33
+DIVISION NETS
+DIVISION NETS
+13.40
+6.10
+18.00
+N
+MAIN PLAZA ACCESS MAIN PLAZA ACCESS
+10.25
+VOLLEYBALL BADMINTON
+FIELD OF PLAY FIELD OF PLAY
+<<<PDF_PAGE_80>>>
+80 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+61.00
+43.00
+20.33
+20.33
+20.33
+DIVISION NETS
+DIVISION NETS
+20.00
+40.80
+40.00
+61.00
+43.00
+20.33
+20.33
+20.33
+MULTI-PROGRAM SPACES: MIRZA
+DELIBASIC DVORANA HALL
+MAIN PLAZA ACCESS MAIN PLAZA ACCESS
+DIVISION NETS
+DIVISION NETS
+Multi-layered training pitches enable the
+flexible use of the field of play. The diagram
+shows training lines for a variety of sports
+that could be put on or removed as needed.
+HANDBALL TRAINING LINES
+FIELD OF PLAY ON FIELD OF
+PLAY
+<<<PDF_PAGE_81>>>
+EQUIPMENT
+The images show
+examples of
+equipment that be
+put on temporarily or
+permanently to enable
+multi-sports use.
+FIGURE 1: MULTI-SPORT OPTIONS FIELD OF PLAY
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 8811
+<<<PDF_PAGE_82>>>
+82 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+61.00
+43.00
+61.00
+MULTI-PROGRAM SPACES: MIRZA
+DELIBASIC DVORANA HALL
+These diagrams present options for different
+sports, showing the fi eld of play in an event
+mode.
+MAIN PLAZA ACCESS MAIN PLAZA ACCESS
+43.00
+VOLLEYBALL WHEELCHAIR RUGBY
+EVENT MODE EVENT MODE
+<<<PDF_PAGE_83>>>
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 8833
+61.00
+43.00
+61.00
+N
+MAIN PLAZA ACCESS MAIN PLAZA ACCESS
+43.00
+VOLLEYBALL EVENT BASKETBALL EVENT
+MODE MODE
+<<<PDF_PAGE_84>>>
+84 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+61.00
+43.00
+61.00
+MULTI-PROGRAM SPACES: MIRZA
+DELIBASIC DVORANA HALL
+MAIN PLAZA ACCESS MAIN PLAZA ACCESS
+43.00
+BOXING EVENT CONCERT
+MODE EVENT MODE
+<<<PDF_PAGE_85>>>
+EVENT MODES
+Successful sports
+facilities should offer
+maximum flexibility
+for a variety of events,
+including cultural
+performances,
+business trade shows,
+large conference and
+more.
+FIGURE 2: EVENT MODE OPTIONS FIELD OF PLAY
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 8855
+<<<PDF_PAGE_86>>>
+KEY MOVE 3
+INJECT COMMERCIAL CONTENT TO BOOST VITALITY AND VIABILITY
+SUMMARY
+The aim is to inject commercial uses to
+enhance and diversify revenue generation,
+• Economic and revenue as well as activate the spaces. Commercial
+generating uses to address the needs of the people in
+• Food and Beverage (permanent Skenderija but also support Small to Medium-
+and temporary) sized Enterprises (SMEs), start-ups and the
+• Under croft spaces with retail creative industries. This can include co-working
+• Local economic improvement office spaces, innovation labs and hubs,
+• Hosting fairs and big events curated uses and shops that cater for everyone
+• Rationalizing parking areas and complemented by an attractive food and
+• Spaces for SMEs/ offices / beverage offer that makes use of the building
+collaborative spaces / co- frontages and under crofts.
+working spaces
+• Incubator spaces / start-ups /
+living lab
+86 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_87>>>
+SPACES FOR ENTERPRISE AND LEARNING INNOVATION LABS, 3D PRINTING AND RAPID
+PROTOTYPE LABS
+PROVISION OF DIVERSE INDOOR-OUTDOOR SERVICES/ CURATED USES AND SHOPS, AN
+OFFER FOR EVERYONE
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 8877
+<<<PDF_PAGE_88>>>
+KEY MOVE 3
+BUILD STRONGER PARTNERSHIPS AND INVITE
+ACADEMIC, CULTURAL AND HOSPITALITY PARTNERS
+SUMMARY
+The aim is to build partnerships to enhance
+the offer as well as the visitors experience to
+• Partnering on cultural Skenderija and combining sports, with culture,
+programming (e.g. film academic and hospitality. The existing sports
+festival) infrastructure should be restored and used
+• Partnering with academic as a place of exhibition, where the community
+institutions (e.g. university, gathers to celebrate sporting triumph and
+other academic institutions talent. Beyond this a secondary arm will give
+and training providers) space and resource to Sarajevo’s vibrant
+• Partnering with businesses cultural artists.
+(e.g. conferences, trade
+shows)
+• Partnering with hospitality
+sector (e.g. boutique hotels)
+• Partnering with the
+community (e.g. community
+hub for meetings and cultural
+exchange)
+88 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_89>>>
+Somewhere to be Continuing the
+proud of. Olympic Legacy.
+Elevating existing The story of Sarajevo’s
+sports activities - a triumphs told
+space for exhibition, throughout the space;
+not just practice. woven into the fabric
+of the site.
+Everyone is an artist.
+Blurring the lines
+between professional
+and community artist
+- creating a space for
+everyone to learn and
+participate in cultural
+activity.
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 8899
+<<<PDF_PAGE_90>>>
+CULTURAL REJUVENATION AND
+PROGRAMMING
+The site will be at human scale, keeping Sarajevo’s
+festival spirit alive in the design.
+Large open space will give way to a ground level
+energy that inspires and excites.
+• Introducing cultural uses to imprint life back to
+the complex with potential partnerships with
+the University of Sarajevo
+• Support daytime and night time activities
+• Improve the plinth and access tiers as urban
+amphitheatres for outdoors performance
+• Reprogram public space to host cultural
+activities outdoors new active uses
+• Refurbishment and promotion of space for
+sports exhibition; sport is culture
+• Creation of new concert facility
+• Artist village community creation spaces
+• Enlarged plaza for outdoor events and
+activities
+• Historic narratives woven through the site
+• Opportunities for links to broad range of
+groups across the cultural spectrum
+HISTORIC NARRATIVE PATHWAYS
+THROUGH THE SITE
+90 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_91>>>
+SARAJEVO FILM FESTIVAL
+PERFORMANCE AND MUSICAL ACADEMY AND INTERPRETATION SPACE
+THEATRICAL ARTS
+ARTIST VILLAGE FOR COMMUNITY AND PROFESSIONAL
+ARTISTS TO ENGAGE IN CREATIVE PRACTICE
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 9911
+<<<PDF_PAGE_92>>>
+92 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_93>>>
+6. Next steps
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 9933
+<<<PDF_PAGE_94>>>
+NEXT STEPS
+The following summarizes next steps for
+consideration for the future development of
+Skenderija:
+- Evidence base: It is important that any - Four key moves are recommended. These
+masterplan and designs have a robust play to the existing strengths and heritage of
+evidence-base, taking full account of key the complex as a sports and cultural hub but
+constraints and opportunities. A series of look to turbo charge these with substantially
+more detailed surveys and assessments are upgraded facilities built to a high-quality
+needed relating to all buildings to understand international standard. These begin to explore
+further state, condition and retrofitting how appropriate commercial content can be
+possibilities. Considerations related to added into the mix to make the complex a much
+building resilience and integrated Disaster more vibrant place and enhance viability and
+Risk Management need to be embedded. economic sustainability and resilience
+- Guiding principles in this report can be The importance of partnership - Achieving this
+used as the basis for developing different vision requires partnership - with a focus not
+masterplan options in the future. It is only on the desired physical and programmatic
+important that any future plans extend outcome, but also a governance and
+beyond the ‘red line’ of ownership so that; management arrangement that will guarantee
+enduring success.
+a) the development maximizes potential
+opportunities to make wider positive Masterplan and delivery strategy - Next
+contributions to the city. This report indicates it is recommended that a Masterplan is
+how the Sarajevo Canton Development commissioned centered on a collaborative
+Strategy can serve as a useful reference for participatory process. Different options
+this; and should explore the technical feasibility and
+commercial viability of different use mixes,
+b) that regeneration of the Skenderija as well as design strategies for conserving
+Complex site is accompanied by existing buildings where beneficial, adding
+infrastructure improvements that connect the new buildings and restoring the quality of
+complex more effectively with its surrounding the public realm. The Masterplan should be
+context - particularly prioritizing pedestrian, accompanied by a delivery strategy - with
+cycle and public transport accessibility, whilst a phased programme of works and clearly
+also relocating car parking more discretely assigned responsibilities. Proposals should be
+under or to the rear of the complex costed with accompanying proposed funding
+and financing mechanisms identified to provide
+a sound basis for delivery.
+94 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_95>>>
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 9955
+<<<PDF_PAGE_96>>>
+
+<<<PDF_PAGE_97>>>
+Appendix A
+This section presents the different scenarios that
+were tested as part of this project.
+<<<PDF_PAGE_98>>>
+98 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+10 10 10 10 10 10 10 10
+10
+10
+10
+10
+10
+10
+10
+10
+1. /
+POTENTIAL SPORTS OFFER
+PHYSIOTHERAPY AND TRAINING
+MULTI-PROGRAM INDOOR SPACE
+OUTDOOR SPORTS TO ACTIVATE PLAZA AND DEVELOPMENT AREAS + FLOOD RESILIENCE
+<<<PDF_PAGE_99>>>
+MAKING SKENDERIJA A CENTER OF EXCELLENCE
+FOR SPORTS, HEALTH & WELLBEING
+FITNESS AND WELLBEING
+NUTRITION, AND
+SUPPORT TO LOCAL
+FARMER PRODUCTION
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 9999
+<<<PDF_PAGE_100>>>
+2. /
+POTENTIAL COMMERCIAL + LEISURE
++ FOOD & BEVERAGE OFFER
+COMPLEMENTARY ACTIVITIES AND
+LINK TO LOCAL BUSINESSES
+ACTIVATING GROUND FLOOR USES
+YOUTH CENTERS, INNOVATION HUBS,
+INCUBATORS, LIVING LABS
+WORKSPACES, AND COLLABORATION
+CIVIC SQUARE, OUTDOOR ACTIVITIES AND LIGHTING TO ACTIVATE
+SPACES FOR START UPS
+PLAZA AND SURROUNDING DEVELOPMENT AREAS
+100 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_101>>>
+MAKING SKENDERIJA A THRIVING COMMERCIAL
+AND LEISURE HUB, A NEW DESTINATION
+NEW SKILLS AND VOCATIONAL
+TRAINING LINKED TO UNIVERSITY OF
+SARAJEVO
+TEMPORARY AND NIGHT TIME ACTIVITIES
+TO CREATE A 24/7 ECONOMY
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 110011
+<<<PDF_PAGE_102>>>
+3. /
+POTENTIAL CULTURE + MUSIC
++PERFORMING ARTS OFFER
+PERFORMING ART AND MUSICAL
+ACADEMY SPACE
+CONSERVE OLD, ADD NEW
+OUTDOOR ACTIVE AND PERFORMANCE SPACE TO ACTIVATE PLAZA AND DEVELOPMENT AREAS
+102 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_103>>>
+MAKING SKENDERIJA A DESTINATION FOR
+CELEBRATING CULTURE AND HERITAGE
+ART, INCUBATORS, INNOVATION HUBS
+MUSICAL AND ART TRAINING
+RIVER FRONTING PUBLIC SPACE
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 110033
+<<<PDF_PAGE_104>>>
+
+<<<PDF_PAGE_105>>>
+Appendix B
+This section presents the detailed site analysis.
+<<<PDF_PAGE_106>>>
+1. /
+SCALE COMPARISON ANALYSIS
+A scale comparison was undertaken to understand
+how the civic square of Skenderija compares to
+other similar squares to help identify the potential
+for the site.
+SKENDERIJA, SARAJEVO ST MARCO SQUARE, VENICE
+0.60 HA 1.10 HA
+106 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_107>>>
+N
+KINGS’ CROSS, LONDON TRAFALGAR SQUARE, LONDON
+0.76 HA 0.76 HA
+FIGURE 3: scale comparison
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 110077
+<<<PDF_PAGE_108>>>
+2. /
+ANALYSIS
+The following diagrams present a detailed spatial
+analysis of Skenderija and which are summaries in
+Chapter 2 of this report. This analysis has informed
+the principles and key moves explained in the main
+report.
+108 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_109>>>
+N
+1.SITE BOUNDARY AND
+AREAS
+MUNICIPALITY OF CENTER
+SARAJEVO
+4.3 HA
+MILJACKA
+RIVER
+2.1 HA
+ADJACENT DEVELOPMENT AREA
+INSIDE THE RED BOUNDARY
+2.1 HA
+CURRENT PARKING
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 110099
+<<<PDF_PAGE_110>>>
+N
+ANALYSIS
+MULTIPLE LANDWONERS
+COORDINATION REQUIRED
+SITE BOUNDARY
+HOUSING COMPANY
+KSC SKENDERIJA
+PRIVATE
+CENTER FOR TECHN. V. BIH
+2. LAND OWNERSHIP BIH ROADS COMPANY
+PUBLIC WISH. TRANSPORT
+WISH. TRGOV. COMPANY
+MUNICIPALITY CENTER
+ELECTRICAL INSTALLATION
+MUNICIPALITY OF CENTER
+SARAJEVO
+MILJACKA
+RIVER
+SKENDERIJA
+COMPLEX
+110 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_111>>>
+N
+3. AREAS AROUND COMPLEX
+WITH POTENTIAL CHANGE/
+IMPROVEMENT
+MUNICIPALITY OF CENTER
+SARAJEVO
+EXISTING BUILDINGS TO
+BE KEPT
+MILJACKA
+RIVER
+EXISTING PLINTH
++/- 4.50M
+EXISTING BUILDINGS WITH
+RECONSTRUCTION PLANS
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 111111
+<<<PDF_PAGE_112>>>
+N
+ANALYSIS
+4. EXISTING BUILDINGS
+OLYMPIC AND POST-OLYMPIC
+ADDITIONS
+MUNICIPALITY OF CENTER
+SARAJEVO
+OLYMPIC LEGACY
+BUILDINGS
+MILJACKA
+RIVER
+ELEVATED
+PUBLIC WALKWAY
+POST OLYMPIC
+ADDITIONS
+112 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_113>>>
+N
+BUILDINGS OCCUPIED
+5. EXISTING BUILDING
+OCCUPATION (CURRENT) DERELICT/ NOT OCCUPIED
+MUNICIPALITY OF CENTER
+SARAJEVO
+COMMERCIAL BUILDING
+DERELICT
+UNPLANNED MARKET
+UNDERGROUND SHOPPING
+CENTER
+DOM MLADIH
+THEATRE, YOUTH HOUSE AND
+ADMIN OFFICES
+MIRZA DELIBASIC DVORANA
+BASKETBALL ARENA
+ICE HALL
+LEDENA DVORANA
+SOURCE: EXISTING MASTERPLAN 2008
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 111133
+<<<PDF_PAGE_114>>>
+N
+ANALYSIS
+6. BUILDING USE (OLYMPICS)
+COMMERCIAL
+USES
+-1 SHOPPING
+CENTER
+DOM MILADHI
+YOUTH HOUSE +
+CONTEMPORARY ART
+MUSEUM + THEATRE +
+DANCING HALL
+SPORTS HALLS (TRAINING)
+BASKETBALL HALL
+ICE HALL
+-1. EXHIBITION HALL
+-2. GARAGE
+114 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_115>>>
+N
+DERELICT BUILDINGS IN
+NEED OF REGENERATION
+BUILDINGS IN USE
+7. BUILDING USE (POST-
+OLYMPICS) DERELICT/ NOT IN USE
+IN USE RETAIL/COMMERCIAL
+COMMERCIAL
+USES
+ECONOMIC CITY
+-1 SHOPPING
+CENTER
+YOUTH HOUSE +
+THEATRE
+SPORTS HALLS (TRAINING)
+BASKETBALL + HANDBALL +
+TRAINING + CONCERTS - HALL
+ICE HALL
+NOT IN USE
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 111155
+<<<PDF_PAGE_116>>>
+N
+ANALYSIS
+OLYMPIC LEGACY VALUE ASSETS
+OPERATING
+8. BUILDING CONDITION
+CHECKS NEEDED
+DERELICT
+DERELICT
+BUILDING
+OPERATIONAL
+CHECKS NEEDED
+OPERATIONAL CHECKS
+NEEDED
+OPERATIONAL
+CHANGES REQUIRED
+PARTIAL
+COLLAPSE
+116 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_117>>>
+N
+MORE THAN 17,250 SQM OF INDOOR /MULTIPROGRAM AREA
+MORE THAN 10,500 SQM OF UNDERGOUND AREA UNDER PLINTH
+9. EXISTING BUILDING
+FOOTPRINT AREAS AND
+CAPACITY
+750 SQM
+1250 SQM
+SHOPPING CENTER
+10,400 SQM
+DOM MILADHI
+YOUTH HOUSE +
+CONTEMPORARY ART MUSEUM
++ THEATRE + DANCING HALL
+7,000SQM
+2,000 PEOPLE
+MIRZA DELIBASIC HALL 8,900SQM
+1,500- 15,000 PEOPLE
+ICE HALL 3,222SQM
+EXHIBITION HALL 5,000SQM
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 111177
+<<<PDF_PAGE_118>>>
+N
+ANALYSIS
+MAIN PLAZA - 0.60 HA AT THE
+HEART OF SARAJEVO CITY CENTER
+10. OPEN SPACE
+MUNICIPALITY OF CENTER
+SARAJEVO
+MILJACKA
+RIVER
+MAIN PLAZA
+FOREST DAMAGED
+BY EXCAVATION AND
+LANDSLIDES
+118 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_119>>>
+N
+NON-COMPLIANT ACCESS
+(UNIVERSAL ACCESSIBILITY STANDARDS)
+GOOD ACCESS
+11. ACCESSIBILITY
+DERELICT CONDITION -
+IMPROVEMENTS NEEDED
+RESTRICTED ACCESS TO LESS
+ABLED PEOPLE
+MUNICIPALITY OF CENTER
+SARAJEVO
+ACCESSIBLE POINTS TO
+ELEVATED PLINTH
+DERELICT STAIRCASES AND
+RAMPS
+MILJACKA
+RIVER
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 111199
+<<<PDF_PAGE_120>>>
+N
+ANALYSIS
+PARKING SPREAD OVER THE COMPLEX IN POCKETS, AND
+CAUSING A DISCONNECT BETWEEN SITE, RIVER AND
+SURROUNDING CONTEXT
+12. PARKING AREAS
+MUNICIPALITY OF CENTER
+SARAJEVO
+SEVERANCE CAUSED BY
+PARKING AREAS ON THE
+FRONT OF COMPLEX
+MILJACKA
+RIVER
+120 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_121>>>
+9,00
+AMFITEATAR
+P= 317,00 m2
+9,00 + 0,55
++8,20
+9,00
+9,00 +5,02 +9,58
+9,00 9,00 9,00 9,00
+- HODNA LINIJA
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 112211
+A
+TOALETI
+PZRAOJESDTNOIRČIKI
+ARS AEVI
++8,20
+A
+nicagam
+9,00
+AMFITEATAR
+P= 317,00 m2
+9,00 + 0,55
++8,20
+9,00
+9,00 +5,02 +9,58
+9,00 9,00 9,00 9,00
+- HODNA LINIJA
+A
+TOALETI
+PZRAOJESDTNOIRČIKI
+ARS AEVI
++8,20
+A
+TERASA
+TERASA
+nicagam
+TERASA
+TERASA
+9,00
+AMFITEATAR
+P= 317,00 m2
+9,00 + 0,55
++8,20
+9,00
+9,00 +5,02 +9,58
+9,00 9,00 9,00 9,00
+- HODNA LINIJA
+A
+TOALETI
+PZRAOJESDTNOIRČIKI
+ARS AEVI
++8,20
+A
+nicagam
+YOUTH HOUSE + CONTEMPORARY ART
+MUSEUM + THEATRE + DANCING HALL
+13. LAYOUT PLANS OF DOM
+MLADIH AND UNDERGROUND
+SHOPPING CENTER
+DOM MLADIH
+ARS AVI PLAN
+/ GROUND LEVEL
+DOM MLADIH
+AUDITORIUM PLAN
+/ LEVEL1 AND 2
+TERASA
+TERASA
+<<<PDF_PAGE_122>>>
+ULAZ
+ULAZ
+ULAZ
+ULAZ
+122 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+ZALU
+N
+ANALYSIS
+UNDERGROUND SHOPPING
+CENTER
+SPORTSKA DVORANA
+MIRZA DELIBAŠIC
+pkulepxoila
+pkulepxoila
+pkulepxoila pkulepxoila
+MAIN PLAZA LAYOUT
+PLAN/ LEVEL +/- 4.80
+99
+UNDERGROUND MALL
+PLAN / LEVEL - 1
+FIGURE 4: SKENDERIJA BUILDINGS PLANS - FROM SKENDERIJA’S ARCHIVE
+<<<PDF_PAGE_123>>>
+N
+14. FIELD OF PLAY / SPORTS
+MUNICIPALITY OF CENTER
+SARAJEVO
+MILJACKA
+RIVER
+MIRZA DELIBASIC
+DVORANA HALL
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 112233
+<<<PDF_PAGE_124>>>
+124 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+10 10 10 10 10 10 10 10
+10
+10
+10
+10
+10
+10
+10
+10
+79.50
+43.00
+9.10 22.00
+15.90
+15.90
+11.00 21.00 11.00
+MIRZA DELIBASIC DVORANA
+BASKETBALL ARENA
+05.97
+TSAE
+STAES
+7371
+00.04
+07.82
+00.26
+TSEW
+STAES
+0012
+40.00
+28.70
+MAIN PLAZA ACCESS
+D3
+D1
+MD
+D2
+<<<PDF_PAGE_125>>>
+• Mirza Delibašic hall is a multipurpose
+space of 10,900 m2, which, depending on
+the type of program, can accommodate
+from 1,500 to 15,000 spectators.
+• The dimensions of the hall are 62x43m
+and the dimensions of the sports fl oor
+are 54x28m. The hall has well-equipped
+locker rooms and is connected to the
+locker rooms. “Mirza Delibašic” hall
+fulfi ls the conditions for playing offi cial
+European and international matches /
+competitions.
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 112255
+<<<PDF_PAGE_126>>>
+• Hall D1 has 800 seats and is suitable for this hall are 28x20m.
+organizing smaller sports and cultural -
+entertainment events. It provides optimal • Hall D3 is intended for training and
+conditions for holding offi cial and friendly playing offi cial matches of table tennis
+matches (basketball, handball, volleyball, teams. The dimensions of this hall are
+indoor soccer, as well as for team training. 19x10m.
+The dimensions of the hall are 40x22m.
+• All the mentioned halls have been
+• Hall D2 is intended mainly for the team renovated and equipped with the most
+training process. It also provides conditions modern equipment, as well as sports
+for organizing volleyball matches, unoffi cial equipment, so that they provide excellent
+basketball matches, as well as for other conditions for all users.
+forms of sports activities. The dimensions of
+126 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_127>>>
+N
+HIGHLY SIGNIFICANT
+15. VIEWS
+VIEWS TO BE PROTECTED - HISTORIC
+VIEW TO BE PROTECTED - URBAN
+DISTRICT VIEWS
+VISIBLE ROOF FORM
+VISIBLE ROOF FORM
+ZETRA STADIUM/OLYMPIC CORRIDOR
+A-A’ B-B’ C-C’
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 112277
+<<<PDF_PAGE_128>>>
+
+<<<PDF_PAGE_129>>>
+Appendix C
+This section presents a summary of the market
+trends report prepared by Colliers for Bosnia
+and Herzegovina and highlights the impacts of
+COVID-19 on those trends.
+<<<PDF_PAGE_130>>>
+MARKET TRENDS
+RISKS AND OPPORTUNITIES
+Colliers International have prepared a Market
+Overview report for Bosnia and Herzegovina
+dated 2019 with a forecast for 2020. The
+report includes some trends and forecast for
+Sarajevo. A summary is provided below.
+RECENT TRENDS MARKET FORECAST
+• Hospitality, Tourism and Leisure sector • Further development in Commercial and
+is experiencing increased investor and Real Estate sector.
+developer interest in BiH. • Office and retail stock to moderately
+• Office market is experiencing stagnation, increase and concentrated in Sarajevo.
+new projects in the pipeline but mixed- • Growth in tourism and increased activity
+use. in Hospitality, Tourism and Leisure sector.
+• Retail sector is rising with both investors • Development activity will remain the
+and developers recognizing positive trend strongest in the residential sector due
+emerging from private consumption and to high demand and highest developer’s
+rising wages. Sarajevo experiencing a new profit margin.
+wave of construction with many under
+construction or in the pipeline.
+• Residential real estate sector is the
+most active in terms of development and
+liquidity. Strong demand driving prices
+upwards.
+The COVID-19 pandemic has been a major chains, however this may create opportunities
+shock to BiH as to the world. Its wide and for local firms to emerge and grow. The
+deep impact will require governments, International Monetary Fund estimates that
+businesses and individuals to take action BiH’s economy will shrink by 5% in 2020 due
+for recovery. A number of sectors have been to the virus outbreak.
+hardly hit such as the hospitality, tourism and
+leisure, as well industries, while other sectors
+such as technology and communications
+is projecting growth. Smaller businesses
+were forced to close down leading to an
+increased unemployment rate. The pandemic
+has caused a significant disruption to the
+country’s upstream and downstream supply
+130 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_131>>>
+DEMAND AND ECONOMIC OFFICE
+SUPPLY OVERVIEW MARKET
+RETAIL INDUSTRIAL AND RESIDENTIAL
+MARKET LOGISTICS MARKET MARKET
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 113311
+<<<PDF_PAGE_132>>>
+132 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION
+<<<PDF_PAGE_133>>>
+WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION 113333
+<<<PDF_PAGE_134>>>
+2020
+134 WORLD BANK | SARAJEVO | IMPROVING RESILIENCE THROUGH URBAN REGENERATION

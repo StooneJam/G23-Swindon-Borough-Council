@@ -1,0 +1,135 @@
+Levelling Up Fund: Prioritisation of places methodology note
+This note sets out the methodology used to develop an index of priority places for the Levelling Up Fund.
+Overview
+This note sets out the methodology used to develop an index of priority places for the Levelling Up Fund. The methodology was developed to help the Fund deliver its core objective of improving local communities by investing in local infrastructure that has a visible impact on people. The Fund will achieve this by focusing on:
+- Town centre and high street regeneration, including remediation and repurposing of vacant and brownfield sites;
+- Improving local transport connectivity and infrastructure, including upgrades to local bus, road and cycle infrastructure; and
+- Maintaining and regenerating cultural, heritage and civic assets.
+The index places local authorities into categories 1,2 or 3, depending on their identified level of need, with category 1 representing places deemed in most need of investment through this Fund. We will use the categories for two main purposes:
+- Across Great Britain, each place’s category will form one part of the process for assessing bids, as part of the ‘characteristics of place’ criteria, alongside the other 3 criteria – deliverability, value for money and strategic fit. While preference will be given to bids from higher priority areas, the bandings do not represent eligibility criteria, nor the amount or number of bids a place can submit. Bids from places in all categories will still be considered for funding on their merits of deliverability, value for money and strategic fit, and could still be successful if they are of high enough quality.
+- In England, category 1 places will be eligible to receive targeted capacity funding, to support them in preparing high-quality bids (all places in Scotland and Wales are eligible for capacity funding, independent of their place in the index).
+General principles
+The index was developed in accordance with the following core principles:
+1. That any metrics used should be chosen in support of targeting places in need of the following, in line with the objectives of the fund:
+- economic recovery and growth (indicator 1)
+- improved transport connectivity (indicator 2)
+- regeneration (indicator 3)
+2. That any data used should be publicly available, so that the calculations behind the index rankings are fully transparent.
+3. That any comparison of need between places in different nations should be made using a consistent set of GB-wide metrics only.
+4. That, in line with the Fund’s delivery geographies, the index should cover the following institutions (referred to as ‘eligible LAs’ throughout this document):
+- District councils, metropolitan and London boroughs and unitary authorities in England; and
+- Unitary authorities in Scotland and Wales.
+Methodology
+The key challenge of developing a methodology in accordance with the above priorities was a lack of availability of GB-wide data to measure both regeneration and transport connectivity.
+To address this, an approach was taken to ensure that additional England, Scotland and Wales-specific data could be incorporated into the index without jeopardising principle 3 above – the need to be consistent when comparing places across borders.
+This approach comprised two steps:
+Step 1: a GB-wide index was developed at eligible LA level, using only data available GB-wide, and used to determine the number of places that would be in categories 1, 2 and 3 across England, Scotland, and Wales.
+Step 2: distinct indices for England, Scotland and Wales were developed at eligible LA level with both GB-wide and nation-specific data and used to determine the specific list of places that would be in categories 1, 2 and 3 within each nation.
+Choice of metrics
+The metrics used at each step of the process were as follows:
+Step 1: This step uses GB-wide data only, measuring ‘need for economic recovery and growth’ – indicator 1 identified above, incorporating standard metrics measuring places’:
+- Productivity, measured using gross value added (GVA) per hour;
+- 16+ Unemployment rate; and
+- Skills, measured using the proportion of the proportion of the 16-64 population without NVQs or other formal qualifications.
+These metrics were chosen to best align with the fund’s focus on bringing investment to areas of low productivity and those lacking in labour market opportunities and economic resilience (as measured by unemployment rate and skills), as set out in the prospectus.
+Step 2: This step uses the following data, by nation, to measure ‘need for improved transport connectivity’ (in England only) and ‘need for regeneration’ in addition to ‘need for economic recovery and growth’, the last of which is measured in the same way as in step 1. These metrics were chosen based on availability – for example, there was no publicly-available data on journey times for Scotland and Wales, or an equivalent alternative, so transport connectivity was not assessed in the Welsh and Scottish national indices:
+- Need for improved transport connectivity (indicator 2, data only available within England):
+- England: Average journey times to employment centres by car, public transport and bike.
+- Need for regeneration (indicator 3):
+- England: commercial and dwelling vacancy rates.
+- Scotland: dwelling vacancy rates (commercial vacancy rate date not available at time of calculation).
+- Wales: commercial and dwelling vacancy rates.
+The average journey time metric was chosen (where available) to best align with the Fund’s focus on bringing transport upgrades to places with poor connectivity and identifying parts of England where local transport networks may be limiting local economies.
+The commercial and dwelling vacancy rate metrics were chosen a proxy for places’ need for regeneration, given the Fund’s particular focus on repurposing and regenerating vacant and brownfield sites on high streets and within town centres.
+The selection of metrics as set out above was subject to ministerial approval at the design stage based on alignment with the policy goals of the fund. Ministers did not see a list of specific places before agreeing the list of metrics. At no point did Ministers make changes to the index, weightings or metrics recommended by officials.
+Banding process
+The 368 eligible LAs in Great Britain were divided into roughly equal bands, with 123 places in category 1, 123 in category 2 and 122 in category 3 respectively.
+Step 1: To determine the number of category 1, 2 and 3 ‘slots’ to assign to each nation, a GB-wide index was created to rank places against criterion A (need for economic recovery and growth) only, which contains only GB-wide data weighted as follows:
+Table 1: GB-wide index seeking to capture places’ need for economic recovery and growth (criterion A) at the eligible LA level
+| Target metric | Indicator | Data source (year) | Weight |
+|---|---|---|---|
+| Productivity | Natural log of GVA per hour worked(1) | ONS (2018); The list of LAs in the dataset does not reflect 2020 LA boundaries for all LAs. Where new LAs have been formed, weighted averages (based on 2019 ONS population estimates and relevant LAs’ indicator data) were used. | (33.3%) |
+| Unemployment | Estimates of unemployment rate in the 16+ population | ONS model-based estimates of unemployment rates (October 2019 – September 2020) in the first instance; Where data was not available for an LA, ONS raw estimates of unemployment rates over aggregated geographies(2) (October 2019 – September 2020) were used | (33.3%) |
+| Skills | Proportion of the 16-64 population without NVQs or other formal qualifications | ONS (January 2019 – December 2019) in the first instance; Where data was not available for an LA, ONS estimates over aggregated geographies(2) (January 2019 – December 2019) were used | (33.3%) |
+| 1 ‘Natural logs are used to compare places according to the relative difference in their productivity levels rather than according to the absolute difference in their productivity levels. |
+| 2 ‘ONS aggregated data based on counties, unitary authorities, and groups of districts in England, groups of unitary authorities in Wales, and groups of council areas in Scotland. |
+Rationale for choice of indicators and weightings:
+As set out above, the GB index seeks to measure places’ need on a consistent and comparable basis. Due to data availability, the GB-comparison could only be performed on the basis of indicator 1 – on measures of productivity, unemployment and skills – because this is where common GB-wide datasets were available. Within this indicator, each metric was applied with equal weight.
+Had full and consistent datasets been available for indicators 1, 2 and 3 across Great Britain, a comprehensive GB-wide ranking would have been performed. This approach was prevented by data limitations, as already addressed.
+Construction of GB-wide index
+For each indicator, values were indexed to allow for consistent comparison of values across indicators in different units. The smallest value in the dataset was set to 0 and the largest value set to 100. All other values were allocated a score between 0 and 100 based on their relative distance from the minimum and maximum dataset values.
+The composite index score was then calculated for each eligible LA by taking an average of the index scores, weighed according to the weights displayed in Table 1.
+For the metrics outlined in Table 1, this resulted in the following assignment of category 1, 2 and 3 places between England, Scotland and Wales:
+Table 2: Number of category 1, 2 and 3 slots assigned to England, Scotland and Wales respectively following step 1
+| Category | Number of LAs in England | Number of LAs in Scotland | Number of LAs in Wales | Total |
+|---|---|---|---|---|
+| 1 | 93 | 13 | 17 | 123 |
+| 2 | 108 | 12 | 3 | 123 |
+| 3 | 113 | 7 | 2 | 122 |
+Step 2: Having determined the number of category 1, 2 and 3 slots to assign to each nation using only GB-wide data, places were then sorted into these slots within each nation using additional England, Scotland and Wales-only metrics (in addition to the GB-wide metrics used in step 1) to account for the varying availability of data between nations relating to criteria B and C. The following data and weightings for England, Scotland and Wales were used:
+Table 3: England national index
+| Target metric | Indicator | Data source (data for) | Indicator weight (Target metric weight) |
+|---|---|---|---|
+| Indicator 1: Need for economic recovery and growth | 50% | ||
+| Productivity | Natural log of GVA per hour worked | ONS (2018); The list of LAs in the dataset does not reflect 2020 LA boundaries for all LAs. Where new LAs have been formed, weighted averages (based on 2019 ONS population estimates and relevant LAs’ indicator data) were used. | (33.3%) |
+| Unemployment | Estimates of unemployment rate in the 16+ population | ONS model-based estimates of unemployment rates (October 2019 – September 2020) in the first instance; Where data was not available for an LA, ONS raw estimates of unemployment rates over aggregated geographies(2) (October 2019 – September 2020) were used | (33.3%) |
+| Skills | Proportion of the 16-64 population without NVQs or other formal qualifications | ONS (January 2019 – December 2019) in the first instance; Where data was not available for an LA, ONS estimates over aggregated geographies(2) (January 2019 – December 2019) were used | (33.3%) |
+| Indicator 2: Need for improved transport connectivity | 25% | ||
+| Journey time to employment by car | Average journey time to the nearest employment centre of at least 5,000 jobs when traveling by car | DfT (2017); The list of LAs in this dataset does not reflect 2020 boundaries for all LAs. Where new LAs have been formed, weighted averages (based on the number of service users(5) and relevant LAs’ indicator data) were used. | (75.2%) |
+| Journey time to employment by public transport | Average journey time to the nearest employment centre of at least 5,000 jobs when traveling by public transport | DfT (2017); The list of LAs in this dataset does not reflect 2020 boundaries for all LAs. Where new LAs have been formed, weighted averages (based on the number of service users(5) and relevant LAs’ indicator data) were used. | (21.2%) |
+| Journey time to employment by cycle | Average journey time to the nearest employment centre of at least 5,000 jobs when traveling by cycle | DfT (2017); The list of LAs in this dataset does not reflect 2020 boundaries for all LAs. Where new LAs have been formed, weighted averages (based on the number of service users(5) and relevant LAs’ indicator data) were used. | (3.5%) |
+| Indicator 3: Need for regeneration | 25% | ||
+| Commercial vacancy rate | Proportion of retail, industrial, office and leisure units that are vacant | Publicly available commercial location data from Whythawk and Sqwyre.com (July 2020); Where LAs did not share their vacancy rate data, the average vacancy rate of the LAs in the same ONS aggregated geography(2) that did share their commercial vacancy rate was used as a proxy. Where no LA in the ONS aggregated geography shared their vacancy rate, the average vacancy rate of the LAs over larger aggregated geographies(3) were used as a proxy. The list of LAs in this dataset does not reflect 2020 LA boundaries for all LAs. Where new LAs have been formed, averages (based on the sums of the relevant LAs’ void (vacant) counts and total counts) were used. | (75%) |
+| Dwellings vacancy rate | Proportion of dwellings chargeable for council tax that are classed as long-term empty (empty for more than 6 months)(4) | MHCLG (2020) | (25%) |
+| 2 ‘ONS aggregated data based on counties, unitary authorities, and groups of districts in England, groups of unitary authorities in Wales, and groups of council areas in Scotland. |
+| 3 ‘ONS aggregated data based on counties in England (most grouped), groups of districts in Greater London, groups of unitary authorities in Wales and groups of council areas in Scotland. |
+| 4 ‘Dwellings vacancy rate in England are calculated as the ratio of the number of vacant units less those that are only empty due to flooding (Line 16 less lines 16.a and 16.b in the Council Tax Base 2020) to the total adjusted number of chargeable dwellings (Council Tax Base 2020 line 7). |
+| 5 ‘This can be found under the column with heading ‘Empl_pop’ in dataset ‘JTS0401 – Travel time, destination and origin indicators for Employment centres by mode of travel and local authority, England’, published by DfT (2017) |
+Rationale for choice of indicators and weightings:
+Had it been possible, national indices would have been developed in the same way for all nations. However, due to data availability limitations this was not possible.
+The relative weights of places’ need for economic recovery and growth (indicator 1), places’ need for improved transport connectivity (indicator 2) and places’ need for regeneration (indicator 3) were weighted according to a ratio of 2:1:1. This weighting was chosen to best align with the overall objectives of the Fund – ‘to support economic recovery…prioritising places in need and areas of low productivity’ as per the prospectus, as well as to make the most of UK-wide data where available.
+Indicator 1 was developed in the same way as for the GB-wide index, with equal weightings for each metric.
+Indicator 2 captures a place’s need for improved transport connectivity. This was measured using DfT data on journey times to employment centres via different transport modes – car, public transport and bicycle. This measures a place’s access to jobs, identifying where the local transport network may be limiting the local economy. The DfT journey time stats were weighted according to transport modal split at nation level – in other words, weighted according to the proportion of total journeys made by each type of transport across each nation as a whole.
+For indicator 3, commercial and dwellings vacancy rates were used as a proxy for places’ need for regeneration, given the Fund’s focus on repurposing and regeneration of vacant and brownfield sites on high streets and within town centres. A higher weighting was given to commercial vacancy rates in the indicator for regeneration because the objectives of the fund focus in particular on improving commercial spaces. The ratio of the commercial vacancy rate indicator weight to the dwelling vacancy rate indicator weight was set at 3:1.
+Table 4: Scotland national index
+| Target metric | Indicator | Data source (data for) | Indicator weight (Target metric weight) |
+|---|---|---|---|
+| Indicator 1: Need for economic recovery and growth | 88.9% | ||
+| Productivity | Natural log of GVA per hour worked(5) | ONS (2018) | (33.3%) |
+| Unemployment | Estimates of unemployment rate in the 16+ population | ONS model-based estimates of unemployment rates (October 2019 – September 2020) in the first instance; Where data was not available for an LA, ONS raw estimates of unemployment rates over aggregated geographies(2) (October 2019 – September 2020) were used | (33.3%) |
+| Skills | Proportion of the 16-64 population without NVQs or other formal qualifications | ONS (January 2019 – December 2019) in the first instance; Where data was not available for an LA, ONS estimates over aggregated geographies(2) (January 2019 – December 20) were used | (33.3%) |
+| Indicator 3: Need for regeneration | 11.1% | ||
+| Dwellings vacancy rate | Ratio of long-term empty dwellings (empty for 6 months or more) to total dwellings chargeable for council tax | Scottish Government (2020) | (100%) |
+| 2 ‘ONS aggregated data based on counties, unitary authorities, and groups of districts in England, groups of unitary authorities in Wales, and groups of council areas in Scotland. |
+| 5 ‘Natural logs are used to compare places according to the relative difference in their productivity levels rather than according to the absolute difference in their productivity levels. |
+Rationale for choice of indicators and weightings:
+Had it been possible, national indices would have been developed in the same way for all nations. However, due to data availability limitations this was not possible.
+Transport connectivity is not considered in the national index for Scotland because data on journey times to employment was not available in Scotland at the time of calculation. In the absence of a suitable dataset to use as a substitute, Scotland LAs’ need for improved transport connectivity was not considered.
+Indicator 1 was developed in the same way as the GB-wide index.
+For Indicator 3, dwellings vacancy rates are considered and make up 100% of the indicator weight. This represents a divergence from the equivalent indicator in England and Wales. This is because publicly available data on commercial vacancy rates was not available to us in Scotland at the time of calculation.
+The weightings of the indicators are such that that the ratio of the weight for Indicator 1 to the weight for the dwellings vacancy rate indicator is the same as for England and Wales.
+Table 5: Wales national index
+| Target metric | Indicator | Data source (data for) | Indicator weight (Target metric weight) |
+|---|---|---|---|
+| Indicator 1: Need for economic recovery and growth | 66.7% | ||
+| Productivity | Natural log of GVA per hour worked(6) | ONS (2018) | (33.3%) |
+| Unemployment | Estimates of unemployment rate in the 16+ population | ONS model-based estimates of unemployment rates (October 2019 – September 2020) in the first instance; Where data was not available for an LA, ONS raw estimates of unemployment rates over aggregated geographies (October 2019 – September 2020) were used | (33.3%) |
+| Skills | Proportion of the 16-64 population without NVQs or other formal qualifications | ONS (January 2019 – December 2019) in the first instance; Where data was not available for an LA, ONS estimates over aggregated geographies (January 2019 – December 20) were used | (33.3%) |
+| Indicator 3: Need for regeneration | 33.3% | ||
+| Commercial vacancy rate | Proportion of retail, industrial, office and leisure units that are vacant | Publicly available commercial location data from Whythawk and Sqwyre.com (July 2020);Where LAs did not share their vacancy rate data, the average vacancy rate of the LAs in the same ONS aggregated geography2 that did share their commercial vacancy rate was used as a proxy. Where no LA in the ONS aggregated geography shared their vacancy rate, the average vacancy rate of the LAs over a larger aggregated geography were used as a proxy. | (75%) |
+| Private dwellings vacancy rate | Proportion of dwellings chargeable for council tax that are classed as empty(7) | Stats Wales (2021-2022) | (25%) |
+| 6 ‘Natural logs are used to compare places according to the relative difference in their productivity levels rather than according to the absolute difference in their productivity levels. |
+| 7 ‘Dwellings vacancy rate in Wales are calculated as the ratio of Total chargeable long-term empty properties (H7) to all chargeable dwellings (A1). |
+Rationale for choice of indicators and weightings:
+Had it been possible, national indices would have been developed in the same way for all nations. However, due to data availability limitations this was not possible.
+The relative weights of places’ need for economic recovery and growth and places’ need for regeneration is according to a ratio of 2:1, as per the England index.
+Transport connectivity is not considered in this index because publicly available data on journey times to employment was not available in Wales at the time of calculation. In the absence of a suitable dataset to use as a substitute, Wales LAs’ need for improved transport connectivity was not considered.
+Indicator 1 was developed in the same way as the GB-wide index.
+As in the England national index, indicator 3 is made up of commercial and dwellings vacancy rates. A higher weighting is given to commercial vacancy rates in the indicator for regeneration because the objectives of the fund focus on improving commercial spaces in town and city centres. Here too, the ratio of the commercial vacancy rate indicator weight to the dwelling vacancy rate indicator weight was set at 3:1, for the same reasons as described previously.
+Construction of national indices
+The individual national indices were developed in the same way as the GB index. For each indicator, values were indexed so that values for indicators in different units could be compared. This means that for each indicator, the smallest value in the dataset was set to 0 and the largest value in the dataset set to 100. All other values were allocated a score between 0 and 100 based on their relative distance from the minimum and maximum dataset values.
+The composite index score was then calculated for each eligible LA by taking an average of the index scores, weighted according to the weights displayed in Tables 3, 4 and 5, as appropriate.
+Comparison of category split across England, Scotland and Wales
+Eligible LAs are ranked against the other eligible LAs within their nation according to their composite national index scores. As shown in Table 2, in England, the 93 LAs with the highest England national index scores are assigned to category 1 , the 108 LAs with the next highest index scores are assigned to category 2 and the 113 LAs with the lowest index scores are assigned to category 3.
+As shown in Table 2, in Scotland, the 13 LAs with the highest Scotland national index scores are assigned to category 1, the 12 LAs with the next highest index scores are assigned to category 2 and the 7 LAs with the lowest index scores are assigned to category 3.
+As shown in Table 2, in Wales, the 17 LAs with the highest scoring Wales national index scores are assigned to category 1, the 3 LAs with the next highest index scores are assigned to category 2 and the 2 LAs with the lowest national index scores are assigned to category 3.

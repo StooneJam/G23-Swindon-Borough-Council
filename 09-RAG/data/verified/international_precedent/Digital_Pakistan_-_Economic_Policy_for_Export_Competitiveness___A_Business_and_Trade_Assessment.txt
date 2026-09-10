@@ -1,0 +1,2628 @@
+<<<PDF_PAGE_1>>>
+Report No: AUS0001607
+.
+Pakistan
+Economic Policy for Export Competitiveness
+Digital Pakistan: A Business and Trade Assessment
+.
+May 2020
+.
+MTI
+.
+- 1 -
+Official Use
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+<<<PDF_PAGE_2>>>
+.
+.
+© 2017 The World Bank
+1818 H Street NW, Washington DC 20433
+Telephone: 202-473-1000; Internet: www.worldbank.org
+Some rights reserved
+This work is a product of the staff of The World Bank. The findings, interpretations, and conclusions expressed in this work do not necessarily
+reflect the views of the Executive Directors of The World Bank or the governments they represent. The World Bank does not guarantee the
+accuracy of the data included in this work. The boundaries, colors, denominations, and other information shown on any map in this work do not
+imply any judgment on the part of The World Bank concerning the legal status of any territory or the endorsement or acceptance of such
+boundaries.
+Rights and Permissions
+The material in this work is subject to copyright. Because The World Bank encourages dissemination of its knowledge, this work may be
+reproduced, in whole or in part, for noncommercial purposes as long as full attribution to this work is given.
+Attribution—Please cite the work as follows: “World Bank. {YEAR OF PUBLICATION}. {TITLE}. © World Bank.”
+All queries on rights and licenses, including subsidiary rights, should be addressed to World Bank Publications, The World Bank Group, 1818 H
+Street NW, Washington, DC 20433, USA; fax: 202-522-2625; e-mail: pubrights@worldbank.org.
+- 2 -
+Official Use
+<<<PDF_PAGE_3>>>
+DIGITAL PAKISTAN:
+A BUSINESS AND TRADE ASSESSMENT 1
+1 The report was prepared by Sebastian Saez Lead Economist, ESAMU, Nadeem Rizwan (consultant), ESAMU, and
+Erik van der Marel (consultant), ESAMU, under the direction and guidance from Gonzalo Varela (TTL), Senior
+Economist, (ESAMU). The team would like to thank Ben Shepherd, consultant, and David Francis, Senior
+Economist, DECEA for comments and suggestions provided on the survey design. The team would like to thank
+Amjad Bashir, Senior Economist (ESAC1) and Shan Rehman, Social Development Specialist, SSAS1, and the
+members of P@SHA CEC for comments and suggestions received on an early draft. Martin Molinuevo, Senior
+Private Sector Specialist, ETIRI, and Gaurav Nayyar, Senior Economist, ETIFE, kindly peer reviewed the report.
+The team is grateful to Bilal I Gilani and Noor un Nisa Shahid from Gallup, Pakistan, for conducting the survey and
+organizing the focus group meetings in Islamabad, Karachi, and Lahore. This report uses various public sources of
+information and data that are referred to in the text. The team recognizes that there is no consensus among experts
+and industry representatives on the quality and precision of some statistical sources, including official and private
+sector sources. In view of the above, the data and information used seek to illustrate as precisely as possible the
+characteristics of the industry and its recent developments given the current limitations of the available data. The
+usual caveats apply.
+- 3 -
+Official Use
+<<<PDF_PAGE_4>>>
+TABLE OF CONTENTS
+EXECUTIVE SUMMARY ......................................................................................................................... - 6 -
+I. DIGITAL TRADE AND INVESTMENT: PERFORMANCE AND OPPORTUNITIES ........................... - 16 -
+A- TRADE AND INVESTMENT PERFORMANCE ............................................................................. - 16 -
+B- TRADE AND INVESTMENT OPPORTUNITIES ............................................................................ - 23 -
+II. DIGITAL TRADE POLICY FRAMEWORK IN PAKISTAN .......................................................... - 26 -
+A- PAKISTAN POLICY FRAMEWORK ............................................................................................ - 26 -
+B- POLICY CLUSTERS ANALYSIS ................................................................................................. - 27 -
+C- PAKISTAN AND PEERS COUNTRIES ......................................................................................... - 32 -
+D- POLICY BARRIERS FOR EXPORTERS ....................................................................................... - 34 -
+III. PAKISTAN’S ENABLING ENVIRONMENT FOR DIGITAL TRADE AND INVESTMENT ............. - 37 -
+A- HUMAN CAPITAL AND SKILLS ENDOWMENTS ....................................................................... - 37 -
+B- INFRASTRUCTURE AND INPUTS: AVAILABILITY, QUALITY, AND AFFORDABILITY ............. - 40 -
+C- REGULATORY GOVERNANCE AND IT AND ITES FIRMS ........................................................ - 43 -
+D- POLICIES TO FOSTER EXPORTS .............................................................................................. - 49 -
+IV- POLICY RECOMMENDATIONS ...................................................................................................... - 51 -
+A- REGULATORY CAPABILITIES AND GOVERNANCE................................................................... - 52 -
+B- SECTOR-SPECIFIC POLICIES .................................................................................................... - 53 -
+C- COMPLEMENTARY SUPPORTING POLICIES ............................................................................ - 54 -
+REFERENCES ....................................................................................................................................... - 56 -
+ANNEX .................................................................................................................................................. - 59 -
+DEFINITIONS ..................................................................................................................................... - 59 -
+Table A1 Selected ICT indicators in South Asia .......................................................................... - 60 -
+Table A2. Import Duties on Digital Goods. ................................................................................... - 61 -
+Table A3. Import Duties on Digital Goods. ................................................................................... - 62 -
+- 4 -
+Official Use
+<<<PDF_PAGE_5>>>
+LIST OF TABLES
+TABLE 1. COMPARATIVE ICT STATUS IN PAKISTAN ......................................................................... - 16 -
+TABLE 2 COMPOSITION OF ITES-BPO EXPORTS IN PAKISTAN (US$ MILLION) ............................. - 19 -
+TABLE 3. E-GOVERNMENT DEVELOPMENT INDEX OF PAKISTAN .................................................... - 25 -
+TABLE 4. DIGITAL POLICY FRAMEWORK .......................................................................................... - 26 -
+TABLE 5. CHARACTERISTICS OF EXPORTERS .................................................................................... - 35 -
+TABLE 6. INFRASTRUCTURE AND INPUTS SERVICES ......................................................................... - 42 -
+TABLE 7. REGULATORY OBSTACLES FOR NON-EXPORTING FIRMS ................................................. - 45 -
+TABLE 8. REGULATORY OBSTACLES IN EXPORT MARKETS ............................................................ - 46 -
+TABLE 9. OBSTACLES TO IT AND ITES FIRMS ................................................................................... - 47 -
+TABLE 10. INPUT SERVICES AND IT AND ITES .................................................................................. - 48 -
+TABLE 11. NON-EXPORTERS: MAIN CONSTRAINTS TO EXPORTING SERVICES ............................... - 49 -
+LIST OF FIGURES
+FIGURE 1. INFORMATION AND COMMUNICATION TECHNOLOGIES INDEX ...................................... - 17 -
+FIGURE 2. OFFICIALLY REGISTERED E-COMMERCE MERCHANTS AND RECORDED TRANSACTIONS
+IN PAKISTAN ................................................................................................................................. - 18 -
+FIGURE 3. ICT EXPORT DESTINATIONS (% OF TOTAL ICT EXPORTS) ............................................ - 20 -
+FIGURE 4. PAKISTAN'S DIGITAL SERVICES TRADE (2005-18) .......................................................... - 20 -
+FIGURE 5. ICT SERVICES EXPORT: 2005-17 (US$ MILLION AND PERCENTAGE OF TOTAL SERVICES) . -
+21 -
+FIGURE 6. PAKISTAN'S DIGITAL SERVICES TRADE AND DEVELOPMENT, 2017 ............................... - 22 -
+FIGURE 7. PAKISTAN'S DIGITAL SERVICES TRADE AND DEVELOPMENT, 2017 ............................... - 23 -
+FIGURE 8. OVERALL DIGITAL TRADE RESTRICTIVENESS INDEX AND CLUSTERS A-D (2018) ....... - 27 -
+FIGURE 9. NET FDI INFLOWS IN PAKISTAN ....................................................................................... - 29 -
+FIGURE 10. DIGITAL TRADE RESTRICTIVENESS INDEX CLUSTERS A AND D (2018) ........................... - 32 -
+FIGURE 11. DIGITAL TRADE RESTRICTIVENESS INDEX AND TECHNOLOGY ADOPTION (2007-18) - 33 -
+FIGURE 12. DIGITAL TRADE RESTRICTIVENESS INDEX AND INNOVATION ACTIVITIES (2013-18) - 34 -
+FIGURE 13. TECHNOLOGY ADOPTION THROUGH FDI IN PAKISTAN (2017) .................................... - 36 -
+FIGURE 14. ENDOWMENT FACTORS FOR DIGITAL TRADE (2017) .................................................... - 38 -
+FIGURE 15. SHARE OF DOMESTIC FIRMS’ RESPONSES TO SELECTED OBSTACLES AS A CONSTRAINT
+IN PAKISTAN ................................................................................................................................. - 43 -
+FIGURE 16. SHARE OF EXPORTING FIRMS RESPONDING TO SELECTED OBSTACLES AS ................ - 45 -
+LIST OF BOXES
+BOX 1. ICT ENABLING ENVIRONMENT .............................................................................................. - 39 -
+BOX 2. REGULATORY ENVIRONMENT AND GOVERNANCE: SOME EXAMPLES ................................ - 44 -
+BOX 3. WHAT ARE THE CHALLENGES THAT LIMIT ICT EXPORTS? .................................................. - 50 -
+- 5 -
+Official Use
+<<<PDF_PAGE_6>>>
+EXECUTIVE SUMMARY
+Digital trade is opening new development opportunities for Pakistan. Digital technologies transform
+global trade, the reallocation of factors of production, and eventually increases productivity and growth.
+Digital technologies also enable industries to produce more sophisticated products and services and tap
+into new export markets. In turn, digital trade enhances Pakistan's domestic competitiveness as it allows
+firms to become more productive. In this context, a factor determining digital trade is data. Many digital
+technologies thrive on data, which often needs to flow across borders. Encouraging digital trade and the
+cross-border flow of data through open markets will ultimately enhance Pakistan's level of development.
+Pakistan should seize digital trade opportunities as they are becoming increasingly important for
+the world economy.2 Between 2004 and 2017, world ICT services exports as a share of global GDP has
+more than doubled from 0.30 percent to around 0.66 percent. Equally, expressed as a share of total services
+exports, world ICT services has more than doubled between 2000 and 2017 from a narrow 5 percent to
+more than 10 percent. Interestingly, the importance of world ICT services exports has become almost as
+large as the share of world ICT goods, which currently stands at 11 percent. In short, the ICT trade in
+goods and, in particular, services has grown significantly over the past 20 years and this trend is expected
+to continue.
+In addition, cross-border data flows have increased significantly in recent years, thereby
+contributing substantially to global GDP. The domestic and cross-border flow of data has grown
+exponentially over the past 10 years, which indicates that data as a flow, besides goods, services,
+investment, and people, has become a well-established pillar of today’s globalization. The McKinsey
+Global Institute estimates that, currently, cross-border data flows contribute more to global GDP than the
+goods trade. Given that data flows underpin the production and trade of services, in particular ICT services,
+this factor is likely to increase further in importance as the growth of the ICT services trade continues.
+As global value-added of both ICT goods and services is growing, the sector is an important
+contributor to higher value-added overall. The current share of ICT value-added in the OECD stands
+at 6 percent. That share is likely to be lower for poorer countries such as Pakistan. That does not mean,
+however, that the sector is unimportant for Pakistan’s development strategy. For instance, high-
+productivity firms are generally more likely to use the internet, larger firms are more likely to use the
+internet more intensively across all income groups, and the internet is helping firms of all types and sizes
+to reach new markets. The role of platforms increases as these trends continue as they cut search costs,
+and reduce fixed costs to start a business as well as to export, thereby helping new export markets. All
+2 This report adopts the OECD definition of digital trade. Digital trade encompasses digitally enabled transactions of
+trade in goods and services that can either be digitally or physically delivered, and that involve consumers, firms,
+and governments. Also, while all forms of digital trade are enabled by digital technologies, not all digital trade is
+digitally delivered. Digital trade also involves digitally enabled but physically delivered trade in goods and services.
+In this context, underpinning digital trade is the movement of data. Data is not only a means of production, it is also
+an asset that can itself be traded, and a means through which GVCs are organized and services delivered. Moreover,
+according to OECD, it also underpins physical trade less directly by enabling implementation of trade facilitation.
+Data is also at the core of new and rapidly growing service supply models such as cloud computing, the Internet of
+Things (IoT), and additive manufacturing. For a full discussion see, OECD https://www.oecd.org/trade/
+topics/digital-trade/
+- 6 -
+Official Use
+<<<PDF_PAGE_7>>>
+these factors help to create higher economy-wide value-added as all sectors use ICT goods and services as
+inputs.
+This report analyses the recent trends in Pakistani Information Technologies (IT) and Information
+Technologies enabled Services (ITeS), as well as obstacles confronted by firms. We assess the
+importance of trade costs as a barrier to services growth and development in Pakistan’s domestic market
+and to seizing the opportunities of global trade. The report also aims to understand and examine the impact
+of obstacles (i.e., trade costs) confronted by firms. These obstacles increase the costs of selling services
+and may reduce capacity to compete both in the local market (Pakistan) as well as overseas (exports).
+These obstacles include direct costs generated by policy barriers that limit market entry, but can also
+include infrastructure deficiencies, geographical location, and institutional capacities, and/or obstacles
+imposed by regulatory measures. Among the latter obstacles, examples include difficulties in accessing
+the information necessary to operate in a market, the predictability and stability of the business
+environment in a particular market, and the quality of the decision-making process and administrative
+procedures of competent authorities in the domestic and export markets.
+The focus of the report is the trade costs confronted by IT and ITeS firms. IT and ITeS operations are
+the backbone to provide digital services, digital goods and depend on digital technologies, conform an
+integral part of the overall ecosystem. The report relies on a survey conducted on 782 IT and ITeS firms
+across different cities. The objective of the survey was to examine the importance of these factors for
+Pakistani firms and to provide advice to policymakers. To complement the survey results, the main
+findings were discussed in focus group structured interviews. Firms interviewed covered different services
+activities beyond software companies and included both exporters (534 firms) and non-exporters (248
+firms), reflecting the export competitiveness as well as domestic competitiveness of Pakistan's IT services
+sector. The analysis aims to improve our understanding of Pakistan's IT performance and the obstacles
+confronted in this field.
+IT/ITeS and Digital Trade Performance3
+In recent years, there has been significant progress in the IT/digital space in Pakistan. Internet access
+for individuals increased from 8 percent in 2010 to 15.5 percent in 2017, the latest available data, while
+the proportion of households with internet access increased fourfold, reaching 22 percent. However, as
+measured by the ICT Development Index (IDI), compared to other countries in the world Pakistan ranks
+low.4 Although Pakistan’s IT industry has grown into a moderately sized sector, it is comprised of mostly
+domestically owned firms with very few foreign operations. Of the top 10 exporters, only one is foreign.
+Yet, Pakistan is the second highest exporter of IT services in South Asia behind India, with more
+than US$1 billion of exports. According to the Pakistan Software Houses Association (PASHA) website,
+about 53.8 percent of the revenue comes from the export market. IT/ITeS services exports have
+3 ICT services are services such as computer and communications services (telecommunications, postal, and courier
+services) and information services (computer data and news-related service transactions). Digital goods is a generic
+term that refers to ICT goods, commodities, and inputs. In this report digital goods refer in large part to goods covered
+by the WTO’s International Technology Agreement (ITA). Digital services is a generic term that refers to ICT and
+associated services that are produced and delivered over the internet and/or with the help of ICT and other software.
+It mainly includes computer, telecoms, some news-related services and information, data services, various technical
+services, as well as services provided over digital platforms (see annex for additional definitions).
+4 International Telecommunication Union (ITU).
+- 7 -
+Official Use
+<<<PDF_PAGE_8>>>
+experienced solid growth in recent years with a compound average growth rate (CAGR) of 10.8 percent
+since 2010, growing from US$433 million to more than US$1 billion. Pakistan's IT services exports are
+primarily in medium to low value-added software activities, such as enterprise planning, application
+development, and integration. However, while there is limited activity in product development in
+Pakistan’s IT services sector, a small number of firms nonetheless outsource services in the banking,
+financial, insurance, healthcare, and energy industries, which are likely to be more sophisticated.
+Enabling Factors and Policy Environment
+Pakistan maintains relatively restricted digital trade policies, as measured by the Digital Trade
+Restrictiveness Index (DTRI). The DTRI is an indicator that measures applied digital restrictions for ICT
+goods, digital services and investments, standards in digital sectors, as well as for the cross-border flow
+and domestic use of data. The DTRI has many categories of restrictions varying from (a) fiscal restrictions
+such as tariffs and trade defense; (b) establishment restrictions such as Foreign Direct Investment (FDI)
+restrictions and restrictive intellectual property rights (IPRs) measures; (c) restrictions on data varying
+from restrictions on the cross-border flow of data to intermediate liability policies; and (d) trading
+restrictions, such as quantitative trade restrictions and restrictive standards in digital trade.
+Pakistan's main digital trade policy obstacles are found in the area of fiscal restrictions, while the
+establishment restrictions in digital sectors are relatively low. Pakistan appears in the top 5 list of
+countries most restricted for tariffs, trade defense, taxation, and subsidies policies. Pakistan maintains a
+simple average MFN applied tariff rate of 9.7 percent on digital products, with peaks of 35 percent. Adding
+up the regulatory and additional customs duties – also applied on imports – brings total customs duties to
+13.7 percent on average. The country also has an anti-dumping measure in place on imports of phthalic
+anhydride (which is an input used to make PVC for cables) from India, Iran, Italy, Thailand, Brazil, China,
+Indonesia, Republic of Korea, and Hong Kong.
+Taxation remains challenging in Pakistan. Representatives from the IT sector noted that the lack of tax
+harmonization for services industries across the provinces creates a heavy burden in terms of duties, as
+well as in compliance. Dealing with tax authorities is costly for firms in terms of time and financial
+resources and was identified by the private sector during field interviews as one of the most challenging
+areas in their business. This is due, in part, to the complex nature of modern business models required by
+ICT/digital firms, but is also due to existing tax regulatory environment and enforcement approaches.
+Although Pakistan does not have any full data localization requirement, it nonetheless places some
+restrictions regarding data. The country has significantly stricter rules regarding content access
+compared with some of its peers, such as Thailand, Indonesia, India, and Russia. Pakistan appears to
+control foreign commercial services content to its domestic market, and the government has provided a
+mandate for filtering legal content. A related concern for Pakistan’s IT services exports is the surge of
+stricter data regulations applied by various countries in the world. Restrictive data policies such as data
+localization measures, and other services that are produced with the help of advanced software, will
+discourage the growth of high value-added and content-intensive activities. This also means that Pakistan
+is likely to suffer if it were to implement these policies itself, as it would reduce services trade between
+countries. While privacy and data protection are important legitimate policy objectives, they should be
+achieved in the least restrictive manner to allow for the development of the industry based on
+internationally recognized principles.5
+5 World Bank (2016).
+- 8 -
+Official Use
+<<<PDF_PAGE_9>>>
+Currently, Pakistan’s IT services firms face obstacles in foreign markets while trading. In most part,
+these obstacles are of a trade facilitation nature as they relate to the regulatory requirements that exist in
+export markets. They are an entry barrier for Pakistani firms because they create compliance costs when
+entering the market, For example work permit regulations or entry visa requirements. The latter is the
+single most crucial item identified by Pakistani exporters that report this factor as an obstacle. By contrast,
+regulatory predictability, timeframes, and applicability of regulations in foreign destinations are less of a
+problem for Pakistani exporters. Engagement with trading partners will be critical for dealing with visa
+restrictions.
+Pakistan’s IT services firms also face obstacles in the home market. Survey results showed that the
+two most important domestic obstacles relate to electricity shortages and IT infrastructure. The latter
+includes the country's telecom network market as well as IT-goods that are necessary as an input for
+producing and exporting IT services. The next two most significant obstacles that firms face in Pakistan
+are of a regulatory nature: insufficient intellectual property right protection and the entry of foreign
+competitors in export markets. The former is something that Pakistan policymakers can change in the
+short-term domestically. A change in the latter would also depend on policymakers in the export markets,
+and last generation trade agreements are an instrument that could help to overcome these challenges.
+For non-exporting firms in Pakistan that rely on the domestic market, reported obstacles relate to
+the domestic enabling environment. Furthermore, regulatory requirements, rising wages, skills
+availability, and labor market regulations are also identified as important obstacles by non-exporting IT
+firms. While graduates from top universities in Pakistan, such as Lahore University of Management
+Sciences (LUMS), are fully employable by the industry, firms in Pakistan that produce high value-added
+products find that only 10 percent of graduates from lower-tier universities are employable. For lower-end
+software services firms this percentage is 50 percent. This gap signifies the lack of suitable and
+contemporary programming skills in Pakistan. Also, weak English is identified as a major drawback
+stemming from lack of qualified teachers and modern curriculum at all levels of education.6
+IT and IT-enabled services exports have become one of the most successful international activities
+in recent years. The survey explores reasons why there are IT firms in Pakistan that do not yet engage in
+global operations, despite proven opportunities and real success stories in the country. For instance, 37
+percent of non-exporting firms prefer to focus on the domestic market. Thirty-five percent consider their
+lack of exportable services as a reason for not engaging in international business. For 30 percent of non-
+exporting firms, access to information on opportunities for exporting, as well as regulatory barriers and
+complexity of regulations, are two critical explanations for not participating in export activities.
+Policy recommendations
+Under the right policy direction, Pakistan is likely to experience fundamental changes in its economy,
+steering to a more innovation-based, knowledge-intensive way of producing and trading. In addition, the
+outbreak of the Covid-19 pandemic emphasized the importance of IT and IT-enabled services as crucial
+inputs to continue producing while preserving social distancing. It is still unknown what the post-Covid-
+19 business landscape will look like, but IT and IT-enabled services will play an even more prominent
+role than they do today. In addition, automation and artificial intelligence will play a more significant role
+in this industry by introducing significant changes in business models and strategies. To ensure Pakistan
+is ready to embrace that new environment, its IT/ITeS and digital trade policy framework needs to be right.
+The ingredients for a successful reform strategy should include interventions in three policy areas: a)
+6 Couto and Fernandez-Stark (2019); State Bank of Pakistan (2018) and Government of Pakistan (2014).
+- 9 -
+Official Use
+<<<PDF_PAGE_10>>>
+regulatory capabilities and governance; b) sector-specific policies; and c) complementary supporting
+policies. Also, digital trade policies take place at two levels. At the national level, domestic policies play
+a critical role in reducing trade costs and enhancing competitiveness. But domestic policies by themselves
+do not open foreign markets; they need to be complemented by international policies aimed at helping the
+private sector to thrive in the global economy. In this context, every domestic policy should be
+complemented by international initiatives at the multilateral, regional (SAR and beyond), and bilateral
+levels. International initiatives can be based in different instruments: a) seeking technical assistance from
+trading partners, international organizations, and private sector to address specific challenges; b)
+cooperation, collaboration, memorandum of understanding, and other flexible instruments to formalize
+partnership among regulators, public entities, and other agencies; and c) more formal binding agreements
+to provide a more stable and predictable arrangement to support the country’s globalization.
+I. Regulatory capabilities and governance
+i. Create new institutional capabilities and modernize regulatory arrangements. For example,
+while firms' registration processes have improved significantly in recent years (e.g. online
+registration has been introduced), the licensing process is still difficult. Licenses are also required
+to be renewed regularly. Procedures for renewals are unnecessarily long and require similar
+documents as a de novo license. Firms need to work with lawyers and auditors, which increases
+operating costs and discourages formalization and scaling up of small and medium-size firms.
+Freelancers face significant challenges in opening bank accounts due to existing regulations and
+acceding foreign markets. The new business models created by these technologies require training
+public officials to facilitate their understanding of how businesses are organized and operate and to
+modernize regulations. It will require transforming existing legal requirements for creating firms
+and supervising firms' operations, updating the taxation system, and foreign exchange regulations,
+and using new technologies. The public and private sectors should jointly organize trainings, agree
+on courses’ contents and requirements, and issue certification to public officials that attend. The
+trainings should aim to increase knowledge and understanding of new business models, discuss
+international management practices in the context of digital technologies, and adopt modern
+regulatory approaches.
+ii. Strengthen regulatory governance. The report finds that the main challenges in regulatory
+matters in Pakistan are twofold: on the one hand, there are weak regulatory procedures in place,
+regulatory requirements are difficult to understand and, in some cases, unpredictable, and
+regulation enforcement is uneven and subject to discretion. On the other hand, there are significant
+capacity gaps among agencies responsible for regulatory matters beyond the poor understanding of
+business models in the context of the digital economy. These problems should be addressed by a
+gradual adoption and effective implementation of basic internationally recognized regulatory
+principles such as the OECD good regulatory practices, strengthening capacity at agency levels,
+including at the provincial level.7
+iii. Invest in data collection. Policy decisions, incentive programs, and schemes need to be informed
+and monitored by data. Pakistan needs to establish a more comprehensive framework for data
+collection at different levels: macro and firm-level data are essential, as well as national and
+provincial-level data. The data should include domestic variables and precise international
+transactions to measure the main trends, development, and characteristics of the sector and the
+firms. Similarly, Pakistan lacks detailed firm-level information. The recent empirical literature on
+7 OECD (2014).
+- 10 -
+Official Use
+<<<PDF_PAGE_11>>>
+trade, including the empirical trade policy research, has moved in the direction of using more and
+more information at firm-level, for which economic information such as productivity can be
+analysed. Information would not only include standard variables such as value-added, production,
+sales, input usage (divided over raw materials, goods, and specific services), but also exports,
+imports, capital stock, employment (i.e. number of workers), wages, and R&D expenses, etc. This
+data should be sorted by firm ID, year, location of the firm, and/or firm type. Usually, such
+information is based on a firm’s balance sheet, which, in many countries, firms are obliged to
+provide to national statistical agencies through surveys. It would be essential for Pakistan to set up
+a team of statisticians and economists to work on collecting such data.
+II. Sector-specific policies
+i. Accelerate the adoption of digital technologies. Digital technologies will become more relevant
+to support governments’ services and policies, including during emergencies. The Covid-19 crisis
+has forced governments to get closer to citizens and firms while delivering solutions from a
+distance. Physical interactions between people and public officials have been constrained and
+digital solutions have been designed across the world to reach out remotely to support businesses
+and households that are immediately affected by policy responses and the economic slowdown.
+The Government of Pakistan should accelerate the implementation of e-government solutions and
+move to a process of automation for government-to-business interactions. While progress has been
+significant in recent years, for instance, connecting farmers to markets, Pakistan is still lagging on
+government digitalization.8 Pakistan should develop policies conducive to accelerating adoption of
+innovative digital solutions, in collaboration with the private sector, to improve service delivery in
+a post-Covid-19 policy environment.
+ii. Lower tariffs on digital goods and reduce taxes levied on data. High duties on imports
+constrain access to high-quality inputs needed in downstream IT-sectors.9 Pakistan still applies
+duties on imports of digital products at an average of 13.7 percent, increasing production costs for
+all sectors in the economy – particularly in a context in which digital technologies can help the
+economy function to some extent while preserving social distancing. The reduction should be
+gradual and focus on products included in the WTO’s Information Technology Agreement. On
+domestic taxation, there are two related issues: a) taxation policies; and b) tax administration and
+practices (governance). This issue requires urgent attention from the authorities at the central and
+provincial levels. Pakistan will benefit from simplification and better coordination of tax
+authorities.
+iii. Improve human capital related to technology innovations. The focus should be to fill the skills
+gaps that are essential for the digital economy and are required by the IT and ITeS industry. First,
+the Higher Education Commission (HEC) in Pakistan, universities, and other stakeholders should
+collaborate and agree on a curricular update that aims to tackle the country’s professional and
+technical needs. Second, the IT industry, on the other hand, needs to better identify and
+communicate the learning requirements and missing skills, including soft skills. Third, a
+mechanism to improve the integration of lower-tier universities with industry is also required. One
+option to speed up the process is to facilitate hiring coders from the private sector to teach courses
+in universities. Finally, HEC and universities need to start recognizing credit from online courses
+(e.g. online coding courses from Coursera and EdX that have the necessary quality accreditation).
+8 See World Bank (2016) and UN (2018).
+9 See McKenna, Rocha and Varela, 2020.
+- 11 -
+Official Use
+<<<PDF_PAGE_12>>>
+This will allow students to accelerate upgrading their skills. In the context of the current Covid-
+19 crisis this has become even more relevant and urgent. In the case of Pakistan, there are
+significant specific skill gaps among computer science engineers and professionals which need to
+be tackled to ensure the future growth of the sector, including: (i) inability to code in contemporary
+technology platforms; (ii) weak English skills; (iii) poor comprehension readiness to address
+foreign clients' concerns; (iv) inadequate soft skills, namely communication and teamwork; and
+(v) poor knowledge of corporate culture, e.g. reporting, compliance, escalations, email etiquette,
+and protocols.10
+iv. Strengthen promotion activities. While the role and contribution to the internationalization of
+Pakistani firms of the Pakistan Software Exports Board (PSEB) is recognized, the institution could
+be strengthened. PSEB should dedicate more effective efforts to support firms’ participation in
+international promotion activities in close coordination with the Trade Development Authority of
+Pakistan, while maintaining its efforts to facilitate business activities and streamline procedures
+and regulations. PSEB is perceived as a relatively weak organization that has not achieved the
+performance expected from businesses and does not strategically use Pakistani representations
+abroad. PSEB should learn from and adopt good promotion practices from successful experiences,
+including in Costa Rica, India, and the Philippines. Strengthening PSEB promotion activities will
+require to overcome resources constraints and mobilize financial resources from interested private
+sector. It also requires adopting managerial practices according to promotion activities,
+establishing and implementing a strategy with clear and measurable indicators and a monitoring
+and evaluation framework, and hiring staff with the required capabilities.
+III. Complementary supporting policies
+i. Introduce regulatory changes to personal data protection. The objective of the regulation
+should, on the one hand, aim to achieve the legitimate policy objective, i.e., data and consumer
+protection, and on the other hand, allow data flow to promote high value-added services activities.
+In other words, these regulations should avoid increasing input costs for firms, ultimately
+affecting their productivity. This can be achieved by subscribing to general principles broadly
+accepted internationally, such as the OECD privacy principles guidelines, or from the Asia–
+Pacific Economic Cooperation (APEC) forum. Ultimately, a strong internationally recognized
+regulatory regime will be required to allow for constructive cooperation between Pakistan and its
+main trading partners to allow flow of data. This will require a delicate balance of shared
+responsibilities from both the data source country and the destination country. It will also require
+increasing levels of convergence on privacy protection requirements set by data source countries
+and the protection standards offered by the data destination countries.11
+ii. Improve the intellectual property rights (IPR) framework and create trust in the system
+for digital companies. Pakistan is already active primarily in information technology
+outsourcing (ITO) and business process outsourcing (BPO). These services account for 87
+percent and 13 percent of Pakistan's total services exports, respectively. However, to sustain
+growth in this sector and to encourage firms to come up with innovations in the industry,
+intellectual property needs to be adequately protected. The private sector pointed out the
+importance of IPRs for their future growth. Seventy-three percent of exporting firms and 64
+10 Couto and Fernandez-Stark (2018).
+11 Mattoo and Metzler (2018), World Bank (2016) and (2020).
+- 12 -
+Official Use
+<<<PDF_PAGE_13>>>
+percent of non-exporting firms surveyed considered that insufficient IPR in Pakistan is an
+obstacle for their business. The issues identified by the private sector deal with three related
+aspects: a) improve implementation and enforcement; b) increase capacity to manage IPR-related
+matters by public entities; and c) improve protections in certain specific aspects such as
+undisclosed information. To move up in the IT and digital services value chain, both IPRs and
+access to commercial data are critical pillars. The agenda on IPRs and privacy concerns in trade
+agreements will be accentuated with cross-border data flows. At the international level, IPR has
+long been part of the global trade agenda, but a new factor determining digital trade is data.
+Content providers could restrict the provision of some services to countries where IPRs are
+inadequately protected. This can increase difficulties in generating exportable content as well as
+affecting access to imported content.
+iii. Engage in trade agreements. Restrictions on cross-border data flow through, for example, data
+localization requirements, are increasing. Pakistan's entrepreneurs face significant limitations to
+travel to promote their business and develop opportunities. Provisions related to IPRs and
+consumer privacy and data protection have increasingly been included in last generation trade
+agreements, and services trade, including through temporary movement of persons, have also
+been addressed. Pakistan should evaluate a strategy to engage in trade agreements to address its
+business interests proactively.12 Regional and bilateral trade agreements are likely to be central
+in driving connectedness to markets given the existing challenges at the multilateral level.
+12 Hofmann, Osnago, and Ruta (2017).
+- 13 -
+Official Use
+<<<PDF_PAGE_14>>>
+DIGITAL PAKISTAN:
+A BUSINESS AND TRADE ASSESSMENT
+The increased use of digital technologies in the world economy provides companies and countries
+with an opportunity to improve trade competitiveness and, ultimately, productivity. The use of digital
+technologies makes standard factors such as labor and capital more productive by reinforcing their
+allocation, which increases aggregate productivity. International trade is a vehicle for reinforcing the
+allocation of factor resources because open markets generally give countries the opportunity to receive the
+latest, most up-to-date ideas and technologies from abroad. This makes domestic industries more
+competitive. Moreover, digital technologies allow countries to sophisticate their products and production
+technologies, moving into new areas to export to other countries. Further to this, in the context of the
+Covid-19 pandemic, digital technologies provide – in many cases – a platform to allow the economy to
+operate while preserving the necessary social distancing for containing the spread of the virus.
+Digital trade provides new opportunities for Pakistan. Importing digital goods and services in which
+new technologies are embedded or allowing for foreign investments in digital sectors would only make
+traditional ways of producing more effective in the country. Furthermore, exporting newly created goods
+and services that have undergone an upgrade because of new digital technologies typically carry a higher
+level of value-added that firms, and eventually countries, can reap when exporting. A particular factor
+concerning digital trade is data. Data flow across borders multiple times to develop new products and
+services and to optimize production processes across the various international production stages. In all
+these instances, encouraging digital trade and the cross-border flow of data through open markets would
+enhance productivity.
+However, not all countries are tapping into digital trade opportunities. As firms have embedded more
+and more ICT and internet technologies in their products and services as well as supply chains, there has
+been an exponential growth of data in the world economy, and countries have reacted in different ways
+regarding digital policies.13 For instance, countries such as China, Vietnam, and Indonesia have, over the
+years, introduced burdensome regulations that restrict the flow of data, investments in digital sectors, and
+the operations of online platforms. On a global scale, larger and relatively manufacture-oriented middle-
+income countries are comparatively more restricted in digital trade. Other countries have a more open
+policy regime regarding digital trade and investments; these are mainly the smaller, open, and more
+services-oriented economies.
+Pakistan is the second highest exporter of ICT services from South Asia, behind India, with more
+than US$1 billion of exports. Although export growth has been robust in the past few years, Pakistan’s
+world market share of computer services exports has remained low, at around 0.2 percent. With a stable
+base, low cost of operations, a growing domestic market, and a reasonably strong network of Pakistani
+13 Manykia et al., (2015)
+- 14 -
+Official Use
+<<<PDF_PAGE_15>>>
+workers across the world, the industry has the potential for more growth. However, skills mismatch and
+poor infrastructure problems, high tariffs and inefficient tax regimes, and poor perception as an IT
+investment destination due to economic and other factors, are holding the industry back.
+This report analyses the recent trends in the Pakistani IT sector and the obstacles confronted by IT
+firms. The obstacles faced by firms increase the costs of selling services and may reduce the capacity to
+compete both in the local market (Pakistan) as well as overseas (exports). These obstacles include direct
+costs generated by barriers to market entry, such as limits to foreign participation or limits to competition
+(monopolies). But they can also include obstacles due to infrastructure deficiencies, geographical, cultural,
+and institutional differences, and/or obstacles imposed by regulatory measures. Among the latter obstacles,
+examples include difficulties in accessing information necessary to operate in a foreign market, or the
+predictability and stability of the business environment in a market and may also include the quality of the
+decision-making process and administrative procedures of competent authorities. This report uses a
+combination of data analysis, survey results, and private sector focus group discussions to better
+understand Pakistan's IT performance, bottlenecks in this sector, and the critical factors that may have
+contributed to this result. The survey was conducted on 782 IT firms located in different provinces.
+Surveyed firms include both exporters (534 firms) and non-exporters (248 firms), reflecting respectively
+the export competitiveness as well as domestic competitiveness of Pakistan's IT services sector.
+Pakistan’s digital policy regime is relatively restrictive. According to the DTRI the policy regime is
+above the average restrictiveness level of the countries that cover the bulk of digital trade in the world.
+That leaves scope for the country to tap into the opportunities that digital trade provides. Pakistan has been
+showing an upward trend for digital and digital-intensive services (see Annex for a definition of concepts
+used in this report), and firms do use and adopt foreign technologies either through licensing or through
+inward foreign direct investments. However, at present, Pakistan’s digital trade is below its potential based
+on its level of development in comparison to other peer countries, due, in large part, to its restrictive digital
+policy environment.
+To tap into the full potential of the sector, Pakistani authorities need to implement several policy
+reforms. Removing trade obstacles on investments in digital sectors, digital goods, and services, as well
+as digital technologies, would serve the country’s interest by allowing firms to seize digital trade
+opportunities and create productivity effects. As the World Bank’s Pakistan@100 report laid out, the
+success of Pakistan’s future will depend on whether the country can overcome the barriers to adopt the
+latest technologies made available through growing FDI and increase openness to trade and technology
+ideas.
+The report is organized as follows. The following section provides an overview of Pakistan’s digital
+trade and investments performance and opportunities. The second section studies the digital trade policy
+framework in Pakistan. The third section looks at the enabling environment for digital trade and investment
+and the perception of the firms surveyed. The last section provides policy recommendations.
+- 15 -
+Official Use
+<<<PDF_PAGE_16>>>
+I. DIGITAL TRADE AND INVESTMENT: PERFORMANCE AND
+OPPORTUNITIES
+A- TRADE AND INVESTMENT PERFORMANCE
+Despite progress in the digital space, there is scope for growth. The percentage of individuals using
+the internet almost doubled from 8 percent in 2010 to 15.5 percent in 2017, the latest data available, while
+the proportion of households with internet access increased fourfold (Table 1). The improvement in access
+and usage is a recent phenomenon, as 47 percent of the internet users went online for the first time between
+2012 and 2015 (UNCTAD 2017), coinciding partly with the introduction of 3G/4G technology. The
+number of subscribers of mobile broadband has soared from 1.4 million in FY2013-14 to almost 76 million
+(as of December 2019), which constitutes 97.4 percent of overall broadband (fixed and mobile)
+subscribers.14 However, there is still a long way to go. Only 37 percent of Pakistanis aged 15-65 are aware
+of the internet (LIRNEasia, 2018). Data from the Household Survey (2018/19) show that in urban areas,
+only 4.7 percent of those in the lowest quintile of income distribution had used the internet in the previous
+three months. The share climbs to 50 percent among those in the highest quintile – but still hints at a
+substantial distance to universal access.15 Over the years, Pakistan’s ranking has worsened in the ICT
+Development Index (IDI), published by the International Telecommunication Union (ITU), with other
+countries in the world progressing faster. Pakistan’s rank at 148 is the lowest of the major South Asian
+economies in terms of IDI (Figure 1 and Table A1).16
+Table 1. Comparative ICT Status in Pakistan
+2010 2017
+Developing Developing
+Pakistan World Pakistan World
+Countries Countries
+123 148
+ICT Development index (rank) (out of NA NA (out of NA NA
+152) 176)
+International bandwidth per
+4.2 NA NA 20.9 59.6 70.9
+internet user (Kbit/sec)
+Households with internet access (%) 5.7 19.8 32.5 22.1 41.5 52.4
+Individuals using the internet (%) 8.0 21.1 29.3 15.5 42.4 49.0
+S ource: International Telecommunication Union
+14 Calculated from Pakistan Telecommunication Authority, https://www.pta.gov.pk/en/telecom-indicators, accessed
+on November 11, 2019, and Pakistan Telecommunication Annual Report 2016.
+15 Among internet users, the Household Survey also shows that only 3.5 percent of households in the poorest quintile
+of income distribution have access to the internet at home, while only 44 percent of those in the richest quintile do.
+16 For the purpose of the compared analysis, South Asia is defined as Bangladesh, India, Nepal, Pakistan, and Sri
+Lanka. The ICT Development Index (IDI), constructed by the International Telecommunication Union (ITU), is a
+composite index designed to allow assessing and comparing the state of ICT development within and between
+countries. The IDI allows monitoring changes in the development of ICTs over time so that forward-looking policy
+can be informed. The IDI was first released in 2009, and since published annually until 2017. In 2018, the ITU did
+not publish the IDI due to a number of challenges related to data quality and quantity resulting from the change in
+the set of indicators included in the IDI that was agreed in 2017. https://www.itu.int/en/
+ITU-D/Statistics/Pages/IDI2019consultation/default.aspx
+- 16 -
+Official Use
+<<<PDF_PAGE_17>>>
+IT and ITeS services have grown into a moderately sized industry, comprising mostly locally owned
+firms. Official estimates vary regarding the exact size of the industry. The State Bank of Pakistan (2018)
+reports that the number of IT firms registered at the Securities and Exchange Commission of Pakistan
+(SECP) was 4,600 in 2017, while the Pakistan Software Export Board (PSEB) website states that there are
+4,464 companies and 3,579 call centers registered with them.17 The industry is primarily spread across
+three major cities - Karachi, Lahore, and Islamabad (Rahman et al. 2017, and Ignite 2014) and has 300,000
+professionals.18 According to a survey of 300 IT firms by the National ICT R&D fund (presently known
+as Ignite) under the Ministry of Information Technology and Telecommunications (MOITT), 14 percent
+of the firms had 50 or more employees, 17 percent had 25-50 employees, and the rest had less than 25
+employees (Ignite 2014). The sector comprises mostly domestically owned firms with limited foreign
+operations. According to Ignite (2014), 13 percent of surveyed firms were foreign, and of the top 10
+exporters, only one is foreign. However, there is a multinational presence including IBM, Oracle, and
+Cisco, among others.
+Figure 1. Information and Communication Technologies Index
+and Level of Development (2017)
+14.00
+12.00
+s10.00
+e
+r
+o 8.00
+c
+s
+I 6.00
+D
+I
+4.00
+Pakistan
+2.00
+0.00
+0 20000 40000 60000 80000 100000 120000 140000
+Per Capita GDP (PPP)
+Note:The higher the IDI score, the better the country ranking
+Source: Authors' calculation based on ITU and WDI data
+The industry is at a growing trajectory. The number of IT firms more than doubled from less than 2,000
+in 2007 (SBP 2018) to more than 4,000 at present (as well as the 3,000-plus call centers). From 2008 to
+2017, on average, around 200 call centers registered with the PSEB annually (SBP 2019). There is a
+significant increase in freelancing activity as Pakistan now has the third largest number of freelancers in
+the world, right after India and Bangladesh,19 with their earnings increasing by 47 percent in 2019.20 The
+e-commerce market has also been dynamic, as the number of registered merchants increased by more than
+twofold, from 571 in FY2016-17 to 1,398 in the third quarter of FY2018-19 (Figure 2). The officially
+recorded transaction (converted to US$ from Pakistani Rupee) in e-commerce increased from US$89.8
+17 https://www.pseb.org.pk/ accessed on November 11, 2019.
+18 According to the IT sector profile available on the Pakistan Board of Investment’s website https://invest.gov.pk/it-
+ites#gallery. Private sector representative estimates that the actual figure is 150,000.
+19Otto Kässi, Vili Lehdonvirta, Online labour index: Measuring the online gig economy for policy and
+research, Technological Forecasting and Social Change, Volume 137, 2018, Pages 241-248. Data accessed at
+https://ilabour.oii.ox.ac.uk/online-labour-index/ on December 12, 2019. Online Labor Index is a live database and is
+updated frequently. Hence the numbers referred to in this report may not match the latest version of the database.
+20 https://www.cnbc.com/2019/08/07/the-10-countries-with-the-fastest-growing-earnings-for-freelancers.html
+- 17 -
+Official Use
+<<<PDF_PAGE_18>>>
+million in FY2016-17 to US$170 million in FY2017-18 (Figure 2).21 However, the official transaction
+amount would be an underestimate, since cash on delivery is believed to cover 60 percent of the total e-
+commerce value in Pakistan (SBP 2018). As internet penetration increases in the country, e-commerce
+activity is expected to expand even more.
+The international and domestic markets are equally important. According to the Pakistan Software
+Houses Association (PASHA, the largest private sector association for the IT industry), about 53.8 percent
+of the revenue comes from the export market and the rest from the domestic market.22 Among the firms
+surveyed by Ignite (2014), 30 percent served only in the local market, 25 percent only in the export market,
+and the rest of the firms operated in both markets. The private sector is the leading consumer of IT services,
+as 97 percent of firms served the private sector while 66 percent served the public sector. According to the
+survey estimate, 22 percent of the domestic revenue of the IT industry was generated by serving the
+domestic IT sector, followed by education (8 percent) and banking (7 percent) (Ignite 2014).
+Figure 2. Officially Registered E-commerce Merchants and Recorded Transactions in Pakistan
+1600 170.2 180
+1,398
+1400 160
+135.2 140
+1200
+120 n
+r e b
+m
+1
+8
+00
+00
+0 89.8 1,094 100 o illim
+u N 600 6 8 0 0 $ S U
+400 571 40
+200 20
+0 0
+FY2016-17 FY2017-18 FY2018-19 (July-March)
+Official e-commerce transaction amount Number of merchants
+Source: Calculated from various editions of Quarterly Payment Systems Review, State Bank of Pakistan
+The industry is active in mostly low-value segments. In exports, Pakistan primarily provides medium
+to low value-added software services, which includes enterprise planning, application development, and
+integration, while there is limited activity in product development. Low value-added services such as call
+centers lead the BPO segment with 90 percent of the export revenue in this segment stemming from these
+services. A small number of firms outsource services in the banking, financial, insurance, healthcare, and
+energy industries, which may comprise higher value-added services. Around 42.4 percent of freelancers
+in Pakistan are in software development, which constitutes about 10.5 percent of global freelancers in
+software development, much higher than Bangladesh, Nepal, and Sri Lanka, but lower than India (Table
+21 The rupee depreciated significantly over the years, with the average nominal exchange rate (rupee/US$) standing
+at 104.7, 109.8 and 136.1 in FY2016-17, FY2017-18 and FY2018-19 respectively. Hence, though the e-commerce
+transactions to FY2018-19 Q3 at Rs. 18.4 billion almost equal the total transaction of Rs.18.7 billion in FY2017-18,
+when converted to US dollars it is far less. The depreciating exchange rate implied an increased importance (when
+measured in PKR) of foreign e-commerce transactions, as buyers had to pay more rupees per dollar.
+22 Calculated from the industry size estimates from PASHA https://www.pasha.org.pk/knowledge-center/industry-
+stats/, accessed on November 11, 2019. If the unofficial export estimate that is mentioned later in the report is
+considered, the revenue from export market stands at around 71 percent.
+- 18 -
+Official Use
+<<<PDF_PAGE_19>>>
+A1). The other segments in which the freelancing community is most active is in multimedia (31.2
+percent), and writing and translation (12.6 percent).23
+Exports of IT services have been thriving. Since FY10, Pakistan’s ICT services exports grew at 10.8
+percent per annum from US$433 million to more than US$1 billion in FY2018-19. The share of computer
+services within ICT services exports increased from 44 percent of total ICT exports to 73 percent in FY19,
+with an annual growth of 17.3 percent. In computer services, software consultancy services grew sharply
+by almost 32 percent from FY2009-10 to FY2017-18, while the growth of software exports was moderate
+at 12.6 percent (Table 2). Though call center exports have been growing steadily, the export amount is
+much less than computer services and stood at US$104 million in FY2017-18 (Table 2).
+Table 2 Composition of ITeS-BPO Exports in Pakistan (US$ Million)
+Computer Services
+Call
+Software Software
+Others centers
+export consultancy
+FY2009-10 124.2 31.4 31.7 16.6
+FY2010-11 153.6 31.8 30.0 18.2
+FY2011-12 178.2 37.1 32.0 26.9
+FY2012-13 212.8 42.0 33.5 37.5
+FY2013-14 225.1 63.8 39.3 40.1
+FY2014-15 322.7 81.5 52.6 60.6
+FY2015-16 286.6 139.2 64.2 72.8
+FY2016-17 264.4 227.3 76.4 82.9
+FY2017-18 320.2 287.7 118.2 104.0
+Growth (%, CAGR) 12.6 31.9 17.9 25.8
+Source: State Bank of Pakistan (2019) and State Bank of Pakistan
+Official statistics do not capture the full export story. Industry experts believe that there is around
+US$1.5 billion worth of exports that are not captured in official statistics - US$1 billion by SMEs and
+US$0.5 billion by freelancers (SBP 2019). More than half (52 percent) of Pakistan’s Telecommunication,
+Computer and Information Services exports in FY2018-19 went to the United States, followed by the
+United Arab Emirates (8.8 percent) and the United Kingdom (7 percent) (Figure 3). Among South Asian
+countries, Pakistan’s ICT services export is second only to India, but by a considerable margin. However,
+within ICT exports, Pakistan’s exports of computer services are lower than those from Sri Lanka (Table
+A1).
+There is ample room for exports to grow. Pakistan’s global market share in computer services has been
+very small and relatively stagnant. The export of computer services was only 0.2 percent of total computer
+services exports in the world in 2018. Even if the informal export estimate of US$1.5 billion is considered,
+the world market share of Pakistan still stands at just 0.7 percent.
+23 Couto and Fernandez-Stark (2019), State Bank of Pakistan (2019), State Bank of Pakistan (2018) and
+https://www.pseb.org.pk/ accessed on November 11, 2019.
+- 19 -
+Official Use
+<<<PDF_PAGE_20>>>
+Figure 3. ICT Export Destinations (% of total ICT exports)
+20.2
+2.8
+3.0
+52.1
+3.2 8.8
+7.0
+USA UK UAE Canada Singapore Malaysia Netherlands Others
+Source: Calculated from State Bank of Pakistan data
+Pakistan’s export of digital services represents an increasing share of its overall export in services
+performed cross-border. Figure 4 shows that the percentage of ICT services exports as a share of total
+services exports (left-axis) has been volatile yet increasing. Likewise, looking at the broader definition of
+digital-enabled services which comprises not only computer and communication services, but also
+royalties and license fees and various other business services (right-axis), this share has also been
+increasing.24 Digital-enabled services are all sorts of services that are digitally delivered through the
+internet or are produced with the help of internet technologies. They are usually digital-intense but do not
+necessarily have to be ICT or computer services themselves. Moreover, Pakistan’s per capita exports of
+computer and communication services have increased by 15 percent since 2005. In contrast, ICT services
+alone have seen a huge increase of per capita exports of around 80 percent (both numbers based on the log
+change).
+Figure 4. Pakistan's Digital Services Trade (2005-18)
+Digital Services Trade Pakistan
+8 0
+1 7
+5
+)%
+(
+s tro
+p x
+5
+1
+)%
+(
+re
+h to
+,m
+5
+0
+5
+6
+6
+e
+s e c
+iv
+re
+s
+2
+1
+m
+o c
+,re
+tu
+5
+0
+4
+5
+T C 9 p m 0 4
+I o C
+5
+3
+6 0 3
+2005 2007 2009 2011 2013 2015 2017
+Year
+ICT service exports (% of service exports, BoP) - left
+Computer, comm, other (% of commercial service exports) - right
+Source: author’s calculations based on WDI.
+24 See Annex for a definition of the two services categories.
+- 20 -
+Official Use
+<<<PDF_PAGE_21>>>
+Pakistan’s ICT services exports have also increased in absolute numbers and have also been more
+successful than some in peer countries. UNCTAD provides numbers on trade development in ICT
+services for developing countries. This source confirms Pakistan’s favorable position regarding the exports
+over time in these services: Pakistan shows an upward pattern (Figure 5, left-hand panel). Moreover,
+compared to various peers, Pakistan is doing relatively well. Together with Sri Lanka, the country shows
+a continuous upward movement.25 Figure 5 (right-hand panel) repeats Pakistan's ICT services exports in
+shares of total exports and places them with its peers. Here too, Pakistan shows positive developments
+compared to Sri Lanka, and even compared to India, where ICT services have taken up a lower share over
+time.26
+Figure 5. ICT Services Export: 2005-17 (US$ million and percentage of total services)
+ICT services exports, USD
+0 0 ICT services exports, Share
+0
+2 0
+4
+0
+0
+5
+n 1 0
+lM s 3
+tn
+e 0
+tro
+p x
+rru
+c
+D
+S
+U
+0
+0 1
+0
+e
+la to
+t
+.c
+re
+0 2
+0 5 P 0 1
+0
+0
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+Year Year
+Pakistan Sri Lanka Indonesia Pakistan Sri Lanka Indonesia
+Vietnam Thailand Vietnam India Thailand
+Source: author’s calculations based on UNCTAD.
+Still, these positive developments need to be nuanced when looking at the broader picture in light of
+Pakistan’s level of development. That can be seen in Figure 6, in which the level of development,
+represented by GDP per capita, for all countries is plotted against the per capita ICT services exports (left-
+hand panel). Pakistan and its peers are highlighted in red and blue, respectively. Pakistan is slightly below
+the fitted values line, which means that the country is performing below any prediction and, therefore, still
+has some scope to increase exports in the sector.27 India and the Philippines are performing better than
+expected based on their level of development. Other peer countries are below the fitted values line.
+25 India has been omitted from the figure, as well as the Southern Asian region, because those numbers dwarf any of
+the numbers presented for each country: India’s ICT exports dominate the overall region’s trade development in the
+sector.
+26 Note that for both sources (i.e., WDI and UNCTAD), no import data are given.
+27 This analysis is based on the officially reported statistics of balance of payments. As was mentioned before, total
+exports are higher but are likely registered as “remittances”.
+- 21 -
+Official Use
+<<<PDF_PAGE_22>>>
+Similarly, Pakistan also underperforms regarding the broader category of digital-enabled services exports
+(right-hand panel). It illustrates that the country has scope to increase exports in many other services that
+are digital-intense and can be traded over the internet.
+Figure 6. Pakistan's Digital Services Trade and Development, 2017
+MYS
+INPDHL
+RUS
+CHN
+ZABFRA THA
+PPAAKK IDN
+Source:
+Source: author’s calculations based on WDI.
+Note: extreme outliers such as microstates are excluded.
+Digital trade also covers ICT goods trade in which Pakistan also shows untapped potential. Digital
+trade policies affect many digital-intense sectors, including digital goods. Pakistan exhibits a pattern in
+which it also underperforms in the exports and imports of ICT goods, as shown in the left-hand and right-
+hand panel of Figure 7 respectively. In the two panels, Pakistan is placed below the fitted values line. This
+underperformance is actually greater than its underperformance in ICT services exports. This is
+demonstrated by the fact that Pakistan is placed further away from the fitted values line in the two panels
+for ICT goods trade.
+- 22 -
+Official Use
+stropxe
+secivres
+TCI
+atipac
+rep
+gol
+01
+5-
+5
+0
+Per capita ICT service exports, BoP Per capita Computer, comm, other, BoP
+5
+1
+re
+h
+to
+,m
+m
+o
+c
+,re
+MYS
+tu
+p m 0 1 PHL THA RUS
+o IND BCRHAN
+C ZAF
+a
+tip
+a PPAAKK
+IDN
+c
+re
+p
+g
+o
+l
+5
+6 8 10 12 6 8 10 12
+log GDP per capita PPP log GDP per capita PPP
+<<<PDF_PAGE_23>>>
+Figure 7. Pakistan's Digital Services Trade and Development, 2017
+Per capita ICT goods exports, BoP
+5 Per capita ICT goods imports, BoP
+1
+5
+1
+MYS
+s
+tro
+p x 0 1 P s tro HL CHN
+e p
+s m
+d o i s IDZNAF RUS MYS
+o d
+g
+T C 5 IN
+o o
+g T D
+BRA
+0 CHN
+I a tip a
+c re
+p 0
+PPAAKK C I a tip
+a c
+re
+1
+IN
+P
+D
+HL
+ID
+Z
+N
+A B F RA RUS
+g
+o
+p
+g
+PPAAKK
+l o
+l
+5 5
+-
+6 8 10 12 6 8 10 12
+log GDP per capita PPP log GDP per capita PPP
+Source: author’s calculations based on WDI.
+Moreover, Pakistan’s market share in digital goods trade has been in decline since 2005. Pakistan’s
+share of ICT goods exports (as a percentage of total exports) has decreased from 0.51 in 2005 to 0.20 in
+2017.28 Moreover, imports of ICT goods as a percentage of total imports for Pakistan has also been in
+decline from 8.70 in 2005 to 4.70 in 2017. This significant downward trend gives the impression that
+Pakistan has been less able to profit from positive spill-over effects that come with the imports of ICT
+goods and commodities. When expressing Pakistan’s ICT goods imports in terms of its per capita rate, the
+country shows a constant trend. However, the country’s per capita ICT goods exports decreased by 80
+percent between 2005 and 2017. This negative development warrants attention as it reflects Pakistan’s
+limited trade competitiveness, which prevents the country from having access to up-to-date technologies
+embodied in goods that are necessary to increase competition and to find new areas of specialization, as
+outlined in the Pakistan@100 report.
+B- TRADE AND INVESTMENT OPPORTUNITIES
+The startup ecosystem is evolving. Tech entrepreneurship is on the ascendency in Pakistan with a
+growing number of startups, support organizations, and investors. In South Asia, Pakistan has the highest
+number of tech hubs (35) after India (Table A1). As of October 2019, there were 24 incubators and
+accelerators compared to only 2 in 2012, most of which are private sector led (Invest2Innovate 2019).
+Around 720 startups have been established since 2010, of which 67 percent are active.29 Investment in
+startups has been growing.30 During 2015-19, 82 startups raised funding of more than US$165 million
+(Invest2Innovate 2019). However, securing financing remains a significant challenge. Pakistan is ranked
+28 https://unctadstat.unctad.org/CountryProfile/GeneralProfile/en-GB/586/index.html
+29 Mckinsey & Company (2019).
+30 State Bank of Pakistan (2018).
+- 23 -
+Official Use
+<<<PDF_PAGE_24>>>
+72nd in 2018 in venture capital deals under the Global Innovation index, doing marginally better than
+Bangladesh but below India and Sri Lanka.31
+Both the public and private sector support the scale-up of the startup ecosystem. Both the federal and
+provincial governments support the startup ecosystem. For example, the Government of Punjab established
+the Punjab Information Technology Board (PITB) under which the technology incubator Plan9 was set up
+in 2012. Between 2016-18, Ignite, under the purview of MOITT, established five National Incubation
+Centers under public-private partnership in Islamabad, Lahore, Karachi, Peshawar, and Quetta. The federal
+government also started approving licenses for private equity and venture capital firms in 2017. As of May
+2018, there were two private equity funds and two private equity companies registered with SECP.32 The
+private sector has also been playing a crucial role in promoting startups. Since their inception, private
+sector accelerator and incubator programs, such as Invest2Innovate and Nest I/O, graduated about 191
+startups.33 In partnership with the federal government, Facebook launched its first innovation lab in April
+2019. Google Developer Groups and Google Business Groups organize regular events in Pakistan’s major
+cities. Local chapters of global initiatives like Startup Grind, Startup Weekend are also active in Pakistan.
+The ecosystem is also being strengthened by increased coworking spaces made available by established
+brands such as Daftarkhwan, CoLab, the Hive, and Kickstart.34
+The industry has a stable foundation and the necessary ingredients to take off. Pakistan produces
+more than 20,000 engineers and IT graduates each year, most of whom can speak English.35 The increasing
+number of freelancers indicates the availability and quality of the IT workforce. There are experienced
+professionals available to firms at all levels, including programmers, IT managers, and so on. Thirty-one
+percent of the surveyed firms were in operation for more than 10 years, while 39 percent of firms had 1-5
+years of experience indicating a good mixture of experienced and upcoming firms. The necessary
+infrastructure exists, with 14 IT parks and improved telecom and internet infrastructure.36
+Pakistan is a cost-effective outsourcing location compared to other countries in the world. According
+to the Kearney Global Services Location Index 2019, Pakistan is the third most financially attractive
+location for outsourcing IT-enabled services in South Asia, just after Sri Lanka and Bangladesh and fifth
+in the world, mainly due to low labor cost. The average hourly rate of a software developer is US$25-30,
+which is at par with Bangladesh and Sri Lanka but lower than India (Table A1). Pakistan’s operational
+cost in the low value-added BPO segment is 60 percent lower than that of the Philippines, the largest
+supplier of BPO services in the world.37
+The Pakistani diaspora in the IT industry of the United States can be an asset for the sectors’
+expansion. In the United States, for example, there are around 13,000 Pakistani origin workers in Silicon
+Valley,38 and Pakistan can leverage this strong network. Pakistani-Americans have already played a role
+in the advancement of the industry, by acting as investors and setting up firms utilizing their networks in
+the United States. This process can continue to develop the industry. Returning ex-pats can bring
+technological know-how and management experience that can move the industry forward while the
+31 Mckinsey & Company (2019), AT Kearney (2017), State Bank of Pakistan (2018), Global Innovation Index (2019).
+32 (State Bank of Pakistan 2018).
+33 Nest I/O launched in 2015 and Invest2Innovate started its accelerator program in 2012. For details, please see:
+https://thenestio.com/?p=3983 and https://invest2innovate.com/about-us/
+34 Invest2Innovate (2019, Mckinsey & Company (2019).
+35 https://invest.gov.pk/it-ites#gallery
+36 Couto and Fernandez-Stark (2019), Ignite (2014), and Government of Pakistan (2018).
+37 AT Kearney (2019) and Couto and Fernandez-Stark (2019).
+38 Can Pakistan be the next Silicon Valley? Dawn, June 27, 2016, https://www.dawn.com/news/1266069
+- 24 -
+Official Use
+<<<PDF_PAGE_25>>>
+diaspora remaining abroad can help connect the local industry to relevant multinationals and potential
+clients and investors.39
+Table 3. E-Government Development Index of Pakistan
+2014 2018
+E-Government rank 158 148
+Online services index score 0.32 0.55
+Human capital index score 0.33 0.37
+Telecommunication infrastructure index score 0.12 0.15
+Source: UNDESA, https://publicadministration.un.org/en/Research/UN-e-Government-Surveys
+Growing digital consumption in Pakistan holds much promise for the sector. With a population of
+more than 212 million in 2018 and increasing internet penetration, the digital market is growing in
+Pakistan. More than 20 percent of smartphone owners in Pakistan use their devices to purchase goods and
+services online every month.40 Daraz, a popular online market place, has more than 15,000 sellers each
+month, and more than 50 percent of their orders come from locations outside the big cities of Karachi,
+Lahore, and Islamabad, reflecting the spread of e-commerce in the semi-urban and rural areas.41
+Pakistan is also improving on digital e-government services. Pakistan progressed in the United Nation’s
+E-Government Development Index, driven mainly by the improvement in the availability of online
+services (Table 3). Efforts to digitize the government are being observed both at the federal and local level.
+PITB implemented more than 270 ICT-related projects since FY2011-12, such as the digitization of land
+records and revenue systems, and launch of an e-Vaccs program to monitor vaccinators through a mobile-
+based app.42 Sindh started an online collection of sales taxes.43 Digitization of sectors such as agriculture,
+education, energy, and others as envisaged in the government’s Digital Pakistan Policy 2018 can create
+more opportunities for the local entrepreneurs in the IT industry. Developing solutions for the local market
+would help firms gain experience and maturity and help them expand globally.
+39 Couto and Fernandez-Stark (2019) and State Bank of Pakistan (2018).
+40 (GSMA 2018).
+41 In the context of the Covid-19 crisis, for example, Daraz launched a program of support to SMEs, with free
+education and no commission charges to ensure that more SMEs can leverage e-commerce. In particular, the program
+offers zero commission on sales through their platform, and free training. Pakistan’s changing e-commerce
+landscape, The Express Tribune, March 22, 2019. https://tribune.com.pk/story/1934471/2-pakistans-changing-e-
+commerce-landscape/
+42 State Bank of Pakistan (2018).
+43 Pakistan Telecommunication Authority (2018).
+- 25 -
+Official Use
+<<<PDF_PAGE_26>>>
+II. DIGITAL TRADE POLICY FRAMEWORK IN PAKISTAN
+The spectrum of digital trade policies is broad. It not only encompasses a wide range of complementary
+and interrelated “flows” of investments, goods, services, and data, but also factors such as competition
+policy and IPR. Given the fact that digital technologies are embedded in a wide variety of tradable items
+(i.e., goods, services, and data), digital trade policies should be formulated broadly (Table 4).44 Above all,
+there are many complementarities between these different flows in the digital economy, and hence
+restricting one part of digital trade would most likely generate ripple effects further down the digital supply
+chain. An open policy regime for digital trade, therefore, helps countries to reap the full economic benefits
+through the use of digital technologies brought in by investments and associated digital goods, services,
+and data.
+Table 4. Digital Policy Framework
+Fiscal restrictions and Establishment Data Trading
+market access restrictions restrictions restrictions
+(A) (B) (C) (D)
+• Quantitative trade
+• Tariffs and trade defense • Foreign investment • Data policies restrictions
+• Intellectual property • Intermediary
+• Taxation and subsidies rights liability • Standards
+• Online sales and
+• Public procurement • Competition policy • Content access transactions
+• Business mobility
+Source: ECIPE; World Bank (2020).
+A- PAKISTAN POLICY FRAMEWORK
+Pakistan’s digital policy framework is relatively restricted. The Digital Trade Restrictiveness Index
+(DTRI) is an indicator that measures applied digital restrictions for ICT goods, digital services,
+investments, and standards in digital sectors, and the cross-border flow and domestic use of data.45 Pakistan
+is somewhat more restrictive than the average level of restrictiveness, marked by the dotted horizontal line
+in Figure 8, which is based on the full sample of countries, but less restrictive than some of its peers.
+Countries such as Russia, India, and China are much more restricted in digital trade than Pakistan. Only
+the Philippines have a level of restrictiveness in digital trade that is below the average.
+44 The DTRI covers a wide range of policy restrictions that increase the cost for the firm, and therefore digital trade.
+ECIPE’s DTRI follows in large part the set-up of the OECD’s STRI which later evolved into another index, DGSTRI,
+that covers all trade restrictions that are also covered by ECIPE’s STRI. ECIPE’s DTRI is larger in scope and some
+of the regulatory measures covered do not necessarily have a direct impact on international trade in services. Some
+measures affecting data policy may increase costs of digital trade but may also be necessary to address markets failure
+and achieve legitimate policy objectives, such as consumer protection and privacy. This index identifies elements
+that increase these costs. Reducing them requires a detailed analysis of the underlying policy objectives and rationale
+behind their imposition.
+45 It has been developed by the European Centre for International Political Economy (ECIPE) and covers digital trade
+policies in 64 countries.
+- 26 -
+Official Use
+<<<PDF_PAGE_27>>>
+Pakistan’s main digital trade policy obstacles are found in the area of Fiscal Restrictions and Market
+Access, while the establishment restrictions in digital sectors are relatively low. The DTRI is
+composed of four different clusters (Table 4). (A) Fiscal Restrictions: tariffs and trade defense, taxation
+and subsidies, and public procurement; (B) Establishment Restrictions: FDI restrictions, restrictive IPR
+measures, competition policy, and business mobility; (C) Restrictions on Data: data policies,
+intermediate liability, and content access policies; and (D) Trading Restrictions: quantitative trade
+restrictions, standards in digital trade, and restrictions related to online sales and transactions (largely e-
+commerce). Pakistan shows a level of restrictiveness that is substantially higher for fiscal restrictions,
+which includes market access restrictions on digital goods, as shown in Figure 8 (right-hand panel). The
+average level of restrictions in this area across countries is much lower.
+Figure 8. Overall Digital Trade Restrictiveness Index and Clusters A-D (2018)
+DTRI DTRI Clusters
+.8 Pakistan Average
+.5
+0.7 0.5
+.6
+.4
+)1
+-0 ( xe d n I .4 0.5 0.4 0.4 0.4 0.4 0.3 0.3 0.3 )1 -0 ( xe d n I . . 2 3 0.3 0.2 0.3 0.3 0.3 0.3 0.2
+.2 0.2
+.1
+0 0
+CHN RUS IND IDN VNM BRA MYS PAK ZAF PHL Fiscal & MA Establishment Data Trading
+Source: author’s calculations; ECIPE
+B- POLICY CLUSTERS ANALYSIS
+Fiscal Restrictions
+Pakistan is particularly restrictive in the areas of tariffs and trade defense as well as taxation and
+subsidies, but not for public procurement for digital sectors. Pakistan appears in the top 5 list of
+countries most restricted for tariffs and trade defense, taxation, and subsidies policies, with countries such
+as Brazil, China, India, Nigeria, and Turkey. Some of these countries are Pakistan’s peers and score equally
+restrictive. Pakistan still applies an average MFN tariff rate of 9.7 percent on digital products, with peaks
+of 35 percent. Moreover, tariffs dispersion is high adding to price distortions. Also, imports need to pay
+two additional duties, the regulatory duty and the additional customs duty, that on average are 0.6 and 3.4
+percent, respectively, for this category of products (Tables A2 and A3). The country also has an anti-
+dumping measure in place on imports of phthalic anhydride (an input used to make PVC for cables) from
+India, Iran, Italy, Thailand, Brazil, China, Indonesia, Republic of Korea, and Hong Kong. Furthermore,
+Pakistan does not apply its MFN tariff rates on imports from India.
+Restrictions in the areas of tariffs and trade defense, as well as taxation and subsidies, matter a great
+deal for digital inputs. Even though digital trade currently tilts toward a focus on digital services, digital
+goods matter too. The hardware infrastructure, for instance, still consists of items ranging from cables and
+wires to more complex inputs such as optical fibers, which are all physically delivered. All these inputs
+are needed for the production of many other digital services. Therefore, access to the best digital input
+- 27 -
+Official Use
+<<<PDF_PAGE_28>>>
+commodities available by way of an open policy regime will generate a positive knock-on effect on other
+sectors using digital inputs intensively (Lopez-Gonzalez and Ferencz 2018). Moreover, digital sales and
+purchases also happen with the help of digital input commodities and services, which are used in sectors
+such as motor vehicles, computer manufacturing, and electrical equipment. This is particularly relevant in
+the context of the Covid-19 crisis, when digital inputs are crucial to continue producing while adhering to
+the social distancing measures imposed by governments.
+IT and ITeS providers face significant challenges regarding the taxation regime.46 There are two
+related issues on taxation: a) taxation policies; and b) tax administration and practices (governance).
+This issue requires urgent attention from the authorities at the central and provincial levels. The private
+sector, in general, has identified this issue as the most crucial problem it currently faces.47 In the case of
+the services sector, services and services providers are taxed at the provincial level, introducing significant
+distortion due to differences among tax rates. A service may be taxed in one province, but not in another.
+There are also different criteria among the provinces on when the tax needs to be paid, either at the moment
+of consumption or where the service rendered/originated. Finally, there are overlaps with central
+government on certain taxes, which create an unnecessary high taxation burden, a complex administration
+system, and greater uncertainty for services providers, which, overall, fragment the domestic markets
+among provinces. This should be tackled as a priority to eliminate uncertainty, avoid fragmentation, and
+create a harmonized taxation regime which will efficiently generate the required revenues. The first matter
+to agree among authorities should be to have a common understanding on where the tax is due, to reduce
+uncertainty and avoid potential double taxation. Dealing with tax authorities costs firms in terms of time
+and financial resources, and was identified by the private sector as one of the most challenging areas in
+their business, due, in part, to the complex nature of modern business models required by ICT/digital
+firms.48
+Establishment Restrictions
+Regarding establishment restrictions for digital sectors, Pakistan scores below the average and
+therefore is less restrictive than many of its peers. This is, in large part, due to the abolishment of all
+types of FDI restrictions in digital sectors such as telecommunications and computer services. Also,
+Pakistan has a friendly regime when it comes to IPR restrictions but still has some restrictive measures in
+place. For instance, under the Copyright Ordinance of 1962, certain acts are not considered an infringement
+of copyright. Pakistan has only some copyright exceptions that include fair dealing for purposes of research
+or private study, criticism, or review. Furthermore, in Pakistan’s merger guidelines, the country identifies
+IPR as an entry barrier for other firms. Pakistan’s guidelines hint at the negative effect of IPR on
+competition in view of increasing the costs for competitors and the quality of competing products.
+However, this issue is not taken up in the DTRI, as no complaints were found regarding the application
+process for foreign applicants.
+A combination of economic, political, and other external factors make Pakistan less attractive to
+foreign IT investors. Pakistan ranks 37 (out of 50) in AT Kearney’s Global Services Location Index 2019,
+below India (1), Sri Lanka (25) and Bangladesh (32) (Table A1), mainly due to a poor score in the business
+environment. Macroeconomic instability, together with security considerations, is a key reason for overall
+low foreign investment, and it is very low in the IT sector (Figure 9). Furthermore, there is a security risk
+46 Huria et al. (2019)
+47 OICCI (2017).
+48 State Bank of Pakistan, (2018)
+- 28 -
+Official Use
+<<<PDF_PAGE_29>>>
+perception that works against Pakistan, thereby making it difficult for Pakistani companies to attract
+business from abroad (Couto and Fernandez-Stark 2019).49
+Figure 9. Net FDI Inflows in Pakistan
+4
+3
+$ S 2
+U
+n
+o
+illiB
+1
+0
+0 1 2 3 4 5 6 7 8 9
+1 1 1 1 1 1 1 1 1 1
+- - - - - - - - - -
+9 0 1 2 3 4 5 6 7 8
+0 1 1 1 1 1 1 1 1 1
+0 0 0 0 0 0 0 0 0 0
+-1 2 2 2 2 2 2 2 2 2 2
+Y Y Y Y Y Y Y Y Y Y
+F F F F F F F F F F
+Total FDI FDI in IT & Telecom
+Source: Board of Investment, Pakistan
+Keeping low restrictions on FDI for digital sectors in Pakistan, such as telecommunications and
+information services, are vital for the country to profit from technology spill-over effects.
+International firms willing to invest in Pakistan would be incentivized to share technologies if they face a
+favorable investment regime. This way, perennial firms in the digital sector can subsequently adopt new
+technologies. This is already happening in part in Pakistan, albeit weakly. In addition, many goods and
+services that international firms bring have embedded intellectual property. And as digital trade often
+implicates IPRs, particularly copyrights and trademarks (Lopez-Gonzalez and Ferencz 2018), rules
+surrounding intellectual property would have to be set right and not too restrictive. This is particularly
+relevant for sectors such as entertainment with a high digital content (i.e., books, films, etc.), but also other
+sectors such as social media, cloud computing, and other technical software-related services.
+Data restrictions
+Pakistan is only somewhat more restricted than average regarding data policies, but still holds some
+restrictions related to content access. Pakistan’s overall policy framework regarding electronic data is
+relatively open. However, although the country does not have any full data localization requirements, it
+nonetheless holds some restrictions. While this may change over time, it is not yet explicitly regulated in
+Pakistani law.
+Data can only be transferred to India if the transferor can justify such a transfer. Other than that,
+there are also some other minor restrictions in place in Pakistan. Besides being regulated by contractual
+terms, data collected by banks, insurers, hospitals, defense establishments, and other "sensitive"
+49 (AT Kearney 2019), (Waheed and Adnan 2019), (Kathuria 2018), (Monge et al. 2019), and (Couto and Fernandez-Stark 2019).
+- 29 -
+Official Use
+<<<PDF_PAGE_30>>>
+sectors/institutions, cannot be transferred to any individual/body unless it is transferred with the permission
+of the relevant regulator or similar entities, on a confidential basis. Additionally, in some instances, data
+cannot be transferred without the consent of the relevant client/customer.
+Pakistan has significantly stricter data rules regarding content access that are comparable with
+some of its peers, such as Thailand, Indonesia, India, and Russia. Pakistan appears to control foreign
+commercial services content to its domestic market, and the government has provided a mandate for
+filtering legal content. This makes the country above average in terms restrictiveness in this regard and
+holds back foreign content that can enter Pakistan. This is a result of so-called “shut-down” that regional
+governments apply for foreign content and foreign online platform providers, which was also reported by
+UNCTAD (2017).50 Regarding the intermediate liability obligations that applied to online platforms,
+Pakistan does not have any burdensome restrictions. It has a Safe Harbor framework that shields them
+from liability from third parties. The country neither has user identity nor monitor requirements in place.
+An open policy regime regarding data is vital as it underpins the digital economy. Data as flow has
+exponentially increased in recent years. Data underpins the digital economy as they are used to optimize
+supply chain management systems, electronic payment networks, and facilitate workings with contractors
+and input suppliers. Moreover, many newly emerging sectors, such as cloud computing, digital
+information services, or online platforms, thrive on the use of and cross-border flow of data. Recent studies
+have shown that restrictions on data flow hamper trade in services performed online.51 Moreover,
+restrictive rules on the domestic use of data, such as burdensome administrative and privacy regulations,
+hamper the opportunity to reap productivity gains by firms that are reliant on software technologies.52
+Restrictive policies regarding data also appear to hold back the absorption of foreign technologies as a
+study by Ferracane and van der Marel (2019) shows for a group of Asian countries.
+Pakistan is currently planning to introduce regulatory changes to personal data protection. While
+an in-depth analysis of the legislation goes beyond the objectives of this report, a three pillars strategy
+should be followed. The first pillar should address the legitimate policy objectives pursued by the
+government. The second pillar should ensure that internationally recognized principles are considered,
+while a third pillar should encourage international cooperation to allow for the digital economy and trade
+to grow. Regarding the current proposal, several issues can be pointed out. First, the draft law requires
+additional clarity to ensure that both the law and its implementation are consistent with accepted principles.
+For example, the law applies conditions for transfer of critical personal data only, but what is critical
+remains undefined. Also, the law requires consent for the collection and use of data, but it remains unclear
+if this requirement will be more burdensome than necessary. Consent is also needed when data is
+transferred abroad. Finally, to implement data localization requirements, data centers need to be
+developed. It is unclear if data centers are a viable investment in developing countries due to the difficult
+requirements necessary for their operation.
+The law should aim to balance objectives. Second, the law should, on the one hand, aim to achieve the
+legitimate policy objective, i.e., data and consumer protection, and on the other hand, allow data flow to
+promote high value-added services activities. In other words, regulations should avoid increasing input
+costs for firms, ultimately affecting their productivity. This can be achieved by subscribing to general
+principles broadly accepted internationally, such as the OECD privacy principles guidelines, the Council
+of Europe Modernised Convention for the Protection of Individuals with Regard to the Processing of
+Personal Data (Modernized Convention 108), or from the Asia–Pacific Economic Cooperation (APEC)
+50 https://unesdoc.unesco.org/ark:/48223/pf0000262943
+51 (Ferracane and van der Marel 2018).
+52 (Ferracane et al. 2018).
+- 30 -
+Official Use
+<<<PDF_PAGE_31>>>
+forum. Ultimately, a strong internationally recognized regulatory regime will be required to allow for
+constructive cooperation between Pakistan and its main trading partners. This will require a delicate
+balance of share responsibilities from both the data source country and the destination country. Also, it
+will require increasing levels of convergence on privacy protection requirements set by data source
+countries and the protection standards offered by the data destination countries.53
+Trade Restrictions
+Pakistan upholds some restrictions when it comes to importing digital services and maintains strict
+standards in digital trade. Figure 10 shows that Pakistan is more restricted than most other countries
+regarding the trading restrictions summarized in Cluster D. These restrictions are found in the DTRI’s
+chapters related to quantitative trade restrictions and standards in digital trade. Regarding the former,
+Pakistan prohibits the importation, sale, distribution, and transmission of films the government deems
+inconsistent with the country’s cultural values. In 2017, the State Bank of Pakistan (SBP) imposed a 100
+percent cash margin requirement on the import of certain consumer items, which included mobile phones
+and reception apparatus. This measure obliges importers to deposit the total amount of the transaction
+value in a commercial bank before the opening of an import letter of credit.
+Pakistan has also applied some restrictive rules and practices regarding digital product standards
+in telecommunication that appear to be discriminatory. Although the technology department of the
+Ministry of Science and Technology in Pakistan sponsors and encourages public and private organizations
+in the standardization of products and services according to International Organization for Standardization
+(ISO), the country still holds discriminatory practices for some digital items from abroad. For instance, as
+part of Pakistan’s product safety certification, the Telecom Act requires that telecom equipment should
+conform to the standards adopted by the Pakistan Telecommunications Authority (PTA). No terminal
+equipment can be directly or indirectly connected with the public switched network unless the PTA has
+approved it. The machines required for testing terminal equipments and network conditions also need to
+be submitted to the PTA for approval. It is reported that such approval for a local manufacturer costs half
+as much (5000 PKR, approx. US$48) than for a foreign one (US$100). Also, the private sector identified
+security-related measures as unnecessarily burdensome for the authorization of specific equipment used
+in the ICT/digital services environment (see Box 1, below).
+The quality certification status of the industry needs to improve. To grow the market potential, firms
+need to show that they can meet the global standards by obtaining internationally recognized standard
+certifications and accreditations. These indicate the capability and capacity of IT firms and their ability to
+deliver quality products and services promptly.54
+Although not always applied, Pakistan has some regulatory restrictions and practices regarding
+encryption standards. Pakistan neither requires mandatory encryption standards that deviate from the
+international, nor denies any recognition of international encryption standards. The country nonetheless
+maintains some restrictive practices. Officially, Pakistan requires entities using encryption and
+cryptography services to obtain accreditation from the Electronic Certification Accreditation Council,
+which falls under the Ministry of Information Technology. In practice, this requirement is not consistently
+enforced. For example, WhatsApp is widely used in Pakistan, despite the company’s April 2016
+53 Mattoo and Metzler (2018) and World Bank (2020).
+54 Government of Pakistan, (2014). Government of Pakistan, (2014). The empirical literature, Gregory, Stanley and
+Tenev (2009) and Bhattacharjee and Chakrabarti (2015), attributes certifications as a key factor to the success of the
+Indian software industry. Also see Couto and Fernandez-Stark, (2019) for discussion on the importance of
+certification in this industry more broadly.
+- 31 -
+Official Use
+<<<PDF_PAGE_32>>>
+announcement that it would employ end-to-end encryption. In contrast, Research in Motion (RIM), the
+maker of BlackBerry mobile devices, faced scrutiny from the government regarding its use of encryption.
+In 2015, the national telecom carriers were ordered to cease offering services that route email through
+BlackBerry Enterprise Server (BES).
+Maintaining the least burdensome digital standards in Pakistan favors the tradability of goods and
+services while allowing smaller firms to participate in exporting and importing. Generally, strict
+standards for firms to enter the market, or even diverging standards across countries, pose a fixed cost
+burden for a firm willing to export. Standards for goods and services are set to guarantee quality and
+achieve legitimate policy objectives that otherwise the market may fail to provide. But standards can also
+be designed or applied in a way so that it becomes more burdensome than necessary and hold back the
+presence of exporters in foreign markets (see a study on restrictive SPS measures as trade barrier by
+Fontagné et al. 2015). If so, restrictive standards in digital sectors in Pakistan will hold back the best
+available digital goods that, as explained above, are used as inputs into other productive sectors.55
+C- PAKISTAN AND PEERS COUNTRIES
+Compared to its direct comparator countries, Pakistan places itself as more restricted than the
+average only regarding fiscal restrictions in digital trade. Pakistan scores above the average level of
+restrictiveness across its peers with regards to fiscal restrictions in digital trade, as shown by the dashed
+lines in Figure 10 (left-hand panel). Even though some peers have higher levels of restrictiveness,
+compared to the Philippines, Vietnam, and Malaysia, Pakistan’s restrictiveness appears high. That is not
+the case for the other areas of the DTRI. For instance, even though Pakistan has some quantitative
+restrictions and strict standards in place, on the whole, the country applies a level of restrictiveness that is
+lower than average (right-hand panel). This conclusion also holds for Pakistan’s policies regarding data
+and investments.
+Figure 10. Digital Trade Restrictiveness Index Clusters A and D (2018)
+Fiscal & MA
+Trading
+.8
+.8
+.6 0.6 0.6 0.6 .6 0.7
+)1 -0 ( xe d n I .4 0.5 0.4 0.4 0.4 )1 -0 ( xe d n I .4 0.5 0.5 0.5 0.4 0.4 0.3
+0.3
+0.3
+.2 0.2 .2
+0.2
+0.2
+0.1
+0 0
+IND BRA CHN PAK ZAF IDN RUS PHL VNM MYS CHN VNM BRA IDN RUS IND MYS PAK PHL ZAF
+Source: author’s calculations; ECIPE
+55 For example, during interviews with the private sector, it was mentioned that firms could lose their investments
+and business opportunities due to excessive timeframes or bureaucratic requirements for decisions.
+- 32 -
+Official Use
+<<<PDF_PAGE_33>>>
+Restrictive policies are likely to explain, to some extent, Pakistan’s limited success in technology
+adoption and receiving positive spillovers from investments in the digital sector. As pointed out in
+Figure 11, restrictive policies are negatively correlated with the extent to which firms adopt new
+technologies. A higher level of digital trade restrictiveness is associated with lower levels of availability
+of the latest technologies as well as the capacity of firms to absorb digital technologies and the extent to
+which technology transfer takes place (left-hand panel). Pakistan is placed below the fitted values line,
+indicating that its capacity to adopt technologies is lower than what one would expect based on its digital
+policy framework. This may suggest that other factors also play an important role, such as the strength of
+local institutions such as standard-setting authorities, regulatory agents dealing with the
+telecommunications market, or institutions responsible for the innovation ecosystem on which digital
+developments are dependent, and the availability of good quality skills used in digital sectors (see below
+for detailed discussion).
+Figure 11. Digital Trade Restrictiveness Index and Technology Adoption (2007-18)
+DTRI Fiscal & MA
+6 6
+5 5
+n .5 MYS n .5 MYS
+o o
+itp itp
+o o
+d d
+a a
+la 5 la 5
+c c
+ig ZAF ig ZAF
+o IDN o IDN
+lo lo
+n n
+h c e T 5 .4 PHL PPAAKK BRA IND h c e T CHN 5 .4 PHL PPAAKK CBH IN RN D A
+RUS RUS
+VNM VNM
+4 4
+0 .2 .4 .6 .8 0 .2 .4 .6 .8
+DTRI (0-1) Fiscal & MA (0-1)
+Source: author’s calculations; ECIPE and WEF.
+Reducing fiscal restrictions in digital trade will foster the competitiveness of digital goods and
+services. As described above, Pakistan’s success in digital goods trade is more limited than in digital
+services trade. At the same time, Pakistan is relatively more restricted regarding its tariffs and trade
+defense, as well as taxation and subsidies, and standards in digital trade. The high level of restrictiveness
+in this area may, therefore, play a role in the low ability of Pakistani firms to adopt new technologies, as
+shown in Figure 11 (right-hand panel). This figure predicts that for Pakistan, lowering trade restrictions
+may help companies to absorb more modern technologies. However, the variability between high and low
+technology absorbers in both panels is high, which demonstrates that even though policy restrictions may
+help, policy restrictiveness is unlikely to be the sole determinant for explaining Pakistan’s limited success
+in absorbing digital technologies.
+Given Pakistan’s relatively higher level of restrictions in digital trade and technology compared to
+other non-peer countries, it may also explain why the country has a relatively lower share of firms
+introducing new goods and services. Pakistan’s performance regarding the percentage of firms doing
+innovative activities is in line with some peers but is overall low compared to many other countries (Figure
+- 33 -
+Official Use
+<<<PDF_PAGE_34>>>
+12). Part of the explanation may be again the relatively higher levels of restrictions in digital trade. The
+panels of Figure 12 show the share of firms producing new goods and services with the full DTRI
+(covering the full range of digital trade restrictions) as well as restrictions for Cluster D (Trading
+restrictions). Again, although other factors may play a role, Pakistan’s fiscal restrictions in digital goods
+and services, as well as its strict rules regarding digital standards, may help explain lower innovation
+activities. A similar adverse line is also visible when plotting the index for Cluster C instead, which covers
+data restrictions in which Pakistan has some limitations.
+Figure 12. Digital Trade Restrictiveness Index and Innovation Activities (2013-18)
+DTRI
+0 Trading restrictions
+8
+0
+8
+s e 0
+c iv
+re
+S
+d
+6 s e
+c iv
+re
+S
+0
+6
+n a s tc u d o rP w e N 0 0 2 4 PHL PPAAKK d n a s tc u d o rP w e N VNM IN R D US 0 0 2 4 PHL PPAAKK IND RUS VNM
+MYS IDN MYS IDN
+0 0
+.1 .2 .3 .4 .5 0 .2 .4 .6
+DTRI (0-1) Trading restrictions (0-1)
+Source: author’s calculations; ECIPE and WB Enterprise Surveys. Note: The fitted values line is a fractional-
+polynomial prediction plot and is plotted because of the fairly limited number of observations and wide variability
+of the data. China and Panama are excluded as they form extreme outliers at both ends of the spectrum regarding
+both variables. Data from the Enterprise Survey reflects the year 2013, which is the latest year available.
+D- POLICY BARRIERS FOR EXPORTERS
+According to the survey conducted among exporting firms the vast majority of exporters, 65 percent,
+in the IT industry have only a few export markets (less than five). Less than 15 percent of the firms
+included in the survey have more than 10 export markets (Table 5, column 6). Firms located in Karachi
+have the larger share of the small number of destination countries, followed by firms located in Quetta and
+Lahore. Larger firms have a higher number of destination markets. They also have a larger percentage of
+firms with foreign investment. Whereas in the case of medium and small firms, destination markets are
+much more concentrated, and the number of firms with foreign ownership is much lower, 11 and 4 percent,
+respectively. More than half of the firms has exported for less than five years, and almost 80 percent less
+than 10 years (Table 5, column 7). The youngest firms are located in Peshawar, Quetta, and Islamabad.
+Most exporting firms do not have any foreign ownership or investments in their company, nor do they
+form part of a bigger foreign parental company in the form of a subsidiary (Table 5, columns 4 and 5).
+This is similar to firms regardless of their location.
+- 34 -
+Official Use
+<<<PDF_PAGE_35>>>
+Table 5. Characteristics of Exporters
+Type of Juridical Person
+Foreign Exports Less
+Total Subsidiary
+Average Pvt Ltd Sole ownership to fewer than 5
+Exporting of a foreign
+City Number of company proprietorship / than 5 years
+Firms: company
+Employees % % investment markets exporti
+534 %
+% % ng %
+Exporters 100 169 45 38 13 10 65 55
+Karachi 36 396 43 38 17 13 73 47
+Lahore 24 63 43 32 12 12 67 54
+Rawalpindi
+24 38 55 38 12 9 60 63
+/Islamabad
+Peshawar 3 10 50 31 6 6 50 81
+Quetta 3 10 47 47 0 0 71 71
+Others
+(Please 10 29 26 51 15 4 45 58
+specify):
+Small or
+53 8 30 56 7 4 66 66
+Single
+Medium 21 23 53 21 15 11 72 56
+Large 26 636 68 16 25 22 56 33
+Source: World Bank IT Firm's Survey, 2019
+To tap into continued ICT services export growth and to expand exports in ICT goods, foreign
+investments for Pakistan in digital sectors are of great importance. FDI is an important vehicle for
+firms to profit from positive spill-over effects. These spill-over effects enable domestic firms to learn and
+adapt to new technologies that are being brought in by multinationals – especially in digital sectors. With
+these new technologies, firms can develop and innovate new goods and services to export. However, FDI
+in digital sectors is limited in Pakistan (McKenna, Rocha, and Varela 2020). ICT-related investments
+(mainly in the telecommunications sector) represent a share of 13 percent in total FDI received between
+2003 and 2015, and if we include digital-enabled services such as finance, the number only extends to 19
+percent. This small share of digital investments may hamper Pakistan’s upgrading to more advanced digital
+services exports and contribute to its decreasing digital goods performance. The WEF reports that although
+firms are able to absorb new technologies, Pakistan’s performance has not improved since 2010. On a
+scale between 1 (no technology adoption) and 7 (extensive technology adoption), Pakistan’s trend is
+stagnant (Figure 13, left-hand panel).
+- 35 -
+Official Use
+<<<PDF_PAGE_36>>>
+Figure 13. Technology Adoption Through FDI in Pakistan (2017)
+Full Technological adoption Sub Technology adoption
+5
+.6
+1
+.1
+5
+.5
+x
+e
+d 1
+n
+x e d n I 5 .4 i d e z ila
+m
+ro
+N
+9
+5 .
+.3
+Availability of latest technologies
+Firm-level technology absorption
+5 .2 8 . FDI and technology transfer
+2010 2012 2014 2016 2010 2011 2012 2013 2014 2015 2016 2017
+Year Year
+Source: author’s calculations; WEF. The WEF indicators are derived from its annual survey. The survey is used to
+measure concepts that are qualitative in nature or for which internationally comparable statistics are not available
+for enough countries.
+Note: The grey line of the technology adoption index from the WEF measure the extent to which firms adopt technologies from
+abroad or from other sectors and companies. The red line measures the availability of these technologies in the economy. The
+dashed line indicates the technology adoption from FDI/international companies.
+That said, when disentangling Pakistan’s fairly constant rate of technology adoption by firms and
+looking at its sub-components, it seems that technology transfer through FDI is actually improving
+(Figure 13, right-hand panel). The three sub-indexes that build up the WEF’s full index of technology
+adoption has been normalized to zoom into Pakistan’s specific trends in technology adoption. At the outset,
+although there was a small decline in 2016, overall, a positive trend is found regarding the technology
+spillovers associated with FDI for Pakistan. That cannot be said, however, for all firms in the country.
+Figure 13 also shows that firms lack access to the latest technologies, which in Pakistan is also adopted
+on a limited scale. Yet some improvement on the sub-indicators seems to have taken place in recent years.
+There are also specific obstacles IT services firms in Pakistan face in the foreign market when
+exporting. These, in most part, relate to the regulatory requirements that exist in export markets, which
+may, therefore, form an entry barrier to the market. However, most of the obstacles have a trade facilitation
+nature. That is, most obstacles in the export markets are related to compliance costs when entering the
+market, such as work permit regulations or entry visa requirements. The existing visa regimes faced by
+Pakistani businesspersons and IT professionals abroad is particularly complex. Given the importance of
+the temporary movement of persons to build relations, and develop and implement projects, the
+cumbersome and restrictive visa regime discourages their travel to and from Pakistan for business
+purposes. Furthermore, in addition to these visa regimes, there is a security risk perception that works
+against Pakistan, making foreigners reluctant to travel to Pakistan, thereby making it difficult for Pakistani
+companies to attract business from abroad (Couto and Fernandez-Stark 2019). Visa restriction is the single
+most crucial item identified by Pakistani exporters that report this factor as an obstacle, as shown in
+Figures 16. To tackle this limitation one option for Pakistan is to pursue a multi-prong approach which
+could combine bilateral arrangements as well negotiations of deep trade agreements which can include
+provisions to facilitate the temporary movement of businesspersons (Mattoo and Carzaniga 2003; Saez
+2013).
+- 36 -
+Official Use
+<<<PDF_PAGE_37>>>
+Other severe obstacles in the export market reported by firms are compliance costs, other regulatory
+requirements of a general nature, and required investment costs that should be made in the export
+market (see section below). Regulatory predictability, timeframes, and applicability of regulations in
+foreign destinations are less of a problem for Pakistani exporters. For exporting IT services firms, senior
+management dedicate less than 20 percent of their time on compliance with rules and regulations in
+Pakistan (i.e., more than 50 percent of their respondents), which in fact, on average, represents 20 percent
+cost burden when expressed as part of their sales.
+III. PAKISTAN’S ENABLING ENVIRONMENT FOR DIGITAL TRADE AND
+INVESTMENT
+Infrastructure and skills constrain the supply capacity of the digital trade sector. Although reducing
+restrictive policies is an important factor in helping Pakistan to increase its digital trade performance, only
+so much can be done if the enabling environment is subpar. For instance, digital infrastructure is an
+important factor in creating a thriving and predictable digital trade environment. In that regard, Pakistan’s
+electricity performance is still lagging in many respects (and digital trade performance and technology is
+highly dependent on digital infrastructure). The World Bank’s Enterprise Surveys report that around 75
+percent of firms identify electricity as a major constraint and that 81 percent of firms experience electrical
+outages. Moreover, firms report that the average losses due to electrical outages as a percentage of annual
+sales are around 34 percent. Sixty-one percent of IT firms surveyed identify electricity as a major obstacle
+to growth.
+A- HUMAN CAPITAL AND SKILLS ENDOWMENTS
+Improved human capital and intellectual property protection is needed for technology innovations
+which can help Pakistan in developing novel digital goods and services. Currently, Pakistan has one
+of the lowest scores when it comes to quality in mathematics and science education compared to peer
+countries in Figure 14 (left-hand panel). Quantitative and science skills are an essential factor in
+developing and integrating technologies. Although Pakistan is not the worst regarding its general
+educational attainment, there is a lot to be desired in improving quality of education in science and
+mathematics, and availability of research and training services.
+Besides human capital, the protection of intellectual property is another element on which Pakistan
+can make improvements. On this item, too, the country’s score is relatively low compared to peers (right-
+hand panel). The low achievement of these enabling factors for Pakistan is strongly correlated with the
+extent companies spend on R&D, and which most likely explains Pakistan's lower-than-its-potential
+position regarding the introduction of new services and goods and, in turn, digital trade. Also, IT firms
+have identified human capital and IPR as significant obstacles for future growth. For 64 percent of non-
+exporters and 66 percent of exporter firms this is a major obstacle. For example, among the issues
+mentioned by firms are long delays in processing requests, implementation/enforcement, and
+trust/capacity of agencies responsible for management of IPRs (see Box 1 for examples of the main issues
+raised during focus group interviews, and Table 9 below). Looking forward, for both data protection issues
+and strong IPR protection, management will be critical for the growth and development of digital trade.56
+56 WIPO (2019) compiles compared indictors which illustrate capacity constraints in managing IPRs. For instance,
+Pakistan has 9 patent examiners, in contrast New Zealand has 46. In the case of trademarks, these figures are 6 and
+36 examiners, respectively. In 2018, New Zealand granted 1,740 patents compared with 265 in Pakistan, on average
+the overall process takes in total 20.6 and 54 months, respectively, including both first office and final office actions.
+- 37 -
+Official Use
+<<<PDF_PAGE_38>>>
+Figure 14. Endowment Factors for Digital Trade (2017)
+Human Capital
+Intellectual property protection
+Quality of math and science education
+Intellectual property protection
+Availability of research and training services
+Company spending on R&D
+7
+7
+6 6
+5.6
+)ts
+e b 7 -0 ( x e d n I 3 4
+5 5.3
+4.64.7 4.64.7 4.54.6 4.4 4.6 3.9 4.8 3.8 4.1 3.73.8 3.5 4.0 2
+)ts
+e b 7 -0 ( x e d n I.6 4.6 2.6 3.7 3 4
+5 5.3 5.1
+4.8 4.3 4.54.4 4.54.6 4.44.5 4.2 3.4 4.1 3.5 3.7 3.5 3.63.5 3.63.6 3.53.6
+2 2
+1 1
+0 0
+MYS IND IDN CHN RUS PHL THA VNM PAK ZAF BRA MYS ZAF IDN CHN IND BRA PHL RUS PAK VNM THA
+Source: author’s calculations; WEF
+The quality and employability of graduates are not up to the mark.57 In general, across industries,
+employers are dissatisfied with the skills and quality of fresh graduates in Pakistan (Naqeebz Consulting
+2018). According to the Government of Pakistan (2014), 23 percent of the surveyed firms reported
+inadequate quality of graduates as a challenge for industry growth. While graduates from top universities,
+such as Lahore University of Management Sciences (LUMS), National University of Sciences and
+Technology (NUST), which are about 1,000 each year, are categorized as 100 percent employable by the
+industry, the story is different for the lower-ranked institutes. High value-added product development firms
+find only 10 percent of the graduates from lower-tier universities employable, while it is 50 percent for
+lower-end software services firms (Couto and Fernandez-Stark 2019). Lack of contemporary programming
+skills and weak English are identified as major drawbacks, stemming from lack of qualified teachers and
+modern curriculum at all levels of education (Couto and Fernandez-Stark 2019; SBP 2018; Ignite 2014).
+There are significant differences among exporter and non-exporter firms. Among exporters, 74
+percent of respondents consider shortage of skilled employees in Pakistan as an obstacle to their
+businesses. Also, among non-exporters, 63 percent consider that skills shortage is an obstacle to their
+business, and among them 48 percent think it is a severe obstacle (scale 4 and 5 of the responses). Also,
+among non-exporters there are no significant differences among size of firms (large 62, medium 68, and
+small 62 percent, respectively). Finally, regarding the differences among cities, firms located in Quetta
+and Peshawar have the highest percentage of respondents that consider skills shortage as an obstacle, 77
+and 75 percent, respectively. (With Karachi and Lahore a significant 59 and 66 percent, respectively.)
+57 According to representatives from the private sector, employable graduates are around 25 percent of the total while
+the rest require training, additional skills, and certifications.
+- 38 -
+Official Use
+<<<PDF_PAGE_39>>>
+Box 1. ICT Enabling Environment
+During roundtable meetings with services exporters, one group conducted an in-depth interview on the factors
+inhibiting exports with respect to the enabling environment. Examples of factors as part of the enabling
+environment are the institutional quality of governments, skilled labor force, or the level of corruption.
+The roundtable in Islamabad showed that there is some concern over the extent of seamless data flow in
+Pakistan, i.e., the stability of data latency. However, this issue is not relevant for most companies as they do
+not rely on high volumes of data, but for some, such as gaming or cloud computing, it is pertinent. Otherwise,
+broadband coverage and speed were assessed as good. A further issue raised was the lack of a good workspace.
+In Lahore, the roundtable showed a concern that the tax authorities provide little transparency as to what rights
+and obligations there are for firms. More generally, there was frustration about how much bureaucracy one
+needs to go through before doing business. Moreover, public procurement rules work against new innovative
+firms: only firms older than 10 years are eligible to bid. In the case of innovative younger firms, bidding firms
+collaborate but often appropriate their innovative technologies. This could be prevented by setting stronger
+rules.
+On a broader scale, the underlying problem in Pakistan is that intellectual property is not protected enough.
+Examples of the private sector concerns include: a) while there are laws protecting IPRs implementation and
+enforcement remain a problem; b) from a user point of view, there is lack of information on the procedures and
+trust in the system that is responsible for protecting IPRs. Registration procedures are long and non-transparent,
+for instance, trademarks and copyrights; and c) protection of undisclosed information (trade secrets). In this
+case, the problem deals with difficulties of protecting against unfair competition, for example, from employees
+who move to new jobs, and misused commercial information, data, and proprietary information.
+In Karachi, the discussion revealed that, first, skills are a problem (see below), then the availability of
+workspace and the general ease of doing business, and then as a fourth factor, the international payment issues
+(also see below). Further concerns arose with respect to Pakistan’s image abroad. Much work can be done by
+the government to improve a foreign importer’s view on the country, which often prevents them from doing
+business straight away. Firms in Pakistan should also be more encouraged to adopt technologies, even though
+they may be foreign.
+Several enabling-related factors came out as consistent concerns for exporters across the three cities, including
+the weakness of the Ministry of Trade to understand the IT sector. Bureaucrats have no proper knowledge of
+the functioning of digital services firms and their trade. It’s unclear how they’re taxed, and there is confusion
+about whether firms in the IT sector belong in the category as telecom companies or as IT services exporters.
+Although the skill sets among workers in Pakistan are relatively good, universities would have to make more
+efforts to prepare students for a job in the IT sector. Not all skills, in particular, the more complex IT skills,
+match with the needs of digital services firms. Other skills, such as web development, are easier to find.
+However, given the general level of education, this should not be a major challenge.
+The international payment system in Pakistan also raises concerns. Firms have difficulties opening a US$
+account to pay firms or trading partners, who often obligate them to pay in US$. Besides, cross-border payments
+are slow and take weeks to send and receive money.
+A final issue that was raised is that some exporters, who depend on social media for finding clients abroad, face
+difficulty in exporting. The Government of Pakistan can shut down social media platforms by blocking content
+access, which then prevents small exporters doing business.
+Source: Focus group interviews, World Bank Staff.
+- 39 -
+Official Use
+<<<PDF_PAGE_40>>>
+B- INFRASTRUCTURE AND INPUTS: AVAILABILITY, QUALITY, AND AFFORDABILITY
+Although the basic infrastructure is available, it needs to improve for the IT sector to reach the next
+level. There is a shortage of IT-ready office space in major cities such as Lahore and Islamabad, and
+insufficient coworking spaces for small companies and freelancers.58 Although there has been an
+improvement in the availability of bandwidth, the internet speed of fixed broadband (download speed of
+9 Mbps as of October 2019) is the lowest in South Asia (Table A1). In addition, the cost of the internet
+(monthly broadband subscription) is the highest of South Asian countries (Table A1). The technology
+parks do not address all the requirements of offshore services companies and are not affordable to small
+companies.59 The reliability of power supply is an issue for firms across different sectors (World Bank
+2019). Online payment infrastructure is inadequate; around 34.7 percent of firms cite poorly working
+online payment systems as one of the top three challenges in conducting e-commerce business in
+Pakistan.60 The absence of internationally recognized payment gateways, such as PayPal, hampers cross-
+border payments, creating an additional burden for freelancers as well as entrepreneurs (Couto and
+Fernandez-Stark 2019).
+The survey conducted among exporters shows that the two most important obstacles identified by
+firms are the electricity shortages in Pakistan and the general IT-related infrastructure. The latter
+includes the country’s telecom network market as well as ICT goods that are necessary for producing and
+exporting IT services. These two factors, in addition to various others, are related to Pakistan’s enabling
+environment. The next two most significant obstacles that firms face in Pakistan are regulatory in nature
+(see discussion above). These are insufficient IPR protection in Pakistan and the entry of foreign
+competitors in export markets. The former is something that Pakistan policymakers can change in the
+short-term domestically. In contrast, a change in the latter would also depend on policymakers in the export
+markets. Interestingly, other obstacles that could potentially be alleviated with the help of regulatory
+policies are of a more general nature. Obstacles such as exchange rate fluctuations and information on
+foreign markets (which forms a critical fixed cost factor for firms to export), as well as access to finance,
+are not necessarily IT-industry-specific factors. In fact, these are long-standing items that are often
+mentioned in any survey as a constraint for firms to do business. Finally, other factors mentioned as
+obstacles to exporting IT services in Pakistan are the lack of affordable workspaces in the country,
+changing demand patterns, and rising wages. Interestingly, rising wages form a more significant obstacle
+for the IT sector than shortages of skilled employees in Pakistan.
+Services exports depend on the availability, quality, and affordability of other services. Services
+inputs include professional services, utilities, such as electricity, and IT-related infrastructures, such as
+telecom services and network. Table 6 summarizes the survey result by showing the share of exporters
+that assess the particular service in question as poor, in terms of its availability, quality, and affordability.
+The survey shows that exporting firms suffer from the poor quality of utilities and professional services
+such as accountants, lawyers, and consultants. For 23 percent of firms in Pakistan, the availability of
+professional services is considered to be poor. In comparison, 32 and 31 percent of the firms identify the
+quality and affordability of professional services, respectively, as poor. Interestingly, IT-related
+infrastructure is more an availability and quality issue rather than an affordability issue. The sheer lack of
+these IT-infrastructural services, including telecom network services, is evaluated by exporters as
+problematic.
+58 Couto and Fernandez-Stark (2019).
+59 Couto and Fernandez-Stark (2019).
+60 Survey results in World Bank – Nextrade, E-Commerce Environment Surveys, data available from authors:
+mmolinuevo@worldbank.org”
+- 40 -
+Official Use
+<<<PDF_PAGE_41>>>
+The low affordability of utility services is most likely related to the electricity shortages experienced
+by firms in Pakistan. Firms need to cover these shortages by acquiring in-bought generators, which makes
+electricity more expensive. A relatively higher share of firms responded that the costs of these real estate
+services are too high compared to their quality. But there are significant differences among provinces as
+well as among IT firms, as illustrated in Table 6. IT infrastructure-related obstacles vary among provinces.
+For firms located in Lahore, Peshawar, Quetta, and other cities, the availability of IT-related infrastructure
+is a much more severe obstacle than in Karachi and Rawalpindi. At the same time, quality issues are more
+severe in Quetta. Affordability related matters, on the other hand, are relatively similar across provinces.
+Finally, the importance of these obstacles does not significantly differ depending on the size of firms.
+Office/working spaces affordability is a comparatively severe problem. Among the firms that identify
+office/working space as poor, affordability is a more significant constraint. Again, there are significant
+differences across provinces, with Lahore and Rawalpindi/Islamabad identified as having the most severe
+affordability problems. At the same time, firms located in Quetta consider availability and quality as the
+main problems. Finally, large firms identify quality and affordability as the most significant problems.
+Table 6 shows that among the firms that identified poor utilities as a significant constraint, there are
+relatively minor differences at the provincial level, except for Quetta and Peshawar. In the case of Lahore,
+both quality and affordability are relatively more severe problems compared to other major cities. For
+large firms, availability, quality, and affordability are relatively more important problems than for small
+and medium-sized firms.
+The quality and affordability of professional services matter relatively more for small and medium-
+sized firms. Table 6 shows that the availability of professional services is perceived as a relatively similar
+issue for firms, regardless of their size. But for small and medium firms, access to and affordability of
+professional services, as well as quality-related matters, are relatively more relevant issues compared with
+large firms. Table 6 also shows that quality is an important problem for firms operating in Lahore and
+Rawalpindi/Islamabad. At the same time, the availability of professionals is a significant issue for firms
+in Quetta and Peshawar.
+- 41 -
+Official Use
+<<<PDF_PAGE_42>>>
+Table 6. Infrastructure and Inputs Services
+Technology Infrastructure Office Space Utilities Professional Services
+City
+Availability Quality Affordability Availability Quality Affordability Availability Quality Affordability Availability Quality Affordability
+Exporters
+36.1 37.3 28.3 28.1 27.5 36.1 25.7 30.9 32.0 23.0 31.6 30.1
+Karachi
+29.5 31.6 28.0 22.8 24.9 33.7 23.3 29.0 30.1 17.1 24.9 30.1
+Lahore
+39.4 40.9 29.1 29.9 31.5 41.7 25.2 33.9 36.2 23.6 37.8 26.8
+Rawalpindi/Islamabad
+34.4 40.6 28.9 36.7 26.6 40.6 28.9 28.1 28.1 22.7 35.9 32.8
+Peshawar 50.0 37.5 18.8 12.5 25.0 25.0 6.3 12.5 6.3 43.8 25.0 31.3
+Quetta
+47.1 52.9 29.4 41.2 41.2 35.3 52.9 58.8 47.1 47.1 29.4 35.3
+Others (Please
+specify): 49.1 35.8 28.3 22.6 26.4 24.5 24.5 34.0 41.5 30.2 34.0 30.2
+Firm Size
+Small or Single 34.8 36.9 25.2 29.4 24.5 34.8 23.8 28.0 31.6 23.8 33.3 31.2
+Medium 37.2 38.1 30.1 29.2 27.4 35.4 23.9 29.2 27.4 22.1 35.4 31.0
+Large 38.1 37.4 33.1 24.5 33.8 39.6 30.9 38.1 36.7 22.3 25.2 27.3
+Source: World Bank IT Firm's Survey, 2019
+Notes: On a scale of 1 -5, where 1 means “poor” and 5 means “excellent”, the answers plotted corresponds to options 1 and 2.
+- 42 -
+Official Use
+<<<PDF_PAGE_43>>>
+C- REGULATORY GOVERNANCE AND IT AND ITES FIRMS
+Surveyed firms identified domestic regulatory issues as important constraints to growth. Regarding
+the overall regulatory environment, Figure 15 reports that the obstacles for the current operation of
+Pakistan’s IT services firms are mainly related to regulatory timeframes and transparency of regulatory
+rules and requirements, which typically relate to an institutional issue of regulators. Regulatory compliance
+was also identified by firms as an important constraint. Table 7 reports the perception of firms regarding
+compliance-related matters (Box 2 provides some examples from private sector focus group interviews).
+Forty percent of non-exporting firms identified understanding regulations and timeframes for decisions as
+significant constraints, while 37 percent considered regulatory requirements themselves as a significant
+problem. There are important differences among firms depending on their location. Senior management
+seems to spend more time dealing with regulatory compliance (33 percent) in Pakistan and it takes up more
+than 20 percent of their time (about 56 percent of respondents). In terms of costs, compliance represents
+about 24 percent of total sales for non-exporting firms, which is higher than for exporters. In the case of
+firms in Peshawar, this percentage reaches about 75, while for Islamabad and Lahore it is 60 and 66 percent,
+respectively. For medium-sized firms, 64 percent estimate that between 1 and 40 percent of total senior
+management's time was spent on dealing with regulatory compliance.
+Figure 15. Share of Domestic Firms’ Responses to Selected Obstacles as a Constraint in Pakistan
+Time frames for authorization/licensing decisions
+Understanding of applicable regulatory procedures
+Regulatory Requirements
+Absence of regulatory procedures
+Compliance cost with regulatory procedures
+Predictability of Regulatory procedures
+0 5 10 15 20 25 30 35 40 45
+Source: World Bank IT Firm Survey, 2019
+- 43 -
+Official Use
+<<<PDF_PAGE_44>>>
+Box 2. Regulatory Environment and Governance: Some Examples
+During focus group interviews performed in Islamabad, Lahore, and Karachi, IT firms provided examples of the
+constraints and regulatory issues that they confront. Firms confront several challenges in terms of the regulatory
+environment. Those challenges span a significant number of different topics.
+i. For licenses, the private sector must register with PSEB, SECP, FBR, and SBP. While the registration
+processes have improved significantly in recent years (online registration has been introduced), the
+private sector considers that the licensing process is still difficult, and licenses need to be renewed
+often. The renewal processes are unnecessarily long and require similar documents as for obtaining
+a de novo license. Firms need to work with lawyers and auditors for this, which increases their
+operating costs. The timeframes of decision making are very long. A single licensing could facilitate
+these processes significantly.
+ii. Tax laws are identified by the private sector as one of the most challenging areas. Particularly in the
+case of export activities, firms confront a large number of difficulties since there is no clarity
+regarding applicable laws and regulations. For example, it is difficult for taxation authorities to
+understand IT/ITeS activities and how to interpret tax laws and regulations in the technology
+environment.
+iii. Foreign exchange regulations are burdensome and complicated. Rules are designed more for the
+physical world instead of the new business models, which have been created by technological
+development. Some examples provided during the interviews included:
+i- Need to facilitate and simplify international transactions according to business need;
+ii- Entities like PayPal currently do not operate in Pakistan;
+iii- It takes 6-7 days for international payments to be processed;
+iv- Intensive paperwork - in many cases hard copies are required to make international
+payments, and banks are not allowed to hold 35 percent of their bank reserves in foreign
+currency as per the law.
+iv. Certification procedures are cumbersome. Due to security considerations, the certification of
+equipment that is required for the operation of the IT/ITeS firms is complex and obsolete. Sometimes
+decisions are not made for lack of understanding, and business opportunities are lost.
+v. The absence of a regulatory framework is also limiting the growth and development of the industry.
+For example, the lack of regulations in blockchain is limiting the adoption and potential development
+of this technology in Pakistan.
+Source: Focus group meeting, World Bank staff.
+Table 8 provides additional information on the importance of regulatory obstacles according to
+location and firms’ size for exporters in the destination markets. The data provide that, for large firms,
+regulatory obstacles are relatively more important than for medium and small firms. This can be explained
+by the fact that larger firms are the biggest exporters and are therefore likely to face these restrictions more
+than smaller firms. In terms of location, firms in Karachi perceive regulatory obstacles, across all the
+dimensions examined, as relatively more important than firms in other cities, except in Quetta. In general,
+compliance costs are perceived as the most onerous regulatory obstacles together with regulatory
+requirements.
+- 44 -
+Official Use
+<<<PDF_PAGE_45>>>
+Table 7. Regulatory Obstacles for Non-exporting Firms
+Time spent Understanding Timeframes Regulatory Absence of Compliance Predictabilit Percentage
+on of applicable for requirements regulatory costs with y of the of sales
+compliance regulatory authorization requirements regulatory regulatory spent on
+b) procedures / licensing requirements procedures compliance
+decision a) (mean) c)
+(1) (2) (3) (4) (5) (6) (7) (8)
+Non-
+56 40 40 37 36 33 31 24
+Exporters
+Karachi 54 43 34 34 32 29 26 21
+Lahore 66 30 39 34 32 30 30 22
+Rawalpin
+di/Islama 60 28 32 16 44 24 16 22
+bad
+Peshawar 75 25 42 50 25 33 50 28
+Quetta 33 70 70 60 60 63 63 29
+Others
+(Please 72 22 33 44 28 33 28 30
+specify):
+Small or
+55 42 40 40 39 33 34 22
+Single
+Medium 64 39 34 32 32 32 30 25
+Large 54 36 42 34 30 36 26 26
+Source: World Bank IT Firm Survey, 2019. Notes: a) Corresponds to senior management's time spent on compliance (less than
+40%); b) Corresponds to the percentage of firms that estimates that between a 1 to 40 percent of total senior management's time
+was spent on dealing with compliance regulations in Pakistan, in the last six months; and c) corresponds to the percentage of
+sales spend on dealing with compliance with regulations in Pakistan in the last 6 months.
+Figure 16. Share of Exporting Firms Responding to Selected Obstacles as
+a Constraint in the Export Markets
+Entry visa requirements
+Work permit regulations
+Compliance cost with regulatory procedures
+Regulatory Requirements
+Investment requirements in export markets
+Time frames for authorization/liscensing decisions
+Understanding of applicable regulatory procedures
+Predictability of Regulatory procedures
+Absence of regulatory procedures
+0 5 10 15 20 25 30 35 40
+Source: World Bank IT Firm Survey, 2019
+- 45 -
+Official Use
+<<<PDF_PAGE_46>>>
+For firms focusing on the domestic market in Pakistan (i.e., non-exporting firms), the most significant
+business obstacles are somewhat different and mostly relate to the domestic enabling environment.
+Shortages of electricity are a problem in Pakistan for its IT services firms, but so is economic uncertainty,
+in addition to corruption.61 Only after those issues does the broader IT-related infrastructure in Pakistan
+become an obstacle for domestic firms. In the previous discussion, this latter point was the most important
+factor for exporters to stay competitive. Given that domestic firms are less competitive in the first place
+(because they are not as productive to be able to export), they see domestic institutions and utilities as bigger
+problems than insufficient IPR protection, entry of foreign competitors in foreign markets, or affordable
+workspaces. Regarding the services inputs that are assessed as poor, it is mainly the affordability of utilities
+and working space that forms a problem, which is similar in the case of exporting firms. Quality that is
+assessed as poor is particularly an issue concerning utilities (including its availability) and technology
+infrastructure.
+Table 8. Regulatory Obstacles in Export Markets
+Regulatory Absence of Understanding Predictability Timeframes for Compliance
+requirements regulatory of applicable of the authorization/lic costs with
+requirements regulatory regulatory ensing decision regulatory
+procedures procedures requirements
+Exporters 39 25 30 30 32 42
+Karachi 44 25 34 34 37 47
+Lahore 35 27 28 28 29 38
+Rawalpindi/ 36 24 22 23 31 39
+Islamabad
+Peshawar 25 6 50 44 19 31
+Quetta 59 47 53 53 53 71
+Others (Please 38 23 26 25 25 36
+specify):
+Small or Single 37 24 28 30 33 39
+Medium 35 27 29 26 33 47
+Large 47 27 34 33 32 45
+Source: World Bank IT Firm Survey, 2019
+Table 9 shows the importance of the obstacles to growth for non-exporting IT firms. The importance
+of IPRs protection for firms located in Peshawar and Islamabad is particularly important, and remains
+essential for firms in Karachi and Lahore. IPRs protection is important for all firms regardless of size. While
+IT infrastructure and electricity are important for firms, there are significant differences in firms’
+perceptions depending on their locations. For 93 percent of firms in Quetta and 64 percent of firms in
+Karachi, electricity infrastructure is considered an important obstacle to their operation. In comparison, in
+Lahore, for 33 percent of firms, electricity is an obstacle. In the case of small firms, 66 percent consider
+electricity-related problems an important problem. Still, for 55 percent of medium and 50 percent of large
+firms, it is also perceived as an obstacle. In the case of IT infrastructure, for more than 70 percent of firms
+in Quetta and Islamabad, this issue is considered to be an important obstacle to their business. In
+comparison, in Karachi and Lahore, 54 and 39 percent of firms, respectively, identify IT infrastructure as
+an obstacle. For 59 percent of small firms, IT infrastructure is considered an important obstacle, while less
+than 50 percent of medium and large firms perceive this as an important obstacle.
+61 Interestingly, for IT exporters, economic uncertainty in Pakistan seems to be a much less significant obstacle to
+their business.
+- 46 -
+Official Use
+<<<PDF_PAGE_47>>>
+Table 9. Obstacles to IT and ITeS Firms
+IPRs Economic Electricity Exchange IT Access Entry of Regulatory Rising Skills Labor Affordabl Changing
+protection uncertainty shortage/ rate infrastructure to foreign requirements wages market e work demand
+problems fluctuations finance competitors regulations spaces patterns
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13)
+Non- 64 63 61 59 55 52 51 50 50 48 48 47 40
+Exporters
+Karachi 54 55 64 59 52 50 50 41 51 39 41 42 34
+Lahore 57 68 33 72 39 50 48 64 35 31 35 54 50
+Rawalpin 83 75 50 57 71 58 54 57 10 67 82 59 38
+di/Islamab
+ad
+Peshawar 100 40 43 50 40 86 57 83 57 56 33 29 0
+Quetta 84 80 93 50 73 57 42 63 73 74 64 44 59
+Others 55 79 64 50 53 33 70 33 57 70 40 67 33
+(Please
+specify):
+Small or 65 70 66 60 59 55 61 52 57 54 59 49 46
+Single
+Medium 61 53 55 57 45 43 26 34 43 30 18 30 18
+Large 63 51 50 56 48 52 38 59 35 48 33 59 38
+Source: World Bank IT Firm Survey, 2019
+Note: On a scale of 1 to 5, where 1 means not an obstacle/issue and 5 means a severe obstacle/issue, can you rate based on how it affects your
+revenue. Answers included correspond to the share of firms which consider these obstacles as severe (4 and 5).
+- 47 -
+Official Use
+<<<PDF_PAGE_48>>>
+Regulatory requirements, rising wages, skills availability, and labor market regulations are also
+identified as important obstacles by non-exporting IT firms. For small firms, these are perceived as
+relatively significant obstacles compared to medium and large firms, except for the case of regulatory
+requirements, where 59 percent of large firms considered them to be significant obstacles. In terms of
+location, 83 percent of firms in Peshawar perceive regulatory requirements as important obstacles, while it
+is 64 percent in Lahore, 63 percent in Quetta and 41 percent in Karachi. Rising wages, skills availability,
+and labor regulations affect a relatively large percentage of firms in Quetta and Peshawar, compared to
+other cities, except Islamabad, where 82 percent identify labor regulations as an important obstacle. Finally,
+for 47 percent of firms, workspace affordability is considered an obstacle, and this is in general the case for
+all cities, except Peshawar. For large and small firms, this remains an important limitation as well.
+Table 10. Input Services and IT and ITeS
+Professional Services Technology Infrastructure Utilities Office Space
+AvailabilityQuality Affordability Availability Quality Affordability Availability Quality Affordability Availability Quality Affordability
+Non-
+17 27 31 27 29 24 29 34 35 20 19 33
+Exporters
+Karachi 14 21 29 24 26 22 29 35 32 17 19 29
+Lahore 16 30 39 30 32 23 30 25 48 14 9 32
+Rawalpin
+di/Islamab
+ad 24 36 36 20 32 24 36 36 40 36 28 56
+Peshawar
+25 33 25 25 25 25 17 33 17 8 17 25
+Quetta 17 33 27 43 43 33 40 40 40 27 30 40
+Others
+(Please
+specify): 17 28 33 33 17 28 11 33 22 33 17 28
+Small or
+Single 19 26 30 27 29 23 29 37 35 19 23 34
+Medium 11 23 32 25 27 30 30 20 34 20 11 27
+Large 12 32 36 30 30 22 30 36 36 22 16 36
+Source: World Bank IT Firm Survey, 2019
+Domestic competitiveness and productivity depend on availability, quality, and affordability of other
+services required to produce services. Services inputs include professional services, utilities, such as
+electricity, and IT-related infrastructures, such as telecom services and network. Table 10 summarizes the
+information regarding input services that support non-exporting IT and IT-enabled services. For 17 percent
+of firms in Pakistan, the availability of professional services is poor, but 27 and 31 percent of the firms
+identify quality and affordability of professional services as poor. A higher percentage of firms in Lahore
+and Islamabad identify the quality and affordability of professional services as poor, in contrast with
+Karachi, where these percentages are lower. More than 30 percent of large firms find that both quality and
+affordability are poor. For more than a quarter of the non-exporting firms, technology infrastructure is
+considered to be poor in terms of availability (27 percent), quality (29 percent), and affordability (24
+percent). All three aspects of technology infrastructure appear to be major problems for non-exporting firms
+in Quetta relative to the other cities in Pakistan. The results by firm size provide relatively similar results.
+Similarly, the quality and affordability of utilities are considered poor by more than a third of non-exporting
+firms. A larger percentage of firms in Islamabad, Lahore, and Quetta considered the affordability of utilities
+- 48 -
+Official Use
+<<<PDF_PAGE_49>>>
+as poor compared to other areas, while more than one third of firms, across all sizes, consider affordability
+of utilities as an issue. Finally, for more than a third of small and large firms, affordability of office space
+is an issue of concern.
+D- POLICIES TO FOSTER EXPORTS
+IT and IT-enabled service exports have become one of the most successful international activities in
+recent years. India’s success has been extensively documented, but India is not the only success story
+among developing countries. Firms in the Philippines and Costa Rica, as well as in Pakistan, are actively
+participating in the new opportunities opened by new information and communication. The survey explores
+the reasons why IT firms in Pakistan are not yet engaging in international operations, despite the available
+opportunities and the success stories in the country. Opinions and views from the private sector are
+summarized in Box 3.
+Table 11 shows that 37 percent of the non-exporting firms prefer to focus on the domestic market. In
+the case of non-exporters in Islamabad, about 80 percent prefer to concentrate on the domestic market.
+Small, medium, and large firms have a relatively similar preference for the domestic market. Among the
+non-exporters, 35 percent consider they do not have any exportable services as a reason for not engaging
+in international business. Among non-exporters in Karachi, 41 percent believe that their services are not
+exportable. Surprisingly, 48 percent of large non-exporters consider that they do not have exportable
+services. Payment-related concerns explain why many firms do not export; 33 percent of firms are
+concerned that they may have payment-related issues if they engaged in international business. This concern
+is more dominant in small firms than medium and large firms. Firms in Lahore have the greatest concerns
+regarding payments.
+Table 11. Non-exporters: Main Constraints to Exporting Services
+Concerns
+Visas
+Lack Regulatory Export Preference Concerns Export requirement
+Information Payment and
+Exportable barriers/ finance on domestic protection is partnerships
+Constraints Concerns work
+Services complexity to clients sales of IPRs costly with local
+permit
+businesses
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
+Non- 35 30 33 30 24 37 18 25 26 20
+Exporters
+Karachi 41 31 23 28 18 25 15 21 20 17
+Lahore 23 41 48 39 36 39 32 30 36 36
+Rawalpindi 20 20 20 4 4 80 12 8 16 20
+/Islamabad
+Peshawar 33 42 50 50 50 50 33 42 50 25
+Quetta 57 17 30 30 27 27 13 33 23 13
+11 28 72 44 33 56 11 33 44 11
+Others
+(Please
+specify):
+32 31 40 30 24 38 20 21 28 23
+Small or
+Single
+Medium 32 27 18 30 16 32 11 34 25 18
+Large 48 30 22 30 30 36 18 28 22 14
+Source: World Bank IT Firm Survey, 2019
+- 49 -
+Official Use
+<<<PDF_PAGE_50>>>
+Box 3. What are the challenges that limit ICT exports?
+Problems were identified regarding capacity, scale, information constraints, and regulations as some of the
+causes for difficulties in exporting services by IT organizations.
+The participants initiated the discussion by talking about the presence of IT firms in the domestic market.
+Firstly, there is a sense of comfort to stay in the more familiar domestic market. Doing business outside
+Pakistan is very expensive since the rupee to dollar conversion rate is fluctuating, which might lead to loss
+and bankruptcy for smaller firms in some cases. However, the quality and produce of technology in Pakistan
+are lacking. Specific supply concerns identified relate to both problems with engineers and issues with
+managers. Also, formal education is lackluster, and certifications are not available at affordable prices. There
+is a difference between certifications for individuals vs. certifications for organizations and there is a lack of
+the latter at the national level. It was also noted that there is an adverse impact of the low business volume in
+Pakistan. The country’s IT sector seems to be suffering from a cyclical problem: to increase capacity,
+organizations need the volume of projects; however, service delivery is lackluster in these projects owing to
+supply-side problems. There is a general fear regarding how a firm’s expansion might hamper the business
+(lack of awareness and information hinders them as well). The government should play an active role in
+providing a platform to exhibit the IT industry to the world so that they can gain more business. The
+government has the PSEB to support IT firms, but firms need to register to export, and there is no proper
+guidance on how to start.
+Foreign exchange regulations are an important constraint. Banks have concerns that receiving transactions
+from abroad through a third-party bank ends up taking months to process in some cases. Banks do not work
+on B2B platforms, instead they use P2P; it is all about having that contact who helps get your payments
+through smoothly.
+Firms believe that social media is important for future business development. The government chooses to
+restrict it, rather than explore it to understand the potential it holds. For example, YouTube was banned for a
+period of time, and thus Pakistani YouTubers are not doing as well as others around the world, especially due
+to a lack of experience and exposure. This is a potential market that needs to be tapped into. For the
+advancement of social media use, there is a sense of fear among social media users in expanding to export
+and they are unsure about proceeding in the future.
+When talking about exporting, physical exports have many complex custom rules and logistics. Yet, in the
+case of electronic exports, there is a lack of research. There is a need to understand the local dynamics of the
+destination country. Products exported fail because people do not research and develop their products
+according to the standards of the specific company. Standards in Pakistan do not translate abroad, an aspect
+many IT firms choose to ignore, and, eventually, their product seems to fail. The government needs to create
+an avenue through which IT firms can be more aware of exporting standards.
+In Pakistan, there is also a hindrance due to cultural norms. The older generation is not willing to change their
+ways since they believe that the idea that worked for them is the best way to move ahead, and they do not
+need to explore other avenues to grow further.
+A firm rarely chooses to get patents in Pakistan since the courts are not very cooperative. Instead, people
+prefer to get them either from Singapore or the USA (global patents). Another critical issue was the one
+around visas, and how firms need to travel to countries to be able to network with foreign firms. They are
+required to place representatives in these specific regions, hence they require visas. Pakistanis have
+approximately 17 countries where they can obtain visas on arrival. In contrast, India has 70-plus, hence the
+reason for the IT industry flourishing in India at a faster rate than in Pakistan.
+Freelancers were also an important topic of discussion. It was noted that freelancers made up almost half of
+the total IT sector in Pakistan. However, they suffered greatly due to regulatory problems. One of the primary
+problems identified was the difficulty in sending money out of Pakistan due to remittance taxes.
+Source: Focus group interviews, World Bank staff
+- 50 -
+Official Use
+<<<PDF_PAGE_51>>>
+State agencies should increase their efforts to provide information on market opportunities abroad.
+Access to information regarding opportunities for exporting, as well as regulatory barriers and complexity
+of regulations, are two critical explanations for not engaging in export activities, for 30 percent of firms
+identify these as important reasons for not exporting. Firms located in Lahore, as well as in Peshawar, state
+high regulatory concerns as reasons for not exporting, while there does not seem to be significant
+differences among small, medium, and large firms. For almost a quarter of the firms, export finance for
+clients and the costs of exporting are identified as the reason for not engaging in export activities. Again,
+this is an important issue for firms in Lahore and Peshawar. Costs for exporting are relatively more
+important for medium firms compared to small and large firms, while export financing for clients is more
+important for large firms. Private sector interviewees noted that it was difficult for smaller companies to
+connect with clients and that companies have no access to information on their needs and requirements.
+Furthermore, while it is costly to reach out to clients through a representative office, firms consider it
+necessary to have front offices in the destination countries.
+Internationalization has received the support of the government, but more can be done. The Pakistan
+Service Exports Board (PSEB) is the government agency under the Ministry of IT and Telecom responsible
+for the promotion of the IT industry of Pakistan both locally and globally. The PSEB provides several
+important services to firms to help them tap into global markets. For example, PSEB membership helps
+them interact with other agencies and firms. The PSEB site facilitates the process of getting a small
+company registered and shares information about domestic and international events in which firms could
+participate. PSEB is also responsible for the registration of IT and BPO firms, which is compulsory for
+firms to benefit from current and future fiscal and non-fiscal incentives, as well as to allow in and out
+transfers.62 And yet, among the exporting firms surveyed, 56 percent are members of PSEB, only 25 percent
+are members of a chamber of commerce and industry, and only 21 percent are members of PASHA.
+Membership of non-exporter firms in these entities is much lower. Also, the role of PSEB remains limited
+and should be significantly strengthened. Private sector representatives interviewed, while valuing PSEB’s
+role, consider that it does not actively promote the industry abroad, limiting its role to sharing information.
+According to Couto and Fernandez-Stark (2019), PSEB has failed to implement adequate marketing
+strategies and local support industry mechanisms and needs to articulate and execute initiatives to attract
+FDI and export promotion. Promotion policies should also be closely coordinated and monitored in
+collaboration with the Trade Development Authority of Pakistan as well as the private sector.
+IV- POLICY RECOMMENDATIONS
+Pakistan's exports of digital goods and services are growing fast and can potentially transform the
+knowledge content of its export basket. Important policy decisions are necessary, and the digital trade
+policy framework needs to be right. Digital trade makes available digital technologies that help to exploit
+niche markets for new digital exports and to allow for more competition to improve resource allocation. In
+the current context of the outbreak of the Covid-19 pandemic, the importance of IT and IT-enabled services
+as crucial inputs to continue producing while preserving social distancing is now more evident and urgent.
+It is still unknown what the post-Covid-19 business landscape will look like, but IT and IT-enabled services
+will play an even more prominent role than they do today. This report presents evidence that backs up key
+recommendations – some already outlined in Pakistan@100 and other recent analytical work such as
+McKenna, Rocha, and Varela (2020). The ingredients for a successful reform strategy should include
+interventions in three policy areas: a) regulatory capabilities and governance; b) sector-specific policies;
+and c) complementary supporting policies.
+62 Couto and Fernandez-Stark (2019).
+- 51 -
+Official Use
+<<<PDF_PAGE_52>>>
+a- REGULATORY CAPABILITIES AND GOVERNANCE
+i. Create new institutional capabilities and modernize regulatory arrangements. For example,
+while firms' registration processes have improved significantly in recent years (e.g. online
+registration has been introduced), the licensing process is still difficult. Licenses are also required
+to be renewed regularly. Procedures for renewals are unnecessarily long and require similar
+documents as for obtaining a de novo license. Firms need to work with lawyers and auditors, which
+increases their operating costs or discourages formalization and scaling up of small and medium-
+size firms altogether. Freelancers face significant challenges to open bank accounts due to existing
+regulations and acceding foreign markets. The new business models created by the new technologies
+require training public officials to facilitate their understanding of how businesses are organized and
+operate and to modernize regulations. It will require transforming existing legal requirements for
+creating firms and supervising firms' operations, updating the taxation system and foreign exchange
+regulations, and using new technologies. The public and private sectors should jointly organize
+trainings, agree on course content and requirements, and issue certifications to public officials that
+attend. The trainings should aim to increase knowledge and understanding of new business models,
+discussing international management practices in the context of digital technologies, and adopting
+modern regulatory approaches.
+ii. Strengthen regulatory governance. The report finds that the main challenges in regulatory matters
+in Pakistan are twofold: on the one hand, there are weak proper regulatory procedures in place,
+regulatory requirements are difficult to understand and, in some cases, unpredictable, regulation
+enforcement is uneven, and subject to discretion. On the other hand, there are significant capacity
+gaps among agencies responsible for regulatory matters beyond the poor understanding of business
+models in the context of the digital economy. These problems should be addressed by a gradual
+adoption and effective implementation of basic internationally recognized regulatory principles,
+such as the OECD good regulatory practices, strengthening capacity at the agency levels, including
+at the provincial level.63
+iii. Invest in data collection. Policy decisions, incentive programs, and schemes need to be informed
+and monitored by data. Pakistan needs to establish a more comprehensive framework for data
+collection at different levels: macro and firm-level data are essential, as well as national and
+provincial-level data. Data should include domestic variables and precise international transactions
+to measure the main trends, development, and characteristics of the sector and firms. Similarly,
+Pakistan lacks detailed firm-level information. The recent empirical literature on trade, including
+the empirical trade policy research, has moved in the direction of using more and more information
+at the firm-level for which economic information such as productivity can be analysed. Information
+would not only include standard variables such as value-added, production, sales, input usage
+(divided over raw materials, goods, and specific services), but also exports, imports, capital stock,
+employment (i.e. number of workers), wages, and R&D expenses, etc. This data should be sorted
+by firm ID, year, location of the firm, and/or firm type. Usually, such firm-level information is based
+on a firm’s balance sheet information, which, in many countries, firms are obliged to provide to
+national statistical agencies through surveys. It would be essential for Pakistan to set up a team of
+statisticians and economists to work on collecting such data.
+63 OECD (2014).
+- 52 -
+Official Use
+<<<PDF_PAGE_53>>>
+b- SECTOR-SPECIFIC POLICIES
+i. Accelerate the adoption of digital technologies. Digital technologies will become more relevant
+to support government services and policies, including during emergencies. The Covid-19 crisis has
+forced governments to get closer to citizens and firms while delivering solutions from a distance.
+Physical interactions between people and public officials have been constrained and digital solutions
+have been designed across the world to reach out remotely to support businesses and households
+that are immediately affected by policy responses and the economic slowdown. The Government of
+Pakistan should accelerate the implementation of e-government solutions and move to a process of
+automation in government-to-business interactions. While progress has been significant in recent
+years, for instance, connecting farmers to markets, Pakistan is still lagging on government
+digitalization.64 Pakistan should develop policies conducive to an accelerated adoption of innovative
+digital solutions, in collaboration with the private sector, to improve service delivery in a post-
+Covid-19 policy environment.
+ii. Lower tariffs on digital goods and reduce taxes levied on data. High duties on imports constrain
+access to high-quality inputs needed in downstream IT-sectors.65 Pakistan still applies duties on
+imports of digital products at an average of 13.7 percent, increasing production costs for all sectors
+in the economy – particularly in a context in which digital technologies can help the economy
+function to some extent while preserving social distancing. The reduction should be gradual and
+focus on products included in the WTO’s Information Technology Agreement. On domestic
+taxation, there are two related issues: a) taxation policies; and b) tax administration and practices
+(governance). This issue requires urgent attention from the authorities at the central and provincial
+levels. Pakistan will benefit from simplification and better coordination of tax authorities.
+iii. Improve human capital related to technology innovations. The focus should be to fill the skills
+gaps which are essential for the digital economy and are required by the IT and ITeS industry. First,
+the Higher Education Commission (HEC) in Pakistan, universities, and other stakeholders should
+collaborate and agree on a curricular update to tackle the country’s professional and technical
+needs. Second, the IT industry, on the other hand, needs to better identify and communicate the
+necessary learning requirements and missing skills, including soft skills. Third, a mechanism to
+improve the integration of lower-tier universities with industry is also required. One option to speed
+up the process is to facilitate and encourage hiring coders from the private sector to teach courses
+in universities. Finally, HEC and universities need to start recognizing credit from online courses
+(e.g. online coding courses from Coursera and EdX that have the necessary quality accreditation).
+This will allow students to accelerate upgrading their skills. In the context of the Covid-19 crisis
+this has become even more relevant and urgent. In the case of Pakistan, there are significant specific
+skills gaps among computer science engineers and professionals which need to be tackled to ensure
+the future growth of the sector, including: (i) inability to code in contemporary technology
+platforms; (ii) weak English skills; (iii) poor comprehension readiness to address foreign clients'
+concerns; (iv) inadequate soft skills, namely communication and teamwork; and (v) poor
+knowledge of corporate culture, e.g. reporting, compliance, escalations, email etiquette, and
+protocols.66
+64 See World Bank (2016) and UN (2018).
+65 See McKenna, Rocha, and Varela 2020.
+66 Couto and Fernandez-Stark (2018).
+- 53 -
+Official Use
+<<<PDF_PAGE_54>>>
+iv. Strengthen promotion activities. While the role and contribution to the internationalization of
+Pakistani firms of the PSEB is recognized, the institution could be strengthened. PSEB should
+dedicate more effective efforts to support firms’ participation in international promotion activities
+in close coordination with the Trade Development Authority of Pakistan, while maintaining its
+efforts to facilitate business activities and streamlining procedures and regulations. PSEB is
+perceived as a relatively weak organization which has not attained the performance expected from
+businesses and does not strategically use Pakistani representations abroad. PSEB should learn from
+and adopt good promotion practices from successful experiences including from Costa Rica, India,
+and the Philippines. Strengthening PSEB promotion activities will require overcoming resources
+constraints and mobilizing financial resources from interested private sector parties. Also, it
+requires adopting managerial practices according to promotion activities, establishing and
+implementing a strategy with clear and measurables indicators, and a monitoring and evaluation
+framework, and hiring staff with the required capabilities.
+c- COMPLEMENTARY SUPPORTING POLICIES
+i. Introduce regulatory changes to personal data protection. The objective of the regulation
+should, on the one hand, aim to achieve the legitimate policy objective, i.e., data and consumer
+protection, and on the other hand, allow data flow to promote high value-added services activities.
+In other words, these regulations should avoid increasing input costs for firms, ultimately affecting
+their productivity. This can be achieved by subscribing to general principles broadly accepted
+internationally, such as the OECD privacy principles guidelines, or from the Asia–Pacific
+Economic Cooperation (APEC) forum. Ultimately, a strong internationally recognized regulatory
+regime will be required to allow for constructive cooperation between Pakistan and its main trading
+partners to allow flow of data. This will require a delicate balance of share responsibilities from
+both the data source country and the destination country. Also, it will require increasing levels of
+convergence on privacy protection requirements set by data source countries and the protection
+standards offered by the destination countries.67
+ii. Improve the intellectual property rights (IPR) framework and create trust in the system for
+digital companies. Pakistan is already active primarily in information technology outsourcing
+(ITO) and business process outsourcing (BPO). These services account for 87 percent and 13
+percent of Pakistan's total services exports, respectively. However, to sustain growth in this sector
+and to encourage firms to come up with innovations in the industry, intellectual property needs to
+be protected adequately. The private sector pointed out the importance of IPRs for their future
+growth. Seventy-three percent of exporting firms and 64 percent of non-exporting firms surveyed
+consider that insufficient IPRs in Pakistan are an obstacle for their business. To move up in the IT
+and digital services value chain, both IPRs and access to commercial data are critical pillars. The
+agenda on IPRs and privacy concerns in trade agreements will be accentuated with cross-border
+data flows. At the international level, IPR has long been part of the trade agenda, but data is a new
+factor determining digital trade. Content providers could restrict the provision of some services to
+countries where IPRs are inadequately protected. This can increase difficulties in generating
+exportable content as well as affecting access to imported content.
+iii. Engage in trade agreements. Restrictions on cross-border data flow through, for example, data
+localization requirements, are on the rise. Pakistan's entrepreneurs face a significant limitation to
+travel to promote their business and develop opportunities. Provisions related to IPRs and
+67 Mattoo and Metzler (2018), World Bank (2016) and (2020).
+- 54 -
+Official Use
+<<<PDF_PAGE_55>>>
+consumer, privacy, and data protection have increasingly been included in last generation trade
+agreements, and the services trade, including through temporary movement of persons, has also
+been addressed. Pakistan should evaluate a strategy to engage in trade agreements to address its
+business interests proactively.68 Regional and bilateral trade agreements are likely to be central in
+driving connectedness to markets in the future given the existing challenges at the multilateral
+level.
+68 Hofmann, Osnago, and Ruta (2017).
+- 55 -
+Official Use
+<<<PDF_PAGE_56>>>
+REFERENCES
+Ahmed, Vaqar. 2019. Pakistan’s Agenda for Economic Reforms. Oxford Pakistan Paperbacks.
+ATKearney 2017. Digital Entrepreneurship Ecosystem in Pakistan,
+http://www.jazzfoundation.com.pk/assets/uploads/2017/10/Digital-Entrepreneurship-in-
+Pakistan_1.pdf
+Bhattacharjee, S. and Chakrabarti, D. 2015. Investigating India’s competitive edge in the IT-ITeS sector.
+IIMB Management Review (27): 19-34.
+Couto, Vivian and Karina Fernandez-Stark. 2019. “Pakistan in the Offshore Services Global Value Chain.”
+Durham, NC: Duke Global Value Chains Center, Duke University.
+Ferracane, M.F. and E. van der Marel. 2018. “Do Data Flows Restrictions Inhibit Trade in Services?”
+ECIPE DTE Working Paper Series No. 2. Brussels: ECIPE.
+Ferracane, M.F., H. Lee-Makiyama and E. van der Marel. 2018b. “Digital Trade Restrictiveness Index.”
+European Centre for International Political Economy. Brussels: ECIPE.
+Ferracane, M.F., J. Kren and E. van der Marel. 2018. “Do Data Policy Restrictions Impact the Productivity
+Performance of Firms?” ECIPE Working Paper No. 2018/1. Brussels: ECIPE.
+Fontagné, L., G. Orefice, R. Piermartini and N. Rocha. 2015. “Product standards and margins of trade:
+Firm-level evidence.” Journal of International Economics 97 (1): 29-44.
+Goldfarb, A. and C. Tucker. 2012. “Privacy and Innovation,” in Innovation Policy and the Economy (eds.)
+Josh Lerner and Scott Stern, / University of Chicago Press, pages 65–89. See also NBER Working
+Paper Series No. 17124. Cambridge, MA: National Bureau of Economic Research.
+Goldfarb, A. and D. Trefler. 2018. “AI and International Trade.” NBER Working Paper Series, No. 24254.
+Cambridge, MA: National Bureau of Economic Research.
+Government of Pakistan. 2014. Pakistan IT and ITES Industry Survey 2014. Ignite (formerly National ICT
+R&D Fund). Pakistan: Ministry of Information Technology and Telecommunications.
+Government of Pakistan. 2018. Digital Pakistan Policy 2018. Ministry of Information Technology and
+Telecommunications, Islamabad, Pakistan GSMA 2018. The Mobile Economy Asia Pacific.
+Gregory, N., Stanley, D.N. and Tenev, S. 2009. New industries from new places: The emergence of the
+hardware and software industries in China and India. The World Bank.
+Hofmann, C; Osnago, A; Ruta, M. 2017. “Horizontal depth : a new database on the content of preferential
+trade agreements.” Policy Research working paper, No. WPS 7981. Washington, DC: World Bank
+Group.
+Huria, S. E. van der Marel, and S. Saez. 2019. Pakistan Services Trade Performance: A Competitiveness
+Assessment. World Bank Group, unpublished.
+Ignite (formerly National ICT R&D Fund). 2014. Pakistan IT and ITES Industry Survey 2014. Pakistan:
+Ministry of Information Technology and Telecommunications.
+Invest2Innovate. 2019. Pakistan Start-up Ecosystem Report.
+Kathuria, Sanjay. 2018. A Glass Half Full: The Promise of Regional Trade in South Asia. South Asia
+Development Forum. Washington, DC: World Bank.
+- 56 -
+Official Use
+<<<PDF_PAGE_57>>>
+Kearney. 2019. Digital Resonance: The New Factor Impacting Location Attractiveness.
+https://www.kearney.com/documents/20152/4977724/Digital+resonance+the+new+factor+influe
+ncing+location+attractiveness.pdf/7a39643a-dc22-87f5-936b-5e734999f57d?t=1581025251793
+LIRNEasia 2018. AfterAccess: ICT access and use in Pakistan and the Global South. Presented by Helani
+Galpaya, Ayesha Zainudeen and Tharaka Amarasinghe on November 5, 2018 in Colombo, Sri
+Lanka.
+Lee-Makiyama, H. 2011. “Future-Proofing World Trade in Technology: Turning the WTO ITA into the
+International Digital Economy Agreement.” ECIPE Working Paper, No. 04/2011. Brussels:
+ECIPE.
+López González, J. and J. Ferencz. 2018. “Digital Trade and Market Openness.” OECD Trade Policy
+Papers, No. 217. Paris: OECD.
+López González, J. and M. Jouanjean. 2017. “Digital Trade: Developing a Framework for Analysis.” OECD
+Trade Policy Papers, No. 205. Paris: OECD.
+Manyika, J., S. Lund, J. Bughin, J. Woetzel, K. and D. Dhingra. 2016. “Digital Globalization: The New Era
+of Global Flows.” McKinsey Global Institute, Washington, DC: McKinsey and Company.
+Mattoo, A. and A. Carzaniga Eds. 2003. Moving People to Deliver Services. World Bank and Oxford
+University Press.
+Mattoo, A., and Meltzer, J.P. 2018. “International Data Flows and Privacy: The Conflict and its
+Resolution.” Policy Research Working Paper, No. 8431. Washington, DC: World Bank.
+McKenna, M., N. Rocha and G. Varela. 2020. Modernizing Trade in Pakistan: A Policy Roadmap.
+Washington, DC: World Bank.
+McKinsey & Company. 2019. Starting up: Unlocking entrepreneurship in Pakistan.
+Monge, Ernesto Fernandez; Molinuevo, Martín; Pfister, Katrin and Saez, Sebastián. 2019. Enhancing the
+Role of Services Trade in Pakistan. Washington, DC: World Bank (unpublished).
+Naqeebz Consulting. 2018. Graduate Employability: Employers Perception Survey Report. Lahore,
+Pakistan, Pakistan Telecommunication Authority 2018. Annual Report 2018. Islamabad, Pakistan.
+OECD. 2014. The Governance of Regulators, OECD Best Practice Principles for Regulatory Policy, OECD
+Publishing. http://dx.doi.org/10.1787/9789264209015-en
+OICCI. 2017. Perception Survey and Investment Survey 2017. Lahore. http://www.oicci.org/wp-
+content/uploads/2018/01/OICCI-Perception-and-Investment-Survey-2017-.pdf
+Rahman, Zia Ur, Izaz Ahmad Khan, Muhammad Shabbir Jan, and Sayyed Abbas Shah. 2017."Evaluating
+Telecommunications in Respect to Offshore Software Industry of Pakistan." International Journal
+of Research in Computer and Communication Technology, 6(1).
+State Bank of Pakistan. 2018. Annual Report 2017-18. The State of Pakistan’s Economy. Pakistan.
+State Bank of Pakistan. 2019. The State of Pakistan’s Economy. First Quarterly Report of 2018-19.
+Pakistan.
+Sáez, S. Ed. 2013. Let Workers Move: Using Bilateral Labor Agreements to Increase Trade in Services
+(Directions in Development). Washington, DC: World Bank.
+United Nations. 2018. Gearing E-Government to support transformation towards sustainable and resilient
+societies. New York: United Nations.
+- 57 -
+Official Use
+<<<PDF_PAGE_58>>>
+UNCTAD. 2017. Information Economy Report 2017. Digitization, Trade and Development. Geneva:
+UNCTAD.
+Waheed, Muhammad and Ghumman, Adnan. 2019. Pakistan at 100: Growth and Investment. Washington,
+DC: World Bank.
+WEF. 2015. “Global Information Technology Report 2015: ICTs for Inclusive Growth.” Davos: World
+Economic Forum.
+WIPO. 2019. World Intellectual Property Indicators 2019. Geneva: World Intellectual Property
+Organization, United Nations.
+World Bank. 2016. World Development Report 2016: Digital Dividends. Washington, DC: World Bank.
+doi:10.1596/978-1-4648-0671-1. License: Creative Commons Attribution CC BY 3.0 IGO
+World Bank. 2019. Pakistan@100: Shaping the Future. Washington, DC: World Bank.
+World Bank. 2020. World Development Report 2020: Trading for Development in the Age of Global Value
+Chains. Washington, DC: World Bank. doi:10.1596/978-1-4648-1457-0. License: Creative
+Commons Attribution CC BY 3.0 IGO
+- 58 -
+Official Use
+<<<PDF_PAGE_59>>>
+ANNEX
+DEFINITIONS
+Computer and other services (WDI): Category of services that is comprised of a broader set of services, namely
+communications, computer, information, and other services that cover international telecommunications; computer
+data; news-related service transactions between residents and non-residents; construction services; royalties and
+license fees; miscellaneous business, professional, and technical services; personal, cultural, and recreational services;
+manufacturing services on physical inputs owned by others; and maintenance and repair services and government
+services not included elsewhere. This category of services represents in large part the digital-enabled services, which
+are services that can be delivered over the internet and/or with the help of ICT and other software.
+Digital goods: Generic term that refers to ICT goods, commodities, and inputs. In this note digital goods largely refer
+to goods covered by the WTO’s International Technology Agreement (ITA). However, in relation to ECIPE’s DTRI
+this definition is expanded with additional 4 and 6-digit HS codes on the basis of Lee-Makiyama (2011) expanded list
+of digital goods in Annex 2. They are mainly to be found in 2-digit categories 84, 85, and 90, and on some occasions
+from categories 38 and 70.
+Digital services: Generic term that refers to ICT and associated services that are produced and delivered over the
+internet and/or with the help of ICT and other software. It mainly includes computer, telecoms, some news-related
+services and information, data services, and various technical services, as well as services provided over digital
+platforms. It usually excludes business, professional, and technical services; personal, cultural, and recreational
+services (unless provided over the internet), manufacturing services on physical inputs owned by others, and
+maintenance and repair services (unless provided over the internet) and government services not included elsewhere.
+Endowments: A country’s factor of production with which it produces goods and services in the economy, such as
+human capital or physical capital. Other types of endowments that have recently gained increasing attention as
+additional factors of production, which are marked as important for producing goods and services, are domestic
+institutions such as the rule of law and digital infrastructure (or digital connectivity) such as a good
+telecommunications network.
+ICT services (WDI): Services such as computer and communications services (telecommunications and postal and
+courier services) and information services (computer data and news-related service transactions). This category of
+services is the pure ICT services.
+Innovation activities (WB Enterprise Surveys): The creation of new products or processes by firms. Typically,
+innovation activities refer to whether firms have developed new products/services that are also new to the main market
+or introduced any new or significantly improved process.
+Technology adoption (WEF): The capacity with which an economy can adapt existing technologies. Typically,
+technology is a broad concept that covers products and processes. Examples of the former are machinery and material;
+examples of the latter are process and organizations. They contribute to a conducive innovation ecosystem. In many
+cases, new technologies and their adoption go hand-in-hand with ICT. Generally, two sources of technology adoption
+are identified in the economy, namely when local firms can invest to bring in technology from abroad or from other
+sectors or companies, and when a country can exploit spillovers from the FDI of international companies.
+- 59 -
+Official Use
+<<<PDF_PAGE_60>>>
+Table A1 Selected ICT indicators in South Asia
+Bangladesh India Nepal Pakistan Sri Lanka
+Digital literacy and uptake
+ICT development index
+147 134 140 148 117
+(rank out of 176, 2017)
+Household with internet access (%, 2017) 19.4 25.4 17 22.1 24.4
+Individuals using internet (%, 2017) 15 34.5 34 15.5 34.1
+Internet awareness
+33 35 46 37 62
+(% of aged 15-65 population)
+Awareness of platforms for buying/selling
+34 62 20 48 70
+(% of aged 15-65 internet users)
+E-government development index
+115 96 117 148 94
+( rank out of 193, 2018)
+Internet infrastructure
+International internet bandwidth
+577162 11963821 124000 672453 168285
+(Mbit/s, 2017)
+Lit/equipped international bandwidth capacity
+9781721 109581022 155000 1053827 na
+(Mbit/sec,2017)
+Fixed broadband internet monthly subscription
+4.3 6.8 2.9 7.8 3.9
+(US$,2017)
+Internet speed (Mbps, November 2019) 25.0 38.0 21.7 9.3 28.7
+Freelancing status
+Ranking as supplier of freelancers 2 1 n.a. 3 14
+Freelancers in software development
+5 45.3 < 0.1 10.5 0.4
+( % of global freelancers)
+Freelancers in creative and multimedia
+20.6 25 <0.1 11.5 2.4
+( % of global freelancers)
+Freelancers in sales and marketing support
+( % of global freelancers) 12.9 40.3 0.1 6.2 0.6
+Industry competitiveness
+AT Kearney GSLI (rank out of 50, 2019) 32 1 na 37 25
+Hourly rate of software developers
+25-35 30-40 25-30 25-35 25-35
+(US$, 2018)
+Average MFN Tariff on ICT goods import
+10 (2016) 3.6 3.4 5.5 1.6
+(%, 2018)
+Industry performance
+ICT services export (million US$, 2018) 574 58248 288 (2017) 1085 995
+Computer services export (million US$, 2018) 202 55526 n.a. 775 848
+Startup ecosystem
+Number of tech hubs 15 >250 12 35 15
+Venture capital deals (rank out of 129, 2019) 73 30 n.a. 72 45
+Source: International Telecommunication Union (ITU); UNDESA; Oxford Internet Institute;gsma.com;Accelerance;
+ATKearney;LIRNEasia,;WTO;WITS(World Bank); World Intellectual Property Organization(WIPO)
+- 60 -
+Official Use
+<<<PDF_PAGE_61>>>
+Table A2. Import Duties on Digital Goods.
+RD ACD
+HS2 HS6 HS6 description CD SRO SRO
+680 670
+Inorganic chemicals; organic or inorganic
+28 compounds of precious metals, of rare-earth 5.50 5.00 2.00
+metals, of radioactive elements or of isotopes.
+38 Miscellaneous chemical products. 3.00 -- 2.00
+70 Glass and glassware. 2.00 -- 2.00
+Nuclear reactors, boilers, machinery and
+84 2.01 -- 2.07
+mechanical appliances; parts thereof.
+Electrical machinery and equipment and parts
+thereof; sound recorders and reproducers,
+85 television image and sound recorders and 12.46 10.00 4.05
+reproducers, and parts and accessories of such
+articles.
+853650 Electrical switches 35.00 -- 7.00
+Optical, photographic, cinematographic,
+measuring, checking, precision, medical or
+90 11.58 -- 3.42
+surgical instruments and apparatus; parts and
+accessories thereof.
+902920 Speed indicators and tachometers 35.00 -- 7.00
+Average across all 6-digit tariff lines 9.72 0.58 3.37
+Source: Tariffs data
+Note: Corresponds to simple average for a list of digital related goods. Complete list Table A3.
+- 61 -
+Official Use
+<<<PDF_PAGE_62>>>
+Table A3. Import Duties on Digital Goods.
+- 62 -
+Official Use

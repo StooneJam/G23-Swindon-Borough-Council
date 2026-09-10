@@ -1,0 +1,2367 @@
+<<<PDF_PAGE_1>>>
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+Report No: ICR00005226
+IMPLEMENTATION COMPLETION AND RESULTS REPORT
+TF0A4737
+ON A
+SMALL GRANT
+FROM THE JAPAN SOCIAL DEVELOPMENT FUND
+IN THE AMOUNT OF US$2.75 MILLION
+TO THE
+REPUBLIC OF SIERRA LEONE
+FOR
+STRENGTHENING COMMUNITY MOBILIZATION AND LOCAL COUNCIL SERVICE
+DELIVERY IN THE POST-EBOLA CONTEXT (P155339)
+JUNE 27, 2021
+Social Protection and Jobs Global Practice
+Africa West Region
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+<<<PDF_PAGE_2>>>
+(Exchange Rate Effective June 14, 2021)
+Currency Unit = Sierra Leone Leones (Le)
+SLL 10,425.35 = US$1
+SDR 0.69638368 = US$1
+FISCAL YEAR
+January 1 - December 31
+Regional Vice President: Ousmane Dione
+Country Director: Gayle Martin
+Regional Director: Dena Ringold
+Practice Manager: Iffath Anwar Sharif
+Task Team Leader(s): Randa G. El-Rashidi
+ICR Main Contributor: Randa G. El-Rashidi/Mohamed Bubaker Alsafi Almenfi
+<<<PDF_PAGE_3>>>
+ABBREVIATIONS AND ACRONYMS
+A4P Agenda for Prosperity
+BA Beneficiary Assessment
+CAS Country Assistance Strategy
+CDC Center for Disease Control
+CLoGPAS Comprehensive Local Government Performance Assessment System
+CMG Community Monitoring Group
+CMI Community Monitoring Intervention
+CMU Country Management Unit
+CPF Country Partnership Framework
+CSOs Civil Society Organizations
+DecSec Decentralization Secretariat
+DSDP Decentralized Services Delivery Program
+EERP Ebola Emergency Response Plan
+ESMF Environmental and Social Management Framework
+EVD Ebola Virus Disease
+FCDO The Foreign Commonwealth Development Office
+FDD Fiscal Decentralization Department
+FM Financial Management
+GDP Gross Domestic Product
+GoSL Government of Sierra Leone
+GRM Grievance Redress Mechanism
+IDA International Development Association
+IE Impact Evaluation
+IEC Information, Education and Communication
+INPSS Integrated National Public Service Survey
+J-CAS Joint Country Assessment Strategy
+JICA Japan International Cooperation Agency
+JSDF Japan Social Development Fund Project
+LC Local Council
+LCSA Local Council Social Accountability
+LGA Local Government Act
+MDA Ministries, Departments, and Agencies
+MoSWGCA Ministry of Social Welfare, Gender, and Children's Affairs
+M&E Monitoring and Evaluation
+NSAP National Social Action Program
+PP Project Paper
+PB Participatory Budgeting
+PDO Project Development Objectives
+PERS Post-Ebola Recovery Strategy
+<<<PDF_PAGE_4>>>
+PFMU Projects Fiduciary Management Unit
+RTF Resident Technical Facilitator
+SCD Systematic Country Diagnostic
+SLNMTDP Sierra Leone National Medium-Term Development Plan (2019-2023)
+TPM Third-Party Monitoring
+WDC Ward Development Committees
+WHO World Health Organization
+<<<PDF_PAGE_5>>>
+TABLE OF CONTENTS
+DATA SHEET ....................................................................... ERROR! BOOKMARK NOT DEFINED.
+I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES ....................................................... 4
+A. CONTEXT .............................................................................................................................4
+B. SECTORAL AND INSTITUTIONAL CONTEXT ............................................................................5
+C. PROJECT DEVELOPMENT OBJECTIVES (PDOS) .......................................................................8
+D. COMPONENTS .....................................................................................................................8
+E. KEY EXPECTED OUTCOMES AND OUTCOME INDICATORS ......................................................8
+F. SIGNIFICANT CHANGES DURING IMPLEMENTATION (IF APPLICABLE) ....................................9
+II. OUTCOME .................................................................................................................... 10
+A. RELEVANCE OF PDOs ......................................................................................................... 10
+B. ACHIEVEMENT OF PDOs (EFFICACY) ................................................................................... 11
+C. EFFICIENCY ........................................................................................................................ 16
+D. OVERALL OUTCOME RATING ............................................................................................. 17
+E. OTHER OUTCOMES AND IMPACTS ..................................................................................... 18
+III. KEY FACTORS THAT AFFECTED IMPLEMENTATION AND OUTCOME ................................ 21
+KEY FACTORS DURING PREPARATION ....................................................................................... 21
+KEY FACTORS DURING IMPLEMENTATION ................................................................................. 22
+IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME .. 23
+V. LESSONS LEARNED AND RECOMMENDATIONS .............................................................. 27
+ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS ........................................................... 29
+ANNEX 2. PROJECT COST BY COMPONENT ........................................................................... 37
+ANNEX 3. RECIPIENT, CO-FINANCIER AND OTHER PARTNER/STAKEHOLDER COMMENTS ...... 38
+ANNEX 4. SUPPORTING DOCUMENTS (IF ANY) ..................................................................... 39
+<<<PDF_PAGE_6>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+DATA SHEET
+BASIC INFORMATION
+Product Information
+Project ID Project Name
+Strengthening Community Mobilization and Local
+P155339
+Council Service Delivery in the Post-Ebola Context
+Country Financing Instrument
+Sierra Leone Investment Project Financing
+Original EA Category Revised EA Category
+Partial Assessment (B) Partial Assessment (B)
+Organizations
+Borrower Implementing Agency
+Decentralization Secretariat, Project Fiduciary
+Republic of Sierra Leone Management Unit, Local Government Finance
+Department
+Project Development Objective (PDO)
+Original PDO
+The Project Development Objective is to respond to the post-Ebola Virus Disease (EVD) needs at the local level in
+Sierra Leone by building community resilience through EVD sensitization efforts and social mobilization activities in
+the districts most affected by the disease.
+Page 1 of 61
+<<<PDF_PAGE_7>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+FINANCING
+FINANCE_TBL
+Original Amount (US$) Revised Amount (US$) Actual Disbursed (US$)
+Donor Financing
+TF-A4737 2,750,000 2,746,253 2,746,253
+Total 2,750,000 2,746,253 2,746,253
+Total Project Cost 2,750,000 2,746,253 2,746,253
+KEY DATES
+Approval Effectiveness Original Closing Actual Closing
+06-Feb-2017 23-Jun-2017 27-Dec-2020 27-Dec-2020
+RESTRUCTURING AND/OR ADDITIONAL FINANCING
+Date(s) Amount Disbursed (US$M) Key Revisions
+28-Jan-2020 1.78 Change in Implementing Agency
+Change in Components and Cost
+Reallocation between Disbursement Categories
+Change in Institutional Arrangements
+KEY RATINGS
+Outcome Bank Performance M&E Quality
+Highly Satisfactory Satisfactory Substantial
+RATINGS OF PROJECT PERFORMANCE IN ISRs
+Actual
+No. Date ISR Archived DO Rating IP Rating Disbursements
+(US$M)
+01 08-Dec-2017 Satisfactory Satisfactory 0.00
+02 28-Jun-2018 Moderately Satisfactory Moderately Satisfactory 0.67
+03 26-Jan-2019 Moderately Satisfactory Moderately Satisfactory 0.67
+Page 2 of 61
+<<<PDF_PAGE_8>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+04 10-Sep-2019 Moderately Satisfactory Moderately Satisfactory 1.78
+05 23-Apr-2020 Moderately Satisfactory Moderately Satisfactory 1.78
+06 24-Dec-2020 Satisfactory Moderately Satisfactory 2.75
+ADM STAFF
+Role At Approval At ICR
+Regional Vice President: Makhtar Diop Ousmane Dione
+Country Director: Henry G. R. Kerali Gayle Martin
+Director: Michal J. Rutkowski Dena Ringold
+Practice Manager: Stefano Paternostro Iffath Anwar Sharif
+Task Team Leader(s): Randa G. El-Rashidi Randa G. El-Rashidi
+Mohamed Bubaker Alsafi
+ICR Contributing Author:
+Almenfi
+Page 3 of 61
+<<<PDF_PAGE_9>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES
+A. CONTEXT
+1. During appraisal of the Japan Social Development Fund (JSDF) project, the total population of Sierra Leone was
+approximately 7.5 million, with nearly 50 percent 0-18 years old.1 The poverty headcount ratio was 56.8 percent, with a
+concentration of 73.9 percent in rural areas.2 The country's gross domestic product (GDP) averaged 3.8 percent annual
+growth in 2017, with an overall per capita GDP of US$498.3
+2. The Ebola epidemic reversed the country's post-civil war macroeconomic stability and strained government
+capacity to deliver services. There was a 50-60 percent disruption in agriculture, manufacturing, and private-sector
+employment, including a suspension of five new ventures valued at approx. US$1.2 billion. Transport and cross-border
+trade came to a standstill. GDP fell more than 21 percent, inflation hit double digits, and the currency depreciated more
+than 50 percent.4 The education system closed, and schools were converted to treatment centers, as the health system
+collapsed with 23 percent fewer beneficiary services. Water and sanitation projects were disrupted, experts fled the
+country, and public works were generally put on hold.
+3. The Ebola epidemic spurred mistrust among neighbors, of official health information, and of formal institutions,
+disrupting social cohesion and stability. Literature reviews of lessons learned from HIV/AIDS in Sub-Sahara Africa
+highlight that education and interpersonal relationships are prime factors in overcoming stigma. Rapid sampling during
+the outbreak indicated that nearly a third of Ebola Virus Disease (EVD) survivors exhibited a mild mental disorder and
+nearly a third of survivors were stigmatized by their communities.5
+4. The government of Sierra Leone (GoSL) is strongly committed to supporting EVD survivors, relatives of the
+deceased, and their communities. The GoSL effectively stemmed the immediate spread of EVD,6 and with World Bank
+support, launched the Ebola Emergency Response Plan (EERP) to improve public health systems and economically revive
+communities. In addition, the ministries, departments, and agencies provided EVD psycho-social services: the Ministry
+of Social Welfare, Gender, and Children's Affairs (MoSWGCA) mobilized resources with UNICEF and civil society
+organizations (CSO) to support children and families; and the Ministry of Health and Sanitation devolved staff to PHUs
+to better deliver psychological services.7 In 2015, GoSL established the National Association of Ebola Survivors (NAES) as
+a community-based organization to map, locate, and sensitize EVD survivors and to advocate for their wellbeing. At the
+community level, the devolution of government over the previous decade meant Local Councils (LCs) were well-
+positioned to reach the poor and vulnerable and to help rebuild societal wellbeing.
+1 https://data.worldbank.org/country/sierra-leone
+2 https://data.worldbank.org/country/sierra-leone; https://www.imf.org/~/media/Files/Publications/CR/2020/English/1SLEEA2020001.ashx
+3 https://www.imf.org/~/media/Files/Publications/CR/2020/English/1SLEEA2020001.ashx
+4 Staff’s report for the third and fourth Reviews under Sierra Leone’s previous Extended Credit Facility Arrangement elaborates on the macroeconomic
+impact of the twin shocks (IMF Country Report No. 15/323, November 2015).
+5 The Kessler scale is based on a ten-item questionnaire that yields a global measure of distress based on questions about anxiety and depressive symptoms
+that a person has experienced in the most recent four-week period.
+6 In 2007, junior and senior secondary Gender Parity Indices based on GERs were 0.78 and 0.52 respectively, by 2010/11 they were 0.80 and 0.59.
+7 Each District has an average of 50 PHUs, under the the MoHS. PHUs plan, organize, and monitor health provision, train staff, work with communities, and
+supply equipment and drugs. PHUs are the delivery point for primary health care (a functional area devolved to LCs). There are three types of PHUs:
+Community Health Centers, Community Health Posts, and Maternal and Child Health Posts.
+Page 4 of 61
+<<<PDF_PAGE_10>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+B. SECTORAL AND INSTITUTIONAL CONTEXT
+5. The donor community mobilized resources to halt the spread of EVD. International CSOs and NGOs provided care
+and tracked infected individuals. The most active of these were the: International Federation of Red Cross and Red
+Crescent Societies, International Medical Corps, International Rescue Committee, Doctors without Borders, Plan
+International, and Save the Children. The most visible UN agencies included: UNICEF, UN Development Program, UN High
+Commissioner for Refugees, UN Office for the Coordination of Humanitarian Affairs, and World Food Program (WFP).
+Most carried out sensitization campaigns.
+6. The JSDF project was designed to complement the above support and reestablish social cohesion, inclusion and
+trust by sensitizing communities on the causes of the disease—myth-busting—and by creating mechanisms for social
+deliberation and social accountability— mobilizing citizens by means of collective action mechanisms, such as citizen-
+centric monitoring and citizen feedback mechanisms and putting in place the first innovative public participatory
+budgeting measures in two pilot districts (Freetown City Council (FCC) and Port Loko). The participatory budgeting pilot
+was designed to reflect community demand-driven services bringing services closer to the citizens. In 2017, the psycho-
+social impact of the disease on communities, for lack of surveys, was not well understood, but anecdotal information
+indicated a lack of trust in the government.
+7. Engaging local leadership was a key element to rebuilding social cohesion. Engaging local leaders was factored
+into project design given the country's historically complex State-society relation, marked by years of political instability,
+and the fragility of the civil war period. The project focused on engaging the two key local authorities who play important
+roles in Sierra Leone: Chiefdoms and LCs by ensuring buy-in by both democratically elected leaders (LC councilors and
+Ward Development Committees (WDC) members) and traditional authorities (community and paramount chiefs).
+8. The project built on the Decentralized Service Delivery Program (DSDP2, P119355) (former Service Delivery Bank
+operation closed in June 2018) implementation structures which included the Project Management Fiduciary Unit
+(PFMU) formerly known as the Integrated Project Administrative Unit (IPAU) and the Decentralized Secretariat
+(DecSec). These are two key institutions who have been at the forefront of the GoSL's decentralization and service
+delivery engagement in Sierra Leone, along with the Fiscal Decentralization Department (FDD), formerly known as the
+Local Government Finance Department (LGFD). DecSec is a department of the Ministry of Local Government and Rural
+Development (MLGRD) and one of DSDP2's implementing agencies. It is the GoSL department in charge of the
+decentralization process, providing capacity building and backstopping support to LCs, coordinating nationwide strategic
+discussions on devolution, and monitoring local level service delivery. DecSec staff include one Resident Technical
+Facilitator (RTF) in each LC as DecSec's focal point. RTFs provide feedback and report on local-level challenges/capacity
+gaps to DecSec for prompt intervention. The PFMU, in the Ministry of Finance and Economic Development (MoFED), is
+the second implementing agency of DSDP2 and acts as a supervising entity at the project level. The MoFED was the
+project fund recipient. It supports capacity building to strengthen fiduciary management, intergovernmental
+coordination, monitoring, administration, supervision, and auditing. The PFMU includes staff and expertise in the areas
+mentioned. Lastly, FDD, allocated in MoFED, provides monitoring and mentoring support to LCs on financial matters and
+is in charge of central government funding of LCs.
+Page 5 of 61
+<<<PDF_PAGE_11>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Theory of Change (Results Chain)
+9. For this Implementation Completion and Results Report, the project's Theory of Change is constructed ex-post as
+a formal Theory of Change was not a requirement during preparation. Nevertheless, the project implicitly followed the
+principles of the Theory of Change. During project preparation, the government and Bank teams identified critical
+activities that would: (i) strengthen decentralized service delivery through a community demand-driven safety net
+approach and partnership with local government and provide a framework for an inclusive and transparent budgetary
+process supporting investments targeted at reducing vulnerability and improving access to basic service delivery and
+bringing services closer to end beneficiaries. This, in turn, supported establishing a complementary safety net
+intervention for end beneficiaries and providing them with a minimum level of well-being; (ii) create a platform for
+communities to address and resolve stigma and discrimination and strengthen social cohesion and improve trust in local
+government, which was absent at the time of project design and appraisal; and (iii) support investments targeted at
+reducing vulnerability by increasing access to improved quality of basic services. Consequently, the project's Results
+Framework (RF) articulated the project's path from planned interventions to intended outcomes. The Theory of Change
+is retrofitted from the RF, as presented in the original Project Paper (Figure 1).
+Page 6 of 61
+<<<PDF_PAGE_12>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Figure 1: Theory of Change
+Activities outputs Outcomes/PDOs LT Objectives
+Component 1
+534 WDC members, LC
+Organization of community-wide councilors, traditional and
+sensitization meetings and forums religious healers trained on
+Training of WDC members, LC councilors trauma healing
+and officers, RTFs, and traditional healers
+and religious leaders on social cohesion,
+social sensitization and personal/household 38,249 beneficiaries
+hygiene reached through LC trauma
+and sensitization
+Organization of a nation-wide forum for interventions
+EVD survivors and their families A
+w
+t
+C
+sh
+SA
+M
+i
+S
+et
+ee
+T
+pSOs
+h
+r
+f
+ra
+ecs
+vP
+ft
+a
+si
+D
+ee
+a
+cir
+En
+,
+cia
+ics
+lnH
+R
+p
+ae
+itis
+t
+nian
+S
+lsrM
+n
+im
+gvri
+e
+,i
+tn
+g
+se
+n
+(a
+e
+-
+rs
+ae
+T
+F
+o
+ui
+asng
+en
+a
+nsn
+rp
+cp
+p
+i
+d
+n,
+eng
+ndt
+a
+ia
+o
+a
+eC
+t
+d
+it
+n
+E
+ro
+np
+n
+i
+i
+lhC
+tS
+t
+n
+n
+Edf
+w
+ge
+s
+o
+ai
+eO
+o
+g
+ctR
+et
+r
+cws
+ro
+im
+th
+s
+Cm
+P
+p
+coe
+l
+ot,
+r
+o
+ne
+o
+Ma
+on
+dp
+k
+ta
+a
+c
+R
+uto
+s
+s
+ar
+uon
+n
+at
+Iie
+Ti
+nh
+o
+n
+ch
+nt
+e
+ld
+e
+il
+F
+toi
+ni
+n
+dee
+en
+iz
+nn
+asnr
+p
+a
+v
+nt
+tg
+s
+bPe
+iE
+s
+as
+wna
+t
+u
+t
+itc
+op
+V
+i
+no
+l
+n
+io
+fr
+io
+o2
+cr
+t
+rD
+to
+de
+pt
+n
+ue
+tom
+y
+A
+r
+npc
+s
+t
+Lc
+La
+m
+a
+tim
+eoceu
+Cor
+on
+oc
+ii
+wmn
+rr
+kts
+nut
+ootr
+i
+it
+i
+oi
+n
+uz
+si
+n
+us
+lv
+a
+fdc
+se
+)
+t
+fni
+i
+ntu
+a
+ie
+it
+c
+ni
+s
+ci
+ii
+v
+nl
+ta
+g
+te
+tsa
+eie
+y
+rdt
+r
+es
+riai
+a
+sf
+co
+ss
+lto
+nt
+i
+thn
+f
+fe
+ofr
+sdo
+eoe
+d
+n
+r
+i
+r
+r
+B re2
+cD
+0
+eH
+3E
+ivm
+EM
+R
+eRC
+e
+T
+dT
+Pao
+F
+s
+,
+snm
+s
+,
+pa
+s
+C
+a
+em
+r/
+S
+net
+cou
+O
+d
+im
+aon
+s
+lLi
+l
+,
+a
+Cc
+s
+t
+P
+i
+r
+a
+nl
+aoEit
+tn
+ii
+R
+fa
+no
+fk
+S
+i
+i
+in
+i
+n
+c
+n,n
+ee
+gag
+rd
+n
+s
+od
+n
+eb
+atV
+fh
+ty
+cR
+fi
+he
+t
+ore
+b
+r
+i
+au
+r
+vols
+u
+fs
+to
+ip
+fu
+s
+ti
+ec
+lD
+i
+o
+gt
+eaa
+c
+in
+h
+sncls
+t
+d
+eoe
+l
+d
+ise
+n
+da
+m
+ot
+v
+s
+so
+c
+t
+be
+ome
+h
+i
+ylt
+ca
+eh
+(
+u
+i
+il
+tnE
+a
+-e
+n
+hdsV
+l
+i
+-S
+e
+eip
+t
+mD
+si
+y
+n
+eo
+t
+d)
+rs
+ors
+r
+iiin
+r
+se
+cbt
+ta
+e-
+e
+i
+ts
+izE
+l
+s
+ae
+i
+iL
+alb
+z
+sid
+e
+mte
+ao
+eis
+o
+on
+tl
+o
+ia
+na
+nc
+o
+s
+et
+e
+tn
+level
+lacol
+eht
+ta
+noisnet
+laicos
+htamretfa
+rieht
+htiw
+tlaed
+dna
+skcohs
+ot
+dnopser
+ot
+yticapac
+stnemonrevog
+lacol
+dna
+ecneiliser
+dna
+noitapicitrap
+ytinummoc
+nehtgnert-
+S
+Joint monitoring visits to LCs by relevant social accountability
+MDAs (especially by IPAU and DecSec)
+Promotion of IEC campaigns for the CMI in 20,234 citizens participated
+the two districts in social accountability Critical assumptions
+Component 2B initiatives in CMI piloted
+districts A. Ensure LCs and communities participation and capacity are
+WDC meetings open to the public to discuss
+proposals for PB and the final proposals
+enhanced, and awareness raised
+Voting process to select the projects that will 9,834 beneficiaries
+be implemented in the locality participated in the B. Community needs and priorities are identified and implemented
+participatory budgeting pilot
+IEC campaign to spread the word on the PB
+process, to make proposed projects known C at the local level
+to community members, and to inform of the 22 joint monitoring visits to
+results of the PB process LCs, conducted by relevant C. Local contractors with sufficient capacity and community
+Capacity building training exercise with all MDAs
+WDC members before the start of the PB engagement in social accountability interventions
+process
+Page 7 of 61
+<<<PDF_PAGE_13>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+C. PROJECT DEVELOPMENT OBJECTIVES (PDOS)
+10. Under the Project Paper and the Grant Agreement, the objective of the project was to respond to the post-EVD
+needs at the local level in Sierra Leone by building community resilience through social-sensitization efforts and social-
+mobilization activities in the districts most affected by the disease. While the post Ebola needs go beyond the scope of
+what the project could deliver, the project scope and design were prepared in line with the JSDF guidelines8 to support
+priority areas and gaps identified in consultation with the Client and to complement other ongoing interventions. The
+project was designed to support two priority post Ebola needs (sub-objectives), namely, enhancing social
+harmonization/inclusion (social sensitization) and improving access to service delivery and making government
+accountable and transparent (social accountability). The two sub-objectives were designed to support the achievement
+of the PDO and to allow for a more targeted RF.
+11. The PDO and the RF were not revised during implementation.
+D. COMPONENTS
+• The JSDF project had three components Component 1 – LC social-sensitization activities – sought to promote social
+cohesion and resilience by strengthening LC capacity and by implementing community-wide sensitization
+meetings, forums, and health talks in the Bombali, FCC /Western Area Urban, Port Loko, and Western Area Rural
+Districts, together representing 70 percent of all EVD cases in Sierra Leone, to diminish the negative effects of
+EBV on social trust and to provide much-needed support to the victims.
+• Component 2 – Creating social-mobilization mechanisms to improve LC service delivery – focused on building
+community resilience in FCC/Western Area Urban and Port Loko Districts by: (i) creating social-accountability and
+community-monitoring mechanisms for the effective delivery of social services; (ii) promoting direct citizen
+engagement in the monitoring of LC services; and (iii) piloting participatory budgeting.
+• Component 3 - Project management, M&E, and knowledge management – focused on operations support for
+project management, procurement, financial management, and monitoring and evaluation.
+12. Project Location: Social sensitization activities under Component 1 were undertaken in the four (4) districts most
+affected by EVD judging by the total number of EVD laboratory-confirmed cases (these are Western Area Urban District
+/ FCC LC, Port Loko District, Western Area Rural District, and Bombali District), which represented close to 70 percent of
+all EVD cases in the country. A community monitoring intervention (CMI) and participatory budgeting were piloted in the
+two districts most affected by EVD, according to the total number of EVD laboratory-confirmed cases (these are Western
+Urban District / Freetown LC and Port Loko District).
+E. KEY EXPECTED OUTCOMES AND OUTCOME INDICATORS
+13. At appraisal, the key outcome indicators for the project were:
+• Percentage of beneficiaries who affirm social sensitization activities have been positive toward bringing people
+together in the four (4) districts in which social sensitization activities are conducted.9
+8 The JSDF had guidelines for priority activities they can finance. For example, income generating activities (e.g., productive inclusion)
+were considered post Ebola need, however, it was not permissible to finance according to the JSDF guidelines.
+9 As measured by an additional question to be included in DSDP2’s Integrated National Public Services Survey (INPSS). INPSS is an annual survey that assesses
+Page 8 of 61
+<<<PDF_PAGE_14>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+• Number of sectors in CMI piloting districts quarterly assessed and managed considering citizen feedback.10
+• Percentage of beneficiaries who affirm participatory budgeting processes generated a positive social mobilization
+effect in the two (2) districts in which participatory budgeting is conducted.11
+• Direct project beneficiaries - estimated to reach 50,000 direct beneficiaries, of which 50 percent women12
+F. SIGNIFICANT CHANGES DURING IMPLEMENTATION (IF APPLICABLE)
+14. Despite progress made under component 1 and sub-component 2A, implementation had been slower than
+expected under sub-component 2B. By November 30, 2019, the Bank had advanced to the GoSL US$1.78 million (64.7
+percent of the total project allocation), of which the GoSL disbursed US$1.35 million (49.1 percent of total allocation).
+This was significantly lower than the expected disbursement estimates during the Mid-Term Review (May 28-June 11,
+2019), which was US$2.15 million (78.2 percent of total allocation).
+15. A number of exogenous factors and administrative changes, listed below, slowed down implementation
+a) The Sierra Leone Presidential election held in March/ April 2018 resulted in a change of government, with the
+new government pursuing a different agenda and seeking to restructure functions and staff from line ministries,
+including the Ministry of Local Government, where DecSec sits.
+b) Parallel to the Presidential election, the people of Sierra Leone voted for new local representatives. The
+leadership of 3/4 LCs tasked with implementing the project changed as well as key staff. This required orientation
+and training of new staff.
+c) The new Minister of Local Government and Rural Development terminated the contracts of six out of nine staff
+at DecSec, including the Director of the Unit and key specialists, between the second and third quarters of 2018.
+A new team was subsequently hired and 12 employees joined DecSec during the first quarter of 2019.
+16. In order to resolve the implementation delays, an agreement was reached in June 2019 to undertake a Level 2
+Restructuring to address: (a) slow disbursements; (b) depleted operational costs affecting the frequency of project
+supervision by the implementing agencies; and (c) the need to strengthen the institutional arrangements on the fiscal
+side for sub-component 2B. Though not explicitly stated in the Restructuring paper, the Bank team worked with the GoSL
+to address the gap created by the departure of key staff at DecSec due to the administrative changes resulting from the
+April 2018 elections and the subsequent change in LCs leadership, both which drained the institutional memory and
+momentum13 of project implementation.
+17. The restructuring addressed (a, b, and c) outlined above. Jointly the Bank team and implementing agencies
+developed a revised disbursement plan, put in place a request for the reallocation of resources (see Table 1 below), and
+further clarified the institutional arrangements (adding the Local Government Finance Department, the name changed
+to the Fiscal Decentralization Division (FDD)) to accelerate the implementation of sub-component 2B (Participatory
+beneficiary perception of local public services and local institutions.
+10 As measured by a new variable to be included in DSDP2’s Comprehensive Local Government Performance Assessment System (CLoGPAS). CLoGPAS is an
+annual survey that monitors capacity developments at the LC level, assesses LC performances on a comparative basis, and identifies capacity needs.
+11 As measured by an additional question to be included in INPSS.
+12 Figures are calculated drawing from the estimated number of beneficiaries of other Decentralized Delivery Service Project Phase 2 activities which
+reflected a similar scope. The JSDF project was piloted in a limited number of LCs. The number of participants in the participatory budgeting pilot was
+estimated to be equivalent to the minimum participation threshold required under Component 2: at least 2,500 participants per LC.
+Page 9 of 61
+<<<PDF_PAGE_15>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Budgeting). The addition of FDD was a critical step in complementing DecSec technical capacity in budgeting and
+intergovernmental fiscal management.
+Table 1. Reallocation by expenditure category
+Current Reallocation Total with
+Expenditure category % change
+allocation amount reallocation
+(1) Consultant services US$ 118,500 -US$10,000 US$ 108,500 -8.44%
+(2) Training and workshops US$ 776,500 - US$ 776,500 -
+(3) Goods US$ 581,000 -US$ 50,000 US$ 531,000 -8.61%
+(4) Subgrants US$ 1,220,000 - US$ 1,220,000 -
+(5) Operating costs US$ 54,000 US$ 60,000 US$ 114,000 +111.11%
+Source: table designed by Bank team (data from PFMU and Bank Project FM Specialist).
+II. OUTCOME
+A. RELEVANCE OF PDOs
+Assessment of Relevance of PDOs and Rating
+18. The project sub-objectives remain relevant to Sierra Leone's development priorities. The project continues to be
+relevant to the development priorities of Sierra Leone and consistent with the 2021-2026 Country Partnership Framework
+(CPF, Report No. 148025-SL), which focuses on strengthening community engagement and social inclusion, maximizing
+the impact of service delivery, and building confidence in institutions under Focus Area 1. Sustainable Growth and
+Accountable Governance; these three key objectives were addressed by the project activities. The project is aligned with
+the CPF key outcomes for human capital acceleration by ensuring decentralized service delivery, leveraging additional
+resources, and anchoring sound public finance management. Components 2 (A and B) were designed to reflect and
+respond to these sub-objectives.
+19. The project also aligned with the 2012-2022 Africa Region Social Protection Strategy, which supports "increasing
+access to and improving the quality of basic services, protecting households, and guaranteeing a minimum level of
+wellbeing by reducing their vulnerability. The project also supported the larger work of the Africa Emergency EVD
+Response Program.
+20. Rating. The scope, PDO, and objectives of the project remained the same and relevant to project design, during
+implementation, and at the time of project closing. There were no shortcomings in the relevance of the operation to the
+Bank's Sierra Leone CPF, Country Assistance Strategy (CAS), Systematic Country Diagnostic (SCD), African Region Social
+Protection Strategy, or Africa Region Emergency EVD Response Program. Country circumstances changed, particularly due
+to the COVID-19 Pandemic, but did not impact the higher-level outcomes. The project design included a mechanism to
+allow for a shock responsive approach which was reflected in the project's response during the COVID-19 pandemic in the
+pilot districts. The project is rated High in Relevance to the PDO.
+Page 10 of 61
+<<<PDF_PAGE_16>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+B. ACHIEVEMENT OF PDOs (EFFICACY)
+Rating: High
+Assessment of Achievement of Each Objective
+21. The project responded to the post-EVD needs at the local level (PDO) through two sub-objectives. As stated under
+the PDO section, the PDO was defined by two sub-objectives after consultation with the Client and in line with the JSDF
+financing guidelines. Key PDO sub-objectives were: (a) enhancing social harmonization/inclusion (social sensitization); and
+(b) improving access to service delivery and making government accountable and transparent (social accountability).
+Developing two sub-objectives allowed for the design of a targeted RF with indicators clearly linked to the sub-objectives.
+The two project components, social sensitization (component 1) and social accountability and social mobilization &
+participatory service delivery (component 2), both supported the priority post Ebola needs (PDO). The performance of
+the project can be judged by assessing the achievement of the two components
+22. The project was successful in achieving its PDO sub-objectives. All outcome indicators were reached, if not exceeded.
+All four core and seven intermediate PDO results indicators were met, and, in most cases, the end-line target was
+exceeded (see Table 2 below). Activities under the two project components were delivered in support of the PDO despite
+implementation challenges, such as the disruptions caused by the election in 2018 and its impact on some staff changes
+both at DecSec and at the LC level and the recent COVID-19 pandemic, which temporarily interrupted implementation in
+the first half of 2020. These achievements were largely due as a result of working with staff14 and agencies who had the
+experience from previous Bank interventions in delivering decentralized services.
+Table 2: JSDF Project Outcome Indicators Status
+Outcome Indicator Name Baseline Original Actual at Change (%)
+Target Completion
+Indicator 1: Beneficiaries who affirm social sensitization activities have 0 65 75.3 116
+been positive toward bringing people together in the four districts in
+which social sensitization activities are conducted (percentage)
+Indicator 2: Sectors in Community Monitoring Initiative pilot districts 0 10 10 100
+assessed quarterly and managed considering citizen feedback (number)
+Indicator 3: Beneficiaries who affirm participatory budgeting processes 0 65 89.5 138
+generated a positive social mobilization effect in the two districts in
+which participatory budgeting is conducted (percentage)15
+Indicator 4: Direct project beneficiaries (number) 0 50,000 50,485 101
+Women beneficiaries (percentage) (50) (50) (50.5)
+Source: Indicators 1 and 3 are from December 2020 Beneficiaries Assessment; indicators 2 and 4 are from PFMU.
+23. In addition, the project included different intermediate results that supported the achievement of the PDO sub-
+objectives as follows:
+24. Component 1 supported the PDO's emphasis on responding to the post- EVD needs at the local level in Sierra Leone
+through a series of awareness-raising interventions: (a) Social cohesion and sensitization training (Intermediate Result
+Indicator 1). The project reached 534 beneficiaries which surpassed the end-line target of 200 participants16 which
+included Local Councilors,17 WDC members,18 traditional healers,19 and religious leaders20. These beneficiaries were
+Page 11 of 61
+<<<PDF_PAGE_17>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+trained on social cohesion and social sensitization. This achievement further supports the project PDO sub-objective by
+building local capacities and increased local ownership to respond to post-EVD needs; (b) Trauma and sensitization
+interventions (Intermediate Result Indicator 2). Reports from DecSec and PFMU indicate that 38,249 beneficiaries
+benefited from LC trauma and sensitization interventions (51% females), surpassing the end-line target of 25,000
+beneficiaries21. In addition, a two-day national forum was organized for the four beneficiary LCs, which created a platform
+for Ebola survivors to come together and discuss issues (problems and challenges) affecting their welfare and make
+recommendations. This forum contributed to improving social cohesion in the pilot localities by raising awareness, myth-
+busting and improving community solidarity.
+25. Prior to the project launch, the communities in the four project districts experienced conflicts due to the
+discrimination and stigma associated with Ebola survivors and their families, as noted by the Beneficiary Assessment
+(BA). Social sensitization activities focused on easing this challenge. The BA provides additional evidence supporting this
+statement "at least 85 percent of the beneficiaries believe that they are now accepted and reintegrated in their
+community" (see Annex 4 Supporting document (B): Impact of sensitization activity). This can be attributed to the
+effectiveness and high attendance rate at sensitization meetings as the BA indicates that 87.5 percent of project
+beneficiaries confirmed they attended capacity-building and community-sensitization meetings or activities organized by
+the project where Ebola and other health messages were discussed. 22
+26. BA confirmed increased awareness of EVD-related issues. According to the 2020 BA, 85.5 percent of beneficiaries
+interviewed in all the four Councils believed that community sensitization activities in the capacity building component
+helped them better understand EVD-related issues and better prevent contracting future diseases of a similar nature. The
+project's focus not only in bringing about reconciliation and healing but also increasing their knowledge and understanding
+on the prevention of EVD and other disasters and shocks in their communities and introducing them to community
+mobilization and sensitization skills. It further strengthened local ownership in the process of bringing healing and
+reintegration to the affected groups.
+27. Commemorating EVD victims. For the first time in Sierra Leone, properly articulated and planned community-support
+initiatives were rolled out to foster grieving and mourning processes following a national disaster (EVD). Through the
+project, joint memorial services, memorial tree plantings, and dedication of community projects in honor of victims of
+EVD and mudslides (took place in August 2017, killing over 1,000 people). These initiatives were launched in 2018 in the
+four targeted LCs providing a platform for community-support initiatives to foster grieving and mourning processes.
+According to the project's annual report, 2018 and 2019 (Component 1), a total of 3,000 people, of which 60 percent were
+women, attended these events. The second set of memorial services were held in December 2019. A total of 2,000 people
+14 DecSec managed to retain key staff who had operational and technical experience and were able to roll out project implementation
+despite the departure of some of the DecSec staff.
+15 Indicator 3 benefited significantly from sensitization activities and positive spillovers to neighboring communities. This in turn led to
+higher uptake which contributed to the significant achievement of this indicator.
+16 Given the importance of this activity more Local councilors and Ward community members attended these events.
+17 The Local Council (LC) constitute the political and development authority of the locality
+18 The Ward Committee (WDC) is the lowest level of the decentralized structure responsible for monitoring development and governance at their level.
+Each LC is constituted by WDC representatives
+19 Traditional Healers have a history and influence their communities, culminating from the services they provide. Their participation and support for the
+community mobilization and sensitization activities was valuable in ensuring success.
+20 The religious leaders are held at high esteem in the societies and also have large following.
+21 The Source of this figure is from Data Collected during implementation of Project Activities and reported to the team by the M&E specialist.
+22 Beneficiary Assessment Report, December 2020.
+Page 12 of 61
+<<<PDF_PAGE_18>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+attended, of which 70 percent were women. Caps, T-shirts, banners, and wristbands for the official memorial service
+ceremony with council inscriptions were distributed to community members. The activities supported the project PDO
+sub-objectives by helping communities to overcome the trauma of EVD and the difference between and among family
+members. It also brought communities and families back together and created a conducive environment for social
+cohesion and reconciliation.
+28. Communication tools between MDAs and CSOs were maintained (Intermediate Result Indicator 3). The full
+engagement of all MDAs and CSOs in project activities, through telephone calls, letters, emails, and WhatsApp messages,
+guaranteed communication and cross-fertilization since the onset of the project. The communication tools resulted in
+effective coordination efforts to maintain the engagement of four CSOs to support the social sensitization and
+mobilization activities23. These activities supported the PDO sub-objective by improving citizen engagement through
+engaging CSOs.
+29. The CSOs worked in close collaboration with the LCs and DecSec to implement Components 1 and 2. They
+specifically participated in the design of reporting mechanisms on community dialogue (facilitating sessions) and
+identifying village-level community structures to help resolve grievances identified during community dialogue. In
+addition, CSOs also helped in the identification of community-based groups to undertake community-based monitoring
+and evaluation on grievance prevention, and the sensitization of the communities on the rationale of the project and their
+roles and responsibilities.
+30. Sub-component 2A contributed towards responding to the post- EVD needs at the local level in Sierra Leone,
+particularly improving social accountability (PDO sub-objective), by supporting social mobilization through scaling up
+CMI activities. The RTFs at the LC level and key officials of LCs and CSOs were trained on social accountability, the CMI,
+and Grievance Redress Mechanism (GRM) concepts. Reports from the DecSec indicated that about 20,234 citizens
+participated in social accountability initiatives in the CMI in the pilot districts. This surpassed the end-line value of 20,000
+(Intermediate Result Indicator 5). The LC Social Accountability (LCSA) teams and facilitators established 15 Community
+Monitoring Groups (CMGs) in Port Loko District and 15 in FCC. There were a total of 260 people in the CMGs representing
+both districts (with 64% female representation24). Each district was allocated SLL60,000,000 to start the intervention, and
+funds were delivered to the CMGs/LCSA Teams to monitor and review the proposals and compacts (an agreement
+between the community and service provides on how to improve on service delivery). The project recruited 16 facilitators
+for FCC and 15 for Port Loko District25 to work with LCSA teams to implement the project interventions. This intervention
+supports the PDO sub-objective by strengthening the trust of the beneficiary community and created new opportunities
+for citizens to influence the direction of policy and led to increased participation (as indicated in the Results Framework)
+of beneficiaries in the LCs' annual development activities.
+31. The CMI approach supported strengthening bottom-up accountability through facility scorecards and community
+monitoring of health facilities, taking inspiration in part from a groundbreaking study demonstrating a 30 percent drop in
+child mortality when this methodology was used.26 CMI building on the model predicated under the DSDP2 project in two
+districts (Western Area and Port Loko) and strengthening monitoring and accountability to ensure effective service
+23 The four CSOs are: Health Alert (FCC); the Women’s Network for Environmental Sustainability group (Western Area Rural District); the Sierra Leone Social
+Aid Volunteers (Port Loko District); the TINAP for Peace and Development Organization (Bombali District)
+24 According to information from DecSec team on Dec 20th, 2020
+25 Information is obtained from DecSec team (Community Monitoring Initiative (CMI) Update report)
+26 M. Bjorkman and J. Svensson, “Power to the People: Evidence from a Randomized Experiment on Community-Based Monitoring in Uganda,” Quarterly
+Journal of Economics 124/2 (2009), pp. 735–769.
+Page 13 of 61
+<<<PDF_PAGE_19>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+delivery in four sectors: health, water, solid waste management and education sectors. Activities included the formation
+and training of 30 CMGs, 1027 refresher training of District Coordinators and CMI Facilitators and the provision of
+additional monitoring manuals. In addition, the project strengthened WDC, who were instrumental in mediating between
+communities and LCs (an important aspect of social accountability). The project worked with stakeholders at the central
+and local levels to improve communication, information dissemination, and performance monitoring which enhanced the
+access of service delivery. The component also facilitated the implementation of a GRM across the four LCs to help resolve
+grievances related to project implementation.28 The GRM platform was set up to quickly respond to and resolve grievances
+emanating from the implementation of the project and provided an effective feedback loop. The BA data indicates that
+75 percent of beneficiaries interviewed were aware of GRM activities related to LC project activities. According to a report
+from the DecSec team29 by the end of the project, 51 GRM cases were received from the four districts, all of the cases
+were resolved within an average of 9 days. The speed in resolution can be attributed to the knowledge and experience
+gained under the DSDP2 by the project team which was applied to the JSDF GRM process. The project contributed to
+respond to post-EVD needs at the local level by: (a) improving the trust between beneficiary communities and the LCs; (b)
+building state-citizen interfaces on public service delivery and community-based platform underpinned by structured
+social accountability mechanisms; and (c) facilitating knowledge and learning to enhance the effectiveness of project
+interventions.
+32. The BA revealed high satisfaction with CMI monitored projects. According to the assessment, 83.3 percent of
+respondents reported improvement in the projects monitored by the CMGs. This intervention created institutional
+structures such as the LCSA committee at the LC level and CMG at the community level. These structures will serve as
+foundations for deepening transparency and social accountability in local governance and development, particularly in
+monitoring national service delivery programs being rolled out by the GoSL. The CMI further supported the PDO sub-
+objectives by transforming the relationship between communities and public service duty-holders, allowing citizens to
+express their voice and agency and ensuring the services were demand-driven.
+33. The PB contributed to the project development objective to respond to the post-EVD needs at the local level in
+Sierra Leone, particularly improving social accountability (PDO sub-objective), by enabling an increased number of
+citizens to fully participate in the decision-making processes of the target LCs by identifying and prioritizing their own
+needs in the LCs' annual development plans for the year 2020. Monitoring the number of beneficiaries in the PB pilot is
+the main PB intermediate indictor. The World Bank December 2020 virtual final implementation support mission and
+Third-party Monitoring (TPM) and implementing agency monitoring indicated that the end-line target of 5,000
+beneficiaries participating in the PB was surpassed by 4,83430, reaching a total of 9,834 beneficiaries by the end of the
+project (Intermediate Result Indicator 6). This intermediate indicator highlighted that the component supported the PDO
+by increasing community engagement in service delivery.
+34. However, this component 2B (PB) included several activities that were critical for achieving the PDO sub-objective.
+By Project closure, the project financed 16 PB sub-projects by allocating resources reflecting demand-driven community
+priorities. The PB sub-projects supported several sectors ranging from health (4 sub-projects), education (5 sub-projects)
+to water and sanitation (4 sub-projects) and food security (1 sub-project) (see Annex 4 Supporting document (D): PB
+27 According to the activity sheet: component 2A
+28 FCC, Ward C, Port Loko District Council and Bombali District Council
+29 This information was obtained from communication with the M&E specialist (Collina) on April 28th 2021.
+30 The number was collected by M&E officers in the field sent to PFMU and verified through joint supervision missions
+Page 14 of 61
+<<<PDF_PAGE_20>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+sectors distribution and Annex 4 (E) and (F): PB sub-projects in Port Loko and FCC).
+35. The PB initiative supported rehabilitation of existing facilities coupled with capacity building, information,
+communication and education (IEC). A five-day training was organized for WDCs in each pilot district on the PB process,
+information dissemination, community mobilization, conflict resolution report writing, and preparation of simple project
+budgets. All CSOs were trained and supported in carrying out a need-assessments for the preparation of PB proposals. A
+three-day training/workshop was conducted in each of the pilot councils to strengthen the capacity of WDC members in
+the five selected wards to help deliver high-level participation in the PB process. Jingles, posters, and radio talks were
+prepared in Krio and the local languages of the target communities on the PB objective and process. The WDCs were
+supported to screen and prepare sub-projects proposals and budgets and to prioritize sub-projects in line with the
+selection criteria in the project operational manual. Culturally sensitive IEC materials were developed to raise community
+awareness, with the outbreak of COVID-19 in 2020, the materials were tailored to inform communities on COVID-19
+protocols and help mitigate the outbreak. This was done in the 10 selected Wards in FCC and Port Loko District. The
+specific IEC materials produced included 10 roll-up banners with messages on PB and COVID-19 protocols; 10 flex banners
+with messages for the PB and COVID-19; 100 stickers with culturally sensitive messages on the PB and COVID-19; 7 audio
+Jingles in key local languages with messages on the PB and COVID-19; and 3 sensitization videos using local languages on
+the PB and COVID-19 (see Annex 4 Supporting document (H): Photos of PB, Communication materials).
+36. PB catalyzed a grassroots bottom-up approach. The implementation of the PB in the two districts demonstrated that
+citizen engagement could effectively strengthen service delivery through a demand-driven bottom-up approach, build
+trust, transparency, and accountability while ensuring resources are utilized transparently for the intended purposes.
+According to the BA, about 94.3 percent of beneficiaries agreed that the PB processes generated positive social
+mobilization in the two districts in which it was implemented. The IE indicated that over 84.3 percent of beneficiaries in
+FCC and Port Loko District affirmed that PB processes positively impacted their ability to influence LC spending priorities.
+The IE disclosed that participants at the Focused Group Discussions (FGDs) confirmed their LC development plans reflected
+community priorities since the onset of the JSDF-supported project. They attributed this to WDC members, community
+service organizations, and community-based organization's participation in the finalization of the LC's development
+planning and budgeting processes which also strengthened trust between LCs, WDCs and their constituents. The project
+prioritization process boosted the community ownership and in turn, the future sustainability of these investments. An
+unintended outcome of the PB initiative was confirmation by civil society leaders namely that the PB processes led to
+their inclusion and acceptance within the communities as budget interlocutors.
+37. Complementarity between PB, CMI and GRM interventions. Through joint activities (sensitization, training, and
+monitoring), PB (16 projects), CMI (62 projects) and the GRM were complementary and served as a basis for increasing
+the inclusion of marginalized groups, especially women, youth, EVD survivors, people living with disabilities, and the
+elderly in monitoring LCs' development activities and in making decisions on critical interventions. Component 2 activities
+supported the PDO by contributing to building trust and intra-communal cohesion where it had been compromised,
+increased social mobilization, and made local social services more responsive to citizen needs in the post-EVD
+environment. The project facilitated knowledge and learning, which enhanced the effectiveness of interventions.
+38. The JSDF activities did not overlap with ongoing donor/partner interventions in Port Loko District and Western
+Area Rural District with activities being implemented by: (1) the Japan International Cooperation Agency (JICA) Capacity
+Development for Comprehensive District Development Project; (2) and the Foreign Common Wealth Development Office
+(FCDO) Strengthening Community-Led Accountability to Improve Service Delivery in the Western Rural and Urban Areas
+Page 15 of 61
+<<<PDF_PAGE_21>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Project. From 2009 to 2018, the JICA project constructed one primary school and rehabilitated two primary schools in
+Wards 199 and 200 in Port Loko District. The FCDO project focused on improving social accountability and better service
+delivery through citizen engagement from 2016 to March 2021.
+39. Total number of beneficiaries benefiting from the project. Approximately 50,485 beneficiaries benefited from the
+project31, which exceeds the end-line target of 50,000 beneficiaries.32 The project created opportunities for stakeholders
+to benefit from the project directly, including training, coaching and mentoring, workshops/forums, direct funding for
+activity implementation, and distribution of materials and equipment. All of these activities and achievements have
+supported the PDO sub-objectives by engaging a large share of the communities to respond to the post-EVD needs at the
+local level.
+40. Establishing a responsive, inclusive and transparent citizen-centric mechanism. The project demonstrated that
+decentralization, community participation in a community-driven social safety net project, and building local government
+capacity are integral to making service delivery responsive, inclusive, transparent and creates an avenue for gender
+participation (i.e., strengthening women's voice and agency) in prioritizing service delivery.
+41. In conclusion, the project introduced a viable and effective community participatory service delivery safety net
+mechanism in Sierra Leone at a critical juncture. This model is being anchored in various decentralization and service
+delivery interventions nationwide.
+Justification of Overall Efficacy Rating
+42. Efficacy is rated High. The project achieved the objective of responding to the post-EVD needs at the local level in
+Sierra Leone. It did so through the two PDO sub-objectives (improving social sensitization and social accountability). The
+introduction of sensitization and awareness-raising activities, CMI, GRM and PB is rated High because of the innovation
+and improvements noted in community inclusion, participation, transparency and enhanced voice and agency of women
+in prioritizing service delivery. These interventions responded to the post-EVD needs at the local level in Sierra Leone by
+enhancing LC capacity to deliver services to the target population, especially during the COVID-19 restrictions. Taken
+together, the overall efficacy rating is High.
+C. EFFICIENCY
+Assessment of Efficiency and Rating
+43. The overall efficiency of the project is evaluated by: (i) cost-effectiveness of activities relative to alternatives; (ii)
+project administrative costs; and (iii) implementation efficiency.
+44. Economic Analysis. No ex-ante economic impact analysis was prepared for the JSDF and efficiency-related data are
+limited under the program, which makes it difficult to undertake a complete economic analysis. Contracting processes
+took place in a timely manner and all sub-projects under participatory budgeting (16)33 involving civil works were
+completed. The project did not experience any cost overruns in the initial contract amounts, as the implementing agency
+31 According to the World Bank December 2020 virtual final implementation support mission and virtual monitoring of end of project closing
+32 Data are obtained from the M&E officers in an internal communication on June 15th, 2021. The breakdown of the 50,845 project beneficiaries is as
+follows: the project launching ceremonies (992 beneficiaries), Component 1 (18,659 beneficiaries), Component 2A (11,048 beneficiaries), and Component
+2B (19,786 beneficiaries.) Due to COVID and some of the limitations in conducting additional verification, there is a slight possibility of overcounting or
+undercounting number of beneficiaries benefiting from the project activities.
+33 Nine sub-projects in FCC and seven sub-projects in Port Loko District.
+Page 16 of 61
+<<<PDF_PAGE_22>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+incorporated lessons learned from DSDP2 to help mitigate cost overruns.
+45. Cost-effectiveness. Participatory decision-making at the local level ensured that scarce resources were applied
+efficiently in response to local priorities, promoted local ownership of sub-projects, which combined with other
+complementary JSDF activities (such as a capacity building), made the sub-projects more amenable to being sustainable
+(i.e. community monitoring and ownership in fostering operations and maintenance). It is also expected to extend the life
+of the investments' benefits. The project consistently matched DSDP2 cost-efficiencies and outperformed the government
+funded projects (see Annex 4 Supporting documents (E &F): JSDF PB sub-projects in Port Loko and FCC, for a cost
+comparison.) Its cost-efficiencies can be partly attributed to the participatory budgeting process for sub-projects (i.e.,
+community labor, in-kind contributions, community monitoring, and GRM) and to economies of scale from simultaneously
+implementing multiple sub-projects as compared to single government implementation of sub-project which are more
+costly. JSDF projects also completed activities 1.5-3 times faster,34 with strong community participation and monitoring;
+support/monitoring by DecSec, FDD, PFMU, and a TPM consultant; and strong LC ownership.
+46. Administrative Efficiency. JSDF project management costs were lower than similar operations. The administrative
+costs to manage the PFMU were US$205,371, representing 7.5 percent of total disbursements (US$2,746,253). This is at
+the low end of the range for such projects and is attributed to: (i) the presence of an existing and operational PCU financed
+by GoSL; (ii) absence of procuring capital items such as vehicles; and (iii) no payroll cost to the project as this was covered
+by the GoSL. An IFAD study comparing administrative costs of community service delivery projects found costs ranging
+from 10 to 24 percent, with average administrative costs of 16 percent.
+47. Implementation Efficiency. JSDF appraisal estimates were benchmarked against DSDP2, and its scope was aligned
+with existing national- and local-level capacities. Despite delays resulting from elections in 2018, which led to staff changes
+at DecSec and LCs, and the outbreak of COVID-19 in 2020, the project was approved on February 6, 2017 and became
+effective on June 27, 2017. All activities were completed by December 27, 2020 (project close) and completion certificates
+were awarded to the respective sub-project LCs in Port Loko District and FCC.
+48. Overall efficiency rating. Project activities were efficient. The above findings revealed a lower cost in implementing
+JSDF sub-projects as compared to GoSL sub-projects. The administrative cost was below the average cost of similar
+activities. Despite exogenous events that led to delays (i.e., staff turnover, procurement delays and COVID-19 pandemic),
+all activities were completed by the original closing date. For all these reasons, overall efficiency is rated Substantial.
+D. OVERALL OUTCOME RATING
+49. The overall outcome rating for the project is Satisfactory based on High Relevance of the PDO throughout
+implementation, the High rating under Efficacy demonstrated in the achievements attributable to project activities,
+innovations and responsiveness, and the Substantial rating for Efficiency as evidenced by the notable results achieved in
+the cost effectiveness, administrative, and implementation efficiency. In combining these ratings, and in line with the ICR
+Guidelines, the overall outcome rating is Highly Satisfactory.
+34 This calculation is based on data provided by FDD and TPM findings.
+Page 17 of 61
+<<<PDF_PAGE_23>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+E. OTHER OUTCOMES AND IMPACTS
+• The project highlighted the feasibility of creating partnerships between national, local and community
+groups in identifying and prioritizing their needs.
+• The participatory budgeting pilot in FCC and Port Loko District created a demonstration effect. It
+displayed citizen engagement in the service delivery decision-making process and supported CMIs being
+replicated in other LCs.
+• Communities strengthened the citizen-government social contract through, for instance, contributing their
+human capital and local resources were needed for timely completion of works.
+• Communities received short-term economic benefits through short-term employment and thorough
+procurement of local materials for PB sub-projects which stimulated the local economy.
+• Despite the fact that the project did not focus on trauma healing, activities did contribute to reducing
+psychological stress by EVD survivors and their families. Based on anecdotal information, the ICR team was
+informed that communities increased productivity and earnings, spawning inclusive development such as the
+rice-processing hubs in Marampa Chiefdom (Port Loko District) and Kambia Town (Kambia District), leading to
+improved income opportunities.
+• Communities monitored 62 projects in FCC (22 projects) and Port Loko (40 projects)35 covering a range of sectors
+from health and education to water/sanitation and agriculture, this is a precursor to their engagement in setting
+up operations and monitoring committees thus creating a mechanism for sustainability36.
+• Communities envisioned and implemented multi-faceted interventions, such as raising awareness of free GoSL
+healthcare services for EBV victims and their families at memorial services and alerting them to possible linkages
+with other relevant government programs.
+• The project supported an adaptive response to service delivery during the COVID-19 response in the selected
+districts. The adaptive framework allowed for partnerships with national, sub-national government agencies and
+communities to be strengthened as outlined in the 2017 Development Operational Guidelines of the Ministry of
+Local Government and Rural Development Local Council.
+• The project also supported building the procurement capacity of communities and LCs by training 20 local
+government officials and 50 community members under the participatory budgeting activities. This expedited
+implementation and led to improved transparency37.
+• The lessons learned have been catalytic in rolling out the new GoSL decentralization policy. Specifically, objective
+(e) of the policy, which supports the "promotion of the wellbeing of local citizens, especially of marginalized
+groups such as women, youth, and people living with disabilities, by giving them a greater role in participation in
+the planning, implementation, and evaluation of local development plans."
+• COVID-19. The positive spillover from the project's capacity-building efforts drawing on Ebola interventions
+proved to be instrumental in helping pilot communities respond to the COVID-19 pandemic. Communities in the
+project districts responded proactively to prevent the pandemic from spreading in their localities. In Port Loko
+and Bombali Districts, very few COVID-19 cases were reported as compared to the Western Area. In the Western
+Area, the most populous region with a population of nearly 1.5 million people, only 2,900 people (0.19 percent)
+35 Data obtained from internal communication with the client M&E specialist for component 2 on June 11th, 2021
+36 Data are collected from reports from the District Coordinators in Freetown and Port Loko 2018-2020
+37 Data obtained from the M&E team at DecSec in an internal communication on June 8th, 2021. (the time stated that the data are from various training
+reports)
+Page 18 of 61
+<<<PDF_PAGE_24>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+were infected as of May 30, 2021.38 According to the 2020 BA, 85.5 percent of beneficiaries interviewed in all the
+four Councils believed that community sensitization activities in the capacity building component helped them
+better understand EVD-related issues and better prevent contracting future diseases of a similar nature such as
+COVID-19. The role of project interventions, inclusive of applying to Ebola response protocols, hygiene
+maintenance, and generating support from LCs, key national agencies and other stakeholders in combatting the
+pandemic, contributed to containing the disease in these districts.
+Poverty and Shared Prosperity
+50. The JSDF project introduced a community participatory safety net approach to support EVD survivors and their
+families. It helped asset creation through public works, skills development during COVID-19 under the PB sub-projects
+and improved access to services by the end-users in the pilot districts. The implementation of 16 PB sub-projects created
+employment for 251 people in both FCC and Port Loko PB sub-projects, with females representing 35 percent of total
+employed (see Annex 4 Supporting document (G): Number of people employed in PB community sub-projects.) It
+supported complementary interventions by GoSL, the Bank, and partners targeting improvements in human capital
+outcomes by: (i) allowing communities to prioritize their service delivery needs in health, education, etc., improve access
+which in turn are crucial elements for closing the human capital gap; (ii) promoting behavioral change through behavioral
+sensitization, awareness-raising workshops which helped increase demand for health and education services under the
+participatory budgeting sub-component; (iii) building social accountability platforms to strengthen grievances; and (iv)
+improving crisis-response systems to mitigate the impact of shocks and disasters as seen during the recent COVID-19
+pandemic and project response in the pilot districts building on the project's post-EVD sensitization efforts.
+Gender
+51. The project supported the World Bank Gender Strategy objectives 1 "supporting human endowments (health,
+education and social protection" and objective 4 "enhancing women's voice and agency and engaging men and boys
+Project indicators were designed to capture gender-disaggregated data39). Fifty percent of beneficiaries were women,
+as reported in the baseline assessment, which aligned with the end of project target. Seventy percent of the respondents
+in the IE survey40 confirmed that women were fully involved in the activities promoted by CSOs and the LCs under the
+project.41 The project developed a gender-mainstreaming strategy and uniformly integrated, implemented, and
+monitored gender parity across project activities. The strategy was transacted through training, operations manual, IEC
+and outreach materials, CMI, and GRM. Officials of the four LCs and selected CSOs received training, mentoring, and
+coaching on the principles outlined in the gender strategy. A three-day workshop was organized in November 2018 by the
+DecSec at the Port Loko District to anchor the guiding principles of the strategy and gender perspectives of the project in
+the implementation of project activities. The operations manual clearly spelled out that women constitute at least half of
+the decision-making committee for identifying, planning/budgeting, and implementing activities. The project empowered
+women to assume leadership positions with 79.3%42 of women taking on key responsibilities in the CMG forums.
+Communication outreach materials were socially and culturally appropriate, tailored to literacy levels, and timed for
+38 Population numbers were obtained from Statistics Sierra Leone (https://www.statistics.sl/ )"2015 Population and Housing Census Final Results" and
+number of COVID cases are obtained from Directorate of Health Security and Emergencies Ministry of Health And Sanitation (https://dhse.gov.sl/)
+39 World Bank Group Gender Strategy (FY16-23)
+40 Difference in female percentage between the RF and IE can be attributed to the smaller sample size of the IE
+41 For example, in December 2020, the JSDF project team interviewed officials of the Port Loko District CSO Collective Development Initiative and
+confirmed gender parity was observed in its activities.
+42 CMI District Coordinators Reports, January 2019 and January,2020: Women in Leadership
+Page 19 of 61
+<<<PDF_PAGE_25>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+maximal access and inclusion. The project executed gender parity in training, CMGs, and social-sensitization interventions.
+By strengthening their voice and agency, women were empowered and were given the forum to express grievances.
+52. High female participation in the CMGs. Off the 260 people participating in the 30 CMGs in both FCC and Port Loko,
+65 percent were females vis-à-vis 35 percent males. About 70 percent of the respondents in the IE survey confirmed that
+women were fully involved in the activities promoted by CSOs and the LCs under the project.43 In addition, PB sub-projects
+also benefited females, particularly in the education sector. In the 5 rehabilitated schools in Port Loko, 51 percent of the
+student were girls (1,079 out of 2,116) (see Annex 4 Supporting document (E): JSDF PB Sub Projects in Port Loko.)
+Sensitization activities under Component 1 also showed strong female participation. Of the total 38,249 participants, 51%
+were female (19,368 females and 18,881 males.) (see Annex 4 Supporting document (A): breakdown of beneficiaries
+reached through sensitization interventions, by gender.) Finally, an auxiliary outcome of the project was creating short-
+term employment for women under the PB sub-projects. Thirty-five percent of the beneficiaries employed under the PB
+sub-projects were women (see Annex 4 Supporting document (G): The Number of people employed in PB community sub-
+projects).
+Institutional Strengthening
+53. The JSDF project built on existing DSDP2 service delivery institutional arrangements. The JSDF project provided
+resources to deepen DSDP2 demand-driven approaches to service delivery reflected by strong social accountability,
+community monitoring, GRM, and effective partnerships with CSOs and national and local government. The project is
+built on the premise that strengthening institutions is key to laying the foundations for higher and more sustainable
+economic growth, which can help reduce the drivers and impact of fragility, conflict, and violence.
+54. The project strengthened inter-ministerial coordination at the policy level and intergovernmental coordination.
+Despite initial resistance, the ministers of Agriculture, Finance, Health, Local Government, and Social Welfare signed an
+inter-ministerial Memorandum of Understanding to strengthen information flows and preempt mitigating bottlenecks.
+This inter-ministerial forum provided the necessary space to craft policy, streamline implementation, and build
+sustainability. The project also deepened intergovernmental coordination setting a precedent for the operationalization
+of the new decentralization strategy.
+55. The project scaled up key DSDP2 activities to consolidate gains made in service delivery by placing a premium on
+social accountability, in line with the Bank's CAS and SCD recommendations and GoSL country development agenda.
+These activities included: (i) providing training to LCs, communities, and local leaders on resilience to shocks; (ii) launching
+citizen dialogue to strengthen inclusion and community resilience; (iii) organizing mourning ceremonies and memorial
+services in honor of Ebola victims bringing about reconciliation and mitigating stigma; (iv) creating over 30 CMGs in key
+Wards to supervise public services; and (v) instituting a two-tier grievances redress mechanism to provide a voice to
+citizens on local services delivery challenges.
+56. The project designed an effective, replicable road map for sustainable community participation and responsive
+national and local government partnerships. The project interventions were incorporated under Pillar 8 of the Sierra
+Leone Medium-Term National Development Plan 2019-2023. This will continue to strengthen citizen engagement, social
+accountability, and transparency in service delivery and integrated community demands in LC development plans in turn
+43 For example, in December 2020, the JSDF project team interviewed officials of the Port Loko District CSO Collective Development Initiative and
+confirmed gender parity was observed in its activities.
+Page 20 of 61
+<<<PDF_PAGE_26>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+bolstering the safety net dimension of community-led development.
+III. KEY FACTORS THAT AFFECTED IMPLEMENTATION AND OUTCOME
+KEY FACTORS DURING PREPARATION
+57. Design of objectives and activities. The PDO was aligned with the post-EVD context and the GoSL’s
+development agenda in Sierra Leone as were the components which were well structured, had clear operational
+logic, were relevant and drew on lessons learned from DSDP2 in designing social accountability platforms (GRM
+and CMI). During the design phase, the Bank team engaged extensively with partners, national, local, CSO, and
+community representatives to consult on the design and align the design with the local needs and priorities. While
+the post Ebola needs are not limited to the PDO sub-objectives, the project activities were designed to respond to
+the post-EVD needs that were: (a) priorities for the Client; (b) fall within the parameters of the JSDF financing
+guidelines; and (c) complement other interventions. The sequencing of tasks was also adequate, and implementing
+agencies had the capacity to manage project activities at appraisal, given their extensive engagement in the DSDP1
+and 2 projects. The project design included extensive training, inputs and logistics, financial support, and
+sensitization for communities and LCs to partner in project coordination. An inter-agency committee developed at
+the LC level supported community interventions and coordinated CMI and GRM activities.
+58. The project catalyzed community engagement in prioritizing service delivery under the participatory
+budgeting framework. This innovation was well-received by all stakeholders; however, additional time should have
+been factored into project design to allow communities and local institutions to absorb and adapt to a demand-
+driven approach. For instance, the PB launch was delayed and started around July 2020 due to procurement delays
+and COVID-19 restrictions. In contrast, the GRM,44 CMI and other sensitization activities were rolled out and
+implemented early on during project implementation. Nevertheless, all project activities were completed by
+project closing.
+59. Results framework (RF). Indicators, baselines and targets for the RF benefitted from the institutional
+arrangements and lessons learned from the DSDP2 and were appropriate for the intended project objective and
+related outcomes. The project put in place a structured monitoring plan to collect information on the project
+achievements. At the preparation stage, an agreement was reached with the GoSL to continue with the
+implementation of the Integrated National Public Services Survey (INPSS)45 and Comprehensive Local Government
+Performance Assessment System (CLoGPAS)46 surveys developed under the DSDP1 and DSDP2 projects. However,
+constrained resources precluded this approach. The project team adopted the next-best alternative: a baseline and
+end-line BA complemented by an end-of-project impact evaluation. On the other hand, the PDO was such that it
+needed to be defined by two sub-objectives which allowed for a more targeted RF.
+60. Risks and mitigation measures. The risks and mitigation measures identified during preparation were largely
+adequate. Identifying risks of stakeholder over-expectation in the planning phase would have benefitted the
+44 For instance, all 51 complaints reported under the JSDF GRM were addressed and closed by the project closure. The 51 cases were resolved within the
+stipulated time frame of 22 days and 3 cases lasted for 30 days.
+45 INPSS was a nationally representative annual survey that tracked progress on the basic services that DSDP1 and 2 supported.
+46 CLoGPAS was a key survey used to measure improvements in the capacity of LCs.
+Page 21 of 61
+<<<PDF_PAGE_27>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+project. The stakeholders expected remuneration for services provided under the project, such as offsetting the
+costs of fuel, transportation, and food to attend the meetings and remunerating attendance. The EVD victims
+expected the project to provide direct income to support improvements in livelihoods, which was not part of the
+project design. This risk was mitigated through follow-up sensitization sessions to address grievances where the
+implementing agencies engaged in consultations with communities and local leadership to clarify the intended
+scope and design of the project. In addition, the Bank team reached out to FDD, PFMU, and complementary Bank
+projects (i.e. Social Safety Net) to identify potential linkages to support livelihood and other social services to EVD
+survivors and their families. The FDD team were able to establish linkages for some of the EVD survivors and their
+families to key social service programs.
+KEY FACTORS DURING IMPLEMENTATION
+Factors subject to government and/or implementing entities control
+61. Governance/Human Resources. The project encountered staffing challenges at the local and national levels
+around the 2018 elections. In the lead-up to elections, the project team partially implemented activities to ensure
+effective utilization of project resources and to achieve the intended results. In the aftermath of the elections,
+Aide-Memoires indicate that four core DecSec staff were relieved; and LC leadership were changed. The positions
+at DecSec were not replaced for six months. This incurred significant institutional memory loss and increased costs
+for training and social-sensitization interventions for the new staff from the staff that were retained in DecSec. The
+presence of the core and experienced DecSec staff was a key factor for catalyzing implementation after the impasse
+resulting from these institutional changes. Future Bank engagement should ensure there are contingency clauses
+in contracts to manage these types of risks and that dedicated staff are retained under the project.
+62. Intergovernmental ownership and coordination. As mentioned above, the project was strategic in solidifying
+ownership of the activities through a Memorandum of Understanding among the five key public stakeholders. This
+mechanism facilitated face-to-face discussions and vertical and horizontal data/information flows among
+ministries, departments, and agencies. This proved to be key to furthering the implementation of innovative
+mechanisms such as participatory budgeting.
+63. Procurement. The PFMU had a designated procurement staff for the project who was also working on other
+projects. The work overload on the procurement specialist lead to delays in procurement timelines and uploading
+requests into the Systematic Tracking of Exchanges in Procurement (STEP). Technical assistance from Procurement
+Bank specialists helped resolve and expedite procurement delays as well as the experience of the procurement
+specialist.
+64. M&E. The project maximized the human capital and infrastructure accumulations of DSDP2 for M&E,
+facilitating the collection, use, and reporting of data. The project adopted the next-best alternatives to offset
+resource constraints to undertaking the INPSS and CLoGPAS survey, using baseline and end-line beneficiary surveys
+complemented by an end-of-project impact evaluation.
+Factors subject to World Bank control
+65. Adequacy of supervision. Bank task team leaders did not change. The core Bank team and client at the PFMU,
+FDD and a segment of key DecSec staff working on DSDP2 were involved in supervision, which allowed for collective
+Page 22 of 61
+<<<PDF_PAGE_28>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+resolution of problems in an expeditious manner. In January 2020, the COVID-19 crisis curtailed in-person
+supervision by the Bank team and field visits by the implementing agencies. The project redressed this exogenous
+factor through intensive virtual technical and supervision missions, hiring a TPM consultant, intensive LCs
+engagement in the pilot districts and spaced out in-country joint supervision missions by the implementing
+agencies. In July/August 2020, field visits resumed and expedited the remaining activities, especially the PB pilots
+in FCC and Port Loko District.
+66. Proactive response to align Annual Work Plans with component needs. The project adjusted the Annual
+Work Plan to accommodate changing budget needs to facilitate project implementation.
+67. Delay in funds disbursement. Disbursements were initially slow. The release of the first tranche of funds from
+the Bank to GoSL was delayed six months because of systemic technical glitches; this delay rippled into the project
+launch timeline. An internal miscommunication between PFMU and DecSec staff in processing and clearing
+payments for the PB activities caused procurement delays; the Bank team intervened to resolve these issues, and
+as a result, significant procurement was completed in the last 18 months of the project.
+68. Revising institutional arrangements and reallocating funds. The project was restructured in January 2020
+based on extensive consultations at the mid-term review. The restructuring reallocated funds from sub-projects
+and training budgets to operating costs to supplement the implementing partner's supervision. It also added the
+FDD as an implementing agency with the PFMU and DecSec, which constitutes a mixed team of economists and
+FM, procurement, and civil works experts, to accelerate the implementation of Component 2B. The FDD's full
+engagement in project activities provided extensive technical and administrative capacity, filling gaps such gaps as
+FM and procurement. The FDD's experience in managing the transfer of funds to LCs and in supervising LC projects
+led to the successful acceleration, completion, and handover of Sub-component 2B activities in FCC and Port Loko
+District.
+Factors outside the control of government and or implementing entities
+69. COVID-19 crisis. The pandemic caused delays in the implementation of program activities since the movement
+and gathering of people was restricted, and district, township, and offices had to close during the lockdowns. The
+pandemic limited stakeholder engagement initially, including with LCs, WDCs, CSOs, MDAs, women, youth, EVD
+survivors, people living with disabilities, and other vulnerable and marginalized groups in the target LCs. The
+pandemic also delayed the initial start timelines to implement PB sub-projects.
+IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME
+A. BANK PERFORMANCE
+70. Quality at Entry. The Task Team ensured quality at entry through a context-specific project design. The Bank's
+performance in the identification, preparation and appraisal led to the development of a sound project design,
+with sufficient steps taken to strengthen project management developed under DSDP2 of the implementing
+agencies capacity in procurement, FM, and M&E capacity. The project objectives reflected the findings, lessons
+learned, and recommendations emerging from lending operations and economic and sector work in Sierra Leone.
+These included the "2008 IEG assessment of decentralization in client countries" and a "2009 joint report by the
+Page 23 of 61
+<<<PDF_PAGE_29>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Bank and the government on decentralization in Sierra Leone" as well as "A Review of World Bank Support for
+Accountability Institutions in the Context of Governance and Anticorruption" and "Pathways for Peace: Inclusive
+Approaches to Preventing Violent Conflict." Finally, the project drew on lessons learned in-country and Bank-wide
+for community-driven development approaches to safety net programs, as well as for potential risks to mitigate.
+71. The project was relevant to and consistent with GoSL policies/priorities and the Bank strategies47. The project
+designed a highly replicable – and the country's first – participatory budgeting model, with a lens toward the
+National Decentralization Policy (2020) and Medium-Term National Development Plan (2019-2023). The project
+capitalized on the Bank's ongoing civil works for implementation, such as the DSDP2 (2012-2018), especially for its
+citizen engagement and social accountability mechanisms, and on the Bank's past civil works for broader
+institutional arrangements, such as the Capacity Building Project (2004-2008) and DSDP1 (2009-2011) and built
+upon the Bank's community-level engagement through the National Social Action Program (NSAP). In retrospect,
+the PDO could have been more narrowly defined to avoid the need for sub-objectives, however, the RF was
+developed to show progress towards the achievement of these sub-objectives and as such the overall PDO.
+72. Quality of Supervision. The project design was innovative, and the Bank team was agile. The Bank's
+comparative advantage was displayed in the array of support to the project. Bank fiduciary, procurement, and
+monitoring and evaluation teams redressed bottlenecks and streamlined operations. Bank technical assistance
+devised good-fit solutions pre-pandemic (participatory budgeting, community monitoring initiative, and
+base/endline assessments) and post-pandemic (virtual technical assistance and supervision, TPM) and, here,
+reviewing/revising training schedules, monitoring funds expended under PB pilots, and periodically training
+facilitators for better beneficiary support to allow timely completion of activities. Bank reporting reflected clear,
+cogent, and actionable supervision missions as seen through Aide Memoires and Regular Implementation Status
+Reports. In sum, the Bank team identified issues proactively and worked closely with the implementing agencies
+and counterparts to resolve issues.
+73. The project highlighted the importance of being adaptive and restructuring the project to accelerate
+implementation and improve institutional coordination. According to the last Aide mémoire (Final Implementation
+Support Mission, November 30 – December 10, 2020), the JSDF restructuring led to strong teamwork and
+performance by the PFMU, DecSec and FDD teams in delivering results despite the constraints placed by COVID-19
+and other challenges. The overall Bank performance is Satisfactory.
+B. ENVIRONMENTAL, SOCIAL AND FIDUCIARY COMPLIANCE
+74. Safeguards. The project retained its Category B environmental classification throughout implementation.
+Environmental Assessment (OP 4.01) was triggered at appraisal as a precaution due to participatory budgeting
+under Component 2. An Environmental and Social Management Framework (ESMF) was prepared and disclosed
+on the World Bank website on September 26, 2016 and in Sierra Leone on September 24, 2016. No major adverse
+environmental and social impacts were observed during project implementation. The overall safeguards
+performance of the project was rated Satisfactory in Implementation Status and Results Reports (ISRs) submitted
+consecutively from December 2017 to April 2020 (December 8, 2017; June 28, 2018; January 26, 2019; September
+10, 2019; April 23, 2020). In the ISR submitted at project closing (December 24, 2020), overall safeguards
+47 Country Partnership Framework, Systematic Country Diagnostic, Africa Region Social Protection Strategy, and Africa Region Emergency Ebola Response
+Program.
+Page 24 of 61
+<<<PDF_PAGE_30>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+performance was downgraded to Moderately Satisfactory since no Environment and Social Management Plan
+(ESMP) had been prepared for site works under Component 2 due to the departure of the project safeguards
+specialist a gap in the transition with orienting the new project safeguards specialist on the remaining tasks.
+Monitoring and reporting on environment and social safeguards (E&S) implementation and the project Grievance
+Redress Mechanism (GRM) were scaled up towards the end of the project implementation with support from the
+Bank safeguards specialists, with reports on E&S implementation and the GRM prepared by the project
+Implementing Unit in December 2020. Component 2B activities did not cause any irreversible harm. The safeguards
+rating at project closing is rated as Moderately Satisfactory.
+Financial Management (FM)
+75. Over the lifetime of the JSDF project, FM was rated as Satisfactory. FM reviews were conducted periodically.
+In general, findings revealed that the proceeds were being used for their intended purposes and, accordingly, were
+compliant with FM covenants. Interim financial reports (IFR) and audit reports were submitted in a timely manner
+and in accordance with established Bank procedures. There were no fundamental internal control issues identified
+in financial statements or major audit observations. Overall, funds flows, reporting, and accounting system(s) were
+deemed sound. Fiduciary clinics were provided throughout project implementation. Disbursement at the closing
+date of the project stood at US$2,746,253.34 (99.9 percent). The FM rating at project closing thus stands as
+Satisfactory.
+Procurement
+76. Quality at Entry. At entry, the procurement quality is rated Satisfactory. In preparation, the procurement
+capacity assessment gave a Substantial risk rating, requiring the GoSL central fiduciary management unit to appoint
+a qualified focal procurement officer. Overall, in terms of procurement, issues were identified, and steps were
+taken to ensure the efficiency and effectiveness of procurement toward the achievement of the project
+development objectives. The Bank procurement team provided timely support to resolve procurement delays.
+77. Quality of Implementation by the Borrower. The quality of the Borrower during implementation is rated as
+Satisfactory. The GoSL PFMU Unit was responsible for project administration, including procurement. The PFMU
+performed well from beginning to closing. The project team was able to process Bank “No Objections” for prior-
+review contracts, including procurement plans, and to clear post-review contracts during Bank post-review
+missions.
+Monitoring and Evaluation
+78. The overall monitoring and evaluation (M&E) rating for the project is Substantial. The measures put in place
+to track and monitor project indicators were responsive to emerging challenges. It built on the strong project
+monitoring platforms developed under DSDP2, which facilitated tracking progress, building transparency, detecting
+challenges, and adjusting interventions in a timely manner. In the pilot districts, the project had a dedicated M&E
+team at the PFMU, DecSec, and LC level to effectively supervise and monitor progress. These M&E specialists were
+key members of the DSDP2 project and their knowledge and experience in identifying risks and alerting
+management and the Bank team to emerging challenges were key to resolving issues. During the course of
+implementation, the M&E specialists benefited from hands-on training and TA from a Bank M&E specialist. The
+Page 25 of 61
+<<<PDF_PAGE_31>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+project scaled up engagements with LCs, CSOs, and communities to resolve emerging challenges and benefited
+from hiring an independent TPM consultant to undertake spot checks and relay independent reporting.
+Collectively, these approaches led to early detection and resolution of problems and allowed the Bank team to
+engage quickly, especially during the COVID-19 pandemic where there were no physical supervision missions.
+79. The project also scaled up the GRM and CMI mechanisms to ensure inclusion and adoption of corrective
+actions and to respond to and resolve the concerns of beneficiaries. There were 30 CMGs created to monitor 62
+projects and the 51 complaints have been addressed through the GRM throughout project implementation. For
+example, in Port Loko a fire broke out in the Ebola cemetery where new trees were planted that needed
+replacement. This issue was escalated to the LCs through the GRM framework. The LCs took action and resolved
+the issue within two weeks and planted new trees in commemoration of the Ebola victims. The project also
+conducted baseline and end-line BAs and an impact evaluation to verify the project’s impact on beneficiaries in lieu
+of the absence of the two key surveys that were used under DSDP2 (INPSS and CLoGPAS).
+80. The project conducted regular technical review meetings, especially following the review of quarterly progress
+reports. The meetings enabled the project to collectively address issues and challenges identified in the specified
+reporting period.
+Compliance Issues
+Risk to Development Outcome
+The risk to development outcomes is rated Low.
+81. Precedent-setting service delivery. The JSDF was designed within the framework of a demonstrated
+government commitment to service delivery within a decentralization framework and the project was
+implemented through pre-existing, national structures. The project contributed to consolidating elements of the
+DSDP1 and DSDP2 especially related to strengthening community engagement in the service delivery process. The
+GoSL, in partnership with LCs, demonstrated its commitment to furthering community participation in service
+delivery and is scaling up demand-driven approaches. The interventions continue to be relevant to the Sierra Leone
+Medium-Term National Development Plan (SLMTNDP) 2019-2023 and the Bank CPF. In particular, the PB sub-
+component supports SLMTNDP Cluster 4 by providing opportunities to: (i) build trust in state institutions (Cluster
+4.6); (ii) strengthen public service delivery and decentralization (Cluster 4.7); and (iii) solidify local governance and
+rural development (Cluster 4.8). The PB sub-component also supports SLMTNDP Cluster 1 by supporting the
+development of human capital. The framing of the JSDF within this context of ongoing government commitment
+helps mitigate the risk of a reversal of the outcomes.
+82. Sustainability. CMGs ensured operations and maintenance of the rehabilitated services financed under PB in
+FCC and Port Loko District were addressed and plans are in place for their continued involvement in anchoring
+sustainability of these assets beyond the life of the project. FDD is preparing a revenue potential of local and
+chiefdom councils plan with a view to identifying their respective revenue potentials and strengthening their
+capacity to collect the revenues. These resources will be applied towards the operations and maintenance of PB
+sub-projects and other related project activities. In addition, FDD is preparing an asset management plan that lays
+out a schedule for operations and maintenance to operate and maintain the PB sub-project investments once the
+Page 26 of 61
+<<<PDF_PAGE_32>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+local revenues have been mobilized. The Bank’s recently approved “Accountable Governance for Basic Service
+Delivery” (to be launched in the fall of 2021) will build on the JSDF citizen engagement service delivery model.
+V. LESSONS LEARNED AND RECOMMENDATIONS
+83. The JSDF demonstrated the importance of coordinated action among multiple implementing agencies and
+using existing structures. National and local stakeholders succeeded in implementing the JSDF project. This
+platform demonstrated the importance of having a coordinated partnership in place to catalyze and foster
+partnerships between national government, LCs, and communities in responding to shocks, particularly during the
+Post-Ebola outbreak and COVID-19 pandemic. These arrangements could serve as a replicable, social-
+accountability, and participatory-budgeting model for other projects and government interventions (i.e., the
+National Decentralization Plan (2020) and the Medium-Term National Development Plan (2019-2023 and the new
+Bank Governance and Accountability Project).
+84. Community engagement and shock-responsiveness. The active involvement of the community committees
+in project activities, including monitoring were key to enhancing community mobilization, social accountability,
+improved governance and transparency under the PB sub-projects. The project interventions helped build their
+resilience and built social cohesion.
+85. Importance of using local structures. The success of the project relied on working with facilitators from the
+target communities and organizing support activities in the communities where the beneficiaries resided. The
+facilitators were selected from the same communities as the beneficiaries, and the community-based sensitization
+and capacity-building training made it possible for the facilitators to work closely with the beneficiaries and monitor
+progress, which strengthened community capacity and also bolstered social inclusion.
+86. Gender inclusion. The project demonstrated the importance of mainstreaming gender in decentralized
+service delivery which in turn led to strengthening social cohesion and elevating the role of women in the decision
+making process reflecting community priorities, and strengthening their role in the CMI which helped catalyze sub-
+project implementation which can generate a more viable platform for future sub-project sustainability.
+87. Staff attrition and leadership commitment. Proper modalities such as contingency clauses need to be
+included in contracts to manage risks of staff departure/attrition resulting from political transitions and draining
+institutional memory and implementation momentum.
+88. Procurement. Additional procurement staff need to be added to support urgent project requests to avoid
+procurement delays.
+89. Strong teamwork. The project highlighted the importance of using the restructuring process to improve
+institutional coordination. The JSDF restructuring led to enhanced cooperation and a strong performance by the
+PFMU, DecSec, and FDD teams in delivering project activities despite the constraints imposed by COVID-19 and
+related challenges.
+90. Synergies from anchoring participatory community service delivery approaches in safety net operations.
+Projects Including communities in prioritizing, participating and monitoring service delivery is a key entry point in
+Page 27 of 61
+<<<PDF_PAGE_33>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+leveraging and developing adaptive safety net programs in the FCV context. These approaches have helped restore
+citizen-state trust and instituted measures to strengthen social cohesion and local development priorities. In
+addition to Sierra Leone, this approach has been successfully implemented in other SPJ operations such as Yemen
+under the Emergency Crisis Response Project, Iraq Social Fund Project, Benin community-driven Development
+Project, Ethiopia Promoting Basic Services 3 Project, and the Northern Uganda Social Action Fund Project.
+91. Projects and Bank engagement needs to be adaptive. This is crucial given the global and climatic changes
+facing many countries. During the COVID-19 pandemic, the Bank team engaged in frequent virtual supervision
+monthly meetings to follow up on project implementation and resolve issues. The Bank team hired a TPM to
+independently monitor project implementation and report back to the Bank team on any risks. This facilitated quick
+and timely responses. The JSDF Post Ebola project interventions (communication, sensitization and provision of
+hygiene supplies) proved to be relevant and timely in helping address challenges emerging as a result of the COVID-
+19 pandemic in the project districts.
+92. Working with civil society organizations is critical to enhancing community participation. The involvement
+of the CSOs in the PB has increased community participation not only in the PB, but also in the activities of the LCs.
+Despite the delay in their recruitment, the CSOs were highly instrumental in the implementation of the PB. Their
+familiarity with the communities and expertise in social mobilization led to increased participation of the
+communities especially in the PB process.
+.
+Page 28 of 61
+<<<PDF_PAGE_34>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS
+A. RESULTS INDICATORS
+A.1 PDO Indicators
+Objective/Outcome: The project was designed to respond to the post-EVD needs at the local level (PDO) through two sub-objectives. Key PDO sub-
+objectives included: (a) enhancing social harmonization/inclusion (social sen
+Unit of Formally Revised Actual Achieved at
+Indicator Name Baseline Original Target
+Measure Target Completion
+Percentage of beneficiaries Percentage 0.00 0.00 65.00 75.30
+who affirm social sensitization
+activities have been positive 23-Jun-2017 23-Jun-2017 25-Dec-2020 27-Dec-2020
+toward bringing people
+together in the four (4) districts
+in which sensitization activities
+are conducted
+Comments (achievements against targets):
+Exceeded target.
+Unit of Formally Revised Actual Achieved at
+Indicator Name Baseline Original Target
+Measure Target Completion
+Number of sectors in CMI Number 0.00 0.00 10.00 10.00
+piloting districts quarterly
+assessed and managed 23-Jun-2017 23-Jun-2017 25-Dec-2020 27-Dec-2020
+Page 29 of 61
+<<<PDF_PAGE_35>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+considering citizen feedback
+Comments (achievements against targets):
+Achieved. The CMI was carried out in two pilot LCs. Projects monitored were in 5 sectors (Health, Education, Social Welfare, Rural Water, and Solid Waste
+Management) for each LC, resulting in 10 sectors in total.
+Unit of Formally Revised Actual Achieved at
+Indicator Name Baseline Original Target
+Measure Target Completion
+Percentage of beneficiaries Percentage 0.00 0.00 65.00 94.30
+who affirm public budgeting
+processes generated a positive 23-Jun-2017 23-Jun-2017 25-Dec-2020 27-Dec-2020
+social mobilization effect in the
+two (2) districts in which
+participatory budgeting is
+conducted
+Comments (achievements against targets):
+Exceeded target. Data was received on 12/18/2020 from the endline beneficiary assessment.
+Unit of Formally Revised Actual Achieved at
+Indicator Name Baseline Original Target
+Measure Target Completion
+Direct project beneficiaries Number 0.00 50000.00 50000.00 50485.00
+23-Jun-2017 23-Jun-2017 25-Dec-2020 27-Dec-2020
+Female beneficiaries Percentage 0.00 50.00 50.00 50.00
+23-Jun-2017 23-Jun-2017 25-Dec-2020 27-Dec-2020
+Page 30 of 61
+<<<PDF_PAGE_36>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Comments (achievements against targets):
+Exceeded target.
+A.2 Intermediate Results Indicators
+Component: • Component 1 – LC social-sensitization activities – sought to promote social cohesion and resilience by strengthening LC capacity and by
+implementing community-wide sensitization meetings, forums, an
+Unit of Formally Revised Actual Achieved at
+Indicator Name Baseline Original Target
+Measure Target Completion
+Number of WDC members, LC Number 0.00 200.00 200.00 534.00
+councilors, traditional and
+religious healers trained on 23-Jun-2017 23-Jun-2017 25-Dec-2020 27-Dec-2020
+trauma healing (% of which are
+females)
+Comments (achievements against targets):
+Exceeded target.
+Unit of Formally Revised Actual Achieved at
+Indicator Name Baseline Original Target
+Measure Target Completion
+Number of beneficiaries Number 0.00 25000.00 25000.00 38249.00
+reached through LC trauma
+and sensitization interventions 23-Jun-2017 23-Jun-2017 25-Dec-2020 27-Dec-2020
+(% of which are females)
+Page 31 of 61
+<<<PDF_PAGE_37>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Comments (achievements against targets):
+Exceeded target.
+Unlinked Indicators
+Unit of Formally Revised Actual Achieved at
+Indicator Name Baseline Original Target
+Measure Target Completion
+Communication means/tools Yes/No N Y Y Y
+linking DHMTs, CSOs, PERS,
+and EERP, are maintained 23-Jun-2017 23-Jun-2017 25-Dec-2020 27-Dec-2020
+Comments (achievements against targets):
+Achieved.
+Unit of Formally Revised Actual Achieved at
+Indicator Name Baseline Original Target
+Measure Target Completion
+Number of RTFs and LC officers Number 0.00 0.00 200.00 203.00
+received special training on
+social accountability 23-Jun-2017 23-Jun-2017 25-Dec-2020 27-Dec-2020
+Comments (achievements against targets):
+Exceeded target.
+Unit of Formally Revised Actual Achieved at
+Indicator Name Baseline Original Target
+Measure Target Completion
+Number of citizens participated Number 0.00 0.00 20000.00 20234.00
+Page 32 of 61
+<<<PDF_PAGE_38>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+in social accountability
+14-Nov-2016 23-Jun-2017 25-Dec-2020 27-Dec-2020
+initiatives in CMI piloted
+districts (% of which are
+females)
+Comments (achievements against targets):
+Exceeded target.
+Unit of Formally Revised Actual Achieved at
+Indicator Name Baseline Original Target
+Measure Target Completion
+Number of beneficiaries in the Number 0.00 0.00 5000.00 9834.00
+participatory budgeting pilot
+(% of which are females) 23-Jun-2017 23-Jun-2017 25-Dec-2020 27-Dec-2020
+Comments (achievements against targets):
+Exceeded target.
+Unit of Formally Revised Actual Achieved at
+Indicator Name Baseline Original Target
+Measure Target Completion
+Number of joint monitoring Number 0.00 0.00 20.00 22.00
+visits to LCs, conducted by
+relevant MDAs 23-Jun-2017 23-Jun-2017 25-Dec-2020 27-Dec-2020
+Comments (achievements against targets):
+Exceeded target.
+Page 33 of 61
+<<<PDF_PAGE_39>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Page 34 of 61
+<<<PDF_PAGE_40>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+B. ORGANIZATION OF THE ASSESSMENT OF THE PDO
+Objective/Outcome 1
+To respond to the post-EVD needs at the local level in Sierra Leone by
+building community resilience through EVD sensitization efforts and
+Outcome Indicators
+social mobilization activities in the districts most affected by the
+disease
+1. Percentage of beneficiaries who affirm social sensitization activities
+have been positive toward bringing people together in the four (4)
+districts in which sensitization activities are conducted2. Number of
+sectors in CMI piloting districts quarterly assessed and managed
+considering citizen feedback (Number, Custom)
+3. Percentage of beneficiaries who affirm public budgeting processes
+generated a positive social mobilization effect in the two (2) districts
+in which participatory budgeting is conducted
+4. Direct project beneficiaries
+5. Number of WDC members, LC councilors, traditional and religious
+healers trained on trauma healing
+Intermediate Results Indicators
+6. Number of beneficiaries reached through LC trauma and
+sensitization interventions
+7. Communication means/tools linking DHMTs, CSOs, PERS, and EERP,
+are maintained
+8. Number of RTFs and LC officers received special training on social
+accountability
+9. Number of citizens participated in social accountability initiatives in
+CMI piloted districts
+10. Number of beneficiaries in the participatory budgeting pilot
+11. Number of joint monitoring visits to LCs, conducted by relevant
+MDAs
+Page 35 of 61
+<<<PDF_PAGE_41>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+1. 75.3% (Exceeded target)
+2. 10 (Achieved target)
+3. 94.30% (Exceeded target)
+4. 50,485 (Exceeded target)
+5. 534 (Exceeded target)
+Key Outputs by Component
+6. 38,249 (Exceeded target)
+(linked to the achievement of the Objective/Outcome 1)
+7. Yes (Achieved target)
+8. 203 (Exceeded target)
+9. 20,234 (Exceeded target)
+10. 9,834 (Exceeded target)
+11. 22 (Exceeded target)
+Page 36 of 61
+<<<PDF_PAGE_42>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+..
+ANNEX 2. PROJECT COST BY COMPONENT
+Republic of Sierra Leone
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context Project
+United States Dollars (US$)
+Disbursement by Components Planned IDA Project Amount Actual Amount Percentage
+Approved Disbursed Disbursed
+US$ US$ %
+Component 1: Local Council Social Sensitization 980,000 976,743 99.67
+Component 2: Creating Social Mobilization
+Mechanisms That Improve Local Service Delivery 1,560,000 1,564,021 100.26
+Component 3: Project Management 210,000 205,371 97.80
+Total Expenditures 2,750,000 2,746,135 99.86
+Disbursements by Category
+Period End:
+April 30, Cumulative Disbursement
+2021
+Planned IDA Project Amount Actual Amount Percentage
+Approved Disbursed Disbursed
+Disbursement by Category US$ US$ %
+Consultant Services 108,500 110,331 101.69
+Training and Workshop 776,500 791,984 101.99
+Goods/Services 531,000 516,563 97.28
+Sub-Grants 1,220,000 1,214,511 99.55
+Operating Costs 114,000 112,747 98.90
+Total Expenditures 2,750,000 2,746,136 99.86
+Page 37 of 61
+<<<PDF_PAGE_43>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+ANNEX 3. RECIPIENT, CO-FINANCIER AND OTHER PARTNER/STAKEHOLDER COMMENTS
+The ICR was shared and discussed with the Client, however, the Bank team has not received written
+comments from the Client.
+Page 38 of 61
+<<<PDF_PAGE_44>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+ANNEX 4. SUPPORTING DOCUMENTS (IF ANY)
+A. BREAKDOWN OF BENEFICIARIES REACHED THROUGH LC SENSITIZATION INTERVENTIONS, BY
+GENDER
+Participants in the LC sensitization interventions
+Male Female % of female Total no. of
+Year
+participants participants participants beneficiaries
+Male
+participants
+Female
+2018 920 1,080 54% 2,000 49%
+participants
+51%
+2019 4,386 5,088 54% 9,474
+2020 13,575 13,200 49% 26,775
+Total 18,881 19,368 51% 38,249
+Source: M&E specialist (the figures are from Data Collected during implementation of Project Activities)
+Page 39 of 61
+<<<PDF_PAGE_45>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+B. IMPACT OF SENSITIZATION ACTIVITY
+The positive impact of project sensitization on the social sohension and community
+reintegration
+120.0
+100.0
+5.8 3.1
+11.4
+18.7
+80.0
+)% 85.5
+(
+T N 60.0 75.3
+E
+C
+R
+E
+P
+40.0
+20.0
+0.0
+The project sensitization has positively impacted social I am now accepted in the community /family
+cohension in communities
+OPTIONS
+Yes No Dont know
+Source: Final BA assessment (2020)
+Page 40 of 61
+<<<PDF_PAGE_46>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+C. DESCRIPTION OF PARTICIPATORY BUDGETING PROCESS
+1. Through the decentralization reform in 2005, LCs assumed responsibility for development
+planning. The Government of Sierra Leone rolled out the devolution process which involved the transfer
+of functions, power, authority and accompanying resources to the LCs. The LCs assumed major
+responsibilities in the areas of Education (delivering primary and junior secondary school education),
+Health and Sanitation (delivering primary and secondary health care), Solid Waste Management, and
+Rural Water and Social Assistance Services. Although the LCs had assumed responsibility for development
+planning, effective involvement of local communities/villages in problem identification, needs assessment
+and prioritization of Interventions to ensure that the LCs Development plans truly reflect the people's
+aspirations remained a key challenge. The local level planning process lacked the feedback loop to ensure
+that the local communities were fully informed about the selection process of the planned interventions
+prioritized at the LC.
+2. Participatory Budgeting (PB) under sub-component 2B under the Project was therefore designed
+to address this challenge. This intervention was designed to increase deliberation processes within the
+communities, while guaranteeing effective participation of marginalized groups especially at the ward
+level. PB involves citizens in the decision-making processes of the LCs by allocating resources to their
+preferred public sector activities/projects. Through PB, service delivery is aligned with the priorities of the
+beneficiaries and the beneficiaries are instrumental in making the allocation of resources hence, making
+it more inclusive and equitable. In March 2019, PB was piloted in two of the most severely EVD affected
+LCs, ie. FCC and PortLoko District Council. The PB process ensured that citizens (especially at ward level)
+in both FCC and Port Loko District Councils selected their preferred projects to be part of the budget of
+the two pilot councils for 2020.
+3. A PB sub-grant with a total value of US$250,000 was allocated to each of the two LCs, with the
+selection of subprojects being determined by community participants according to a process that aims to
+empower citizens at ward and community levels to identify and develop their preferred projects. The
+overall mechanism of PB was as follows:
+• The citizens were required to vote
+• The projects with the highest number of votes were prioritized for implementation by the LCs
+with the involvement of the Ward Committees in the various localities.
+• Disbursements toward completion of sub-projects were done by the LCs and included in their
+Annual Work Plan.
+• Sub-projects were to be accepted for the purchase of goods for the community, the payment of
+services, and rehabilitation works that do not require land acquisition.
+• A minimum participation threshold of 2,500 votes cast in each LC was needed for the
+deliberation process to be considered valid
+• Due to COVID-19 and the restrictions the voting process targeted 100 participants from the
+wards. (A total of 1000 (50% female) people voted across all wards).
+4. The PB was executed in several phases as outlined below:
+Page 41 of 61
+<<<PDF_PAGE_47>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+• A public information campaign to promote PB in the district and wards48
+• Ward deliberation processes to discuss proposals
+• Proposals were compared at the LC level and costs and options that were duplicated or not
+feasible eliminated
+• Public meetings at the ward level and a grassroots communication campaign were organized in
+order to inform citizens about proposed projects
+• Citizens voted for their preferred projects at the ward level
+• Projects with the highest number of votes were implemented by the LCs
+• Beneficiaries 9 PB wards (4 in Port Loko District Council (241, 247, 250, 252) and 5 in FCC (402,
+403, 404, 408, and 410)
+5. Due to the weak capacity in FM and procurement matters and lack of political will, PB faced
+implementation delays. The inclusion of FDD following the project restructuring in January 2020
+accelerated implementation. Despite this delay, CMGs were set up, deliberation and voting took place,
+and 16 subprojects in both LCs have been implemented. However, PB was rated as Moderately
+Satisfactory in the last Aide Mémoire (November 30 – December 10, 2020) due to the delays encountered.
+The remaining of annex 4 (D to I) has information on PB implementation, including the type of projects
+implemented, the number of beneficiaries, type of sectors, and pictures showing projects before and after
+PB interventions.
+6. In conclusion, PB introduced a community participatory safety nets approach to better reach and
+support EVD survivors and their families through improving their access to better service. By improving
+service delivery and bringing services closer to targeted communities, PB promoted opportunities to build
+human capital and assets to the poor while enhancing community resilience by empowering communities
+to have a voice and decide on their priorities.
+48 Two Civil Society Organizations (CSOs) were recruited and contracted to mobilize and animate communities to participate in
+the PB process. These organizations are; (i) Sierra Leone Social-Aid Volunteers (for Port Loko District Council) and (ii) Health
+Alerts Sierra Leone (for FCC
+). Working with the CSOs has increased cooperation and participation of the communities not only in the PB activities, but in
+the activities of the LCs generally. The CSOs are community based, have long standing relationship with the communities,
+knows the community and command the respect of the communities. The presence of the CSOs in this intervention has instilled
+confidence in the people. The people are turning out in their numbers and giving out their best with the aim to let the PB
+succeed.
+Page 42 of 61
+<<<PDF_PAGE_48>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+D. PARTICIPATORY BUDGETING SUB-PROJECT SECTORS DISTRIBUTION
+Distribution of PB sub-projects sectors in both LCs
+FCC PL
+6
+5
+5
+s
+t c 4 4
+e jo 4
+r
+p
+-
+b
+u
+s
+B 3
+P
+f
+o
+r
+e
+b m 2
+u
+N
+1 1
+1
+0 0 0
+0
+Health Water & Sanitation Education Food Security
+• PL refers to Port Loko.
+• Food security project in PL was the rehabilitation of rice grain store
+• The data for this graph obtained from the PB technical status reports. One project in FCC was not
+reflected in this graph because it supported the fabrication and erection of signposts
+Page 43 of 61
+<<<PDF_PAGE_49>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+E. JSDF PARTICIPATORY BUDGETING SUB PROJECTS IN PORT LOKO
+SCOPE OF WORK SITE LOCATION SECTOR ACHIEVED WORKED DIRECT No. OF UNIT COST COST OF JSDF SUB-
+BENEFICIARIES INDIRECT (Sierra PROJECTS
+(Pupils) BENEFICIARIES Leonean) (Sierra Leonean)
+• Rehabilitation of Five Lot 2 - Ward Education • Completed Roofing for the school and toilet Boys= 265 14,228 352,625,640 318,140,900
+Classroom block 247 • Doors & windows installed Girls = 203
+• Rehabilitation of School Bundulia, • Screed of classroom finished --------------
+toilet Kamasondo • Hard board ceiling finished and electrical installation Total= 468
+• Rehabilitation of Chiefdom completed too
+borehole water well • Plastering finishing of the columns, beams, windows
+• Rehabilitation of 2x3 and doors completed
+Compartment School • Apron also has been constructed round the
+toilets perimeter of the school
+• Ramp has been completed
+• Windows glazing completed
+• Concreting the drainages walls and floor round the
+perimeter of the school
+• Painting of the school and toilet
+• Rehabilitation of hand pump well
+Rehabilitation of St. Lot 3 - Ward Education • Completed roofing of the school Boys= 258 14,511 310,220,000 293,473,105
+Joseph’s RC Primary 250 • Ceiling completed Girls = 259
+School, including the Kagbantama • Completed installing windows & doors -------------
+rehabilitation of 2x3 Kasseh • Floor screed finished for the classroom & corridor Total= 517
+compartment school Chiefdom • Drainage work also completed.
+toilet, the rehabilitation of • Existing structural ramp has been structurally
+hand pump well, and the reinforced for pupils with disability.
+rehabilitation of School • Rehabilitation of school toilet finished.
+toilet. • Priming of classroom walls, columns, and beams.
+• Windows glazing completed
+• Painting of the school and toilet
+• Rehabilitation of hand pump well
+Page 44 of 61
+<<<PDF_PAGE_50>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+SCOPE OF WORK SITE LOCATION SECTOR ACHIEVED WORKED DIRECT No. OF UNIT COST COST OF JSDF SUB-
+BENEFICIARIES INDIRECT (Sierra PROJECTS
+(Pupils) BENEFICIARIES Leonean) (Sierra Leonean)
+Rehabilitation of Saint Lot 3 - Ward Education •Completed Roofing for the school and toilet Boys= 164 14,511
+Peters School, including 250 • Doors & windows installed Girls = 176 150,600,000 100,720,000
+the rehabilitation of Romehni, • Screed of classroom finished -------------
+S chool toilet Kasseh • Hard board ceiling finished and electrical installation Total= 340
+Chiefdom completed too.
+• Plastering finishing of the columns, beams, windows
+and doors completed.
+• Apron also has been constructed round the
+perimeter of the school.
+• Ramp has been completed
+• Rehabilitation of School toilet.
+• Installation of windows glazing
+• Painting of the school and toile
+Rehabilitation of 6 Lot 1 - Ward Education • Roofing of the SLMB school completed Boys= 210 20,314 368,245,000 252,172,100
+Classroom at SLMB 241 • Apron and drainages also constructed Girls = 241
+Primary School, Gbaneh Gbaneh Bana, • Installation of classroom windows & doors frame -------------
+Bana, including the Lokomasama finished Total= 451
+rehabilitation of 2x3 Chiefdom • Hardboard Ceiling Completed
+Compartment VIP Latrine • Screed of classroom floors completed
+at SLMB Primary School, • Plastering finishing of the windows and doors edges
+Gbaneh Bana and the completed
+rehabilitation of Hand • Glazing of windows completed
+Pump Well at SLMB • Ramp also constructed
+Primary School, Gbaneh • Glazing of windows
+Bana • Priming of the school
+• Painting of the school
+Page 45 of 61
+<<<PDF_PAGE_51>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+SCOPE OF WORK SITE LOCATION SECTOR ACHIEVED WORKED DIRECT No. OF UNIT COST COST OF JSDF SUB-
+BENEFICIARIES INDIRECT (Sierra PROJECTS
+(Pupils) BENEFICIARIES Leonean) (Sierra Leonean)
+Rehabilitation of Marcus Lot 1 - Ward Education • Roofing of the Marcus Garvey JSS 3 school Boys= 140 20,314 222,145,000 116,017,000
+Garvey JSS (3 Classroom 241 completed Girls = 200
+Block) Gbaneh Bana Gbaneh Bana, • Apron and drainages also constructed -------------
+Lokomasama • Installation of classroom windows & doors frame Total= 340
+Chiefdom finished
+• Hardboard Ceiling Completed
+• Screed of classroom floors completed
+• Plastering finishing of the windows and doors edges
+completed
+• Ramp also constructed
+• Electrical installation
+• Apron and drainages
+Rehabilitation of rice grain Lot 4 - Ward Food • Sub-Structure/Foundation completed 17,498 360,913,900 236,453,900
+store and the 252 Security • Plinth level/oversight completed
+rehabilitation of drying Komrabai, • Roof profile completed
+floor Marampa • Windows and doors installed
+Chiefdom • Installation of roofing sheet
+• Foundation of dry floor
+• Electrical installation
+• Oversight of drying floor
+• Painting of the rice grain store
+• Installation of hard board ceiling
+Rehabilitation of 4 Lot 4 - Ward Sanitation • Sub-structure completed for the toilet pit depth of 17,498 175,625,500 146,018,500
+compartment VIP toilet 252 3m,
+and the rehabilitation of Komrabai, • installation of pit breathing pipe, and
+Tube/hand pump well Marampa • Concreting the well casing.
+Chiefdom • Painting and tiling of the 4 compartment VIP toilet
+bathroom completed
+• Rehabilitation of hand pump well
+Page 46 of 61
+<<<PDF_PAGE_52>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+F. JSDF PARTICIPATORY BUDGETING SUB PROJECTS IN FCC
+NO. OF DIRECT AND UNIT COST COST OF JSDF SUB-
+SITE
+SCOPE OF WORK SECTOR ACHIEVED WORKED INDIRECT (Sierra PROJECTS
+LOCATION
+BENEFICIARIES Leonean) (Sierra Leonean)
+* Completion of Cemetery Perimeter Ward 402, Health & * Perimeter fence completed 38,000 650,000,000 452,799,000
+fence and Rehabilitation of Security Robis Sanitation * Roofing of Security post completed
+Post
+* Construction of Cemetery Toilet
+Construction of MCHP Ward 403, Primary Roofing and plastering (inside and outside) completed 15,600 620,000,000 490,932,000
+Bottom Oku Health Care
+Completion of CHC Ward 404, Primary Fitting of electrical cables completed. Plumbering 25,000 500,000,000 450,325,000
+Calabatown Health Care completed. Painting of windows and doors completed.
+Tiling of main offices, toliets and reception completed
+Construction of CHC Ward 408, Primary Roofing complete. Installation of conduit pipes 15,000 650,000,000 450,028,000
+Rokupa Health Care complete. Plastering of inside and outside complete.
+Wharf Fixing of internal and external doors completed. Biofill
+toilet constructed
+* Construction of 150m Drainage Ward 410, Water & * 150m Storm Drain completed 20,000 450,000,000 454,139,000
+* Construction of Culverts Kuntolloh Sanitation * Construction of 1.5m box culvert completed
+* Drilling of Borehole * Completion of the drilling of bore hole well pipe at a
+depth of 155m.
+Administrative Cost including. Fabrication and erection of 6 signposts. Stationery. 201,777,000
+Fabrication and erection of signposts Payment for EIA Report. Redress Mechanism Boxes X5.
+Monitoring and Supervision. Launching of the Projects
+Page 47 of 61
+<<<PDF_PAGE_53>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+G. NUMBER OF PEOPLE EMPLOYED IN THE FREETOWN AND PORT LOKO PARTICIPATORY BUDGETING SUB-PROJECT
+Number of beneficiaries employed in the PB sub-project by LC (left table) and disaggregated by gender (right pie chat)
+Total
+No. District Ward Male Female
+employed
+1 FCC 402 14 6 20
+2 FCC 403 20 10 30
+3 FCC 404 20 8 28
+Female
+4 FCC 408 22 10 32 35%
+5 FCC 410 19 6 25
+6 Port Loko 252 18 12 30
+7 Port Loko 241 12 8 20
+Male
+8 Port Loko 241 7 5 12 65%
+9 Port Loko 247 8 10 18
+10 Port Loko 250 12 6 18
+11 Port Loko 250 12 6 18
+164 87 251
+Source: DecSec team
+Page 48 of 61
+<<<PDF_PAGE_54>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+H. PHOTOS OF PB (COMMUNICATION CAMPAIGN, CITIZEN VOTING AND SUB-PROJECTS IN FCC)
+PB communication materials
+Page 49 of 61
+<<<PDF_PAGE_55>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Citizens vote for their preferred projects at the ward level
+Page 50 of 61
+<<<PDF_PAGE_56>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Completion of Robis Cemetery Perimeter fence (FCC)
+Page 51 of 61
+<<<PDF_PAGE_57>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Construction of Bottom Oku MCHP (FCC)
+Page 52 of 61
+<<<PDF_PAGE_58>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Construction of 150m storm drain (FCC)
+Page 53 of 61
+<<<PDF_PAGE_59>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Construction of 2x3 Compartment VIP Latrines at SLMB Primary (Port Loko)
+Page 54 of 61
+<<<PDF_PAGE_60>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Rehabilitation of Hand Pump Well at DEC Primary School, Bundulia (Port Loko)
+Page 55 of 61
+<<<PDF_PAGE_61>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Ward 247 Rehabilitation of DEC Primary School, Bundulia (Port Loko)
+Page 56 of 61
+<<<PDF_PAGE_62>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+I. MAP OF SIERRA LEONE (CLEARED BY THE BANK’S CARTOGRAPHY UNIT, APRIL 2020)
+Page 57 of 61
+<<<PDF_PAGE_63>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+J. REFERENCE LIST
+Decentralization Secretariat. 2019. Beneficiary Assessment Report for the Strengthening Community
+Mobilization and Local Council Service Delivery in the Post-Ebola Context Project, December 2019. Sierra
+Leone: Ministry of Local Government and Rural Development.
+Decentralization Secretariat. 2019. Component (1) Implementation Updates. Sierra Leone: Ministry of
+Local Government and Rural Development.
+Decentralization Secretariat. 2020. Component (2) Progress Report 2019-2020. Sierra Leone: Ministry of
+Local Government and Rural Development.
+Decentralization Secretariat. 2020. Final Beneficiary Assessment Report for the Strengthening Community
+Mobilization and Local Council Service Delivery in the Post-Ebola Context Project, December 2020. Sierra
+Leone: Ministry of Local Government and Rural Development.
+Government of Sierra Leone. 2011. National Decentralisation Policy. Sierra Leone: Government of Sierra
+Leone.
+Government of Sierra Leone. 2015. National Ebola Recovery Strategy for Sierra Leone 2015-2017. Sierra
+Leone: Government of Sierra Leone.
+Government of Sierra Leone. 2020. New National Decentralisation Policy. Government of Sierra Leone.
+Government of Sierra Leone. Agenda for Prosperity: The Road to Middle Income Status 2013-2018. Sierra
+Leone: Government of Sierra Leone.
+Government of Sierra Leone. Medium Term National Development Plan 2019-2023. Sierra Leone:
+Government of Sierra Leone.
+Governoment of Sierra Leone. 2020. Client Implementation Completion Report. Sierra Leone:
+Governoment of Sierra Leone.
+Integrated Project Administration Unit (IPAU). 2018. Progress Report: Strengthening Community
+Mobilization and Local Council Service Delivery in the Post-Ebola Context Project JSDF P155339 - JULY –
+DEC 2017. Sierra Leone: Ministry of Finance.
+Integrated Project Administration Unit (IPAU). 2019. Progress Report: Strengthening Community
+Mobilization and Local Council Service Delivery in the Post-Ebola Context Project JSDF P155339 - JAN –
+DEC 2018. Sierra Leone: Ministry of Finance.
+Integrated Project Administration Unit (IPAU). 2020. Progress Report: Strengthening Community
+Mobilization and Local Council Service Delivery in the Post-Ebola Context Project JSDF P155339 - JAN –
+DEC 2019. Sierra Leone Ministry of Finance.
+Integrated Project Administration Unit (IPAU). Participatory Budgeting in Freetown and PortLoko: Sierra
+Leone. Government of Sierra Leone: Ministry of Finance.
+Page 58 of 61
+<<<PDF_PAGE_64>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Migliorisi, Stefano; Wescott, Clay. 2011. A Review of World Bank Support for Accountability Institutions
+in the Context of Governance and Anticorruption. IEG Working Paper;2011/5. World Bank, Washington,
+DC. © World Bank. https://documents.worldbank.org/en/publication/documents-
+reports/documentdetail/358571468337248805/a-review-of-world-bank-support-for-accountability-
+institutions-in-the-context-of-governance-and-anticorruption
+Project Fiduciary Management Unit. 2020. Final Impact Evaluation Report for the Strengthening
+Community Mobilization and Local Council Service Delivery in the Post-Ebola Context Project, December
+2020. Sierra Leone: Ministry of Finance
+Sesay, Abdul Abraham Joshua. 2020. Freetown City Council Third Party Monitoring Final Report-7th
+December - 27th December 2020. Freetown, Sierra Leone.
+Sesay, Abdul Abraham Joshua. 2020. Port Loko Third Party Monitoring Final Report-7th December - 27th
+December 2020. Port Loko, Sierra Leone.World Bank Group. 2012. Sierra Leone - Country assistance
+strategy progress report for the period FY10-FY13 (English). Washington, D.C.: World Bank Group.
+https://documents.worldbank.org/en/publication/documents
+reports/documentdetail/662541468104651836/sierra-leone-country-assistance-strategy-progress
+report-for-the-period-fy10-fy13
+Srivastava, Vivek and Marco Larizza (2011). “Decentralization in Postconflict Sierra Leone: The Genie is
+Out of the Bottle.” Yes, Africa Can: Success Stories from a Dynamic Continent, Punam Chuhan-Pole,
+Manka Angwafo, eds. Washington, DC.
+United Nations; World Bank. 2018. Pathways for Peace: Inclusive Approaches to Preventing Violent
+Conflict. Washington, DC: World Bank. © World Bank.
+https://openknowledge.worldbank.org/handle/10986/28337
+World Bank, Independent Evaluation Group (2008). Decentralization in Client Countries: An Evaluation of
+World Bank Support, 1999-2007. Washington, DC.
+World Bank Group. 2017. Aide memoire Sierra Leone: Implementation Support Mission for the Japanese
+Development Fund strengthening Community Mobilization and Local Council Service Delivery in the Post-
+Ebola Context (JSDF: P155339): November 28 – December 9, 2017. Sierra Leone: World Bank Group.
+World Bank Group. 2017. Disclosable Version of the ISR - Local Council Service Delivery in the Post-Ebola
+Context - P155339 - Sequence No: 01 (English) Seq No: 1. Sierra Leone: World Bank Group.
+World Bank Group. 2018. Aide memoire Sierra Leone: Implementation Support Mission for the Japanese
+Development Fund strengthening Community Mobilization and Local Council Service Delivery in the Post-
+Ebola Context (JSDF: P155339): February 4-15, 2018
+World Bank Group. 2018. Aide memoire Sierra Leone: Oversight Mission for the Japanese Development
+Fund strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context
+(JSDF: P155339): Implementation Completion Report Mission for the Decentralized Service Delivery
+Program 2 (DSDP2: P119355); Grant IDA-H7390, TF – 12665; September 25 – October 2, 2018. Sierra
+Page 59 of 61
+<<<PDF_PAGE_65>>>
+The World Bank
+Strengthening Community Mobilization and Local Council Service Delivery in the Post-Ebola Context (P155339)
+Leone: World Bank Group.
+World Bank Group. 2018. Disclosable Version of the ISR - Strengthening Community Mobilization and Local
+Council Service Delivery in the Post-Ebola Context - P155339 - Sequence No: 02. Sierra Leone: World Bank
+Group.
+World Bank Group. 2018. Sierra Leone - Systematic Country Diagnostic: Priorities for Sustainable Growth
+and Poverty Reduction (English). Washington, D.C.: World Bank Group.
+https://documents.worldbank.org/en/publication/documents-
+reports/documentdetail/152711522893772195/sierra-leone-systematic-country-diagnostic-priorities-
+for-sustainable-growth-and-poverty-reduction
+World Bank Group. 2019. Aide memoire Sierra Leone: Implementation Support Mission for the Japanese
+Development Fund strengthening Community Mobilization and Local Council Service Delivery in the Post-
+Ebola Context (JSDF: P155339): February 10-16, 2019. Sierra Leone: World Bank Group.
+World Bank Group. 2019. Aide memoire Sierra Leone: Mid-Term Review Mission for the Japanese
+Development Fund strengthening Community Mobilization and Local Council Service Delivery in the Post-
+Ebola Context (JSDF: P155339): May 28 – June 11, 2019. Sierra Leone: World Bank Group.
+World Bank Group. 2019. Disclosable Version of the ISR - Strengthening Community Mobilization and Local
+Council Service Delivery in the Post-Ebola Context - P155339 - Sequence No: 03. Sierra Leone: World Bank
+Group.
+World Bank Group. 2019. Disclosable Version of the ISR - Strengthening Community Mobilization and Local
+Council Service Delivery in the Post-Ebola Context - P155339 - Seq No: 4. Sierra Leone: World Bank Group.
+World Bank Group. 2020. Aide memoire Sierra Leone: Final Implementation Support Mission for the
+Japanese Development Fund strengthening Community Mobilization and Local Council Service Delivery in
+the Post-Ebola Context (JSDF: P155339): November 30 – December 10, 2020. Sierra Leone: World Bank
+Group.
+World Bank Group. 2020. Disclosable Version of the ISR - Strengthening Community Mobilization and Local
+Council Service Delivery in the Post-Ebola Context - P155339 - Sequence No: 05. Sierra Leone: World Bank
+Group.
+World Bank Group. 2020. Disclosable Version of the ISR - Strengthening Community Mobilization and Local
+Council Service Delivery in the Post-Ebola Context - P155339 - Sequence No: 06. Sierra Leone: World Bank
+Group.
+World Bank Group. 2020. Sierra Leone - Country Partnership Framework for the Period FY21 - FY26
+(English). Washington, D.C.: World Bank Group.
+https://documents.worldbank.org/en/publication/documents-
+reports/documentdetail/851731590804122431/sierra-leone-country-partnership-framework-for-the-
+period-fy21-fy26
+Page 60 of 61

@@ -1,0 +1,735 @@
+<<<PDF_PAGE_1>>>
+Lifecycle of a Project
+2014-2020 European Structural and
+Investment Funds Growth Programme
+European Regional Development Fund
+European Social Fund
+Part of European Agricultural Funds for Rural Development
+July 2015
+July 2015
+Department for Communities and Local Government
+<<<PDF_PAGE_2>>>
+Contents
+Introduction ................................................................................................................... 3
+Routes into the programme .......................................................................................... 6
+Open calls ..................................................................................................................... 7
+Entry via Co-financing Organisation ........................................................................... 12
+The Application process ............................................................................................. 13
+selection criteria and assessment and appraisal process ........................................... 17
+Moving to Full Application ........................................................................................... 19
+Contract management ................................................................................................ 22
+Irregularities ................................................................................................................ 29
+Project closure ............................................................................................................ 31
+Document retention .................................................................................................... 31
+2
+<<<PDF_PAGE_3>>>
+Introduction
+“A single European Structural and Investment Funds Growth Programme for the 2014-2020
+funding period has been set up to combine three separate European Funds. These are the
+European Regional Development Fund (ERDF), the European Social Fund (ESF) and part of
+the European Agricultural Fund for Rural Development (EAFRD).” Read more here.
+1. The details of the purpose and priorities for investment from the three funds is
+described in the Operational Programme for each fund which can be found through
+the link above. Readers are encouraged to familiarise themselves with the content
+of the relevant Operational Programme. The Managing Authority manages each of
+the funds:
+a. European Regional Development Fund – Department for Communities and
+Local Government;
+b. European Social Fund – Department for Work and Pensions; and
+c. European Agricultural Fund for Rural Development – Department for
+Environment Food and Rural Affairs (Rural Payments Agency is the delivery
+body).
+2. The information below describes the standard lifecycle of a project funded through
+the European Structural and Investments Funds. It focuses principally on projects
+supported by the European Regional Development Fund or the European Social
+Fund, but most of the processes and stages described are similar for the European
+Fund for Agricultural Development (Defra and the Rural Payments Agency will
+publish documentation describing the detailed processes and arrangements for this
+programme). 1
+3. All interested parties (applicants, local partners, administrators) should have a
+broad knowledge of the process, understand what they need to do at each stage
+and be aware of the expectations and potential pitfalls. Further information will be
+added over time and greater detail about each aspect is contained in the documents
+published on the GOV.UK website.
+4. It also describes the differences between a Managing Authority call and the process
+for delivery through European Social Fund co-financing organisations. Other
+1 European Commission regulations refer to an ‘operation’ to describe a funded activity. In this document we
+use the term ‘project’ even where it is technically accurate to refer to this activity as an ‘operation’ as the term
+project is generally understood.
+3
+<<<PDF_PAGE_4>>>
+differences that will exist for certain initiatives - Financial Instruments; Sustainable
+Urban Development; and Community Led Local Development - will be added later.
+5. The Greater London Authority is the Intermediate Body managing the programmes
+in London on behalf of the Managing Authority. The Greater London Authority will
+follow the same business process.
+6. There is a standard lifecycle for European Regional Development Fund and
+European Social Funds projects.
+1. Routes in to the programme: The standard route into the programme will be
+through a Managing Authority open call for applications. For some European
+Social Fund activity, the route in will be through an application from a co-
+financing organisation, which will then competitively select delivery
+organisations;
+2. Application: This involves the applicant submitting an Outline Application and
+then, if that is successful, a Full Application. The Managing Authority carries
+out an Assessment of the Outline Application and an Appraisal of the Full
+Application. If the application is successful at both stages, this leads to a
+Funding Agreement which specifies the terms of the funding;
+3. Contract management: This involves the grant beneficiary (the successful
+applicant) implementing the project activity compliant with ESIF requirements,
+submitting claims to the Managing Authority for reimbursement, and filing
+reports on activity and achievements, and ensuring that there is a clear audit
+trail for all eligible activities. The Managing Authority will monitor the activity
+through checking claims, and conducting on-the-spot monitoring visits to
+ensure that all the expenditure is eligible within the rules of the European
+Structural and Investment Funds; and
+4. Closure: The grant beneficiary completes the activity and all financial claims
+within the agreed period. The Managing Authority conducts checks that the
+activity has closed and all the records are accurate and in place, as audits can
+continue to take place for many years.
+4
+<<<PDF_PAGE_5>>>
+The diagram below shows the high level process.
+5
+<<<PDF_PAGE_6>>>
+Routes into the programme
+5. In line with the high level European Structural and Investment Funds business
+process, there are two main routes into the programmes:
+a. Via a Managing Authority ‘call’ published on the GOV.UK website. A call is
+an open invitation for applicants to submit project proposals against a
+published specification; or
+b. Via a Co-financing Organisation (CFOs) (also called ‘Opt-ins’). CFOs are
+organisations selected by the European Social Fund Managing Authority that
+contribute match funding and deliver European Social Fund activity through
+others. Once they have a Funding Agreement with the Managing Authority,
+they will run an invitation to tender/call process to competitively select
+providers.
+6. In time there may be slightly different routes into the programme for some other
+initiatives like, Financial Instruments, Community Led Local Development or
+Sustainable Urban Development.
+6
+<<<PDF_PAGE_7>>>
+Open calls
+7. Applicants are invited to submit applications in response to a call. Calls are
+designed to bring forward a range of ideas and innovative solutions, as well as
+helping to ensure that the process for selecting grant recipients is open,
+transparent and consistent.
+8. Calls for applications will be published at regular intervals through the lifetime of
+the programme. Calls will often specify the local growth priorities in a geographic
+area within the context of the Operational Programme. The Local Enterprise
+Partnership area European Structural and Investment Funds Sub-Committee
+representing local partners will contribute intelligence about local strategic growth
+needs and the Managing Authorities will use this information to draft calls that meet
+both the local needs and the requirements of the Operational Programme.
+9. The call might:
+ Be quite broad and open or more specific and defined to meet a particular local
+need or opportunity or define a geographic area in which the project or the
+beneficiaries should be based;
+ Specify a minimum or maximum size of project – in terms of financial value or
+contribution to outputs or results;
+ Define the duration of the project; and
+ Describe the timescale for the process – e.g. closing dates.
+10. Applicants need to make sure that their application meets the call specification and
+is written in the context of the Operational Programme. The main potential
+variables within calls are described below:
+Budgets
+11. The call may include a defined budget allocation, an indicative range or an
+unspecified budget. Normally an indicative range will be provided.
+12. Running European funded projects involves a certain degree of administration and
+there are often economies of scale to be gained from larger investments which also
+7
+<<<PDF_PAGE_8>>>
+have been shown to have more strategic impact in the local economy. The
+Managing Authorities may set minimum thresholds for calls.
+13. Applicants need to provide match funding, in other words the applicant must
+supplement the grant from the fund with other public or private money. The
+percentage of European Structural and Investment Funds contribution is normally
+50% (intervention rate) but this depends on various factors like the funding gap, the
+added value of the funding and the category of region.
+Duration and frequency
+14. Calls may be open:
+ For long periods, with projects assessed as they are submitted (‘rolling’ calls);
+ For a long period, but with fixed assessment points and projects assessed in
+batches; or
+ For defined periods, with all projects assessed at the close of the call.
+Geography
+15. One of the benefits of a national programme is that an activity can provide benefits
+to a large group of beneficiaries irrespective of their location as long as it is in
+England. At the same time the programme is designed to have maximum impact at
+a local level. As a result, the Managing Authority will work with local partners and
+many calls will specify the geographic location of the activity. A few principles
+apply:
+ Beneficiaries should not be restricted in terms of where they take up provision;
+and
+ Projects should not be restricted geographically in terms of where or to whom
+they provide support.
+8
+<<<PDF_PAGE_9>>>
+Category of Region
+16. The European Union has specified categories of region based on indices of
+deprivation. 2There are three categories of region based on Gross Domestic
+Product (GDP) per capita compared with the average GDP of the EU-27:
+a. More developed (GDP per capita is above 90%): This covers most of
+England. The intervention rate is 50%;
+b. Transition regions (GDP per capita between 75% and 90%): There are nine
+of these in England: Cumbria, Tees Valley and Durham, Lancashire,
+Lincolnshire, East Yorkshire and North Lincolnshire, Shropshire and
+Staffordshire, Merseyside, South Yorkshire and Devon. The intervention rate
+is 60%; and
+c. Less developed regions (GDP per capita less than 75%): Cornwall and the
+Isles of Scilly is the only such region in England. This means that the EC will
+contribute a larger fraction of spend (the “intervention rate”): up to 80%.
+17. The map below shows Local Enterprise Partnership areas and the related category
+of region. More detailed information on Local Enterprise Partnerships can be found
+on the LEP Network website.
+2 The classification of regions under one of the three categories of regions shall be determined on the basis of how the GDP per capita
+of each region, measured in purchasing power parities (PPS) and calculated on the basis of Union figures for the period 2007 - 2009,
+relates to the average GDP of the EU-27 for the same reference period.
+9
+<<<PDF_PAGE_10>>>
+10
+<<<PDF_PAGE_11>>>
+18. The European Commission views each category of region as being a programme
+area of its own. As a result costs and outputs need to be forecast and then tracked
+against the relevant category of region. (See guidance in the Eligibility Rules) The
+defining factor for European Regional Development Fund applications is the
+location of the end-beneficiary receiving the support. For European Social Fund it
+is where the training takes place. This has a few implications:
+a. The application should anticipate the location of activities in terms of
+categories of region; and
+b. Claims, contract management and verifications should take account of
+category of region and applicants should use their best efforts to forecast the
+likely flow across categories of region the project may cover.
+Publication of calls
+19. Calls will be published on our Funding Finder. The Funding Finder can be located
+here.
+11
+<<<PDF_PAGE_12>>>
+Entry via Co-financing Organisations
+20. European Social Fund Co-financing Organisations (CFO), also known as Opt-in
+Organisations provide the required eligible match funding and use their expertise to
+procure, or grant fund and contract manage European Social Fund. More
+information on who they are and how to access funding through them can found on
+the Partner Information page.
+12
+<<<PDF_PAGE_13>>>
+The Application process
+21. There is a two stage process for applying for funding following an open call –
+Outline Application and Full Application.
+How do you apply?
+22. Applications for grant funding from the European Structural and Investment Funds
+may only be submitted in response to a published call for proposals issued by the
+Managing Authorities. (See earlier note on the process and the exceptions)
+23. Further details on how to submit an application and links to relevant guidance can
+be found on each call page published on the Funding Finder.
+24. While the process is broadly similar for the European Agricultural Fund for Rural
+Development Programme, detailed arrangements for submitting applications differ
+slightly. All necessary information and guidance for applicants is available on the
+Funding Finder.
+25. The main route for securing funding in the 2014 to 2020 European Structural and
+Investment Funds Growth programme is as follows.
+i. An applicant submits an Outline Application through E-CLAIMS – the on-line
+management information system that will support the whole programme. The
+applicant will need to take into account all the relevant rules and guidance in
+developing their proposal. The application documentation provides detailed
+guidance to the applicant about what to take into account in developing and
+application. Note: E-CLAIMS is still under development. In the interim
+applicants will submit an application on the Word template available from
+the GOV.UK website and emailed to the email address on the published
+call;
+ii. The Managing Authority will assess the Outline Application to see if it fits the
+main requirements of the Operational Programme and the relevant call. An initial
+Gateway Assessment will involve a high-level view about whether it meets the
+basic requirements as an eligible organisation proposing eligible activity that
+contributes to the priorities in the Operational Programme. Ineligible applications
+will be rejected at this stage. The Managing Authority will then assess the
+Outline Application and take advice from technical specialists where appropriate.
+The Local Enterprise Partnership area European Structural and Investment
+Funds Sub-Committee will provide advice on whether or not there is strategic fit
+with the needs and opportunities at a local level. The committee will understand
+13
+<<<PDF_PAGE_14>>>
+local economic growth conditions and opportunities, within the context of both
+the Operational Programmes and the local European Structural Investment
+Funds Strategy. This means that some of the content of the application form will
+be shared with committee members. Where a call is over-subscribed, this
+discussion will also contribute to any prioritisation of applications;
+iii. Due Diligence checks will be undertaken on private sector (including voluntary
+and community sector) organisations which have submitted Outline Applications
+and have satisfied the Outline Assessment and been selected to go forward to
+Full Application stage. Due diligence will also include confirmation of the small
+amend medium enterprises status of applicants where the assessor deems this
+relevant. Universities, higher and further education institutions which may define
+themselves as private sector, are exempt;
+iv. If the proposal meets the requirements, the Managing Authority may invite the
+applicant to prepare a Full Application. Where invited to do so, the applicant
+prepares a Full Application;
+v. The applicant will normally be expected to submit a Full Application within three
+months of being invited to prepare such an application. The Full Application
+requires more detail about the proposal the outputs, costs and anticipated
+outcome. It is important to get this detail correct as the Full Application
+constitutes part of the final funding agreement;
+vi. The Managing Authority appraises the Full Application, drawing on advice and
+expertise as described above;
+vii. If the application meets the requirements and offers the best option for the
+needs of the local area and Operational Programme, the Managing Authority
+will issue a funding agreement which sets out the terms of the grant; and
+viii. Both parties sign the funding agreement and the activity may start. Eligible
+expenditure incurred can then be reclaimed from the Managing Authority.
+Exceptions to this process
+26. There are a number of exceptions to this standard call process. The co-financing
+route mentioned earlier has a number of key differences.
+14
+<<<PDF_PAGE_15>>>
+Key delivery differences for European Social Fund ‘Opt-In Process’ compared
+to the European Structural and Investment Funds ‘calls process’
+27. Since the Opt-In organisations are the “operation” in European Social Fund terms,
+the fundamental principles and the core business process are the same to the
+‘calls process’.
+28. The key differences in the Opt-in arrangements relate to the fact that Opt-In
+organisations deliver European Social Fund activity through others. Once they
+have a Funding Agreement with the Managing Authority, they will run an invitation
+to tender / call process to appoint providers. Opt-ins are responsible for ensuring
+that these arrangements are compliant with the regulations and enable them to
+deliver the commitments in the Funding Agreement.
+29. The key differences in governance and delivery through Opt-In organisations
+are:
+ Opt-In organisations go through a selection process for Co-financing first,
+before their status is approved by the Managing Authority;
+ Active engagement between Local Partners and Opt-In organisations to support
+development of local priorities and scale/scope of Opt-In provision;
+ Local Enterprise Partnership area partners may have an agreement with each
+Opt-In organisation, which sets out ways of working, including involvement in
+specification or project outline development;
+ To reach Funding Agreement, Opt-In organisations follow a 1-stage Managing
+Authority grant funding application process, rather than a 2-stage (no
+outline test required); and
+ The timetable for implementation is slightly different as Opt-In organisations
+only launch their Invitation to Tender/Project Outline post Funding Agreement.
+15
+<<<PDF_PAGE_16>>>
+The National Offender Management Service (NOMS) is slightly different in that it will
+continue to receive a national allocation of European Social Fund funding. As a European
+Social Fund Co-financing organisation, NOMS uses European Social Fund to fund
+activities that support the reintegration of prisoners back into the workforce.
+Other exceptions to this process
+30. In London the Greater London Authority undertakes the functions of the Managing
+Authority.
+31. Some activities (e.g. Community Led Local Development; Financial Instruments;
+European Social Fund Opt-in projects, and some activities in Core Cities linked to
+Sustainable Urban Development) will follow the same general process, but will
+have slight variations due to the nature of these initiatives.
+16
+<<<PDF_PAGE_17>>>
+Selection criteria and assessment and
+appraisal process
+Outline Applications
+32. The purpose of the Outline Application stage is to prevent an applicant from
+wasting unnecessary time developing a detailed application when some of the
+fundamental criteria for selection are not met.
+Assessment of Outline Applications against the selection criteria
+33. The Managing Authority’s assessment of the Outline Application has two elements:
+a) An initial gateway criteria assessment; followed by
+b) An assessment against the core selection criteria, including a scoring
+methodology for European Social Fund oversubscribed calls.
+Gateway criteria
+34. These are the minimum requirements which must be met in order that any
+application is considered for funding support. They will be used when the Outline
+Application is first submitted. The applicant/application must demonstrate that:
+1. They are eligible to apply;
+2. The proposed project involves eligible activity; and
+3. It meets the priorities set out in the call and the Operational Programme.
+35. As well as meeting national criteria, the applicant must make sure their proposed
+project is eligible with relevant European regulations and national Eligibility Rules.
+36. Once the Managing Authority is satisfied that the application has met the gateway
+criteria, the application will be assessed against the core selection criteria.
+17
+<<<PDF_PAGE_18>>>
+Core selection criteria
+37. The European Regional Development Fund and European Social Fund Managing
+Authorities will use a qualitative approach in assessing against the selection
+criteria.
+38. The European Social Fund Managing Authority will also use a quantitative
+approach.
+39. The criteria are:
+ Strategic fit;
+ Value for money;
+ Management and control;
+ Deliverability;
+ Compliance; and
+o Procurement
+o State Aid
+o Publicity
+ Cross cutting themes
+o Gender equality and non-discrimination
+o Sustainable Development
+40. The core selection criteria are the same at both Outline and Full Application stages,
+but more detail and evidence is required at the Full Application stage. As part of the
+assessment and appraisal process a score may be awarded for each Core
+Selection Criteria. Further information on how the Managing authorities will apply
+the selection criteria and ESF scoring methodology are provided in separate
+guidance notes.
+18
+<<<PDF_PAGE_19>>>
+Moving to Full Application
+41. Once an application has been assessed at Outline Application and it is clear that
+the proposal delivers both the Operational Programme requirements and relevant
+local development needs and the taking account of the funds available, the
+applicant may be invited to prepare a Full Application. In this invitation, the
+Managing Authority will also notify applicants of any conditions or
+recommendations made at the Outline Assessment stage and the deadline for
+submitting the Full application, which will normally be in line with the published call
+criteria.
+42. It is anticipated that the Full Application will build on the detail from the Outline
+Application. As it has already been assessed for the gateway criteria and local
+strategic fit, the proposal should not normally change materially in its nature or
+scope between this Outline and Full Application stage. The areas likely to need
+significant work by the applicant include: details about the delivery approach,
+activities and outputs, cost assumptions, procurement processes, target
+methodologies and State Aid treatment.
+43. The Managing Authority will also notify applicants whose applications have not
+been selected to move to the Full Application stage.
+44. Full Applications should also be submitted on E-CLAIMS. Note: E-CLAIMS is still
+under development. In the interim applicants will submit an application on
+the Word template available from the GOV.UK website and emailed to the
+email address specified in the invitation letter.
+Preparing the Full Application
+45. Once an applicant has been invited to submit a Full Application, the Managing
+Authority will appoint an appraiser for the application. This appraiser will be the
+primary point of contact between the applicant and the Managing Authority and will
+point them in the direction of any appropriate guidance or support. The Managing
+Authority appraiser will arrange a debrief discussion with the applicant to explain
+any conditions for the Full Application and explain any other relevant points from
+the outline stage informing applicants of areas of weakness and where further
+clarity is required. This may include technical queries on areas such as eligibility,
+procurement, state aid or budget.
+46. It is the responsibility of the applicant to develop the application. They may wish to
+take independent advice or bring in technical expertise in developing their
+application. The Managing Authority will not support the applicant in explaining how
+19
+<<<PDF_PAGE_20>>>
+it should structure or prepare their application but will signpost applicants to
+potential sources of advice as queries arise.
+47. The Managing Authority may set a time to receive a draft Full Application in
+advance of formal submission and provide some feedback to the applicant on this.
+Applicants will be notified if this is the case..
+48. The applicant is responsible for developing the proposal and submitting the Full
+application by the agreed deadline via E-CLAIMS. Note: E-CLAIMS is still under
+development. In the interim applicants will submit an application on the Word
+template available from the GOV.UK website and emailed to the email
+address on the published call.
+Timescales for submitting a Full Application
+49. Applicants will be set a deadline for the submission of the Full Application by the
+Managing Authority. If there are exceptional reasons why an applicant is unable to
+meet the deadline, the Managing Authority may, at its discretion, extend the
+deadline. If an applicant fails to submit an application by an agreed deadline
+without justification or is unresponsive, the Managing Authority will inform the
+applicant that their application has been withdrawn.
+The Managing Authorities’ appraisal of the Full Application
+50. An appraisal is a technical assessment of the Full Application against the selection
+criteria to ensure that the proposal is deliverable, complies with European Union
+regulations and other applicable law, complies with the Operational Programme,
+and is sufficiently well-defined to enter into a funding agreement and meet
+programme audit requirements within the funds available.
+51. After the Full Application has been submitted, the Managing Authority will
+commence its technical appraisal against the same selection criteria as that of the
+outline stage. The Managing Authority will not re-appraise applications that are not
+strong enough and if this is the case, the applicant will have to submit the
+application under an appropriate future call.
+52. The Full Application proposal should not materially change from the successful
+Outline Application. Should the Managing Authority consider something has
+changed significantly from the outline stage, the Managing Authority will make an
+assessment as to whether it is appropriate to allow the application to proceed or
+whether to inform the applicant that the application is no longer satisfactory. This
+20
+<<<PDF_PAGE_21>>>
+includes significant changes in the outputs and results the project will deliver. This
+becomes particularly important where a proposal has come through a competitive
+call and been prioritised against other proposals at the Outline Assessment stage.
+If, in order to get through the Outline Application stage, the Managing Authority
+suggested conditions that needed to be fulfilled by the applicant, the Full
+Application and appraisal will reflect how the conditions have been taken into
+account. In all these circumstances, the Managing Authority will make an
+assessment about how to proceed as described above.
+53. The Local Enterprise Partnership area European Structural and Investment Funds
+Sub-Committee will provide advice on local economic growth conditions and
+opportunities within the context of Operational Programmes and the local European
+Structural Investment Funds Strategy to aid the Managing Authority’s assessment
+at Outline and Full Application stage. The Managing Authority will draw in other
+expertise and apply a scoring methodology as required. (e.g. Lawyers,
+procurement practitioners, Quantity Surveyors, Other Government Departments).
+54. The applicant will have the opportunity within the application to highlight any
+commercially sensitive data which it feels should be withheld from partners or other
+interested parties. The Managing Authority will have regard to the Freedom of
+Information requirements.
+Funding agreement
+55. The funding agreement is the formal agreement between the Managing Authority
+and the applicant. It is a legally binding agreement and it sets out the terms of the
+grant.
+56. The Managing Authority will write to successful applicants notifying them of its
+decision to accept or reject an application and any proposed conditions of
+investment. The Managing Authority will work through the terms and any
+conditions which must be discharged prior to entering into the funding agreement
+with the applicant. It should be noted that a positive decision at this stage is not a
+guarantee of funding. It can take time for the conditions to be discharged before
+the funding agreement can be signed.
+57. When the Managing Authority is able to issue the funding agreement, it will send
+two unsigned copies to the applicant. The applicant will sign and return both
+copies for counter-signature by the Managing Authority and one copy will be sent
+back to the applicant. Only when both parties have signed the funding agreement
+will the project commence and the grant recipient may start to incur expenditure.
+21
+<<<PDF_PAGE_22>>>
+Contract management
+58. This signing and acceptance of a Funding Agreement marks the start of the
+Contract Management process. After this point the Applicant is referred to as the
+Grant Recipient. Once a Full Application has been appraised and been selected by
+the Managing Authority to move towards a Funding Agreement, the Managing
+Authority will appoint a contract manager.
+59. This contract manager will be responsible for ensuring that the pre-funding
+agreement conditions are discharged prior to entering into a legally binding
+Funding Agreement with the Grant Recipient. If this results in a change to any
+aspect of the Full Application (e.g. financial profile, project activity, agreed targets)
+the contract manager will maintain an audit trail to explain any discrepancy
+between the Full Application and the figures in the Funding Agreement.
+Discharging pre-Funding Agreement conditions should be a relatively quick
+process with the intention to move towards a live project status as soon as
+possible. However, there are some instances where there can be lengthy
+discussions or processes required in order to satisfactorily discharge these
+conditions. This could result in substantial delays to the start of the project. The
+Managing Authority will set a deadline for discharging these conditions - normally
+three months. If the deadline is missed, the Managing Authority reserves the right
+to withdraw the offer of European Structural and Investment Funds funding; the
+Local Enterprise Partnership area European Structural and Investment Funds Sub-
+Committee will be kept informed of any such instances.
+60. Once the Funding Agreement is signed the Managing Authority will continue to
+work with the Grant Recipient. This relationship is critical to the success of the
+project both for compliance and delivering maximum economic and social impact.
+The approach to contract management will vary with the frequency and intensity of
+contact with the grant recipient negotiated depending on the complexity of the
+activity, the size of the grant and the experience and capacity of the organisation.
+The Managing Authority will expect to have a progress visit or conversation at most
+quarterly and at least annually.
+61. The Managing Authorities for European Regional Development Fund and
+European Social Fund will work cooperatively to provide a joined up service to
+partners and grant recipients. The different funds need a clear audit trail back to
+the individual fund, with separate Funding Agreements and separate claims and
+reporting. Where an project is receiving monies from more than one structural fund,
+the Managing Authorities will agree a lead contract manager who will be the
+“relationship manager” with the Grant Recipient and who will then liaise with
+22
+<<<PDF_PAGE_23>>>
+colleagues across the appropriate managing authorities. In general, unless a
+particular specialism is needed, the relationship manager will be from the
+Managing Authority contributing the largest share of the funding to an project.
+62. Where the activity covers more than one Local Enterprise Partnership area, or the
+applicant is the recipient of a number of different grants in different Local Enterprise
+Partnership areas, the Managing Authority will aim to appoint one contract
+manager so that there is a single point of contact.
+63. Grant Recipients may submit Project Change Requests throughout the life of the
+project and the Managing Authority will review all such requests prior to deciding
+whether or not to approve them. Where a change request impacts on; the level of
+funding, the objectives or the targets that an project is seeking, or looking to
+achieve, depending on the scale, it may be referred back to the Local Enterprise
+Partnership area European Structural and Investment Funds Sub-Committee for
+their advice. There is no automatic right for a Change Request to be approved –
+the final decision rests with the Managing Authority.
+64. The Managing Authority may also instigate a Project Change Request, for example
+where performance or expenditure falls significantly below forecast profiles.
+Contract management process
+65. There are a number of different parts of the contract management process –
+contract management, submission and payment of claims, monitoring and
+verification, and audit. The purpose is to make sure that the grant recipient is
+delivering the activity, making claims, achieving outputs and making the required
+progress to deliver the desired outcome. The Managing Authority will not manage
+the project but is focussed primarily on compliance, with the aim to identify any
+problems as early as possible and ensuring the economic outcomes are achieved.
+The later problems are uncovered the more work it creates for everyone.
+66. Every project will be risk rated and this risk rating will influence the frequency and
+intensity of the compliance checks. The risk rating will be reviewed regularly
+through the process.
+23
+<<<PDF_PAGE_24>>>
+Project Inception Visit
+67. The purpose of the Project Inception Visit (PIV) is to test the preparedness of the
+Grant Recipient to manage the project in a way that is compliant with EUROPEAN
+Structural and Investment Funds requirements and to give the Grant Recipient an
+opportunity to seek clarification on any issues. The PIV is for the benefit of both the
+Managing Authority and the Grant Recipient and should ideally include the
+operational staff delivering the project. The visit should take place as soon as
+possible after the Funding Agreement has been signed. This would normally take
+place within 3 months. Following the PIV meeting, the contract manager will agree
+the regularity of subsequent progress meetings.
+68. Most projects receiving European Agricultural Funds for Rural Development
+funding will also have a PIV depending on the amount of grant offered and the
+complexity of the project.
+24
+<<<PDF_PAGE_25>>>
+Claims
+69. European Structural and Investment Funds is generally paid in arrears, the
+exception being some investment capital is paid in advance for Financial
+Instruments. The whole process will be managed electronically through E-CLAIMS.
+70. The Managing Authority will specify the claims period. This will normally be
+quarterly but in some circumstances could be monthly. The Grant Recipient will
+forecast their claims over the lifetime of the project. It is important that the profile is
+a reasonably accurate reflection of forecast claims as this will be used to monitor
+performance of the project.
+71. The grant recipient will then submit claims to the Managing Authority. This claim
+will be checked by the Managing Authority. The claims checker will identify a
+sample of the claim transactions and undertake a more rigorous assessment of
+these transactions. This will require the grant recipient to provide additional
+evidence.
+72. If problems are identified the Contract Manager will work with the grant recipient to
+correct the issue. If the claim has to be returned, the grant recipient would amend
+and resubmit an amended version of the claim.
+73. Once cleared, the approved payment will be submitted to the Managing Authority
+finance team for payment to the Grant Recipient.
+74. With each claim, the Grant Recipient will also be required to provide additional
+information about the progress of the activity, variation from forecast expenditure
+and outputs, report on outputs and/or results achieved, state aid and any changes
+to the activity including information on any new procurements. This is part of the
+progress monitoring of the activity.
+75. European Agricultural Funds for Rural Development funding is also paid in arrears.
+The number of claims to be submitted by the grant recipient will depend on the
+nature and scale of the project.
+25
+<<<PDF_PAGE_26>>>
+On-the-spot verification visit
+76. All projects will be randomly sampled for on-the-spot verification visits. A member
+of the verification team (not the contract manager) will conduct an in-depth on-site
+visit to check expenditure and compliance with contractual conditions. The sample
+will be drawn from the forecast claims and then will test some of the most recent
+claims.
+77. For the European Regional Development Fund, all projects will receive an on-the-
+spot visit at least once on their lifetime and many projects will receive a visit
+annually. The frequency of on-the-spot visits will be determined by the risk rating of
+projects.
+78. For co-financing organisations the sample of projects to be visited will be drawn
+from the latest claim.
+79. Projects supported through European Agricultural Funds for Rural Development
+will receive a once in a lifetime on-the-spot inspection normally prior to payment of
+the final claim. These inspections are conducted by the Rural Payment Agency’s
+Rural Development Team on behalf of the Managing Authority.
+26
+<<<PDF_PAGE_27>>>
+Monitoring and audit regime
+80. As stated before, all projects are subject to extensive audit. The earlier any
+problems are detected the better. It is relatively easy to correct and resolve issues
+early but once these have been detected in the audit process it becomes much
+more complicated. There are different levels of scrutiny and the impact increases at
+each level.
+a. The Grant Recipient is required to have strong controls and own up to any
+financial errors in their projects. The Managing Authority should be notified of
+any financial or compliance errors identified by the grant recipient through
+submission of the self-declared adjustment form;
+b. Management Controls (Claims Checks) – The Managing Authority will
+sample claims and test that the underlying evidence demonstrates that the
+expenditure is regular;
+c. Management Controls (On-the-Spot verification visits) – The Managing
+Authority conducts in-depth checks on selected claims;
+d. Assurance Checks – The Certifying Authority conducts a sample of checks
+on expenditure before submitting claims to the European Commission for
+reimbursement;
+e. Audit Authority (Project audits) – The Audit Authority (An independent body -
+Government Internal Audit Agency) conducts audits of projects based on a
+sampling methodology;
+f. Audit Authority (Systems Audits) – The Audit Authority conducts audits of the
+functioning of the whole system. Based on these two sets of audits, they
+report to the European Commission following defined rules. This Annual
+Control Report states an error rate for the functioning of the whole
+programme. The European Commission deems an error rate of over 2% to
+reveal weaknesses in the system which can result in loss of grant to the
+programme;
+g. European Commission Audit – The European Commission has the right to
+audit operations and systems (including Audit Authority) at any stage in order
+to gain assurance about the functioning of the control system; and
+h. European Court of Auditors – The European Court of Auditors auditing the
+functioning of the system (including EC Audit) across the whole of the
+European Union. They might select to visit an operation.
+27
+<<<PDF_PAGE_28>>>
+81. In all these processes, the verification and audit is independent of the contract
+manager, but the contract manager plays an important role in preparing the Grant
+Recipient for these visits, understanding the expectations and following up actions
+arising. The likelihood of these audits being incident free is significantly increased
+where the grant recipient has actively engaged with the contract manager,
+submitted regular detailed claims and worked with the contract manager to identify
+potential errors before they have occurred rather than trying to minimise the impact
+after they have occurred. Establishing an environment where the Grant Recipient
+feels able to share information freely, test ideas and initial thinking, and work
+collaboratively with the Managing Authority is the fundamental basis for a compliant
+and effective Programme.
+82. Projects supported through European Agricultural Funds for Rural Development
+will be subject to independent socio-economic inspections from the Rural Payment
+Agency’s Inspectorate. These audits will be selected on a risk and random basis
+annually covering at least 4% of the eligible expenditure declared to the European
+Commission each year.
+28
+<<<PDF_PAGE_29>>>
+Irregularities
+83. The Managing Authority has an obligation to ensure that all of the expenditure it
+claims from the European Commission is regular and in compliance with the
+regulations governing European Structural and Investment Funds. In the event that
+any irregular expenditure is identified within a project claim, either by the contract
+manager or during any of the compliance checks or audit visits, the contract
+manager will work with the grant recipient to try and resolve this where possible. If
+it is not possible to resolve the issue the Managing Authority will instigate clawback
+of the irregular grant by offsetting this amount against future claims, or by issuing a
+demand note to the Grant Recipient.
+What are irregularities?
+84. Irregularities can arise from any expenditure that does not meet Eligibility Criteria,
+European Union or National Law or Regulations.
+85. They are issues discovered after payment of the claim by the Managing Authority,
+Certifying Authority, Audit Authority, European Commission Auditors (DG
+Regio/DG Emploi/DG Agri) or European Court of Auditors.
+86. Once an irregularity has been identified it will be recorded – for a fixed financial
+value or as a flat rate (percentage across all related expenditure – possibly
+including past and future expenditure). The grant recipient will have an opportunity
+to provide evidence to show that the expenditure is regular and if the Managing
+Authority accepts this they will reject the irregularity.
+87. If no evidence is provided or the evidence is not sufficient, the Managing Authority
+will report the irregularity as concluded and start to recover the money from the
+applicant, either as a deduction from future claims or through issue of a demand
+note. This money is lost to the project forever.
+Self-declared adjustments
+88. Any issue detected by the grant recipient and notified to the Managing Authority
+after payment of the claim but prior to detection or selection within an audit sample
+by the Managing Authority, Certifying Authority, Audit Authority or European
+Commission Auditors can be submitted as a self-declared adjustment. The grant
+recipient should notify the Managing Authority immediately once they are aware of
+an issue with an explanation about why the mistake has occurred. The Managing
+Authority will assess this and if satisfied with the explanation, this will be recorded
+as a self-declared adjustment. Although the ineligible expenditure will need to be
+repaid, the project does not lose any grant in this circumstance.
+29
+<<<PDF_PAGE_30>>>
+30
+<<<PDF_PAGE_31>>>
+Project closure
+89. The final stage in the life cycle of an European Structural and Investment Funds
+operation is project closure. The detail of this process will be published at a later
+date but the key lessons learned is that if the project is tightly managed from the
+beginning closure is relatively easy but if the management of the project is less well
+managed more closure can be a significant burden and create costs for the grant
+recipient.
+Document retention
+90. All projects are required to retain documents for a period after the activity has
+ended and these should be kept in an acceptable format so that they can be
+inspected by auditors. The grant recipient will be informed of this retention period at
+the end of the project. The period is dependent on the date at which the final claim
+is submitted to the Managing Authority so the retention period will be unique to
+each project and this period cannot be specified at the outset.
+91. The rule is that all documents must be retained for 2 years after the submission of
+the annual accounts in which the final expenditure for the project is included. The
+accounts are contained in the Annual Control Report which is submitted to the
+Commission each year by the Audit Authority. The Audit Authority will be working
+on a July to June year and will submit the Annual Control Report in the February of
+the following year. The 2 year retention period will start from the 31 December of
+the year in which the Annual Control Report is submitted that includes the final
+payment from the Managing Authority to the grant recipient in respect of the
+project.
+92. Note that documents might have to be retained for longer periods if other
+conditions apply which dictate a longer retention period, for example State Aid
+Schemes, revenue generating activities, economic lifetime of an asset or other
+accounting rules. Further guidance will be published in due course.
+31

@@ -1,0 +1,1817 @@
+Report No: ICR00218
+IMPLEMENTATION COMPLETION AND RESULTS REPORT
+(Credit Number 6287-ZR)
+ON A
+CREDIT
+IN THE AMOUNT OF
+US$ 100 MILLION
+TO THE
+Ministry of Finance
+FOR
+DRC- SME Development and Growth Project
+January 9, 2025
+Finance, Competitiveness and Investment
+Eastern And Southern Africa
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+CURRENCY EQUIVALENTS
+(Exchange Rate Effective {Sep 23, 2024})
+Currency Unit =
+= US$1
+US$ = SDR 1
+FISCAL YEAR
+January 1 - December 31
+Regional Vice President: Victoria Kwakwa
+Country Director: Albert G. Zeufack
+Regional Director: Hassan Zaman
+Practice Manager: Consolate K. Rusagara
+Task Team Leader (s): Magueye Dia, Natalia Agapitova
+ICR Main Contributor: Zouhour Karray
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+ABBREVIATIONS AND ACRONYMS
+BDS Business Development Services
+BPC Business Plan Competition
+CPF Country Partnership Framework
+DRC Democratic Republic of Congo
+ERR Economic Rate of Return
+FCS Fragile and Conflict-Affected States
+GBV Gender-Based Violence
+GDP Gross Domestic Product
+GEMS Geo-Enabling Initiative for Monitoring and Supervision
+GoDRC Government of Democratic Republic of Congo
+GRM Grievance Redress Mechanism
+ICR Implementation Completion and Results Report
+IDA International Development Association
+IDNAT Numéro d'identification Nationale (National ID Number)
+IRI Intermediate Results Indicator
+ISR Implementation Status and Results Report
+M&E Monitoring and Evaluation
+MDA Ministries, Departments, and Agencies
+MSME Micro, Small, and Medium-sized Enterprises
+NGO Non-Governmental Organization
+NIF Numéro d'Identification Fiscal (Fiscal Tax Number)
+NPV Net Present Value
+OCC Office Congolais de Controle (Congolese Office of Control)
+PAD Project Appraisal Document
+PADMPME Projet d'Appui au Développement des Micro, Petites et Moyennes Entreprises (Small and Medium-
+Sized Enterprises Development and Growth Project)
+PCU Project Coordinating Unit
+PDO Project Development Objective
+PPD Public-Private Dialogue
+PPP Public-Private Partnerships
+PRONADEC Programme National de Développement de l'entrepreneuriat Congolais (National Program for the
+Development of Congolese Entrepreneurship)
+PSU Provincial Supervision Unit
+RCCM Registre du Commerce et du Crédit Mobilier (Trade and Personal Property Credit Registry)
+RRA Risk and Resilience Assessment
+SBP Simplified Business Plan
+SME Small and Medium-sized Enterprises
+SNDP Strategic National Development Plan
+SSA Sub-Saharan Africa
+STEP Student Training for Entrepreneurial Promotion Methodology
+TA Technical Assistance
+ToC Theory of Change
+ToT Training of Trainers
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+TRANSFORME Empowering Women Entrepreneurs and Upgrading MSMEs for Economic Transformation and Jobs
+in DRC Project
+US$ US Dollar
+USAID United States Agency for International Development
+WB World Bank
+WBG World Bank Group
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+TABLE OF CONTENTS
+DATA SHEET ................................................................................................................................................. i
+I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES ....................................................................................2
+II. OUTCOME ...................................................................................................................................................8
+III. KEY FACTORS AFFECTED IMPLEMENTATION AND OUTCOME................................................................... 20
+IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME ............................ 20
+V. LESSONS AND RECOMMENDATION ............................................................................................................ 28
+ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS ........................................................................................ 31
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION ....................................................... 36
+ANNEX 3. PROJECT COST BY COMPONENT ......................................................................................................... 38
+ANNEX 4. EFFICIENCY ANALYSIS ........................................................................................................................ 39
+ANNEX 5. BORROWER, CO-FINANCIER AND OTHER PARTNER/STAKEHOLDER COMMENTS ................................. 41
+ANNEX 6. SUMMARY OF ONGOING IMPACT STUDY ........................................................................................... 42
+ANNEX 7. SUPPORTING DOCUMENTS (IF ANY) ................................................................................................... 43
+ANNEX 8. PROJECT’S THEORIES OF CHANGE ...................................................................................................... 44
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+DATA SHEET
+@#&OPS~Doctype~OPS^dynamics@icrbasicdata#doctemplate
+BASIC DATA
+Product Information
+Operation ID Operation Name
+P160806 DRC- SME Development and Growth Project
+Product Operation Short Name
+Investment Project Financing (IPF) DRC SME Development and Growth Project
+Operation Status Approval Fiscal Year
+Closed 2019
+Original EA Category Current EA Category
+Partial Assessment (B) (Restructuring Data Sheet - 11 Dec
+Partial Assessment (B) (Approval package - 06 Jul 2018)
+2023)
+CLIENTS
+Borrower/Recipient Implementing Agency
+Ministry of Finance Justin Kalumba Mwana Ngongo
+DEVELOPMENT OBJECTIVE
+Original Development Objective (Approved as part of Approval Package on 06-Jul-2018)
+The project development objective is to support the growth of Micro, Small and Medium-sized Enterprises (MSMEs) and
+increase employment and entrepreneurship opportunities for youth and women in select areas.
+sssss
+@#&OPS~Doctype~OPS^dynamics@icrfinancing#doctemplate
+FINANCING
+Financing Source Original Amount (US$) Revised Amount (US$) Actual Disbursed (US$)
+i
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+World Bank Financing 100,000,000.00 100,000,000.00 99,586,063.67
+IDA-62870 100,000,000.00 100,000,000.00 99,586,063.67
+Total 100,000,000.00 100,000,000.00 99,586,063.67
+RESTRUCTURING AND/OR ADDITIONAL FINANCING
+Amount Disbursed
+Date(s) Type Key Revisions
+(US$M)
+10-Mar-2023 Portal 90.76 • Reallocations
+11-Dec-2023 Portal 94.50 • Loan Closing Date Extension
+@#&OPS~Doctype~OPS^dynamics@icrkeydates#doctemplate
+KEY DATES
+Key Events Planned Date Actual Date
+Concept Review 06-Apr-2017 06-Apr-2017
+Decision Review 20-Mar-2018 20-Mar-2018
+Authorize Negotiations 21-May-2018 21-May-2018
+Approval 06-Jul-2018 06-Jul-2018
+Signing 29-Jun-2018 21-Sep-2018
+Effectiveness 20-Nov-2019
+ICR/NCO 27-Dec-2024 09-Jan-2025
+Restructuring Sequence.01 Not Applicable 10-Mar-2023
+Restructuring Sequence.02 Not Applicable 11-Dec-2023
+ICR Sequence.01 (Final) -- 08-Jan-2025
+Operation Closing/Cancellation 28-Jun-2024 28-Jun-2024
+@#&OPS~Doctype~OPS^dynamics@icrratings#doctemplate
+RATINGS SUMMARY
+Outcome Bank Performance M&E Quality
+Highly Satisfactory Highly Satisfactory High
+ii
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+ISR RATINGS
+Actual Disbursements
+No. Date ISR Archived DO Rating IP Rating
+(US$M)
+01 23-Nov-2018 Satisfactory Satisfactory 0.47
+02 18-Jun-2019 Satisfactory Moderately Satisfactory 0.75
+03 26-Dec-2019 Satisfactory Moderately Satisfactory 1.74
+04 07-Jul-2020 Satisfactory Moderately Satisfactory 8.86
+05 05-Mar-2021 Satisfactory Moderately Satisfactory 13.37
+06 09-Jan-2022 Satisfactory Satisfactory 50.84
+07 05-Mar-2022 Satisfactory Satisfactory 69.51
+08 27-Oct-2022 Satisfactory Satisfactory 76.27
+09 17-May-2023 Satisfactory Satisfactory 92.06
+10 29-Jun-2024 Highly Satisfactory Highly Satisfactory 99.59
+@#&OPS~Doctype~OPS^dynamics@icrsectortheme#doctemplate
+SECTORS AND THEMES
+Sectors
+Adaptation Mitigation
+Major Sector Sector %
+Co-benefits (%) Co-benefits (%)
+FY17 - Agricultural markets,
+5 0 0
+commercialization and agri-business
+FY17 - Manufacturing 37 0 0
+FY17 - Industry, Trade
+and Services FY17 - Other Industry, Trade and
+44 0 0
+Services
+FY17 - Public Administration -
+14 0 0
+Industry, Trade and Services
+Themes
+Major Theme Theme (Level 2) Theme (Level 3) %
+FY17 - Financial Infrastructure and
+FY17 - Finance FY17 - MSME Finance 67
+Access
+iii
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+FY17 - Human
+Development and FY17 - Gender 41
+Gender
+FY17 - Entrepreneurship 45
+FY17 - Enterprise Development
+FY17 - MSME
+FY17 - Private Sector
+72
+Development
+Development
+FY17 - Youth
+FY17 - Jobs 35
+Employment
+iv
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+ADM STAFF
+Role At Approval At ICR
+Practice Manager Rashmi Shankar Consolate K. Rusagara
+Regional Director Hassan Zaman
+Global Director Ceyla Pazarbasioglu-Dutz Mona E. Haddad
+Practice Group Vice President Pablo Saavedra
+Country Director Jean-Christophe Carret Albert G. Zeufack
+Regional Vice President Makhtar Diop Victoria Kwakwa
+ADM Responsible Team Leader Alain Traoré Magueye Dia
+Co-Team Leader(s) Milaine Rossanaly Natalia Agapitova
+ICR Main Contributor Zouhour Karray
+Consultants Ilias Hamdouch ; Jan Hendrik van Zoelen Cortés ; Puja Guha
+Page 1
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES
+A. CONTEXT AT APPRAISAL
+Context
+1. The Small and Medium Sized Enterprises Development and Growth Project (PADMPME) in the Democratic
+Republic of Congo (DRC) was appraised in June 2018 and started its implementation during a period of economic
+growth that was threatened by persistent business environment, socioeconomic, political, and security
+challenges. Growth Domestic Product (GDP) growth averaged 6.1 percent from 2008 to 2018,1 higher than an
+average growth of 3.8 percent for Sub-Saharan Africa (SSA) during that period.2 At the time of appraisal, the DRC
+was the second-largest African country by land territory and fourth largest by population with an estimated 87
+million inhabitants.3 Despite the economic growth and significant natural resources endowments, including one
+of the highest concentrations of mineral wealth in the world, the overreliance on the mining industry and the lack
+of economic diversification had not translated into improved socio-economic conditions for most of the
+population. The economy in DRC was hindered by a particularly difficult business environment as noted in the
+2017 World Bank’s Ease of Doing Business, where the DRC ranked 184th out of 190 countries,4 and in the 2018
+Country Policy and Institutional Assessment, where the DRC received a score of 2.9, below the SSA International
+Development Association (IDA) average.5 Overall, GDP per capita in real dollars had drastically decreased,
+reaching US$388 in 2016, about one-third of its value of US$989 in 1960.6 In terms of human capital, the DRC
+ranked among the poorest countries in the world (176 out of 189 countries ranked) according to the 2016 Human
+Development Index.7 In addition, the security situation, particularly in the Kivu and Kasai provinces, remained
+highly volatile. The country had been going through political turmoil since 2016, when President Kabila completed
+his second term and new presidential elections, which were scheduled to take place in November 2016, were
+delayed following negotiations over the electoral process and changes in term limits. A contested election took
+place in December 2018, followed by a tense presidential transition.8 This political uncertainty engendered
+distrust between the Government of the DRC (GoDRC) and the public, leading to street protests and social unrest.
+Security concerns became more commonplace and had a dampening effect on economic activities. The Project’s
+preparation and initial implementation took place under these challenging circumstances. Furthermore, the
+Ministry of Small, and Medium-sized Enterprises (SMEs), a key counterpart for the Project, had just been formed.
+2. Subsistence agriculture constituted the main economic activity of the rapidly growing Congolese population. In
+2018, 58 percent of the total employed worked in low-productivity agriculture. Agriculture represented about
+18.9 percent of GDP, compared to 65.9 percent for industry (dominated by mining) and 15.2 percent for services.9
+As the overall population had already reached 93 million by the end of 202010, the agro-industrial sector remained
+limited in terms of production due to numerous constraints, ranging from weak basic infrastructure services,
+1 https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CD
+2 https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=ZG
+3 https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CD
+4 https://openknowledge.worldbank.org/server/api/core/bitstreams/30e44c7f-eee3-558e-8a5a-8fcac8d87d2f/content
+5 https://documents1.worldbank.org/curated/en/721671565809408540/pdf/Country-Policy-and-Institutional-Assessment-CPIA-Africa-2018-Strengthening-Debt-
+Management-Capacity-Congo-Democratic-Republic-Quick-Facts.pdf
+6 Source: WDI, WB (accessed in January 2018)
+7 https://hdr.undp.org/system/files/documents/2016humandevelopmentreportpdf1pdf.pdf
+8 https://www.bbc.com/news/world-africa-46819303
+9 https://databank.worldbank.org/source/world-development-indicators
+10 https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CD
+Page 2
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+limited access to land and to finance, stifling fiscal and para-fiscal policies, and more frequent extreme weather
+conditions. Moreover, most subsectors lacked the organizational structure, market mechanisms, and enabling
+business and institutional environments to create synergies and develop value-adding ecosystems. The economic
+fragility of the country was also reflected in its weak manufacturing production with factories that were either
+outdated or operated part-time due to high electricity costs, administrative harassment, limited access to finance,
+cost-prohibitive inputs, scarcity of equipment and spare parts, and lack of a skilled workforce. The revitalization
+of these factories and the development of strategic value chains were critical to diversifying DRC’s economy,
+improving its competitiveness, and increasing domestic production.
+3. Informality remained widespread as the DRC had a dual economic structure characterized by many small
+informal firms and a limited number of large formal firms. Over 90 percent of firms were small (1-9 employees)
+and nearly half of them were recent firms with less than five years in existence. Recent firms accounted for over
+35 percent of employment, while firms 6 years and older contributed most of DRC’s employment (approximately
+60 percent).11 The proportion of recent firms in DRC is large even in a context of fragility. When compared to other
+Fragile and Conflict-Affected States (FCS) for which an Enterprise Survey is available, DRC came second, only
+behind South Sudan. Unlike developed countries where Micro, Small, and Medium-sized Enterprises (MSMEs)
+serve as the main engine of growth and job creation, most of the labor force in DRC was trapped in low
+productivity activities, largely in the informal sector, which employed 89 percent of the active population. At the
+time of appraisal, small firms had an annual employment growth rate of 5.2 percent, compared to 6 percent for
+medium-sized firms, and 1.3 percent for large firms.12 MSMEs needed to improve productivity to become an
+important engine for economic growth and employment for a growing active and young population.13 The weak
+entrepreneurship ecosystem and challenging business environment prevented MSMEs from expanding into key
+productive sectors with high-growth potential for domestic and export markets. Market and institutional failures
+resulted in numerous constraints for MSMEs: (i) lack of an integrated vision to develop key productive sectors of
+the economy and basic infrastructure services; (ii) prohibitive fiscal and parafiscal policies that stifled the
+sustainable development and the transition of MSMEs into the formal sector; (iii) absence of national, provincial,
+and local development strategies and support mechanisms to promote specialized clusters of key industrial value
+chains; (iv) lack of specialized support organizations with business development services capacities; (v) insufficient
+financial instruments tailored to MSMEs; and (vi) limited skills in the overall MSME sector.
+4. Gender-based inequality was prevalent in the DRC, preventing women from becoming aware of several recent
+legislative changes and accessing related services. In 2016, with the support of the World Bank and other
+partners, important progress against gender inequality was made when the Family Code was reformed, allowing
+married women in the DRC to formalize their entrepreneurial ventures through business registrations, a bank
+account, and the independence to carry out most economic activities related to the development of their business
+without their husband’s interference. This law also raised the legal marriage age for girls from 15 to 18 and allowed
+married women to have a greater voice in the management of their marital property.14 The GoDRC has signed
+various international and regional legal regulations and conventions for the protection of women and young girls.
+However, the partial progress achieved through these laws and regulations were often not implemented or
+unknown to the population. Consequently, women and girls were still subjected to misogynistic attitudes and
+discriminatory practices, which at times prevented them from accessing education, basic services, and the right
+to inheritance, particularly for widows.
+11 The World Bank MSME survey - https://documents1.worldbank.org/curated/en/817691584000898009/pdf/Scaling-Up-Ecosystems-for-Small-Businesses-in-the-
+Democratic-Republic-of-Congo-Analysis-Based-on-Data-from-Kinshasa-Lubumbashi-Matadi-and-Goma.pdf
+12 Idem.
+13 Informal Enterprise Survey for the DRC, 2014, WB.
+14 https://blogs.worldbank.org/en/developmenttalk/reforms-enhance-gender-equality-democratic-republic-congo-advocacy-implementation
+Page 3
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+Theory of Change (Results Chain)
+5. The original theory of change (Annex 7) from the Project Appraisal Document (PAD) addressed multiple key
+challenges. These included: (i) regulatory constraints and capacity limitations of relevant ministries and agencies
+at the national and provincial levels to promote private investments and job creation in target urban areas; (ii)
+binding constraints to promote private investments and sustain job creation in target cities and provinces due to
+inadequate infrastructure, weak governance, fragile business climate, and low-skilled human capital; and (iii)
+limited skills and financing instruments among vulnerable groups, including women and youth, to create their
+own job opportunities as entrepreneurs. The main assumptions of the Project were that a decentralized strategy
+(e.g., working closely with cities) and a direct merit-based approach with beneficiaries that considered constraints
+related to governance, business climate, financing, supply chain, and human capital, would lead to improved job
+creation and enhanced MSME performance. These assumptions proved to be true as reflected in the efficacy
+section below. Despite the severe impacts of the COVID-19 crisis, the Project enhanced the resilience of businesses
+and accelerated the economic recovery across target cities. Moreover, the Theory of Change (ToC) indicated the
+Project’s contribution to the long-term impacts of poverty reduction and shared prosperity.
+Project Development Objective (PDO)
+6. As stated in page 16 of the PAD, the PDO was to support the growth of MSMEs and increase employment and
+entrepreneurship opportunities for youth and women in select areas. The PDO was to be achieved through
+interventions that (i) provided direct support to entrepreneurs and MSMEs, supporting their launch,
+formalization, and growth to generate value-adding activities and create jobs among vulnerable population
+groups, particularly women and youth; and (ii) improved the business environment at the national and local levels
+to enable continued sustainable growth for the supported entrepreneurs and MSMEs.
+Key Expected Output and Outcome Indicators
+7. The Project’s main objective focused on supporting the growth of MSMEs, both formal and informal, in four
+target cities, creating employment for women and youth in these cities. The eligible sectors included light
+manufacturing, agri-processing, and services (excluding general trade and import-export activities) in four urban
+areas in the DRC: Matadi in the province of Kongo Central, Lubumbashi in Katanga, Goma in North Kivu, and the
+capital of Kinshasa. These cities were targeted because of their supportive provincial governments, availability of
+infrastructure, pools of existing MSMEs, and large industrial enterprises providing opportunities for growth and
+value chain integration. Enhancing the business environment in these four cities would also support the
+sustainability and continued growth of the MSMEs supported by the Project.
+8. The corresponding PDO indicators are as follows:
+(i) - Number of new firms established by targeted beneficiaries (of which female-owned and young entrepreneurs);
+(ii) - Percentage increase in average revenue of beneficiary MSMEs;
+(iii) - Net full-time equivalent jobs created among beneficiary MSMEs.
+Page 4
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+Components
+9. The Project was structured around three interconnected components with a mix of interventions that were
+mutually reinforcing. The third component, which aimed at developing institutional capacity, also included
+Project management support activities.
+10. Component 1 supported entrepreneurship opportunities for women and youth, while fostering an enabling
+business environment for sustainable MSME growth (initial cost US$44.0 million, actual cost: US$45.92 million).
+It consisted of three sub-components:
+1.1 Support for women entrepreneurs (initial cost: US$15.00 million, actual cost: US$16.63 million) through technical
+and financial assistance (in-kind grants) over the course of a five-step process: (i) communication and public
+awareness campaigns; (ii) comprehensive training program for 4,500 women applicants; (iii) simplified call for
+proposals and business plan competition; (iv) delivery of in-kind grants, coaching, and mentoring to the most
+engaged women that meet all eligibility criteria; and (v) networking and peer learning activities. After completion
+of the five steps, female grantees were to be invited to the Business Plan Competitions (BPCs) to be supported
+through sub-components 1.2 and 2.1, while they could also benefit from the SME Hubs to be established under
+sub-component 2.2. This activity also took into consideration 15 percent of the administrative cost for
+implementation and supervision by a competitively hired local or international firm or non-governmental
+organization (NGO).
+1.2 Start-up grant and technical assistance (TA) for young entrepreneurs (between 18 and 35 years old) to develop
+entrepreneurial capacity and launch or expand business ventures, expanding the pool of local MSMEs through
+training and cash grants (initial cost: US$17.00 million, actual cost: US$20.36 million). A selection process invited
+young talents at the startup stage or with a formal or informal business less than two years old to apply. To
+incentivize formalization, businesses would be required to register before becoming eligible for funding. The
+selection process would consist of two to three rounds of business competitions, each including four steps: (i)
+outreach campaign and preparation clinics on pitching business ideas; (ii) prequalification of business pitches by
+a panel of experts and training on defining short business plans for the top 30-40 percent of applicants; (iii)
+financial assistance through cash grants of US$ 20,000 for up to 750 entrepreneurs who formalized, completed
+training, and submitted adequate business plans; and (iv) 18 months of supervision of the business plan
+implementation through mandatory training and mentoring. This activity also took into consideration 15 percent
+of the administrative cost for implementation and supervision by a competitively hired local or international firm
+or NGO.
+1.3 Improvement of business environment, with a special focus on women-led MSMEs (initial cost: US$12.00 million,
+actual cost: US$8.93 million). This sub-component would finance analytical studies, data collection, training, and
+other TA activities such as the (i) review of the national strategy for SMEs promotion and development of an
+implementation action plan; (ii) review of the legal framework currently applicable to SMEs and TA to support the
+modernization of existing regulations or the adoption of new regulations; (iii) review of the policy, institutional
+and/or other constraints and the proposal of an incentive-based legal framework for SMEs in growth sectors; (iv)
+review of the tax regime applicable to SMEs and advising on appropriate measures to increase the equity of the
+tax system15; (v) review of the subcontracting law plus recommendations and support to ensure its effective
+implementation; (vi) strengthen the institutional capacities for dispute resolution, including existing arbitration
+and commercial mediation centers; (vii) identification and piloting of specific tools for public-private dialogue
+(PPD) that could be useful at the provincial and local levels based on international best practices; and (viii) rollout
+15 Etudes sur les Ecarts Fiscaux dans la République Démocratique du Congo, pages 26 to 28, World Bank, December 2017.
+Page 5
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+of the implementation of PPDs in the four locations targeted by the Project. In addition, this sub-component would
+also finance dissemination campaigns to improve awareness around the new Family Code and other women-
+friendly legal provisions within the Labor Law, Land Law, and the recent Equality Law.
+11. Component 2 targeted SME development through direct support and the establishment of innovative SME Hubs
+to improve and increase services available to SMEs (initial cost: US$42 million, actual cost: US$36.06 million). It
+consisted of two sub-components:
+2.1 Enhancing the growth and performance of SMEs (initial cost: US$37.00 million, actual cost: US$31.97 million). The
+first sub-component would provide matching grants16 to 500 established SMEs to tackle growth challenges that
+could not be addressed due to institutional and market constraints. Depending on uptake, the maximum
+allowance would be US$200,000 per SME and the average allocation would be US$75,000 based on an allocation
+pool of US$32.5 million over two years of supervised implementation and business development support. To
+encourage the participation of women-led SMEs, this sub-component established a target ratio of 40 percent
+matching grant allocation to women-led/owned SMEs, encouraging and prioritizing women-owned/led SMEs that
+met all eligibility criteria. The target of 40 percent of the overall accompanied SMEs is more than double the
+proportion of SMEs that are women-owned/led in DRC (less than 20 percent). This activity took into consideration
+12.5 percent of the administrative cost for implementation and supervision by a competitively hired local or
+international firm or NGO.
+2.2 Development of ancillary SME Hubs (initial cost: US$5.00 million, actual cost: US$4.09 million). The second sub-
+component would support the growth of supply chains through collaborative arrangements with large companies
+using the ancillary SME Hub model. The SME Hub is defined as a plot of land located near existing large companies
+around which a cluster of SMEs can be integrated into the value chain, reaching critical capacity to meet the supply
+levels of larger players. This sub-component would finance TA, studies, marketing, communication activities, and
+business development services (BDS), including supplier development programs for four to five SME Hubs with an
+average capacity of 40 SMEs. These SME Hubs would be privately managed by large companies in agribusiness,
+mining, light manufacturing, and/or services. These large firms would be selected through a call for proposals.
+New SME Hubs would be operational in Years 3 and 4 of the Project to be ready to host MSMEs supported by sub-
+components 1.1, 1.2, and 2.1.
+12. Component 3 contributed to the development of the institutional capacity at national and provincial levels for
+both public and private stakeholders to improve the enabling business environment, supporting the
+sustainability of activities under Components 1 and 2. Component 3 also facilitated the support functions for
+the Project’s management (initial cost: US$14 million, actual cost: US$17.32 million). A Steering Committee was
+established to provide strategic guidance for the Project, ensure coordination across departments, and monitor
+progress toward achieving the PDOs. This third Component consisted of two sub-components:
+3.1 Capacity strengthening of public and private institutions supporting entrepreneurs and MSMEs (initial cost:
+US$5.00 million, actual cost: US$4.04 million). The first sub-component would focus on strengthening public and
+private institutions in the entrepreneurship support ecosystem. This effort included Ministries (e.g., Ministry of
+SMEs and Ministry of Gender) and public agencies in charge of delivering services to the private sector at the
+provincial level that are key in the development of the entrepreneurship ecosystem. In addition, this activity aimed
+at building the capacity of BDS actors to catalyze BDS services through training and technical support to private
+firms and organizations, including the Federation of Enterprises of Congo and the Confederation of Small and
+16 These partial grants (40 to 60 percent of the cost) were allocated through BPCs for services (including both consulting and non-consulting services), staff salaries, and
+goods (e.g., equipment and spare parts) within the scope of the business development plans and outreach, communications, consulting services, and associated costs
+related to the delivery of these business development grants.
+Page 6
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+Medium Enterprises of Congo, among others. Improvements to the overall business environment would
+strengthen the sustainability of the direct support provided to entrepreneurs, SMEs, and SME Hubs under the first
+two components.
+3.2 Project Implementation (initial cost: US$9.00 million, actual cost: US$13.28 million). The second sub-component
+financed activities related to the Project’s management, including the setup of a Project Coordination Unit (PCU)
+in Kinshasa and Provincial Supervision Units (PSUs), together responsible for the Project’s coordination,
+communication, and monitoring and evaluation (M&E). International consulting expertise would also be selected
+to support the technical capacity building of local partners that would eventually take over the administration of
+the BPC, provide associated BDS, and implement supplier development program activities.
+B. SIGNIFICANT CHANGES DURING IMPLEMENTATION (IF APPLICABLE)
+Revised PDOs and Outcome Targets
+13. The PDOs remained unchanged throughout the Project.
+Revised PDO Indicators
+14. No PDO Indicators were modified during Project implementation.
+Revised Components
+15. No Components were modified during Project implementation.
+Other Changes
+16. The first restructuring of the Project was approved in March 2023. As the number of youth entrepreneurs
+supported under sub-component 1.2 was higher than expected, the initial budget allocation to the disbursement
+category dedicated to grants for young entrepreneurs was insufficient to cover the second tranche of grants to
+be provided. Therefore, the GoDRC requested a reallocation of funds, ensuring the delivery of the second tranche
+of grants to all selected youth beneficiaries.
+17. The second restructuring was approved in December 2023. A six-month extension of the closing date from
+December 28, 2023 to June 28, 2024 was approved, allowing additional time to complete the activities under sub-
+component 1.1 aimed at supporting women entrepreneurs in Lubumbashi as well as the activities under sub-
+component 2.2 aimed at the establishment of the SME Hubs. For sub-component 2.2, the extension would ensure
+the supervision of the implementation of the three SME Hubs. For sub-component 1.1, due to the COVID-19 crisis,
+the recruitment of the implementing firm took longer than expected. Consequently, there was limited time to
+provide in-kind cash grants to 2,900 women entrepreneurs belonging to the impact study’s control group.17 The
+PCU and the task team agreed to transfer most of this activity to the TRANSFORME18 Project, which is continuing
+and scaling up many of the activities initiated under the PADMPME Project, except for 920 women entrepreneurs
+in Lubumbashi as this city is not included among the areas of intervention of the TRANSFORME Project. This six-
+17 As part of the Project, the World Bank’s Africa Gender Lab carried out an impact study on the technical and financial assistance provided to women micro-
+entrepreneurs in the cities of Goma and Lubumbashi under sub-component 1.1. The results are expected to be published in 2025.
+18 The Empowering Women Entrepreneurs and Upgrading MSMEs for Economic Transformation and Jobs in DRC (TRANSFORME) Project (P178176) is an ongoing
+US$300 million World Bank operation.
+Page 7
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+month extension fulfilled the commitments to these 920 beneficiaries in Lubumbashi, mitigating reputational risks
+for both the GoDRC and the World Bank.
+18. The Project also extended the disbursement deadline after the closure of its activities. The grace period was
+extended by two months as one of the implementing partners (UN Women) had not shared the final certified
+statement of account nor transferred potential remaining balances from certain contracts. The deadline extension
+also permitted departments and programs to recover outstanding amounts for activities funded under the
+Project. This extension also permitted the processing of at withdrawal applications that were awaiting signature
+in the World Bank’s Client Connection system.
+Rationale for Changes and Their Implication on the Original Theory of Change
+19. Other than the abovementioned six-month closing date extension, no other changes took place that would imply
+changes to the initial ToC.
+II. OUTCOME
+A. RELEVANCE OF PDO
+Assessment of Relevance of PDOs and Rating
+20. The relevance of the PDO is High. The PDO is fully aligned with the most recent19 World Bank (WB) Country
+Partnership Framework (CPF) for the DRC. This is corroborated by numerous references in the CPF to the
+importance of (i) enhancing the enabling business environment and revitalizing SMEs across key sectors of the
+economy and (ii) supporting the expansion of the private sector by creating jobs and boosting entrepreneurship
+among women and youth. The Project supports all CPF Focus Areas and their objectives:
+Focus Area 1: Strengthen stabilization efforts for reduced risks of conflict and violence
+o Objective 1.1: Strengthen crisis resilience for vulnerable, displaced, and conflict-affected populations.
+o Objective 1.2: Improve interconnectedness between and within communities.
+Focus Area 2: Strengthen systems for improved service quality and human capital
+o Objective 2.3: Improve gender disparities and inclusion across sectors.
+Focus Area 3: Strengthen economic management for increased private sector investment
+o Objective 3.1: Strengthen systems for improved debt management and increased domestic revenue
+stabilization.
+o Objective 3.3: Strengthen economic diversification through increased agricultural productivity and a
+stronger operating environment for MSMEs.
+21. The Project was also fully aligned with the GoDRC’s own strategic priorities both at the time of appraisal and
+at the time of the Project’s closure. The Strategic National Development Plan20 (SNDP) 2019-2023 at the time of
+the Project’s appraisal, which formed an input into the scoping of the PDO and Project components, aimed to
+19 https://documents.worldbank.org/en/publication/documents-reports/documentdetail/214221646062568502/congo-democratic-republic-of-country-partnership-
+framework-for-the-period-fy22-26
+20 https://plan.gouv.cd/projects/pnsd
+Page 8
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+modernize the private sector, improve human capital, and promote job creation and economic resilience. The
+subsequent SNDP 2022-2027 objectives21 are also highly relevant for the PDO as they support the establishment
+of a strong private sector, acceleration of economic transformation, and increased job creation. The subsequent
+TRANSFORME Project, which covers four new provinces in addition to three out of the four under PADMPME, is
+an illustration of alignment with the DRC's strategic orientations.
+22. The Project contributed to addressing the drivers of fragility in DRC – an FCS country. In 2020, DRC’s 2020 Human
+Capital Index score was 0.37; below the SSA average of 0.40. According to the 2021 World Bank Risk and Resilience
+Assessment (RRA), the drivers of fragility in DRC include the following: (i) a non-diversified and unequal economy
+that strongly favors elite interests and is kept in place by a continuously renegotiated political settlement based
+on competition for natural resources capture; (ii) high levels of exclusion and a chronic lack of economic
+opportunities that keep an extremely poor and young population at very low education levels trapped without
+prospects for social mobility, creating fertile ground for youth to seek out illicit alternatives or resort to violence;
+and (iii) a legacy of trauma from armed conflict resulting in the normalization and commodification of the use of
+violence, including sexual and gender-based violence (GBV), which has eroded social cohesion. With a focus on
+supporting women and youth entrepreneurship, MSME growth, and diversification of activities away from the
+mining sector, the Project activities were relevant in addressing the abovementioned drivers of fragility, including
+in the conflict-affected East, where Goma is one of the target geographic areas of the Project. Supporting MSMEs
+in Goma also benefitted the surrounding rural space as many of the raw materials and inputs are sourced from
+rural producers. The Project has also directly supported one of the sources of resilience identified in the RRA: the
+immense potential of the large young population that can be a source of dynamism.
+B. ACHIEVEMENT OF PDOs (EFFICACY)
+23. The overall efficacy of the Project is rated High. Remarkable achievements have been made against the PDO
+indicators as presented in the PAD, largely exceeding its end targets. Despite the FCS context and the shock of
+the COVID-19 pandemic, the Project overachieved all three PDO indicators (job creation, revenue increase, and
+new firms) by 66, 77, and 100 percent respectively. The gender and youth targets for the two sub-indicators under
+the first PDO indicator (new firms) were also exceeded. Other than the highly positive outcomes resulting from
+the direct support to women micro-entrepreneurs, youth entrepreneurs and to SMEs, the Project also had
+important structural achievements for the overall business ecosystem through (i) capacity building of 38 public
+and private institutions; (ii) the adoption of eight reforms; (iii) the dissemination of existing laws through 193
+events that raised awareness among 31,493 people; (iv) the strengthening of a network of 245 BDS providers plus
+the creation of an online BDS platform; and (v) the establishment of three SME Hubs. The evidence collected to
+support this Implementation Completion and Results Report (ICR) is deemed adequate to assess Project efficacy,
+even considering the paucity of available data in the FCS context and discrepancies in the reporting of the M&E
+system, which undercounted results in eight out of the twenty Results Frameworks indicators. The analysis
+supporting this rating is summarized below with more details on the results of individual PDO and intermediate
+indicators provided in Annex I. The assessment of achievement of each objective/outcome is based on the ToC
+elements including at the disaggregated level – considering long-term impacts of support to women
+entrepreneurs, to youths, to SMEs, and to the establishment of the SME Hubs (ToC diagrams in Annex 7).
+21 https://www.effectivecooperation.org/congo-national-development-vision-and-plans
+Page 9
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+Assessment of Achievement of Each Objective/Outcome
+Efficacy of PDO Outcome on New firms established by targeted beneficiaries
+24. The first target of the three PDO outcome indicators was to establish 3,000 new firms by providing direct
+support to beneficiaries. There were additional objectives for women and youth, with each group expected to
+establish 2,000 new firms.22 In other words, the goal was for the vast majority of the 3,000 new firms to be
+established by these two specific groups. As per the PAD, it was also expected that some of the new firms would
+enter the formal sector. In a country like DRC facing strong challenges of fragility following many years of conflict,
+the overarching vision was to start building a new generation of MSMEs and entrepreneurs that could contribute
+to economic growth and job creation, especially among disadvantaged populations such as women and youth,
+tackling directly some of the drivers of fragility in DRC as identified by the RRA.
+25. The women micro-entrepreneurs and youth entrepreneurs established a total of 6,012 firms, doubling the PDO
+target of 3,000. Among the firms established, 5,128 firms (85.3 percent) were established by women
+entrepreneurs, exceeding the gender target of 2,000 by 156%. Similarly, 2,514 firms (41.8 percent) were
+established by young entrepreneurs, exceeding the youth target of 2,000 by 26%.
+26. The Project significantly expanded the number of women micro-entrepreneurs supported as the COVID-19
+pandemic disproportionately affected this target group. The COVID-19 pandemic’s socioeconomic effects led to
+an increase in the demand for assistance compared to initial assumptions. The value of the in-kind grants was
+adjusted, and more importance was given to the adoption of digital technologies through the distribution of
+mobile phones and digital skills training, helping women entrepreneurs to continue their business activities. After
+consultations, the size of the grant was set at US$2000, compared to the initial average target of US$3000, to
+extend the support to more beneficiaries. The financial assistance was provided in the form of an e-voucher linked
+to specific suppliers. The Project signed agreements with 90 private enterprises in the DRC to facilitate the
+procurement of the production equipment, materials, and consumables. This financing approach was preferred
+by women as it prevented forms of extortion and harassment that women tend to experience. During interviews,
+the beneficiaries expressed their appreciation for the regular communication at every step of the process.
+27. The Project provided technical and financial assistance to 4,732 women micro-entrepreneurs, supporting them
+to establish firms. Under sub-component 1.1, a total of 7,142 women were selected out of 32,175 applicants (22.2
+percent) and were trained by Congolese trainers on a personal initiative course (with a focus on self-esteem and
+confidence), surpassing the first intermediate results indicator (IRI1) target of 4,500 by 59%. The majority (6,736)
+of these women continued their training through additional sessions on establishing simplified business plans
+(SBP) for their future firms. Out of the SBP trainees, 4,732 women micro-entrepreneurs were then provided in-
+kind grants to establish firms and put their SBP into action, exceeding the IRI2 target of 2,500 grants for women
+micro-entrepreneurs by 89 percent. Among these women micro-entrepreneurs, 1,234 were younger than 35 years
+old. The remainder of the SBP trainees not assisted under PADMPME in the cities of Goma, Kinshasa, and Matadi
+was transferred to the subsequent TRANSFORME Project due to budget constraints.
+28. A total of 3,010 youth entrepreneurs were trained by the Project, leading to the creation of 1,280 firms. The IRI3
+target of 750 youth trained was effectively quadrupled. Two distinct groups of youth entrepreneurs were trained
+under sub-component 1.2. The first group of 1,615 youths underwent action-oriented entrepreneurship training
+22 New firms established by young female beneficiaries are counted in both the gender and youth targets.
+Page 10
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+for youths known as STEP (Student Training for Entrepreneurial Promotion).23 Among the STEP trainees, 320 youth
+went ahead and established their own firms without the Project’s financial support. The second group of 1,395
+youth underwent an entrepreneurship bootcamp to develop their business plans to apply for the grants under the
+BPC for youth. Among the bootcamp trainees, 960 were selected to receive matching grants to launch or expand
+their businesses. Out of the 960 selected youth, 396 were women (41 percent). The beneficiaries’ feedback
+emphasized the importance of the practical training that was offered throughout the selection process.
+29. The Project supported the formalization of the newly established firms, enlarging the formal sector and
+increasing the country’s tax base. The female entrepreneurs under sub-component 1.1 were encouraged to
+obtain their registration as formal micro-enterprises. All youth entrepreneurs under sub-component 1.2 became
+formal SMEs by (i) registering with the Trade and Personal Property Credit Registry (RCCM), (ii) obtaining a
+National ID Number (IDNAT), and/or (iii) receiving a fiscal tax number (NIF). The Project provided technical support
+(e.g., raising awareness of the procedures and administrations, individual coaching and support in creating files,
+direct action with administrations) and financial support in the form of an additional US$2,000 grant per young
+entrepreneur for formalization costs. This is an important achievement as most companies operate in the informal
+sector in the DRC. The Project tackled a strong challenge in DRC as the formal sector accounts for only 0.7% of the
+number of firms.24 According to the enterprises census of 2019, the majority of firms do not have formalization
+documents. Non-possession of the social security identification number concerns almost all economic units in the
+DRC (99.4 percent). The same trend is observed for possession of the other documents: RCCM (96.9 percent),
+IDNAT (97.3 percent), and NIF (98.2 percent).
+30. Structural reforms were facilitated to encourage entrepreneurship and the establishment of new firms more
+widely. Eight reforms were supported, exceeding the IRI5 target of five reforms implemented by 60 percent. Two
+particularly relevant reforms to support the establishment of new firms were (i) the adoption of Law N° 22/030 of
+September 8, 2022, on the promotion of entrepreneurship and startups and the related regulatory framework
+and (ii) the establishment of a one-stop shop for business registration in the province of Central Kongo. The law
+on entrepreneurship and startups includes the simplification of procedures as well as providing fiscal incentives
+to encourage and support new firms. The one-stop shop in Matadi in the province of Central Kongo facilitates the
+administrative procedures to establish new firms. Previously firms had to travel to Kinshasa or pay middlemen to
+open and register their firms, increasing the time and monetary costs.
+31. The Project took a holistic and pragmatic approach to structural reforms. The Project supported the adoption of
+new laws but also facilitated the elaboration of decrees, amendments, and the practical implementation of
+reforms. The eight reforms advanced according to their respective circumstances. Some reforms specifically
+tackled national law modifications, which had been the most challenging step because of political uncertainty
+related to the general election of December 2023 and the rotation of government teams. The Project also
+supported the drafting of the implementation decrees related to two of the approved laws on entrepreneurship
+and crafts, though their final adoption is still pending. Other reforms were at a more advanced stage, so the focus
+was on their implementation by building institutional capacities at the provincial level as part of the
+decentralization process in the DRC (e.g., one-stop shops for construction permits and business registrations) and
+cross-cutting areas such as promoting PPPs and reforming commercial courts. The overall aim was to start
+establishing a conducive regulatory framework for business development, both in law and in practice.
+Furthermore, certain reforms such as the digitalization of commercial courts proceedings and the establishment
+23 https://step-training.com/
+24 Global Report of the enterprise’s census in DRC, 2019, https://caid.cd/mkengela/RAPPORT-RGE.pdf
+Page 11
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+of the one-stop shops for construction permits and business registration are likely to reduce opportunities for
+corruption, a key driver of fragility as per the 2021 RRA.
+32. This holistic approach for an enabling business environment for new firms included the dissemination of existing
+entrepreneurship legal rights, particularly for women. A total of 193 communication and dissemination events
+were organized, just exceeding the IRI4 target of 192 events. A diverse set of activities was undertaken, from
+advertising on social networks and the set-up of mobile clinics for disseminating legal texts to activities covered
+by the media and the establishment of listening points in marketplaces to disseminate information. These events
+and activities were able to raise awareness about entrepreneurship rights among 31,493 people, while also
+contributing to the formalization of 846 micro-enterprises run by women who were not directly supported by the
+Project.
+Efficacy of PDO Outcome on Percentage increase in average revenue of beneficiary MSMEs
+33. The second target of the three PDO outcome indicators was to increase the revenue of supported MSMEs by an
+average of 30 percent. Multiple constraints had been identified as limiting the revenue growth potential of MSMEs
+in the PAD and in a survey undertaken in the four target cities before the launch of the Project’s activities.25 These
+constraints included the lack of managerial and entrepreneurial skills, difficulties in utilizing technology, restricted
+access to markets, the high cost of inputs, and limited access to finance. These constraints were generally more
+salient for women-owned or led MSMEs than for their male peers.
+34. The youth entrepreneurs and the SMEs supported by the Project increased their revenue by an average of 53
+percent, exceeding the PDO target by 77 percent. The results are based on the average revenue increase of the
+960 youth entrepreneurs, who raised their revenues by 64 percent, and the 430 established SMEs supported by
+the BPCs, who raised their revenues by 27 percent.26 In monetary terms, the 53 percent average revenue increase
+equates to US$ 26.5 million in additional annual revenue created: US$19.3 million by the established SMEs and
+US$7.2 million by the youth entrepreneurs. The results are even more notable when taking into consideration the
+disruptive socioeconomic effects of the COVID-19 pandemic during the Project’s implementation.
+35. The revenue growth of the youth entrepreneurs was partly enabled by a comprehensive TA package. The direct
+support to youth entrepreneurs included training sessions prior to the delivery of grants on improving
+entrepreneurial skills and developing business plans, with a special focus on business formalization, operational
+organization, contracting of suppliers, and the launch of production and marketing of new products. The TA
+continued after the delivery of grants through a comprehensive support program of group training, individual
+coaching, networking, mentoring, and logistical support. A total of 24,178 sessions of TA were provided to the
+youth entrepreneurs.
+36. The complementary package of technical plus financial assistance supported the youth entrepreneurs to create
+new products, expand their networks, and grow their revenues. The youth entrepreneurs received US$15.7
+million in grants, averaging US$16,390 per youth entrepreneur. The 960 youth entrepreneurs supported by the
+BPC innovated through the launch of 1,210 new products, an average of 1.3 new products per youth entrepreneur.
+These entrepreneurs also improved their access to new clients and suppliers through the establishment of 2,597
+25 The World Bank MSME survey - https://documents1.worldbank.org/curated/en/817691584000898009/pdf/Scaling-Up-Ecosystems-for-Small-Businesses-in-the-
+Democratic-Republic-of-Congo-Analysis-Based-on-Data-from-Kinshasa-Lubumbashi-Matadi-and-Goma.pdf
+26 To calculate the revenue growth of youth entrepreneurs and SMEs, the coaches collected the accounting balance sheets (monthly, quarterly, and annual) of their
+beneficiaries. These balance sheets showed the evolution of revenue and served as means of verification. Further verification and validation of the data and documents
+collected was carried out centrally by the implementing partner’s M&E team.
+Page 12
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+new business partnerships, averaging 2.7 new partnerships per supported entrepreneur. Their average revenue
+increased from US$16,389 to US$26,924, a 64.3 percent increase. Furthermore, 92 percent of the youth
+entrepreneurs supported were still in business 24 months after receiving assistance, far higher than the IRI13
+target of 50 percent. Consultations with stakeholders confirmed the importance of combined and integrated
+support for youths – technical and financial – because of the lack of institutional capacity to provide coordinated
+support to these marginalized target groups. The Project also informed the design of national programs such as
+the National Program for the Development of Congolese Entrepreneurship (PRONADEC), underlining the
+complementarities between priority areas of support.27
+37. The Project provided matching grants to 430 SMEs under sub-component 2.1. The 430 SME grant recipients were
+14 percent lower than the IRI6 target of 500 grant recipients. IRI6a tracked the proportion of women-led SME
+grant recipients, with a numerical target of 200 out of 500 matching grants – an implicit 40 percent target. In total,
+179 women-led SMEs received grants, ten percent lower than the numerical target. In percentage terms, 41
+percent of all grants were for women-led SMEs, just exceeding the implicit 40 percent target. IRI6b tracked the
+proportion of the youth-led SME recipients of the matching grants, with a numerical target of 80 out of 500
+matching grants – an implicit target of 16 percent. In total, 119 youth-led SMEs received grants, 49 percent higher
+than the numerical target of 80. In percentage terms, 28 percent of all SMEs receiving grants were youth-led,
+largely exceeding the 16 percent target.
+38. The SME BPC allocated US$ 26,729,052 in matching grants. This output was 23.6 percent lower than the IRI7
+target of US$35 million, which is unsurprising as the number of SMEs financially supported was also lower than
+anticipated. The grants provided were substantial in size, averaging US$62,379 per SME, but lower than the
+foreseen average of US$75,000 in the PAD. The lower-than-expected results for IRI6 and IRI7 were contingent on
+a variety of external factors, particularly a thorough selection process with strict eligibility criteria that emphasized
+firm quality over quantity. A total of 1,040 SMEs applied, of which only 610 SMEs passed the eligibility criteria.
+Among the eligible SMEs, 430 SMEs passed the subsequent selection process to receive the matching grants. The
+size of the grants was also based on the needs of the SMEs as developed in their business plans. This due diligence
+lowered the outputs in terms of beneficiaries and the value of grants delivered; however, these lower-than-
+expected outputs did not hinder the outcome achievements for all three PDO indicators, which were largely
+exceeded.
+39. The financial assistance received by the SMEs helped to tackle multiple constraints, enabling revenue growth.
+Among these constraints are the high price of inputs, low technology utilization, and limited access to finance. The
+grants substituted the limited access to finance, facilitating the purchase of inputs and new equipment, including
+new technologies, to increase production and/or improve productivity. A majority (75 percent) of the grants were
+utilized to make investments in equipment, which resulted in productivity gains and market access expansion.
+Furthermore, the improvements and potential in the supported SMEs were noticed by other actors, ultimately
+leading to improvements in access to finance. A total of 170 SMEs supported were later able to mobilize an
+additional US$1.4 million in private capital, of which 56 percent from bank loans, to complement the investments
+made through the Project’s grants.
+40. The TA provided to the SMEs enhanced their material investments. Like the youth entrepreneurs, the SMEs
+received TA before and after the delivery of the matching grants. Prior to the grants, the TA focused on improving
+business plans, drawing up equipment specifications based on identified needs, and logistical support for
+27 PRONADEC is a national Program launched in 2020 to boost economic transformation of the DRC through key role assigned to entrepreneurship growth. The Program
+has been structured around 4Cs: 1st C for business Climate, 2nd C for Capacity, 3rd C for access to Credit/finance, and the 4th C for Contract to reflect access to market.
+Page 13
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+equipment purchases. After the delivery of the grants, the coaching and mentoring focused on improving internal
+processes (e.g., administrative management, accounting) and developing best practices to increase access to
+markets, optimize procurement, and improve product quality (e.g., better consideration of standards,
+strengthening of control functions, improved packaging). In total, the SMEs received 9,155 coaching sessions and
+704 mentoring sessions. The financial and technical assistance were linked, reinforcing each other. During
+consultations with beneficiaries, they valued the TA provided by the Project, which helped them to professionalize
+their businesses and to implement standard management practices.
+41. The established SMEs were consequently able to innovate and diversify, enlarge their networks, and grow their
+revenue. In terms of innovation and diversification, the supported SMEs launched 323 new products, while in
+terms of new suppliers and clients, the SMEs established 400 new business partnerships. The average SME annual
+revenue increased by 27.2 percent, from US$60,820 to US$77,380. Among the 430 SMEs supported, 271 were
+small-sized. Out of these small-sized enterprises, 112 of them (41 percent) graduated to the level of a medium-
+sized enterprise.28 These achievements have been verified in the short term as 98 percent of all SMEs supported
+under sub-component 2.1 were still in business 24 months after receiving assistance, far higher than the IRI13
+target of 50 percent.
+42. The Project contributed to lift other major constraints to growth and expansion, mainly the lack of infrastructure
+and services. Most entrepreneurs and family-owned businesses in DRC lack working facilities; therefore, their
+homes are also used for work activities. The lack of stable electricity service is another major constraint for all
+types of business. To tackle these and other challenges, the Project helped establish three SME Hubs in Goma and
+Kinshasa, one less than the IRI8 target of four SME Hubs. A total of 21 potential investors were considered;
+however, it must be noted that the SME Hub concept is a new and innovative instrument in Africa in general, and
+in DRC in particular, which required significant pedagogy with stakeholders before buy-in was reached.
+Furthermore, the COVID-19 disruptions made many investors risk-averse to the idea of a shared space. After the
+pandemic restrictions eased, several investors again expressed interest. Only three were able to complete the
+activities required under a tight schedule, including land acquisition, facilities construction, and common
+infrastructure development. On the public-sector side, stakeholders took time to consider expediting
+administrative procedures, which remained slow despite the importance of such Hubs for value chain
+development. Once the application decrees for Law N°22/030 of September 2022 related to the promotion of
+entrepreneurship and startups are adopted, SME Hubs and their users will benefit from tax incentives, providing
+additional financial support to these initiatives.
+43. The SME Hubs offer many of the infrastructure and services needed by MSMEs to expand. These infrastructure
+and services include shared public utilities, ICT, working spaces, production equipment, and access to soft
+infrastructure – all generating economies of scale. They also create spaces for MSMEs to network, learn, and
+establish new partnerships. The high demand for the three SME Hubs, which reported 144 SMEs renting space, 20
+percent higher than the IRI9 target of 120 SMEs, shows the high demand for these innovative Hubs. The demand
+also justifies this innovative pilot approach taken by the Project and indicates the potential for the scaled-up
+approach that is being implemented under the subsequent TRANSFORME Project. At the Project closure, a pipeline
+of 12 investors was interested in supporting SME Hub initiatives – demonstrating the growing demand for such
+infrastructure-sharing solutions. Some of these investors have continued working under the TRANSFORME
+Project.
+28 Small-sized businesses are considered those with annual sales between 10,000,000 and 80,000,000 Congolese francs. Medium-sized companies are those with
+annual sales between 80,000,000 and 500,000,000 Congolese francs.
+Page 14
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+44. The Project contributed to the strengthening of the private-sector ecosystem in the four targeted cities through
+capacity building and the formalization of firms. The WB governance and procurement teams supported the
+implementation of the community benefits principles, strengthening local implementation partners through the
+systematic use of consortiums between international and local firms. These consortiums were designed to
+facilitate knowledge transfer and capacity building between private actors. The establishment of an e-voucher
+system for the delivery of in-kind grants to female micro-entrepreneurs also built the capacity of dozens of
+participating local suppliers, supporting their digitalization and professionalization. Moreover, multiple sub-
+components included training of trainers (ToT) activities, expanding and strengthening the network of Congolese
+trainers and coaches available to local SMEs. In total, 712 trainers and coaches benefitted from ToT sessions. As
+mentioned previously, the Project also provided TA to raise awareness among the MSME beneficiaries of the
+advantages of formalizing their activities. Since participation in the Project’s BPCs required businesses to be
+registered, this resulted in the formalization of hundreds of MSMEs, enlarging the country’s tax base.
+45. The Project also contributed to strengthening business development services, currently limited in the
+ecosystem, which should support MSMEs to continue growing in the future. Another major constraint for MSMEs
+in DRC is the limited availability and poor quality of BDS that can assist MSMEs to improve technically, increase
+productivity, and expand operations. To remedy this market failure, the Project implemented a multi-step BDS
+program that included: (i) a mapping study of the existing BDS ecosystem; (ii) an action plan to stimulate the BDS
+market; (iii) capacity building of 245 BDS providers in the four target cities; (iv) the development of a national BDS
+online platform; and (v) subsidizing BDS to 333 youth entrepreneurs and SMEs supported by the BPCs under sub-
+components 1.2 and 2.1. This holistic support should help catalyze the development of the BDS market in the DRC
+in general, and in the four target cities in particular, ultimately improving the business skills that entrepreneurs
+and SMEs need to grow their businesses.
+Efficacy of PDO Outcome on Net full-time equivalent jobs created among beneficiary MSMEs
+46. The establishment of new firms plus the revenue growth of supported MSMEs led to the creation of 14,926 new
+jobs. This positive result is 66 percent higher than the target of the third PDO outcome indicator of 9,000 new
+jobs. Under sub-component 1.1,29 the women micro-entrepreneurs created 1,677 direct full-time jobs.30 No
+estimates were available for the number of indirect jobs created by the women micro-entrepreneurs. Under sub-
+component 1.2, the youth entrepreneurs created 2,258 direct full-time jobs. The SMEs supported under sub-
+component 2.1 created a further 5,880 direct jobs.31 In total, 9,815 direct jobs were created. Furthermore, it is
+estimated that the youth entrepreneurs and SMEs created an additional 5,111 indirect jobs,32 leading to a total of
+14,926 direct and indirect jobs that the Project contributed to creating.
+29 Data from the women microentrepreneurs was collected digitally by their coaches, who were in regular contact with the beneficiaries. Collected data was validated
+by a supervision team composed of one assistant per city who was responsible for reviewing daily all entered data and performing quality control on its consistency.
+For reliability, one supervisor per city worked with the implementing partner’s M&E expert to make random field visits (during and after data collection) to cross-check
+the data entered by the coaches. The data validated by the supervisors would then be processed and transmitted to the PCU for evaluation and, if necessary, validation.
+30 The 4,732 women microentrepreneurs who were financially supported could have also been accounted as new full-time jobs as they generally moved from more
+precarious work and activities to working for their newly established firms. However, given that these beneficiaries were accounted in the first PDO indicator (New
+firms established by targeted beneficiaries) and to avoid double counting, they were not accounted in this PDO indicator.
+31 Data from the youth entrepreneurs and SMEs was collected by their coaches, who were in regular contact with the beneficiaries. The data was then verified,
+consolidated, and validated centrally by the implementing partner. Supervision and data quality assessment missions were organized regularly for a regular check of
+the data in terms of verification, but also in terms of archiving of verification documents. For job creation, verification documents included the signed contracts of new
+employees, their monthly pay slips, and their registration to the social security system.
+32 Only the direct jobs created by the youth entrepreneurs and established SMEs under sub-components 1.2 and 2.1 were used to estimate the number of indirect
+jobs created. Therefore, the number of indirect jobs created is potentially higher. Conservative multipliers of 1 indirect job per 1 direct job in the agricultural sector,
+1.25 indirect jobs per 1 direct job in the service industry, and 1.5 indirect jobs per 1 direct job in the light industry sectors were employed to estimate the number of
+indirect jobs.
+Page 15
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+47. These jobs were quality employment opportunities that were mostly formal and included vulnerable groups
+such as youth and women in urban environments in an FCS country. The 8,138 jobs created by the youth
+entrepreneurs and SMEs supported under sub-components 1.2 and 2.1 were formal jobs. This is an important
+achievement as according to the latest employment survey in DRC,33 the proportion of informal jobs remains high
+at 90 percent (2023e) with 60 percent of the active population working in the agriculture sector of which 70
+percent is self-employed. Women represented only 20 percent of formal jobs in the private sector and 22 percent
+in the public sector compared to 52.3 percent in the informal sector. Overall, youth unemployment is estimated
+at 31.3 percent for those between 15 and 24 years old and 16.1 percent for those between 25 and 35 years.
+Through support provided by the Project to youth and female entrepreneurs as well as to SMEs to enter and thrive
+in the formal sector, the Project succeeded in increasing the creation of formal jobs in DRC.
+Justification of Overall Efficacy Rating
+48. The overall efficacy rating for the Project is High. The intended Project scope was delivered effectively despite
+the FCS environment, the uncertainties that surrounded a contested Presidential election, and the COVID-19
+pandemic. The Project achieved 99.59 percent disbursement of funds34. All three PDO indicators were largely
+exceeded, as were all intermediate indicators for Components 1 and 3. A few of the intermediate output indicators
+under Component 2 had slightly lower results than expected; nonetheless, this did not impact the expected
+outcomes from those activities. Component 2 intermediate outcome indicators such as the number of SMEs
+utilizing the SME Hubs exceeded expectations. As highlighted in the WB Country Economic Memorandum35, gaps
+in labor productivity across sectors are wide. Across PDOs, sectors, and cities, the Project sought to boost
+productivity through digitalization, the acquisition of production equipment and/or technical training, and
+mentoring. Overall, the achievement of all PDOs can be attributed to the sequence of activities and outputs that
+ensured merit-based eligibility at various stages of the selection process in addition to ensuring post-grant
+technical support to supported firms and facilitating reforms and capacity building to the institutional and business
+environments to support the sustainability of the Project’s achievements. The establishment of the SME Hubs,
+which will provide keys services to MSMEs, and the continuation and scale-up of this Project’s activities through
+the subsequent TRANSFORME Project will also contribute to sustainability.
+C. EFFICIENCY
+Assessment of Efficiency and Rating
+49. Based on an economic and financial analysis to assess the Project’s economic efficiency, the Net Present Value
+(NPV) is estimated to be US$52.2 million at a 15 percent discount rate with an Economic Rate of Return (ERR)
+of 35 percent over a fifteen-year period including Project implementation. This ERR based on the economic ex-
+post assessment is higher than the ERR of 29 percent calculated at appraisal. Further details on this calculation,
+including a sensitivity analysis, are provided in Annex 4.
+33 Employment trends and survey from the Ministry of Employment, Labor and Social Protection, December 31, 2023
+34 The slight difference between the disbursement rate in the operation workspace (99.59%) and the total costs per component (paragraphs 10 to 12) is linked to
+exchange rate variations. The operation workspace does not include cost per component and sub-component.
+35 https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099101723140732664/p17516107d644902908ed007c19258606dd
+Page 16
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+50. The ICR analysis is based on disbursements under sub-components 1.1, 1.2, and Component 2 of US$73 million,
+equivalent to approximately 73 percent of the full Project value. The aforementioned high rate of return was
+achieved despite delays related to the COVID-19 pandemic, the 2018-2019 Presidential elections, and other
+factors noted in paragraph 51 below. While the ERR would have been even higher in the absence of these delays,
+the analysis clearly highlights the cost-effectiveness (and value for money) of the Project’s investments. This
+analysis is based on a central assumption that beneficiaries (women, youth entrepreneurs, and SMEs) will have a
+lower failure rate and higher revenue growth rate than they would otherwise as a result of the Project’s support.
+51. The efficiency analysis of this ICR focuses only on the direct support provided to entrepreneurs and SMEs;
+nonetheless, extensive social benefits under the TA and institutional strengthening activities (e.g., higher
+quality of business development services, time and money saved due to an improved business environment,
+additional businesses formalizing, improved public management, and digitization related to SMEs and artisans,
+etc.) should be strongly noted. It is worth noting that including the impact of these investments would vastly
+amplify the estimated impact. In particular, the increase in formal businesses is likely to spur follow-on growth
+for the entrepreneurial ecosystem — an important positive externality. Such externalities also include increased
+economic and trading activity, wider growth of key value chains in agriculture and other sectors, increased use of
+local content for downstream goods and services, female empowerment, and reduction in entrepreneurial
+barriers for women, etc.
+52. The Project demonstrated strong operational efficiency, demonstrating strength, and flexibility in adapting to
+conditions on the ground. Following internal and external audits, the Project was able to quickly act on
+recommendations to improve project management, thereby reducing administrative costs. Operational efficiency
+and administrative costs were also impacted by the Presidential elections in 2018-2019, the COVID-19 pandemic,
+the unrest in Noth Kivu in 2019, and the volcano eruption near Goma in 2021. These challenges were addressed
+through the support and supervision of the World Bank team, including remote support during the COVID-19
+pandemic, providing continuous guidance to the PCU. The Project was strengthened through the recruitment of
+an additional procurement expert and the support of experienced consultants. These efforts helped the PCU to
+catch up with initial delays, accelerating implementation starting in the second half of 2021 and into 2022 and
+2023 and allowing the project to exceed the three PDO targets. In 2022 and 2023, the Minister of Finance
+recognized the Project Coordinator with an award for Best Coordinator among all coordinators for WB operations
+in DRC. Project management costs ranged from US$33.9K to US$74.7K per person per year.
+53. Considering the factors described above, Efficiency is rated as Substantial. As discussed above, the Project
+demonstrated strong returns from support to entrepreneurs and MSMEs. Although the Project did experience
+some delays due to the Presidential elections and the COVID-19 pandemic, results exceeded all the Project’s
+outcome targets and the vast majority of its output targets.
+D. JUSTIFICATION OF OVERALL OUTCOME RATING
+54. The Project’s overall outcome rating is Highly Satisfactory. The operation largely surpassed its three PDO
+objectives, remained highly relevant throughout its project cycle, and efficiently used and reallocated its
+resources. Furthermore, the Project effectively responded to the COVID-19 crisis and remained operational in the
+context of political and social unrest. The evidence for the achievement of outcomes is also supported by
+beneficiary and government feedback.
+Page 17
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+E. OTHER OUTCOMES AND IMPACTS (IF ANY)
+Gender
+55. Gender was a cross-cutting theme and key design element of the Project to tackle the challenges that women
+face in DRC. It was estimated in 2018 that women managed and/or owned only 28% of the MSMEs in the four
+targeted cities.36 Multiple Project activities increased the number of women-led/owned MSMEs, particularly (i)
+through the support of women micro-entrepreneurs (sub-component 1.1) and (ii) through dissemination
+campaigns of women-friendly laws (sub-component 1.3). Furthermore, approximately 40 percent of the grants
+for young entrepreneurs (sub-component 1.2) and established SMEs (sub-component 2.1) were provided to
+young women entrepreneurs and women-led/owned SMEs. Women in the four target cities were also more likely
+to report (i) not knowing how to employ technology; (ii) lacking managerial skills; and (iii) having less confidence.
+The Project tackled these constraints in complementary ways. Mobile phones were delivered to 7,034 women
+micro-entrepreneurs, while the grants delivered to women-led/owned MSMEs under sub-components 1.1, 1.2,
+and 2.1 facilitated the purchase of new equipment and technologies. The training, mentoring, and coaching not
+only supported women in learning how to optimally use these new resources, but also to professionalize, enhance
+their managerial skills, and improve their overall confidence.
+56. The Project supported over seven thousand women entrepreneurs directly, while also creating jobs for women.
+A total of 7,142 women micro-entrepreneurs received training and 4,732 among them received in-kind grants.
+These female beneficiaries also received post-grant mentoring services, including support to establish
+cooperatives. Among the youth entrepreneurs and SMEs supported with grants, 396 out of 960 youth
+entrepreneurs (41 percent) were women and 179 out of the 430 SMEs were women-led/owned (40 percent). The
+female youth entrepreneurs received post-grant mentoring and were encouraged to formalize their businesses.
+At the three SME Hubs established in Goma and Kinshasa, the percentage of SMEs that are women-led/owned
+benefitting from them ranged between 14 and 40 percent. Furthermore, many of the direct jobs created by the
+Project beneficiaries were for women. For example, among the full-time formal jobs created by the youth
+entrepreneurs and SMEs, 42.9 percent were for women.
+57. Even more women benefitted from the other Project’s activities including in geographical areas outside the
+Project’s four target cities. The approval of the law for the promotion of entrepreneurship and startups was
+supported by the Project through the establishment of an inventory of existing laws favorable and unfavorable to
+women's entrepreneurship. The Project also supported advocacy activities carried out by multiple civil society
+organizations on behalf of women. For example, nine legal texts were identified on gender promotion (e.g.,
+National Strategy for MSMEs Development and National Program for Entrepreneurship in DRC). A range of
+dissemination activities were carried out to inform women regarding their economic autonomy and anti-
+discrimination rights, particularly those related to entrepreneurship under the recently reformed Family Code.
+The Project raised awareness among 31,493 people. This awareness-raising contributed to the formalization of
+846 micro-enterprises run by women who were not directly supported by the Project. The dissemination activities
+were carried out through advertising on social networks, press releases, activities covered by the media, the
+establishment of listening points in marketplaces as places for centralizing and disseminating information, and
+mobile clinics for disseminating legal texts. These activities helped to tackle the discrimination that women
+continue to face in DRC.
+36 World Bank (2019), Scaling Up Ecosystems for Small Businesses in the Democratic Republic of Congo Report
+Page 18
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+Institutional Strengthening
+58. The Project provided holistic support to strengthen national and local institutions. Extensive capacity building
+was provided to the PCU, facilitating the successful implementation of the Project. The subsequent TRANSFORME
+Project (P178176) has been entrusted to the same PCU given its strong capacity. The Project also supported
+multiple business climate reforms, particularly the i) digitization of the one-stop building permit office, ii) the SME
+law, iii) the Crafts law, iv) the reform of the commercial justice system, v) the PPP law, among others. In total,
+eight different business climate reforms were enacted. Furthermore, the Project also supported the dissemination
+of existing laws to inform citizens and businesses of their existing rights, particularly gender-related rights. The
+Project also strengthened the institutional and operational capacities of 38 public and private institutions,
+including the Federation of Congolese Enterprises, the National Agency for the Development of Congolese
+Entrepreneurship, and the National Institute of Statistics through the procurement of equipment and capacity-
+building activities. In total, 864 persons participated in capacity-building sessions, exceeding the IRI11 target of
+475 participants by 82 percent. Among the participants, 88 percent reported that their skills and/or knowledge
+were enhanced, just exceeding the IRI12 target of 85 percent.
+Mobilizing Private Sector Financing
+59. The Project mobilized US$17 million in private sector financing through the creation of the SME Hubs and the
+direct support to established SMEs and youth entrepreneurs. The operators of the SME Hubs privately raised
+and invested US$15 million to establish the three SME Hubs in Goma and Kinshasa. Among the 430 SMEs
+supported, 72 of them (17 percent), raised US$1.4 million in private financing for their investments. A majority
+(56 percent) of their private sector financing came from banks. Lastly, among the 960 youth entrepreneurs
+supported, 206 of them were able to raise a further US$635,000 of private sector financing.
+Poverty Reduction and Shared Prosperity
+60. The Project had a positive impact on poverty reduction and shared prosperity in the four target areas through
+job creation and local private sector development. The Project directly or indirectly tackled multiple aspects of
+the three drivers of fragility in DRC by (i) supporting the growth of MSMEs to develop a more diversified and equal
+economy; (ii) creating economic opportunities for the most disadvantaged and marginalized populations,
+including women micro-entrepreneurs and unemployed youth; and (iii) supporting the population of Goma in the
+East, which continues to suffer from the effects of armed conflict and instability. The Project also facilitated the
+enactment of business climate reforms and strengthened the entrepreneurial ecosystem, which should lead to
+further improvements in the business environment and job creation in the long run.
+Other Unintended Outcomes and Impacts
+61. The beneficiaries’ resilience was strengthened and climate-friendly investments were facilitated. The assistance
+provided to youth entrepreneurs and SMEs also strengthened their resilience through the increase in their
+number of products and business partnerships. As mentioned above, the 960 youth entrepreneurs supported
+launched 1,120 new products and established 2,597 new business partnerships, an average of 1.2 new products
+and 2.7 new partnerships per youth entrepreneur supported. The Project did not have indicators for climate-
+friendly investments, so no quantitative data was collected on such investments, making it difficult to estimate
+the extent of such investments. Nonetheless, there are qualitative examples of new firms being launched or
+making investments of this nature. For example, two supported firms in Matadi are recycling plastic waste to
+Page 19
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+create biodegradable bags and construction bricks. Given the high cost of electricity, and its unreliability, multiple
+firms also invested in solar panels.
+III. KEY FACTORS AFFECTED IMPLEMENTATION AND OUTCOME
+A. KEY FACTORS DURING IMPLEMENTATION
+62. The Implementation of the Project was influenced by several factors:
+a. Factors subject to the control of the Government and/or implementing agencies. The cross-cutting nature
+and the distributed geographic scope of the Project (national and four provincial authorities) resulted in
+power struggles and change resistance in the case of some Ministries, Departments, and Agencies (MDAs).
+For instance, the administrative process to set up SME Hubs was slow and some of the regulatory reforms
+supported by the enabling environment technical assistance under Component 1 still have pending
+application decrees. The political and social uncertainty surrounding the general election of December 20,
+2023,37 was another important factor that delayed the application of these regulatory reforms.
+b. Factors outside of the control of the Government and/or implementing agencies. These included persistent
+economic volatility associated with international crises such as the COVID-19 pandemic and the inflationary
+trends worsened by geopolitical events. Regionally, the challenging security situation was disruptive to the
+implementation of activities in the North Kivu region. Locally, the Mount Nyiragongo volcano eruption on
+May 22, 2021, delayed implementation of activities in Goma in the late Spring and early Summer of 2021.
+Lastly, the COVID-19 pandemic was a significant external shock that delayed Project activities, requiring
+Project coordination to adapt to a virtual Project coordination approach, which was not the most effective
+approach given the FCS context. Moreover, some of the training programs were also delayed due to these
+international crises.
+c. Factors subject to the control of the World Bank. The Project supervision was adequate and took place on a
+regular basis. Formal implementation support missions were conducted twice a year and technical World
+Bank staff across the Project’s functions were consistently present during the missions and held accountable
+for project developments. The WB rollout of the new procurement framework38 became a major hurdle in
+the FCS context of this Project. This slowed down the initial phase of the Project and required additional
+supervisory efforts and significant support from the Procurement team. Lastly, Task Team Leaders adapted
+well to external challenges, especially the COVID-19 restrictions, which conditioned the work to take place
+remotely for the first phase of the Project.
+IV. BANK PERFORMANCE, COMPLIANCE ISSUES, AND RISK TO DEVELOPMENT OUTCOME
+A. QUALITY OF MONITORING AND EVALUATION
+37 https://en.wikipedia.org/wiki/2023_Democratic_Republic_of_the_Congo_general_election
+38 https://projects.worldbank.org/en/projects-operations/products-and-services/brief/procurement-new-framework
+Page 20
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+63. The overall rating of quality of M&E is High. Despite minor shortcomings in the M&E system’s design and
+implementation, the M&E system as designed and implemented was sufficient to track the progress of the Project
+and to assess the achievement of its objectives.
+M&E Design
+64. The Project’s Results Framework captured the planned activities and expected impacts as outlined in the ToC. The
+Project’s Results Framework included three PDO indicators, mirroring the three long-term impacts in the ToC. One
+of these PDO indicators (Number of new firms established) was also disaggregated by gender and youth, including
+specific targets for each sub-category. The Results Framework also included 13 intermediate indicators, which
+covered the main outputs from the Project’s activities. One of the intermediate indicators (Number of SME recipients
+of the matching grants) was also disaggregated by gender and youth with respective targets. Among the 13
+intermediate indicators, eleven were output indicators and two were outcome indicators: (i) Number of SMEs renting
+space and operating in SME Hubs and (ii) Share of new firms supported under the BPC that are still operating 24
+months after receiving assistance. The definitions and data sources of the indicators in the PAD provided useful
+additional information and guidance for the PCU. One minor shortcoming was the lack of information regarding the
+indicators’ expected data source, which was mitigated by the MSME ecosystem survey in the four target cities that
+followed. The survey established a baseline and guided data collection efforts. The Results Framework did not have
+any errors among its indicators or targets that had to be corrected during the implementation of the Project.
+65. The Project’s M&E design took into consideration the limitations of an FCS context. Given the paucity of data in the
+DRC, all indicators in the Results Framework measured the outputs and outcomes resulting directly from the Project’s
+activities, while the data collection relied on the Project’s implementing partners, the PCU, and the provincial units.
+To optimize data collection, the indicators were defined in a way to set the baseline to zero at the start of the Project.
+However, a detailed baseline survey,39 the MSME ecosystem survey, was conducted by the WB in partnership with
+the European Union Program for Innovation and Competitive Industries before the launch of the main project
+activities. The Project design originally envisioned that the mid-term and final data collection would be conducted by
+external service providers as there were concerns that the PCU would not have the necessary M&E capacity.
+However, a different approach was taken as the COVID-19 restrictions would have made it challenging for an
+additional external service provider to collect data directly from beneficiaries. Therefore, the data collection was
+incorporated into the ToRs of the implementing partners. The quality of the data collected by the Project was verified
+and confirmed by the Bank during the preparations for the subsequent TRANSFORME Project, validating the agile
+approach taken.
+M&E Implementation
+66. The Project ensured the necessary human resources to implement its M&E system, while the implementing
+partners took ownership of the necessary data collection and reporting. The PCU hired an M&E specialist, who
+oversaw the development of the necessary tools and systems. The M&E specialist and technical experts also carried
+out regular field visits to the Project activities. The Mid-Term Report noted that the M&E system was well established,
+with multiple tools having been developed by the PCU and the implementing partners, including the M&E manual.
+The only recommendation was to establish a centralized database using tailored software. The lack of such software
+led to underreporting errors when consolidating results from different Project activities. Nonetheless, the Project
+benefitted from the Geo-Enabling Initiative for Monitoring and Supervision (GEMS) initiative, which allowed the use
+39 The World Bank MSME survey - https://documents1.worldbank.org/curated/en/817691584000898009/pdf/Scaling-Up-Ecosystems-for-Small-Businesses-in-the-
+Democratic-Republic-of-Congo-Analysis-Based-on-Data-from-Kinshasa-Lubumbashi-Matadi-and-Goma.pdf
+Page 21
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+of the KoBoToolbox for collecting data digitally. The Project’s implementing partners took ownership of the data
+collection needed to report on the progress and impact of their activities. The implementing partners had M&E staff,
+developed their respective M&E manuals, and systematically collected data from the activities that they were
+implementing. Reports were continuously shared by the implementing partners to the PCU regarding the
+advancement and results of their activities.
+67. The Project went a step further and facilitated an impact study on the support of female entrepreneurs. Through
+the World Bank’s Africa Gender Lab, an impact study on the training and in-kind grants provided to female micro-
+entrepreneurs under sub-component 1.1 was carried out in two of the Project’s targeted cities: Goma and
+Lubumbashi. Nonetheless, data was also collected by the impact study in Kinshasa and Matadi. The objective of the
+impact study was to evaluate the socioeconomic impact of different versions of the training provided as well as the
+impact of the in-kind grants delivered. The impact study was implemented smoothly, leading to a baseline and four
+subsequent data collection phases. The data collected is being analyzed, with the impact study’s results expected to
+be published by September 2025.
+Brief Summary of Ongoing Africa Gender Lab Impact Study
+An impact evaluation was conducted on the activities delivered to women entrepreneurs under sub-component 1.1.
+A total of 3,600 eligible women entrepreneurs from Goma and Lubumbashi were enrolled in the study. These
+participants were randomly allocated to either the PI training or a control group through a public lottery. The study
+was conducted between 2020 and 2023, with four rounds of follow-up quantitative data collected.
+Participation in the PI training was high, with women attending an average of 9.5 out of 12 sessions, and 10.4 sessions
+when they were invited to bring their husbands. Most women were satisfied or highly satisfied with the training
+content and organization. However, the quantitative survey and a rapid qualitative data collection revealed issues
+with the quality of the delivered equipment. Despite these issues, most women still possess the equipment, and
+nearly two thirds reported using it regularly. Findings from the four survey rounds indicate that the PI training
+positively impacted business practices, innovation, and investments in women’s businesses. Both the training and the
+in-kind grant significantly enhanced beneficiaries’ subjective well-being. While inviting husbands to participate in the
+training increased women’s attendance, it did not alter the training’s overall impact. Further analysis is underway to
+determine if certain groups of women entrepreneurs experienced profit increases and to understand the mechanisms
+of impact.
+More information can be found in Annex 6, while the full evaluation and analysis is expected to be published in 2025.
+M&E Utilization
+68. The M&E data was collected as designed and informed the PCU, the GoDRC, and the Bank on the progress the
+Project was making. The regular data collection and reporting enabled semesterly Implementation Status and Results
+Reports (ISRs) and M&E reports submitted to the World Bank and the GoDRC. The monitoring of the Project’s
+activities helped to adapt activities. For example, the utilization of up-to-date M&E data led to the Project’s
+restructuring, providing six additional months to finalize the remainder of the activities under sub-component 1.1.
+Page 22
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+Justification of Overall Rating of Quality of M&E
+69. The overall rating of quality of M&E is High. Despite minor shortcomings in the M&E system’s design and
+implementation, the M&E system allowed the Project to effectively track the progress of its activities and assess the
+achievements of its objectives in a challenging FCS context. The M&E system went a step further by integrating and
+facilitating an impact study. The data and findings collected by the M&E system were used to inform the direction of
+the Project as well as to inform the subsequent TRANSFORME Project, which is scaling up activities started under
+PADMPME.
+B. ENVIRONMENTAL, SOCIAL, AND FIDUCIARY COMPLIANCE
+70. No social and environmental issues were flagged. The Project was classified as Category B, meaning it generated,
+negligible environmental or social impacts. The following safeguards policies were triggered: Environment
+Assessment OB/BP 4.01, Pest Management OP 4.09, Physical Cultural Resources OP/BP 4.11, and Involuntary
+Settlement OP/BP 4.12, resulting in 21 enterprise screenings, which allowed for the completion of an
+Environmental and Social Management Plan. All visited enterprises were applying environmental and social
+safeguards to their waste management process. In the case of young entrepreneurs, environmental compliance
+was partial. Based on available information for this ICR, the Project has not negatively impacted livelihoods, land
+use, or physical relocation of people. No GBV cases were reported. All safeguard policies were deemed Substantial
+at the time of the closing.
+71. The project’s Grievance Redress Mechanism (GRM) received 235 complaints across all four cities. The GRM was
+functional since 2019. In total, 35 Grievance Management Committees were put in place and 186 members were
+trained in the GRM. Project activities that generated the most complaints were the BPCs leading to 84 complaints
+from young entrepreneurs and 151 complaints from SMEs, mostly related to the application process and the non-
+objection step prior to grant delivery. No sanctions or cancellations of procurement processes were necessary
+because of complaints received through the GRM. The Project achieved the IRI10 target of responding to 100
+percent of grievances.
+72. At the time of the final submission of the ICR, the Project disbursement rate for WB financing was 99.59 percent
+(US$ 99.59 million disbursed as of December 17th, 2024). The Project Financial Management rating was
+Substantial. The disbursement plan was in line with the Project’s strategy to allow time for MSMEs to capture the
+value added through competency and capacity-building processes. Most financial resources (86 percent) were
+deployed in the last two years of the Project after the competitive selection of the implementation partners and
+once MSMEs received their financial assistance.
+73. On the procurement side, the Project experienced delays due to the capacity development of the PCU coupled
+with international crises. The Project Procurement rating shifted from High to Substantial as per the last ISRs 9
+and ISR 10, respectively dated May 2023 and May 2024. Early in the implementation, the Project experienced
+challenges with large procurement contracts due to the weak capacity of the PCU’s procurement team at the
+time. These challenges were addressed through the close support and supervision of the World Bank team, which
+provided continuous guidance to the PCU procurement team. The PCU was further strengthened through the
+recruitment of an additional procurement expert and the support of experienced consultants. These efforts
+helped to resolve most procurement issues and allowed the Project to catch up with the delays in selecting
+implementation partners to conduct the core project activities related to beneficiary MSMEs. By the mid-review,
+the Project was on track with the 2021 work program fully implemented, which substantially increased the
+Page 23
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+disbursement rate from 13 percent as of February 10, 2021 to 51.2 percent by the end of December 2021. In
+2023, the focus shifted to ensure adequate local partnerships for the fulfillment of procurement activities related
+to equipment and tools that selected beneficiaries, ranging from micro-businesses to medium-sized firms, would
+be able to acquire. There were some issues related to the transportation costs for the delivery of equipment,
+especially for women entrepreneurs. The PCU worked diligently on these situations on a case-by-case basis.
+C. BANK PERFORMANCE
+Quality at Entry
+74. The PAD demonstrates strategic relevance and approach to addressing the outlined development challenges
+and a clear alignment between the PDO and the Project components, outcomes, and objectives. The Project
+was aligned with the CPF and the GoDRC’s NDPs; moreover, the Project directly addressed some of the drivers of
+fragility as per the RRA. The PDO was comprehensive, relying on technical, financial, and economic analyses across
+target cities and beneficiaries. The Project design and components considered poverty, gender, and social
+development challenges by addressing not only the needs of private firms of different sizes but also vulnerable
+beneficiary groups such as women and young entrepreneurs. The design also sought to ensure proximity with the
+beneficiaries by decentralizing the implementation in targeted cities while considering security and fiduciary risks
+as well as social and environmental safeguards. At the strategic level, there was a national Steering Committee
+supported by provincial committees in charge of technical aspects. At the operational level, the PCU was
+supported with PSU for the Project’s implementation. This decentralization approach allowed the Project to be
+closer to the ground and to the persons, enterprises, and institutions supported. In addition, the design took into
+consideration informal firms and defined a path and incentives toward formalization over the course of the
+selection and support processes. The components and sub-components were interconnected and mutually
+reinforcing to not only support the policy reforms and institutional development but also to improve the
+competencies of beneficiaries and private and public stakeholders at the national and provincial levels. The
+Project design considered improvements to the enabling business environment, (reforms, dissemination of
+entrepreneurial rights and establishment of SME Hubs) as essential for the continued growth and sustainability
+of results from the direct support provided to entrepreneurs and SMEs.
+75. The Project was built on the priority themes of the World Bank SME Development Agenda and on key lessons
+and recommendations from similar projects across regions, specifically in Africa. The Project considered the key
+areas identified under the World Bank SME Action Plan (World Bank, 2016) and incorporated the key lessons and
+recommendations from the IEG Report “The Big Business of Small Enterprises” (IEG, 2014), conducted on 179
+World Bank Group projects targeting SMEs in 2006-2012 as well as the analysis of ten relevant SME projects in
+Africa. The WBG experience from the above-mentioned projects brought an important added value to the Project.
+Additionally, the Project was designed in close collaboration and coordination with other active World Bank and
+IFC operations in DRC working in various sectors (Education, Agriculture, Finance & Markets), which allowed to
+build on the experiences of other teams and leverage synergies across projects in the country. The Project was
+designed considering other private sector development activities supported by other donors including the
+European Union, French Development Agency, African Development Bank, German Association for International
+Cooperation, United States Agency for International Development, Japan International Cooperation Agency,
+among others actively engaged in the DRC to avoid duplicating efforts and enhance synergies.
+76. The Project benefitted from Trust Fund and Global Teams support at entry, informing the design of the Project,
+particularly its Results Framework. Given the FCS nature of the context, there is a limited amount of updated
+Page 24
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+secondary data. The Project benefitted from a grant from the Competitive Industries and Innovation Program
+Trust Fund, which facilitated a SME Hub market study and a mapping of MSMEs in each of the four target
+locations. The Global Tax Program also provided support to the Project, particularly for a survey of SMEs and a
+review of the SME taxation regime. The Project also received support from Global Teams on various topics,
+particularly on the process evaluation, the SME Hubs, and the training courses provided to beneficiaries. The data
+collected at this stage through this Trust Fund facilitated activities design and informed the Project’s Results
+Framework, particularly the end targets for its indicators. Nonetheless, other factors such as the nature of an FCS
+context, the difficult political situation in DRC at appraisal, and previous experiences with similar projects were
+also taken into consideration when setting the Project’s expected results.
+77. The implementation model of the Project was adapted to address increased security challenges and to manage
+the frequent changes among the Government’s counterparts. Despite the overall country context, the Project
+followed its course according to the initial Project objectives without requiring revisions as the objectives
+remained deeply rooted in the GoDRC’s strategic objectives and the CPF, as outlined in previous paragraphs. The
+Bank team adjusted to the FCS context for the project’s activities and related geographies by keeping field work
+in safe areas as per local authorities’ and World Bank Group (WBG) guidance. Despite COVID-19 restrictions, a
+volcanic eruption near Goma, and security challenges in the East, these factors did not negatively impact the
+expected geographic coverage. The four selected urban areas across the country were relatively safe areas as per
+local WBG guidance.
+78. The structuring of the implementation arrangements and M&E arrangements was effective in ensuring that
+both Project implementation and supervision would be successful. Some challenges were encountered in the
+supervision by the central PCU of local activities related to the beneficiaries in Kinshasa as the local PSU team was
+smaller compared to other cities. These challenges were overcome by the mid-term review with additional
+recruitment. On the M&E side, despite a few minor shortcomings, the M&E system as designed and implemented
+allowed the Project to effectively track its activities and achievements.
+79. The Project broke ground in many aspects of MSME development, which influenced Project preparation.
+Besides being one of the few Competitiveness for Jobs and Economic Transformation (C-JET) Projects
+implemented in an FCS context, it was one of the first in the Central Africa region, and possibly the largest budget-
+wise, for the purpose of private sector development. The political context at the time, and the insecurity prevailing
+in some regions, made the team focus on key urban areas for Project implementation. The team also considered
+the proper balance necessary to support the capacity development of both national and provincial private and
+public stakeholders. During preparation, the Ministry of SMEs did not have a transversal role in private sector
+development nor a convening power across ministries. It was therefore challenging to engage all relevant
+stakeholders that would play a key role in Project implementation at the early stage of the Project’s preparation.
+Quality of Supervision
+80. Overall, the quality of supervision from the WB team managing the Project has been outstanding. This
+assessment reflects the team’s continuous support and adaptation, deep technical expertise, and strong partner
+management skills, which largely contributed to Project achievements in the face of several implementation
+challenges in an FCS context. This observation was aligned with the Overall Implementation Progress, which was
+rated as Satisfactory throughout the Project and upgraded to Highly Satisfactory in the last ISR. This is notable for
+a Project rated as “Substantial Risk”. The WB team facilitated synergies and collaboration with IFC mainly to
+identify investors for the SME centers and mobilize private capital. Also, close coordination to support business
+Page 25
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+enabling environment reforms has been materialized through complementary TA delivered and joint policy
+dialogue. This initial collaboration with IFC in the PADMPME Project led to closer and more systematic
+collaboration under the TRANSFORME Project, particularly on improving the national credit infrastructure and
+supporting business enabling environment reforms.
+81. The WB task team established a close working relationship with the client, particularly the Ministry of SMEs and
+the Ministry of Gender. The regular official missions, technical missions, and regular Project management
+meetings with the client over the full Project lifecycle were key to ensuring the continuity of Project supervision
+remotely, even during the COVID-19 pandemic that stopped in-person missions. Despite being unable to conduct
+field visits in the provinces for 18 months during the pandemic, the WB task team maintained close relationships
+with senior officials and across the GoDRC, which helped ensure that issues were managed promptly and
+effectively.
+82. The task team was committed and competent with limited changes in team composition and adequate team
+coverage locally and in the subregions. The PCU staff and other key stakeholders unanimously reported the
+dedication and professionalism of the WB team, which was crucial in the successful Project implementation. The
+political and security complications inherent to the FCS context, paired with a gradual PCU capacity development
+process and delayed selection of the implementation partners, created a particularly challenging supervision task
+for the Project team, especially with the series of international crises (e.g., COVID-19 pandemic, global inflation,
+etc.) that were taking place at the same time as the Project was being implemented. The presence of other key
+team members locally and in the region (Senegal, Mali) allowed a flexible approach to often uncertain mission
+planning.
+83. The task team demonstrated persistence in pursuing continuous remedial actions to resolve issues or delays in
+implementation. In general, the PCU and implementation partners appreciated the support and proximity of the
+Bank team, while not always satisfied with the WB standard operating procedures related to procurement and
+safeguards. Nonetheless, the procurement and safeguards aspects of the Project were implemented satisfactorily
+through close support and guidance from the WB teams. The task team coped with these situations through
+extensive dialogue with the client, the implementation partners, the PCU, the PSUs, and WB colleagues,
+exemplified by the candid internal reports (e.g., ISRs and Aide Memoires) and external reports (e.g., presentations
+by consulting firms and NGOs) on progress and challenges.
+84. The PCU was the anchor point, together with the provincial supervision units, for all communications to ensure
+proximity and response timeliness. A delicate balance was necessary between the national and provincial
+supervision and between the public and private implementing partners. The PCU duly managed expectations and
+concerns across stakeholders.
+85. The implementation partners provided additional institutional capacity throughout the selection process of the
+beneficiaries. This prevented additional risks, from corruption to coordination, across the four target cities. This
+boosted the project implementation after the mid-term review to overcome the delayed start caused by COVID-
+19 and the capacity building of public and private stakeholders in the DRC. The implementation partners also
+provided crucial M&E implementation support, which together to the capacity building and support provided to
+the PCU, led to a well-functioning M&E system.
+Page 26
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+Justification of Overall Rating of Bank Performance
+86. The WB’s performance is rated as Highly Satisfactory. This considers the excellent Quality at Entry preparation
+and the high level of proactivity in ensuring the Quality of Supervision. Following the COVID-19 external shock,
+the Project recovered quickly as evidenced by the disbursement rate that progressed from 13 percent on February
+10, 2021 to 51.2 percent by the end of December of 2021. Minor shortcomings of the M&E system and the
+procurement process were promptly addressed and did not affect the Bank Performance rating. However, these
+improvements will be considered in the lessons learned section.
+D. RISK TO DEVELOPMENT OUTCOME
+87. The sustainability risk to the development outcome following the completion of this Project is assessed as
+medium-low in part due to the improvements to the enabling business environment. One of the main risks that
+this type of project faces is its sustainability after its closure, particularly for the firms directly supported.
+However, the holistic support to the overall business ecosystem – capacity building to public and private
+institutions, adoption of reforms, dissemination of existing laws, strengthening BDS providers, and establishment
+of SME Hubs – should facilitate the continued growth of the entrepreneurs and SMEs directly supported by the
+Project. Moreover, this enabling business environment should also support other firms not directly supported to
+emerge and grow over time. Barring an unexpected political or economic crisis at the national or international
+levels, the sustainability risk is therefore not considered high.
+88. The sustainability risk is further mitigated by the continuation and scale-up of PADMPME activities through the
+TRANSFORME Project. The development of MSMEs plus the job creation and revenue growth objectives that
+were central to PADMPME have been maintained under TRANSFORME, which became effective in December
+2022 and continues to be implemented after PADMPME’s closure. The target sectors will remain the same, and
+the geographic selection will build on the experiences of PADMPME as TRANSFORME is supporting three of the
+four previously targeted locations (Goma, Kinshasa, and Matadi) plus four additional locations (Bunia, Bukavu,
+Mbuji-Mayi, and Kananga) that were pre-identified based on the existence of province-level private sector
+development strategies aligned with the CPF, synergies with other WB Projects, the feasibility of interventions
+considering infrastructure and security risks, and the demand growth for entrepreneurship to reduce fragility as
+demonstrated by the PADMPME experience and conveyed by provincial authorities. Specifically for the province
+of Central Kongo, TRANSFORME will be implemented in the six cities along the Kasangulu-Moanda corridor,
+beyond the province’s capital city of Matadi. Given the strategic investment in the province of Central Kongo and
+the economic opportunities, this geographic extension has been accepted to capitalize on the achievements of
+the PADMPME Project and to strengthen synergies with a pipeline of strategic investments.
+89. In general, the successful pilot approach adopted under PADMPME will continue and be scaled-up with
+adaptations under TRANSFORME and the upcoming INGA3 Project. This subsequent TRANSFORME Project will
+continue and expand activities pertaining direct support to women entrepreneurs, youth entrepreneurs, SMEs,
+and SME Hubs. TRANSFORME will continue to improve the enabling business environment through capacity
+building to the Ministry of SMEs, the Ministry of Gender, and the Central Bank, implementation of additional
+reforms, and the dissemination of existing laws. The new project will seek to improve sustainability further by
+improving overall access to finance for entrepreneurs. Additional improvements to the overall economic
+ecosystem, including improved access to finance, should enable firms supported under PADMPME and
+TRANSFORME to grow independently of the assistance provided by the projects. Furthermore, the SME Hub
+Page 27
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+concept will also be incorporated into the upcoming INGA3 development program (P506438) under preparation
+as phase 1 of the multi-phase programmatic approach - phase 1 being focused on local area development40.
+V. LESSONS AND RECOMMENDATION
+90. Lesson 1: The achievements of the Project are a result of the multi-faceted instruments deployed under the
+Project, which reinforced each other and were tailored to the specific needs of different beneficiary groups.
+The agile and clear design of the Project contributed to its success as a wide range of instruments the Project
+deployed provided different beneficiary groups with a tailored and coherent set of activities based on their
+profiles and their needs. Other projects have had more limited results as their support was not sufficiently tailored
+to the targeted beneficiaries. This Project showed what can be achieved when support is tailored according to the
+type of beneficiary. Across beneficiary groups, the common feedback was how valuable the hands-on TA was in
+helping these business owners and entrepreneurs become more productive and professional in their business
+development. It was also valuable to design interdependent activities to allow for a concurrent selective process
+to take place across MSME beneficiary groups regardless of the size or the age of the enterprise. This was key in
+the weak institutional environment of an FCS country.
+91. Lesson 2: The analytical work carried out on MSMEs and entrepreneurial ecosystem needs as well as the
+detailed preparation of SME instruments at the design stage were crucial for the Project’s success. The analytical
+work and preparations benefited from an internal World Bank preparation grant financed by the SME Launchpad
+Program. The MSME instruments employed were not necessarily novel; however, the design used many best
+practice lessons from previous MSME support (e.g., inputs at the outset from the local private sector,
+implementation with local participation and private implementing partners, targeting of different segments of
+MSMEs/entrepreneurs to establish a pipeline of growing businesses, proper use of expert panel selections, close
+technical support for grantees, financial and technical assistance delivered together, among others). Many similar
+MSME support programs with similar basic designs have not been as successful due to issues in the details of the
+design and implementation.
+92. Lesson 3: The FCS nature of context such as the DRC requires flexibility and modularity in the Project’s design
+and management. The Project faced further challenges through unexpected national and international crises
+(e.g., COVID-19 pandemic, high inflation, volcanic eruption and rising insecurity around Goma). Through the
+annual work plans and budgets, the PCU and the WB teams adjusted the yearly focus to adapt to changes in the
+environment. In addition, the structuring of implementation partners that were competitively selected ensured
+additional capacity to adapt to the evolving circumstances while providing effective project management as well
+as transparent and effective processes to train, coach, and mentor beneficiaries before and after the provision of
+grants.
+93. Lesson 4: The Project employed a multi-faceted effective outreach model to inform and engage with women
+entrepreneurs that could serve as a model for similar projects in FCS contexts. The Project deployed a multi-
+channel communication system for its sensitization and outreach campaigns, with each campaign specifically
+tailored to the audience and Project activity. For example, for the dissemination of information on existing gender
+rights, the implementing partner established ‘antennas’ at marketplaces where women frequently worked or
+40 The Inga 3 development program aims to harness Inga 3’s hydropower potential for long-term economic transformation, job creation, and inclusive growth in DRC.
+The phase 1 of the program under preparation will be focused on local area development in Kongo Central where the Inga site is located. Supporting establishment of
+SMEs centers to support value chain development is one of the activities considered to support development of Inga growth corridor.
+Page 28
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+made their purchases to convey messages in the respective local languages depending on the city. Another
+example includes dissemination at churches on Sundays, where women also frequently gather. These multiple
+customized communication channels with tailored messages could be replicated in other FCS countries to ensure
+that the desired messages are well communicated widely.
+94. Lesson 5: The decentralization strategy to target select urban areas of interventions was critical to ensure
+proximity with the main beneficiaries (e.g., the MSMEs, including women and youth entrepreneurs); however,
+it requires engage with national and provincial stakeholders to establish ownership, build their capacity, and
+improve the enabling business environment. The Project demonstrated that multi-faceted and spatially
+concentrated interventions could improve the overall competitiveness of the MSME ecosystem in the target cities
+and the integration of value chains in partnership with large corporations. These outcomes can meet the
+objectives of inclusive growth in key productive sectors of the economy in line with established national and sub-
+national private sector development strategies. For projects with decentralized implementation, both national
+and sub-national engagement is important to build ownership by the client and ensure all relevant stakeholders
+take part in the knowledge transfer from implementation partners. When the Project was designed, the team
+mainly interacted with a selection of national and sub-national stakeholders, both public and private. As the
+Project progressed, it became essential to engage local organizations and authorities to ensure adequate
+communication, manage expectations, and adapt to changes. It is paramount to have a strong coalition of MDAs
+to ensure that Project activities will be anchored with primary and secondary stakeholders at the national and
+provincial levels that will continue to support key activities beyond the knowledge transfer phase.
+95. Lesson 6: The reforms to strengthen the enabling business environment remain key to sustaining the
+development of MSMEs and value chains in strategic sectors of the economy. While the Project delivered a
+broad set of reforms as detailed in previous sections, some still require the approval of application decrees despite
+the Project’s TA support to draft them. Two pathways remain essential: i) the need for reforms to strengthen the
+enabling environment to continue, which takes time and should include a change management strategy; and ii) a
+bottom-up approach in an FCS country like DRC where MSMEs are directly supported at the firm/entrepreneur
+level with holistic and tailored support packages to accompany the transformation of the economy.
+96. Lesson 7: Procurement can become a major hurdle to overcome for multiple stakeholders. At the Bank, the
+deployment of a new procurement framework required significant levels of assistance and supervision to
+overcome numerous hurdles in an FCS context. Perhaps such an important deployment should take place in a
+phased manner rather than a “big bang” approach. At the Project Task Team level, the consortium approach was
+adequate and accelerated local capacity development, especially given the distributed geography of the target
+cities. At the PCU level, the intricate prerequisites41 across a variety of procurement activities required specific
+World Bank project teams’ support and outside expertise to keep the Project progressing to ensure that planned
+activities, outputs, and outcomes are reached. Moreover, avoiding urgent procurement would allow for proactive
+planning as it is necessary to exercise supplier bargaining power, ensure optimal negotiation, and consider full
+cost-of-ownership (taking into consideration product warranties, product availability, delivery, and quality).
+Several women entrepreneurs mentioned that lower-quality branded equipment was delivered, most likely due
+to limited local supply availability resulting from inflationary trends and the post-COVID-19 global supply crunch.
+In addition, home delivery issues were also observed, which were eventually resolved by the Project’s teams.
+41 These prerequisites included the specific needs for different beneficiaries depending on category type (e.g. youth, women, new vs. established businesses, etc.),
+enterprise size (e.g. micro, small, medium-sized), and sector type.
+Page 29
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+97. Lesson 8: The SME Hub pilot was successful, leading to the mobilization of US$ 15 million in private capital, and
+can be scaled up as a key lever for the development of services, infrastructure, and partnerships crucial to the
+sustainable growth of MSMEs, supporting the overall ecosystem. On top of providing services, infrastructure,
+and networking opportunities to MSMEs, SME Hubs have proven to be an effective mechanism to mobilize private
+capital. As mentioned above, the three operators of the SME Hubs in Goma and Kinshasa raised and invested
+US$15 million to establish the three SME Hubs. The successful implementation of large private company-backed
+SME Hubs hinges on formal partnerships and well-defined governance. Many partnerships were formalized with
+(i) private actors such as banks, chambers of commerce, (ii) public actors such as the National Agency for
+Investment Promotion, Congolese Office of Control, Authority for the Regulation of Subcontracting in the Private
+Sector, One-Stop Business Registry Center, and (iii) international development organizations.
+98. Lesson 9: The employment of private providers to implement activities was important for the Project’s success,
+particularly given the challenging context, while the systematic use of international-national consortiums
+facilitated knowledge transfer and local capacity building. The Project activities were both ambitious and
+complex and would have unlikely reached the same outputs and outcomes if carried out by public agencies
+instead of the various private partners employed. Nonetheless, to ensure local capacity building, the Project
+followed the community benefits principles, strengthening local implementation partners through the systematic
+use of consortiums between international and local firms. These consortiums were designed to facilitate
+knowledge transfer and capacity building between private actors. Furthermore, the implementation of activities
+was able to continue during the restrictions of the COVID-19 pandemic as a result of the participation of local
+consortium partners. The Project also implemented a specific capacity building program for public agencies such
+as the Ministry of SMEs and the Ministry of Gender to improve capacity in the country’s public sector as well.
+99. Lesson 10: In FCS contexts, private consortiums can provide crucial support with data collection, while capacity
+building to the PCU on M&E is also essential to ensure a well-functioning M&E system. The Project originally
+expected that data collection would have to be conducted by external service providers due to concerns of low
+M&E capacity in an FCS context. However, COVID-19 restrictions made this planned approach unfeasible. Instead,
+data collection was delegated to implementing partners, who included dedicated M&E staff, developed M&E
+tools and systems, and were able to systematically collect data given their regular contact with beneficiaries. The
+Project also built the capacity of the PCU in terms of M&E throughout the project lifecycle, while also benefiting
+from the GEMS initiative, which allowed the use of the digital KoBoToolbox to collect data. The support from the
+implementing partners plus capacity building to the PCU were sufficient to overcome initial low M&E capacity and
+establish a strong M&E system.
+100. Lesson 11: The access to finance dimension is essential for supported firms to continue growing and giving
+them the freedom to use their banks for the reception of their cash grants, as opposed to employing only a
+selection of banks, can facilitate access to credit. The Project signed agreements with a selection of banks to
+effectuate the provision of grants for the direct support of youth entrepreneurs and established SMEs. A side
+effect of this agreement was that some of the beneficiaries had to open accounts with new financial institutions
+as opposed to using their existing bank accounts. Therefore, the grants did not improve the relationship with the
+banks with whom the beneficiaries already had a relationship, foregoing the opportunity to improve access to
+credit. The beneficiaries who were already clients of the selected banks saw better prospects in obtaining loans.
+It is thus recommended to be flexible on the delivery of grants, allowing beneficiaries to receive their grants
+through the banks that they already use. This flexibility enables higher levels of private capital mobilization, while
+also allowing supported entrepreneurs and firms to obtain credit to continue financing any necessary operational
+costs and cash flow needs over a longer period – a preoccupation shared by the supported beneficiaries.
+Page 30
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+ANNEX 1. RESULTS FRAMEWORK AND KEY OUTPUTS
+@#&OPS~Doctype~OPS^dynamics@icrresultframework#doctemplate
+A. RESULTS FRAMEWORK
+PDO Indicators by Outcomes
+Not Categorized
+Indicator Name Baseline Closing Period (Original) Closing Period (Current) Actual Achieved at Completion
+Result Month/Year Result Month/Year Result Month/Year Result Month/Year
+Number of new firms established by 0.00 Jul/2018 3,000.00 Dec/2023 6,012.00 Jun/2024
+targeted beneficiaries (Number)
+(of which female-owned). 0.00 Jul/2018 2,000.00 Dec/2023 5,128.00 Jun/2024
+(Number)
+(of which young 0.00 2,000.00 2,514.00
+entrepreneurs) (Number)
+Net full-time equivalent jobs created 0.00 Jul/2018 9,000.00 Dec/2023 14,926.00 Jun/2024
+among beneficiary MSMEs
+(Number)
+% Increase in average revenue of 0.00 Jul/2018 30.00 Dec/2023 53.00 Jun/2024
+beneficiary MSMEs (Percentage)
+Intermediate Indicators by Components
+Not Categorized
+Indicator Name Baseline Closing Period (Original) Closing Period (Current) Actual Achieved at Completion
+Result Month/Year Result Month/Year Result Month/Year Result Month/Year
+Page 31
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+Number of female micro- 0.00 Jul/2018 4,500.00 Dec/2023 7,142.00 Jun/2024
+entrepreneurs who received training
+(Number)
+Number of female micro- 0.00 Jul/2018 2,500.00 Dec/2023 4,732.00 Jun/2024
+entrepreneurs who received cash
+subsidies (Number)
+Number of young entrepreneurs who 0.00 Jul/2018 750.00 Dec/2023 3,010.00 Jun/2024
+receive training (Number)
+Number of public 0.00 Jul/2018 192.00 Dec/2023 193.00 Jun/2024
+awareness/dissemination events
+delivered (Number)
+0.00 Jul/2018 5.00 Dec/2023 8.00 Jun/2024
+Comments on achieving targets Thanks to project's the support, the one-stop shop for the issuance of construction permits
+has been digitised; ii) the DRC's legal texts have been brought into line with OHADA's
+Uniform Acts, more than 10 years after the country joined this regional organisation; iii) the
+institutional and regulatory framework of the PPP law has been put in place; iv) a one-stop
+Implemented reforms supporting
+shop for business start-ups has been established in the Central Congo Province; (iv) the
+private sector development
+commercial justice system has been modernised with the reform of the civil procedure code,
+(Number)
+which provides for the digitalisation of commercial court proceedings and a reduction in the
+time taken to resolve commercial disputes; (v) a law on SMEs and the related regulatory
+framework have been adopted; (vi) a legal and regulatory framework for the development of
+the craft sector has also been developed; (vii) two provincial decrees have been revised to
+take gender into account.
+0.00 Jul/2018 430.00 Dec/2023 430.00 Jun/2024
+Comments on achieving targets The goal of 500 Matching Grant recipients under the business plan competition (COPA) was
+nearly reached (430) with one cohort of COPA instead of the two originally planned,
+Number of SME recipients of the
+eliminating the need for a second cohort.
+matching grants (Number)
+Following the reallocation of resourcs between category 4 (Matching Grants) to the category
+3: Cash grants (to cover the higher number of young entrepreneurs to be supported), the
+targeted number of Matching Grant recipients is slightly changed from 500 to 430.
+Page 32
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+(out of which female-owned) 0.00 200.00 179.00
+(Number)
+(out of which young 0.00 80.00 119.00
+entrepreneurs) (Number)
+Total value of funds allocated to SME 0.00 Jul/2018 35,000,000.00 Dec/2023 26,729,052.87 Jun/2024
+recipients of the matching grant
+(Amount(USD))
+Share of new firms supported under 0.00 Jul/2018 50.00 Dec/2023 94.00 Jun/2024
+the Business Plan Competition (BPC)
+that are still operating 24 months
+after receiving assistance (financial
+and non-financial) (Percentage)
+Number of SME Hubs established 0.00 Jul/2018 4.00 Dec/2023 3.00 Jun/2024
+(Number)
+Number of SMEs renting space and 0.00 Jul/2018 120.00 Dec/2023 144.00 Jun/2024
+operating in SME hubs (Number)
+Percentage of grievances that were 0.00 Jul/2018 100.00 Dec/2023 100.00 Jun/2024
+responded to (Citizen Engagement)
+(Percentage)
+Total number of participants in the 0.00 Jul/2018 475.00 Dec/2023 864.00 Jun/2024
+capacity building/training events held
+(Number)
+Percentage of participants in the 0.00 Jul/2018 85.00 Dec/2023 88.00 Jun/2024
+capacity building/training events held
+who reported that their
+knowledge/skills was enhanced after
+the training (Percentage)
+Page 33
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+B. KEY OUTPUTS
+Objective/Outcome: Support the growth of Micro, Small and Medium-sized Enterprises (MSMEs) and increase employment and entrepreneurship
+opportunities for youth and women in select areas.
+1. New firms established by targeted beneficiaries (disaggregated by gender and youth)
+Project Development Objective (PDO)
+2. Net full-time equivalent jobs created among beneficiary MSMEs
+Indicators
+3. Increase in average revenue of beneficiary MSMEs
+1. Female micro-entrepreneurs who received training
+Intermediate Results Indicators
+2. Female micro-entrepreneurs who received cash subsidies
+3. Young entrepreneurs who receive training
+4. Reforms supporting private sector development
+5. SME recipients of the matching grants (disaggregated by gender and youth)
+6. Value of funds allocated to SME recipients of the matching grant
+7. SME Hubs established
+8. SMEs renting space and operating in SME Hubs
+9. Percentage of grievances that were responded to
+10. Participants in the capacity building/training events held
+11. New firms supported under the Business Plan Competition (BPC) that are still operating 24
+months after receiving assistance
+Sub-Component 1.1
+Key Outputs by Component
+- Training sessions for 7,142 women entrepreneurs
+(linked to the achievement of the
+- In-kind grants for 4,732 women entrepreneurs
+Objective/Outcome)
+- Mentoring & post-grant support
+- 16 Beneficiary cooperatives
+Sub-Component 1.2
+- Training sessions for 3,010 youth entrepreneurs
+- Cash grants for 960 youth entrepreneurs
+- US$635,000 in private finance mobilized
+- Mentoring & post-grant support
+Page 34
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+Sub-Component 1.3
+- 193 Dissemination sessions
+- Eight Business climate environment reforms enacted
+- Capacity building to 38 public and private institutions
+Sub-Component 2.1
+- Capacity building sessions for 436 SMEs
+- Matching grants to 430 SMEs
+- US$1.4 million in private finance mobilized
+- Mentoring & post-grant support
+Sub-Component 2.2
+- Three SME Hubs established in Goma and Kinshasa
+- 144 SMEs benefitting from the services at SME Hubs
+- US$15 million in private finance mobilized
+Component 3
+- Capacity building to 245 BDS providers
+- Establishment of an online BDS platform
+Page 35
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+ANNEX 2. BANK LENDING AND IMPLEMENTATION SUPPORT/SUPERVISION
+A. TASK TEAM MEMBERS
+Name Role
+Magueye Dia Team Leader
+Natalia Agapitova Team Leader
+Kadiatou Balde Financial Management Specialist
+Bertille Gerardine Ngameni Wepanjue Financial Management Specialist
+Jean-Claude Azonfack Procurement Specialist
+Alexis Manirambona Environmental Specialist
+Christophe Ngongo Muzyumba Environmental Specialist
+Cyrille Valence Ngouana Kengne Environmental Specialist
+Shamard Ya Jua Mungu Shamalirwa Social Specialist
+Jean-Pierre Lungenyi Ntombolo Social Specialist
+Luc Sukadi Mbayo Procurement Team
+Mohammad Ilyas Butt Procurement Team
+Christelle Tandundu Epuza Procurement Team
+Julie Luvisa Bazolana Procurement Team
+Alain Tienmfoltien Traore Team Member
+Ingrid Cesarine Meka Team Member
+Andrea Vasquez-Sanchez Team Member
+Lisette Meno Khonde Team Member
+Tazeen Hasan Team Member
+Mariama Daifour Ba Team Member
+Julia Vaillant Team Member
+Zouhour Karray Team Member
+Tresor Angela Ikobo Team Member
+Page 36
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+@#&OPS~Doctype~OPS^dynamics@icrannexstafftime#doctemplate
+B. STAFF TIME & COST
+Staff Time & Cost
+Stage of Project Cycle
+No. of Staff Weeks US$ (including travel and consultant costs)
+Preparation
+FY17 15.507 112,665.30
+FY18 63.699 512,425.00
+FY19 25.677 180,981.01
+FY20 9.101 112,540.60
+FY21 1.610 11,620.83
+FY22 1.075 9,466.52
+Total 116.67 939,699.26
+Supervision/ICR
+FY17 0.725 4,818.51
+FY19 19.525 230,612.73
+FY20 37.863 215,141.71
+FY21 31.924 254,086.34
+FY22 43.940 309,693.26
+FY23 37.570 272,749.80
+FY24 49.588 353,049.45
+FY25 12.538 114,327.35
+Total 233.67 1,754,479.15
+Page 37
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+ANNEX 3. PROJECT COST BY COMPONENT
+Component Amount at Approval (US$M) Actual at Project Closing (US$M)
+Component 1: Support
+entrepreneurship opportunities for 44,000,000.0 45,986,889. 0
+youth and women
+Component 2. SME Development 42,000,000.0 35,925,341.0
+Component 3: Capacity building and
+14,000,000.0
+Project Management 17,321,281.0
+Page 38
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+ANNEX 4. EFFICIENCY ANALYSIS
+1. As part of the efficiency analysis for this ICR, the task team conducted an economic and financial analysis for this
+Project. This annex describes the methodology for that analysis. To the extent possible, the ICR analysis is based on
+actual data gathered as part of the M&E efforts of the Project. Because the quantitative benefits of capacity building
+and training activities are difficult to estimate, our calculation focuses on the results for direct entrepreneurs and MSME
+beneficiaries. Based on these investments, the project NPV is estimated to be US$52.2 million at a 15 percent discount
+rate with an ERR of 35 percent over a fifteen-year period including project implementation.
+2. Sensitivity analysis: At a discount rate of 12 percent, the NPV is estimated at US$74.3 million over a fifteen-year period.
+At a 6 percent discount rate, the NPV is estimated at US$149.5 million. Restricted to only an eight-year period, the
+analysis calculates an NPV of US$10.6 million at a 15 percent discount rate and an ERR of 23 percent.
+3. For the purpose of this analysis, we consider these economic benefits as the income of the Project’s investments —
+thereby applying the discounted cash flow model for financial analysis of private investments within the context of a
+World Bank project. Key variables used as assumptions in this analysis have been tested for sensitivity to ensure the
+robustness of the overall analysis and the potential project interventions.
+4. Additional spillover effects and growth to nearby project investments are likely to amplify the impact of the Project’s
+investments. This amplified impact will essentially create a multiplier effect related to the investments under this
+Project. However, this multiplier effect has not been included in the Project’s economic analysis for several reasons: i)
+for the sake of conservatism; ii) difficulties in attribution and measurement associated with using a sweeping multiplier;
+and iii) difficulties in determining the correct size and timing of the multiplier effect. Given this exclusion, the impacts
+of this Project, especially social benefit spillovers, will likely be underestimated in the analysis here.
+5. These social benefits include higher quality of business development services, time and money saved due to an
+improved business environment, additional businesses formalizing, improved public management and digitization
+related to SMEs and artisans, etc. The Project’s investments are also likely to spur positive externalities for the wider
+population beyond these direct beneficiaries. Such externalities also include increased business formalization,
+increased economic and trading activity, wider growth of key value chains in agriculture and other sectors, increased
+use of local content for downstream goods and services, female empowerment, and reduction in entrepreneurial
+barriers for women, etc.
+6. The economic analysis assumes that beneficiaries (youth and women entrepreneurs, MSMEs) will have a lower failure
+rate and higher revenue growth rate than they would otherwise as a result of the Project’s support.
+a. Reduction in failure rate: Women and youth entrepreneurs are assumed to have a high failure rate of 60
+percent, which is reduced to 40 percent as a result of the Project’s interventions. For MSME beneficiaries, the
+baseline failure rate is set lower at 40 percent, with the impact of the Project expected to reduce this to 20
+percent.
+b. Revenue growth: The analysis assumes an additional revenue growth of 17.67 percent for beneficiaries over a
+baseline of 3 percent over three years. This aligns with the revenue growth figures recorded in the Results
+Framework, which show that beneficiary revenue grew by an average of 53 percent.
+Page 39
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+c. Baseline revenues: For women and youth entrepreneurs, baseline revenues are assumed to be low, beginning
+at US$5,000 per year. For SME beneficiaries, the analysis assumes a baseline annual revenue of US$50,000.
+7. The results of additional sensitivity analyses are summarized below:
+Sensitivity condition ERR (percent)
+Reduce failure rate impact by 50 percent 26
+Increase failure rate impact by 50 percent 44
+Page 40
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+ANNEX 5. BORROWER, CO-FINANCIER AND OTHER PARTNER/STAKEHOLDER COMMENTS
+See the borrower’s full report, “PADMPME Closure Report”, appended separately (PDF) into the operation workspace.
+Available in French.
+Page 41
+Pd A'a Dc Mh
+è
+Pv Me
+m
+E - R ae
+n t V
+p- pF oin r t
+a le - 2 8 J u in 2 0 2 4 C le a n ).p d f
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+ANNEX 6. SUMMARY OF ONGOING IMPACT STUDY
+An impact evaluation was conducted on the activities delivered to women entrepreneurs under sub-component 1.1. The
+evaluation aimed to address the following questions: (i) What is the impact of Personal Initiative (PI) training on women’s
+outcomes and the performance of their businesses? (ii) Does the participation of husbands in the PI training increase its
+impact on women’s outcomes and the performance of their businesses? (iii) What is the impact of receiving an in-kind
+grant valued approximately $2,000 on women’s outcomes and their businesses? and (iv) Is there a complementarity
+between the in-kind grant and PI training?
+A total of 3,600 eligible women entrepreneurs from Goma and Lubumbashi were enrolled in the study. These participants
+were randomly allocated to either the PI training or a control group through a public lottery conducted at the various
+registration venues. Half of the eligible married women were invited to bring their husbands to the training sessions. All
+enrolled women were then offered to participate in a second public lottery that assigned them to either the in-kind grant
+treatment group or a control group. The study was conducted between 2020 and 2023, with four rounds of follow-up
+quantitative data collected.
+Participation in the PI training was high, with women attending an average of 9.5 out of 12 sessions, and 10.4 sessions
+when they were invited to bring their husbands. The majority of women were satisfied or highly satisfied with the training
+content and organization. Over 90% of women assigned to receive the grant did so. However, the quantitative survey and
+a rapid qualitative data collection revealed issues with the quality of the delivered equipment. About half of the women
+reported receiving items that did not match their requests, citing quality issues or discrepancies with the requested
+equipment. The perceived quality of the equipment was lower than expected, with an average rating of 5.6 out of 10, and
+it was considered more expensive than market prices. Despite these issues, the majority of women still possess the
+equipment, and nearly two thirds reported using it regularly.
+Findings from the four survey rounds indicate that the PI training positively impacted innovation and investments in
+women’s businesses. Beneficiaries were more likely to introduce new products, work more hours, and have higher average
+investment values compared to the control group. The training also significantly improved their business practices. Both
+the training and the in-kind grant significantly enhanced beneficiaries’ subjective well-being. While inviting husbands to
+participate in the training increased women’s attendance, it did not alter the training’s overall impact.
+The study did not find a significant effect of the PI training or the grant on the performance outcomes of the businesses
+(i.e., business sales and profits). Although the training improved business practices, these changes may have been too small
+to significantly impact profits and sales. Other factors, such as lack of demand or the conflict in Goma, which were not
+directly addressed by the project, could also explain the lack of improved business outcomes. Further analysis is underway
+to determine if certain groups of women entrepreneurs experienced profit increases and to understand the mechanisms
+of impact.
+Page 42
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+ANNEX 7. SUPPORTING DOCUMENTS (IF ANY)
+DRC geographic map and targeted Project provinces and cities
+Page 43
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+ANNEX 8. PROJECT’S THEORIES OF CHANGE
+I. Overall Project ToC
+II. TOC – Support for Women Entrepreneurs
+Page 44
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+III. TOC – Support for Young Entrepreneurs
+IV. TOC – Support for SMEs
+Page 45
+The World Bank
+DRC- SME Development and Growth Project (P160806) ICR DOCUMENT
+I. Support for SME Centers
+Page 46

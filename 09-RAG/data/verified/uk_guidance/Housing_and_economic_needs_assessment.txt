@@ -1,0 +1,232 @@
+Housing and economic needs assessment
+Guides councils in how to assess their housing needs.
+Housing need
+What is housing need?
+Housing need is an unconstrained assessment of the minimum number of homes needed in an area. Assessing housing need is the first step in the process of deciding how many homes need to be planned for. It should be undertaken separately from assessing land availability, establishing a housing requirement figure and preparing policies to address this such as site allocations. For further details on how constraints should be considered once a housing need figure has been identified, please see Housing and economic land availability assessment guidance.
+Paragraph: 001 Reference ID: 2a-001-20241212
+Revision date: 12 12 2024 See previous version
+What is the standard method for assessing local housing need?
+The National Planning Policy Framework expects strategic policy-making authorities to follow the standard method in this guidance for assessing local housing need.
+The standard method uses a formula that incorporates a baseline of local housing stock which is then adjusted upwards to reflect local affordability pressures to identify the minimum number of homes expected to be planned for.
+The standard method set out below identifies a minimum annual housing need figure, and ensures that plan-making is informed by an unconstrained assessment of the number of homes needed in an area. It does not produce a housing requirement figure.
+Paragraph: 002 Reference ID: 2a-002-20241212
+Revision date: 12 12 2024 See previous version
+What is a housing requirement?
+The housing requirement is the minimum number of homes that a plan seeks to provide during the plan period.
+Once local housing need has been assessed, as set out in this guidance, authorities should then make an assessment of the amount of new homes that can be provided in their area. This should be justified by evidence on land availability, constraints on development and any other relevant matters.
+The government is committed to ensuring that more homes are built and supports ambitious authorities who want to plan for growth. The National Planning Policy Framework explains that the housing requirement may be higher than the identified housing need, and authorities should consider the merits of planning for higher growth if, for example, this would seek to reflect economic growth aspirations. Where authorities plan for higher growth this should not normally have to be thoroughly justified at examination.
+Paragraph: 040 Reference ID: 2a-040-20241212
+Revision date: 12 12 2024 See previous version
+Is the use of the standard method for strategic policy making purposes mandatory?
+The standard method should be used to assess housing needs. However it is recognised that there are some specific circumstances in which an alternative approach could be justified, for example as explained at paragraph 014 below.
+Paragraph: 003 Reference ID: 2a-003-20241212
+Revision date: 12 12 2024 See previous version
+How is a minimum annual local housing need figure calculated using the standard method?
+The standard method calculates a minimum annual local housing need figure as follows:
+Step 1 - Setting the baseline – 0.8% of existing housing stock for the area
+Set the baseline using the value of existing housing stock for the area of the local authority (Dwelling stock (including vacants), Table 125: dwelling stock estimates by local authority district). The baseline is 0.8% of the existing housing stock for the area, and the most recent data published at the time should be used.
+Step 2 - An adjustment to take account of affordability
+The housing stock baseline figure (as calculated in step 1) is then adjusted based on the affordability of the area.
+The affordability data used is the median workplace-based affordability ratios, published by the Office for National Statistics at a local authority level. The mean average affordability over the five most recent years for which data is available should be used.
+No adjustment is applied where the ratio is 5 or below. For each 1% the ratio is above 5, the housing stock baseline should be increased by 0.95%. An authority with a ratio of 10 will have a 95% increase on its annual housing stock baseline.
+Where an adjustment is to be made, the precise formula is as follows:
+For values of ‘five year average affordability ratio’ above 5; otherwise zero.
+Accessible text version:
+Adjustment Factor = ((five year average affordability ratio-5)/5)×0.95 + 1
+Worked example
+Step 1 - Setting the baseline
+An authority’s most recent housing stock is 62,500. The baseline is calculated as 0.8% of 62,500. The housing stock baseline figure is 500.
+Step 2 - An adjustment to take account of affordability
+The authority’s 5 year average median workplace-based affordability ratio is 9. As this is above 5 the following adjustment is made.
+The adjustment factor is calculated as:
+Accessible text version:
+Adjustment Factor = ((five year average affordability ratio)-5)/5×0.95+1
+Adjustment Factor = ((9-5)/5)×0.95+1= (4/5)×0.95+1=0.8×0.95+1
+The adjustment factor is therefore 1.76 and is used as:
+Minimum annual local housing need figure = housing stock baseline x adjustment factor
+Minimum annual local housing need figure = 500 x 1.76
+The resulting figure is 880.
+Paragraph: 004 Reference ID: 2a-004-20241212
+Revision date: 12 12 2024 See previous version
+Why is housing stock used as the baseline?
+Housing stock provides a stable and predictable baseline that ensures all areas, as a minimum, are contributing a share of the national total that is proportionate to the size of their current housing market.
+Paragraph: 005 Reference ID: 2a-005-20241212
+Revision date: 12 12 2024 See previous version
+Why is an affordability adjustment applied?
+An affordability adjustment is applied as housing stock on its own is insufficient as an indicator of future housing need because:
+-
+housing stock represents existing patterns of housing and means that all areas contribute to meeting housing needs. The affordability adjustment directs more homes to where they are most needed
+-
+people may want to live in an area in which they do not reside currently, for example to be near to work, but be unable to find appropriate accommodation that they can afford.
+The affordability adjustment is applied in order to ensure that the standard method for assessing local housing need responds to price signals and is consistent with the policy objective of significantly boosting the supply of homes. The specific adjustment in this guidance is set at a level to ensure that minimum annual housing need starts to address the affordability of homes.
+Paragraph: 006 Reference ID: 2a-006-20241212
+Revision date: 12 12 2024 See previous version
+When should strategic policy-making authorities assess their housing need figure for policy-making purposes?
+Strategic policy-making authorities will need to calculate their local housing need figure at the start of the plan-making process. This number should be kept under review and revised where appropriate.
+The housing need figure generated using the standard method may change as the inputs are variable and this should be taken into consideration by strategic policy-making authorities.
+However, local housing need calculated using the standard method may be relied upon for plan making for a period of 2 years from the time that the plan is submitted to the Planning Inspectorate for examination
+Paragraph: 008 Reference ID: 2a-008-20241212
+Revision date: 12 12 2024 See previous version
+How often are the inputs into the standard method updated?
+New estimates of housing stock are published annually (usually in May) and updated affordability ratios are published annually (usually in March).
+Paragraph: 009 Reference ID: 2a-009-20241212
+Revision date: 12 12 2024 See previous version
+Can strategic policy-making authorities take account of past under delivery of new homes in preparing plans?
+The affordability adjustment is applied to take account of past under-delivery. The standard method identifies the minimum uplift that will be required and therefore it is not a requirement to specifically address under-delivery separately.
+Paragraph: 011 Reference ID: 2a-011-20241212
+Revision date: 12 12 2024 See previous version
+How can plan-making authorities apply the method to the overall plan period?
+The method provides authorities with an annual housing need figure which can be applied to the whole plan period.
+The National Planning Policy Framework requires strategic policies to look ahead over a minimum 15 year period from adoption, although authorities are required to keep their policies under review.
+Paragraph: 012 Reference ID: 2a-012-20241212
+Revision date: 12 12 2024 See previous version
+How should local housing need be calculated where plans cover more than one area?
+Local housing need assessments may cover more than one area, in particular where strategic policies are being produced jointly, or where spatial development strategies are prepared by elected Mayors, or combined authorities with strategic policy-making powers.
+In such cases the housing need for the defined area should at least be the sum of the local housing need for each local planning authority within the area. It will be for the relevant strategic policy-making authority to distribute the total housing requirement which is then arrived at across the plan area.
+Where a spatial development strategy has been published, local planning authorities should use the local housing need figure in the spatial development strategy and should not seek to re-visit their local housing need figure when preparing new strategic or non-strategic policies.
+Paragraph: 013 Reference ID: 2a-013-20241212
+Revision date: 12 12 2024 See previous version
+In terms of the transitional arrangements for plans set out in the December 2024 NPPF, how do you calculate whether 80% of local housing need has been met for joint plans?
+Annex 1 of the NPPF sets out transitional arrangements for plans. For joint local plans, the percentage referred to in paras 234, 236 and 237 should be applied in aggregate across the joint local plan area. For example, if one or more of the partners is below the 80% set out in paragraph 234 a) but, taken in aggregate, the percentage remains above the 80%, then this requirement will have been met for the purposes of paragraph 234 a).
+Paragraph: 041 Reference ID: 2a-041-20250224
+Revision date: 24 02 2025
+Where strategic policy-making authority boundaries do not align with local authority boundaries, or data is not available, should the standard method be used to assess local housing need?
+Where strategic policy-making authorities do not align with local authority boundaries (either individually or in combination), or the data required for the model are not available such as in National Parks and the Broads Authority, or local authority areas where the samples are too small, an alternative approach may have to be used.
+Such authorities may continue to identify a housing need figure using a method determined locally. In doing so authorities should take into consideration the best available evidence on the amount of existing housing stock within their planning authority boundary, local house prices, earnings and housing affordability. In the absence of other robust affordability data, authorities should consider the implications of using the median workplace-based affordability ratio for the relevant wider local authority area(s).
+For local authorities whose boundaries cross National Parks or Broads Authority areas, the proportion of the local authority area that falls within and outside the National Park or Broads Authority area should also be considered – for example where only a minimal proportion of the existing housing stock of a local authority falls within the National Park or Broads Authority area it may be appropriate to continue to use the local housing need figure derived by the standard method for the local authority area.
+Paragraph: 014 Reference ID: 2a-014-20241212
+Revision date: 12 12 2024 See previous version
+If authorities use a different method how will this be tested at examination?
+The standard method should be used to assess housing needs. However in the specific circumstances where an alternative approach could be justified, such as those explained at paragraph 014, consideration will be given to whether it provides the basis for a plan that is positively prepared, taking into account the information available on existing levels of housing stock and housing affordability.
+Paragraph: 015 Reference ID: 2a-015-20241212
+Revision date: 12 12 2024 See previous version
+How is housing need calculated for the purposes of decision making?
+There is separate guidance on how the standard method for assessing local housing need applies to calculating 5 Year Land Supply and the Housing Delivery Test.
+Paragraph: 016 Reference ID: 2a-016-20190220
+Revision date: 20 02 2019
+Identifying the need for different types of housing
+There is separate guidance on identifying the housing needs of different groups and housing needs of older and disabled people.
+Paragraph: 017 Reference ID: 2a-017-20190722
+Revision date: 22 07 2019 See previous version
+Affordable housing
+What types of households are considered to be in affordable housing need?
+All households whose needs are not met by the market can be considered in affordable housing need. The definition of affordable housing for planning purposes is set out in Annex 2 of the National Planning Policy Framework.
+Paragraph: 018 Reference ID: 2a-018-20190220
+How can affordable housing need be calculated?
+Strategic policy-making authorities will need to estimate the current number of households and projected number of households who lack their own housing or who cannot afford to meet their housing needs in the market. This should involve working with colleagues in their relevant authority (e.g. housing, health and social care departments).
+Paragraph: 019 Reference ID: 2a-019-20190220
+Revision date: 20 02 2019
+How can the current unmet gross need for affordable housing be calculated?
+Strategic policy-making authorities can establish the unmet (gross) need for affordable housing by assessing past trends and current estimates of:
+- the number of homeless households;
+- the number of those in priority need who are currently housed in temporary accommodation;
+- the number of households in over-crowded housing;
+- the number of concealed households;
+- the number of existing affordable housing tenants in need (i.e. householders currently housed in unsuitable dwellings); and
+- the number of households from other tenures in need and those that cannot afford their own homes, either to rent, or to own, where that is their aspiration.
+Care should be taken to avoid double-counting, which may be brought about with the same households being identified on more than one transfer list, and to include only those households who cannot afford to access suitable housing in the market.
+Suggested data sources: Local authorities will hold data on the number of homeless households, those in temporary accommodation and extent of overcrowding. The Census also provides data on concealed households and overcrowding which can be compared with trends contained in the English Housing Survey. Housing registers and local authority and registered social landlord transfer lists will also provide relevant information.
+Paragraph: 020 Reference ID: 2a-020-20190220
+Revision date: 20 02 2019
+How can the number of newly arising households likely to be in affordable housing need be calculated (gross annual estimate)?
+Projections of affordable housing need will have to reflect new household formation, the proportion of newly forming households unable to buy or rent in the market area, and an estimate of the number of existing households falling into need. This process will need to identify the minimum household income required to access lower quartile (entry level) market housing (strategic policy-making authorities can use current costs in this process, but may wish to factor in anticipated changes in house prices and wages). It can then assess what proportion of newly-forming households will be unable to access market housing.
+Suggested data sources: Ministry of Housing, Communities and Local Government household projections, English Housing Survey, local authority and registered social landlords databases, and mortgage lenders.
+Total newly arising affordable housing need (gross per year) = (the number of newly forming households x the proportion unable to afford market housing) + existing households falling into need
+Paragraph: 021 Reference ID: 2a-021-20190220
+Revision date: 20 02 2019
+How can the current total affordable housing supply available be calculated?
+There will be a current supply of housing stock that can be used to accommodate households in affordable housing need as well as future supply. Assessing the total affordable housing supply requires identifying:
+- the number of affordable dwellings that are going to be vacated by current occupiers that are fit for use by other households in need;
+- suitable surplus stock (vacant properties); and
+- the committed supply of new net affordable homes at the point of the assessment (number and size).
+Sources of data: Ministry of Housing, Communities and Local Government affordable housing supply statistics to show recent trends, and local authority and Registered Social Landlord records including housing register, transfer lists, demolition and conversion programmes, development programme of affordable housing providers.
+Total affordable housing stock available = Dwellings currently occupied by households in need + surplus stock + committed additional housing stock – units to be taken out of management
+Paragraph: 022 Reference ID: 2a-022-20190220
+Revision date: 13 09 2018
+What is the relationship between the current housing stock and current and future needs?
+Strategic policy-making authorities will need to look at the current stock of houses of different sizes and assess whether these match current and future needs.
+Paragraph: 023 Reference ID: 2a-023-20190220
+Revision date: 20 02 2019
+How is the total annual need for affordable housing calculated?
+The total need for affordable housing will need to be converted into annual flows by calculating the total net need (subtract total available stock from total gross need) and converting total net need into an annual flow based on the plan period.
+The total affordable housing need can then be considered in the context of its likely delivery as a proportion of mixed market and affordable housing developments, taking into account the probable percentage of affordable housing to be delivered by eligible market housing led developments. An increase in the total housing figures included in the plan may need to be considered where it could help deliver the required number of affordable homes.
+Paragraph: 024 Reference ID: 2a-024-20190220
+Revision date: 20 02 2019
+Economic need
+How can authorities determine the type of employment land that is needed?
+Strategic policy-making authorities will need to prepare a robust evidence base to understand existing business needs, which will need to be kept under review to reflect local circumstances and market conditions. National economic trends may not automatically translate to particular areas with a distinct employment base. Where appropriate, local planning authorities can use their Authority Monitoring Report and the plan review process to ensure that their evidence base remains up to date.
+Functional economic market areas can overlap several administrative areas so strategic policy-making authorities may have to carry out assessments of need on a cross-boundary basis with neighbouring authorities within their functional economic market area. Local Enterprise Partnerships (and county councils) can play a key role in this process.
+Paragraph: 025 Reference ID: 2a-025-20190220
+Revision date: 20 02 2019
+How can strategic policy making authorities prepare and maintain evidence about business needs?
+In gathering evidence to plan for business uses, strategic policy making authorities will need to liaise closely with the business community, taking account of the Local Industrial Strategy, to understand their current and potential future requirements. They will need to assess:
+- the best fit functional economic market area
+- the existing stock of land for employment uses within the area;
+- the recent pattern of employment land supply and loss – for example based on extant planning permissions and planning applications (or losses to permitted development);
+- evidence of market demand (including the locational and premises requirements of particular types of business) – sourced from local data and market intelligence, such as recent surveys of business needs, discussions with developers and property agents and engagement with business and economic forums;
+- wider market signals relating to economic growth, diversification and innovation; and
+- any evidence of market failure – such as physical or ownership constraints that prevent the employment site being used effectively.
+Paragraph: 026 Reference ID: 2a-026-20190220
+Revision date: 20 02 2019
+How can market signals be used to forecast future need?
+Strategic policy making authorities will need to develop an idea of future needs based on a range of data which is current and robust, such as:
+- sectoral and employment forecasts and projections which take account of likely changes in skills needed (labour demand)
+- demographically derived assessments of current and future local labour supply (labour supply techniques)
+- analysis based on the past take-up of employment land and property and/or future property market requirements
+- consultation with relevant organisations, studies of business trends, an understanding of innovative and changing business models, particularly those which make use of online platforms to respond to consumer demand and monitoring of business, economic and employment statistics.
+Authorities will need to take account of longer term economic cycles in assessing this data, and consider and plan for the implications of alternative economic scenarios.
+Paragraph: 027 Reference ID: 2a-027-20190220
+Revision date: 20 02 2019
+How can strategic policy making authorities identify the existing stock of employment land and identify the recent pattern of supply and loss?
+A simple typology of employment land by market segment and by sub-areas, where there are distinct property market areas within authorities, can be developed and analysed. This can be supplemented by information on permissions for other uses that have been granted, if available, on sites formerly in employment use.
+Paragraph: 028 Reference ID: 2a-028-20190220
+Revision date: 20 02 2019
+How can current market demand be analysed?
+The available stock of land can be compared with the particular requirements of the area so that ‘gaps’ and any over-supply in local employment land provision can be identified.
+It is important to consider recent employment land take-up and projections (based on past trends) and forecasts (based on future scenarios), and to identify instances where sites have been developed or sought for specialist economic uses. This will help to provide an understanding of the underlying requirements for office, general business and distribution space, and (when compared with the overall stock of employment sites) can form the context for appraising individual sites.
+Analysing supply and demand will allow policy makers to identify whether there is a mismatch between quantitative and qualitative supply of and demand for employment sites. This will enable an understanding of which market segments are over-supplied to be derived and those which are undersupplied.
+Paragraph: 029 Reference ID: 2a-02920190220
+Revision date: 20 02 2019
+How can employment land requirements be derived?
+When translating employment and output forecasts into land requirements, there are 4 key relationships which need to be quantified. This information can be used to inform the assessment of land requirements:
+- Standard Industrial Classification sectors to use classes
+- Standard Industrial Classification sectors to type of property
+- employment to floorspace (employment density) and
+- floorspace to site area (plot ratios based on industry proxies)
+Paragraph: 030 Reference ID: 2a-030-20190220
+Revision date: 20 02 2019
+How can authorities assess need and allocate space for logistics?
+The logistics industry plays a critical role in enabling an efficient, sustainable and effective supply of goods for consumers and businesses, as well as contributing to local employment opportunities, and has distinct locational requirements that need to be considered in formulating planning policies (separately from those relating to general industrial land).
+Strategic facilities serving national or regional markets are likely to require significant amounts of land, good access to strategic transport networks, sufficient power capacity and access to appropriately skilled local labour. Where a need for such facilities may exist, strategic policy-making authorities should collaborate with other authorities, infrastructure providers and other interests to identify the scale of need across the relevant market areas. This can be informed by:
+- engagement with logistics developers and occupiers to understand the changing nature of requirements in terms of the type, size and location of facilities, including the impact of new and emerging technologies;
+- analysis of market signals, including trends in take up and the availability of logistics land and floorspace across the relevant market geographies;
+- analysis of economic forecasts to identify potential changes in demand and anticipated growth in sectors likely to occupy logistics facilities, or which require support from the sector; and
+- engagement with Local Enterprise Partnerships and review of their plans and strategies, including economic priorities within Local Industrial Strategies.
+Strategic policy-making authorities will then need to consider the most appropriate locations for meeting these identified needs (whether through the expansion of existing sites or development of new ones).
+Authorities will also need to assess the extent to which land and policy support is required for other forms of logistics requirements, including the needs of SMEs and of ‘last mile’ facilities serving local markets. A range of up-to-date evidence may have to be considered in establishing the appropriate amount, type and location of provision, including market signals, anticipated changes in the local population and the housing stock as well as the local business base and infrastructure availability.
+Paragraph: 031 Reference ID: 2a-031-20190722
+Revision date: 22 07 2019
+How can the specific locational requirements of specialist or new sectors be addressed?
+When assessing what land and policy support may be needed for different employment uses, it will be important to understand whether there are specific requirements in the local market which affect the types of land or premises needed. Clustering of certain industries (such as some high tech, engineering, digital, creative and logistics activities) can play an important role in supporting collaboration, innovation, productivity, and sustainability, as well as in driving the economic prospects of the areas in which they locate. Strategic policy-making authorities will need to develop a clear understanding of such needs and how they might be addressed taking account of relevant evidence and policy within Local Industrial Strategies. For example, this might include the need for greater studio capacity, co-working spaces or research facilities.
+These needs are often more qualitative in nature and will have to be informed by engagement with businesses and occupiers within relevant sectors.
+Paragraph: 032 Reference ID: 2a-032-20190722
+Revision date: 22 07 2019
+Updates to this page
+-
+Added paragraph 041.
+-
+Updated paragraphs in 'Housing need' section to reflect recent updates to the revised National Planning Policy Framework, published in December 2024.
+-
+Added new paragraphs: 033 to 039 Amended paragraphs: 004, 010 and 013
+-
+Added new paragraphs - 031 and 032
+-
+New version of guidance February 2019
+-
+Amended paragraphs 001, 004 to 018, 020 and new paragraphs 028-034
+-
+New version of guidance to reflect the revised version of the National Planning Policy Framework 2018.
+-
+Updated guidance.
+-
+First published.
