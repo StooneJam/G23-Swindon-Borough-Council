@@ -1,0 +1,140 @@
+Levelling Up Fund Round 3: explanatory and methodology note on the decision-making process
+This sets out the decision-making process for selecting successful bids to Round 3 of the Levelling Up Fund.
+1. Introduction
+1. Levelling up is at the heart of this government’s agenda. The Levelling Up White Paper (LUWP) sets out our 12 ambitious missions to address regional disparities across the UK, reduce crime in the worst-affected areas, put more money in the pockets of those who need it most, and transform the UK economy by generating higher paid, higher skilled jobs and new investment.
+2. The Levelling Up Fund (the Fund) is a key component of this agenda. Investing in vital local infrastructure projects, the £4.8 billion capital programme aims to increase pride in place and bring people closer to opportunity.
+3. The first 2 rounds of the Fund have started to realise this vision, with £3.8 billion awarded to over 200 projects across the UK. This third round of the Fund will provide a further £1 billion of direct investment in communities across Great Britain.
+2. Approach to round 3
+4. The first 2 rounds of the Fund awarded £3.8 billion on a competitive basis to projects with one of the following themes: regeneration and town centres; local transport; and cultural and heritage assets.
+5. Taking on board feedback from local authorities, and in line with the principles set out in the Funding Simplification Plan, the third round moves away from the competitive approach of rounds 1 and 2, and will see funding awarded to high-quality bids that were submitted in Round 2.
+6. This change has been made recognising both the ambition for a simple and streamlined funding landscape illustrated in the Funding Simplification Plan, and also in acknowledgement of the large volume of robustly assessed, high-quality projects that were not able to be funded in the second round of the Fund. See further details about the assessment and decision-making processes from Round 2.
+7. The total quantum of the selected Round 3 package is £1,105 million. 55 projects across Great Britain have been provisionally selected to receive funding. This includes £122 million for 6 projects in Scotland and a further £111 million for 7 projects in Wales, which amounts to 12% and 11% of the total Round 3 allocation respectively.
+8. Funding awards are provisional at the point of the announcement and subject to project validation, subsidy control checks, and and departmental sign-off.
+9. In Northern Ireland, given the current absence of a working Executive and Assembly, the Government is not proceeding with this round of the Levelling Up Fund at this time. We will continue to work closely with projects and places in Northern Ireland that were awarded a total of £120 million in the first two rounds of the Fund.
+10. The decision-making ministers for Round 3 were the Secretary of State for Levelling Up, Housing and Communities and the Secretary of State for Transport; the Chancellor of the Exchequer provided Treasury consent. Decision-making ministers and the Chancellor confirmed they had no personal, pecuniary or constituency interests in the list of bids which were submitted and were not funded at Round 2 or at Spring Budget 2023.
+3. Objectives and selection methodology
+11. In deciding the funding methodology for Round 3, ministers had three primary objectives:
+a. to prioritise places assessed as ‘in need’ according to the metrics set out in the Levelling Up White Paper, which represents our most up to date and comprehensive view of what Levelling Up ‘need’ looks like, known as the ‘Priority Places’;
+b. to ensure a fair geographic spread to ensure that the Fund can benefit all areas of the country across its lifetime;
+c. to support the pride in place and transport Levelling Up missions by focusing predominantly on regeneration and transport projects (with a smaller share of funding going to transport projects compared to previous rounds, given recent wider government investment in local transport).
+12. The methodology used to achieve these objectives and select 55 projects (listed in Table 2) is set out below.
+13. Recognising the role culture has to play in Levelling Up and the pride in place Levelling Up mission, £100 million has been set aside for culture. The methodology for, and selection of, culture projects will be determined in due course.
+14. Projects allocated funding for LUF Round 3 were selected from the list of projects submitted to DLUHC for Round 2, which were not funded either at Round 2, or at the 2023 Spring Budget. As described in the technical note for Round 2, projects were assessed against the criteria of Strategic Fit, Characteristics of Place, the Economic Case (with a minimum “value for money” rating), and Deliverability, alongside passing basic eligibility checks, as set out in the prospectus. The scores used for decision making in Round 2 were used, and projects were not rescored or re-categorised for Round 3.
+15. To select projects:
+a. From Priority Places, we fund all regeneration, regeneration combination and transport bids that scored 74.25 and above, which met the minimum score threshold set in Round 2 for all assessment criteria.
+b. From Priority Places, we fund all regeneration, regeneration combination and transport bids that scored 74.25 and above, which met all but one of the minimum score threshold set in Round 2. This further invests in Priority Places for levelling up, in line with the wider objectives for this Round. DLUHC will work with the Local Authority, and all funding will be provisional until we have reassurance that the project can meet the required standards across all Round 2 assessment criteria.
+c. 1. In England and Wales, we fund all regeneration and regeneration combination bids that scored 74.25 and above, which met the minimum score thresholds set in Round 2 for all assessment criteria, from local authorities that did not receive Round 2 funding. Within this step, projects were capped at one per local authority and four per ITL1 Region. These were selected in score order, except for in ITL1 Regions where ITL2 distribution could be maximised, where an additional cap of one project per ITL2 in this stage was introduced to improve regional spread . In Scotland, to achieve geographic spread within and between nations, we fund all regeneration and regeneration combination bids that scored 72.25 and above, which met the minimum score thresholds set in Round 2 for all assessment criteria. Within this step, projects were capped at one project per local authority and selected in score order.
+16. These steps resulted in 55 projects provisionally selected for funding; no further bids were or added or removed by ministers. The detailed methodology for each of these stages alongside the full list of successful projects is shown in the Technical Annex.
+17. We will publish further information on the methodology for the Levelling Up Need Index and Priority Places in due course
+4. Consideration of the equalities and environmental impacts of provisional ministerial decisions
+18. An equalities impact assessment and an assessment against the government’s published Environmental Principles Policy Statement were produced and submitted to ministers for consideration prior to decisions being finalised.
+5. Announcement and next steps
+19. Details of the projects selected to receive funding from the second round of the Levelling Up Fund were published on GOV.UK on 20 November 2023.
+20. All successful local authorities have been notified of their provisional awards, as have MPs who have projects in their constituencies.
+21. For each project, we will support local authorities to complete the validation and onboarding process. Until this process is completed, all funding announced is provisional.
+Technical Annex 1: Measuring Levelling Up Need
+22. For Round 3, funding was targeted to places based on Levelling Up Need. The Levelling Up Need metrics draw on the extensive evidence base as set out in the Levelling Up White Paper and represents our most up to date assessment of Levelling Up Need. Levelling Up Need has also been used as part of the methodology to select places in our Long Term Plan for Towns, Investment Zones and Levelling Up Partnerships.
+23. The ranking of local authorities was developed in accordance with the Levelling Up White Paper (figure 1.13, page 18) which combines 4 metrics relevant to understanding place performance. These metrics cover skills, pay, productivity and health. For each metric, the 3 UK-wide statistical releases are averaged to reduce volatility in the data and ensure the outputs are robust.
+24. Information of these releases is shown in the table below:
+Table 1: Levelling Up Need Metrics
+| Metric | Source | Dates used | Geographic level |
+|---|---|---|---|
+| NVQ Level 3+ (% of total population) | ONS annual population survey, Nomis | 3-year average (Jan- Dec 2019-21) | Lower-tier local authority |
+| Healthy Life Expectancy | ONS Health state life expectancy at birth and at age 65 years by local areas, UK | 3-year average** (2016/18-2018/20) | Upper-tier local authority*** |
+| Median Gross Weekly Pay (£) | ONS annual survey of hours and earnings. The equivalent Northern Ireland data can be accessed from NIRSA. | 3-year average (2019-21) | Lower-tier local authority |
+| Gross Value Added (GVA) per Hour Worked | ONS Sub-regional Productivity: labour productivity indices by Local Authority district | 3-year average (2018-20) | Lower-tier local authority |
+*Due to data availability, local authority Levelling Up need was calculated based on local government boundaries as of April 2021. Some local authorities have since been abolished in place of a new Local Authority with different boundaries. For example, Scarborough Local Authority was abolished, and the new North Yorkshire Council was established in April 2023.
+**For Northern Ireland, the national average is used for GVA and NVQs.
+***Healthy Life Expectancy data is released in 3-year intervals, 2016-2018, 2017-2019 and 2018-2020. In addition to this, upper tier local authority data is used for all component lower tier local authorities as lower tier data does not exist in a consistent fashion. This affects the 24 county council areas in England.
+25. Local authorities are scored according to their relative performance against each metric to generate an overall score. These places are scored from 0 to 1 for each metric using a min-max normalisation technique, which reflects an area’s performance relative to the rest of the UK, and then an average across each of the four min-max normalised scores is taken.
+Technical Annex 2: ‘Priority Place’ Selection
+England
+26. Based on the methodology laid out in the Levelling up White Paper (page 18) for each metric, all lower tier local authorities across the UK are ranked and those that fall into the bottom quartile are assigned a value of “1”. The number of times each place is in the bottom quartile against each of the 4 metrics is then summed to give a bottom quartile count out of 4.
+27. A priority list of local authorities within England was created which includes all local authorities in the bottom quartile against 3 or more of the 4 metrics. This gives a list of 45 Priority Places.
+Scotland
+28. Regional Economic Partnerships were used as geographic filter to ensure geographic spread across Scotland. The local authority with the highest overall score for Levelling Up Need, in each of these more granular geographical areas, is selected as a Priority Place.
+29. This gives a list of 8 geographically distributed local authorities. The 4 most in need based on LU Need were selected. This represents the list of Scottish LUF Round 3 Priority Places.
+Wales
+30. City and Growth deals (PDF, 834 KB) were used as geographic filter to ensure geographic spread across Wales. The Local Authority with the highest overall score for Levelling Up Need, in each of these more granular geographical areas, is selected as a Priority Place.
+31. This gives a list of 4 geographically distributed local authorities. This represents the list of Welsh LUF Round 3 Priority Places.
+Technical Annex 3: Characterising projects for investment
+32. Projects are categorised based on information provided by the Local Authority in their application to the LUF Round 2. Thematic categorisation is based on the majority theme from the local authorities’ spending allocations (that is, a 34% Culture, 33% Transport, 33% Regeneration project would be classified as a ‘Culture’ project). Projects with equally weighted largest spending allocation (that is, 50%, 50%, 0%, or 35%, 35%, 30%, etc.) were classified as ‘Combination’ themes.
+33. In Round 2, local authorities could submit projects as ‘joint bids’. For the selection process as outlined in Step 4, only the primary bidding local authority was used for geographic filters and spending caps. This selection process is consistent with previous rounds.
+Technical Annex 4: Project Selection for Round 3
+Culture Initiatives
+34. Recognising the role culture has to play in levelling up, £100 million has been set aside for culture. The methodology for and selection of culture projects will be determined in due course.
+England
+35. Step 4A: Select high scoring projects in Priority Places - From a list of all remaining unfunded Round 2 projects, a filter was applied to select all projects that were: in England; from Priority Places; scoring 74.25 and above; which scored 12.5/25 or above on Strategic Fit, the Economic Case (with a minimum “value for money” rating), and Deliverability, alongside passing basic eligibility checks; from any regeneration, regeneration combination, and transport theme.
+36. Step 4B: Select remaining high scoring projects in Priority Places – From a list of all remaining unfunded Round 2 projects, a filter was applied to select all projects that were: in England; from Priority Places; scoring 74.25 and above; which score 12.5/25 or above on all but one of Strategic Fit, the Economic Case (with a minimum “value for money” rating), and Deliverability; passed basic eligibility checks; from any regeneration, regeneration combination, and transport theme. We will work with local authorities and all funding will be provisional until reassurance is given that the project can meet the required minimum standards.
+37. Step 4C: Select high scoring projects from across ITL2 Regions - From a list of all remaining unfunded Round 2 projects, a filter was applied to select all projects that were: in England; not funded in previous steps; scoring 74.25 and above; which scored 12.5/25 or above on Strategic Fit, the Economic Case (with a minimum “value for money” rating), and Deliverability, alongside passing basic eligibility checks; from any regeneration or regeneration combination theme; and from local authorities that had not received Round 2 funding. This was capped at 1 project per local authority, ordering by bid score, capping at 4 projects per ITL1 region, maximising ITL2 distribution within ITL1 region, ordered by project score.
+Scotland
+38. Step 4A: Select high scoring projects in Priority Places - From a list of all remaining unfunded Round 2 projects, a filter was applied to select all projects that were: in Scotland; from Priority Places; scoring 74.25 and above; which scored 12.5/25 or above on Strategic Fit, the Economic Case (with a minimum “value for money” rating), and Deliverability, alongside passing basic eligibility checks; from any regeneration, regeneration combination, and transport theme.
+39. Step 4B: Select remaining high scoring projects in Priority Places – From a list of all remaining unfunded Round 2 projects, a filter was applied to select all projects that were: in England; not funded in previous steps; scoring 74.25 and above; which scored 12.5/25 or above on Strategic Fit, the Economic Case (with a minimum “value for money” rating), and Deliverability, alongside passing basic eligibility checks; from any regeneration or regeneration combination theme; and from local authorities that had not received Round 2 funding. This was capped at 1 project per Local Authority, ordering by bid score, capping at 4 projects per ITL1 region, maximising ITL2 distribution within ITL1 region, ordered by project score.
+40. Step 4C: Select high scoring projects from across ITL2 Regions – From a list of all remaining unfunded Round 2 projects, a filter was applied to select all projects that were: in Scotland; not funded in previous steps; scoring 72.25 and above; which scored 12.5/25 or above on Strategic Fit, the Economic Case (with a minimum “value for money” rating), and Deliverability, alongside passing basic eligibility checks; from any regeneration or regeneration combination theme; and from any local authorities that had not received Round 2 funding. This was capped at one project per local authority, ordering by bid score.
+Wales
+41. Step 4A: Select high scoring projects in Priority Places - From a list of all remaining unfunded Round 2 projects, a filter was applied to select all projects that were: in Wales; from Priority Places; scoring 74.25 and above; which scored 12.5/25 or above on Strategic Fit, the Economic Case (with a minimum “value for money” rating), and Deliverability, alongside passing basic eligibility checks; from any regeneration, regeneration combination, and transport theme.
+42. Step 4B: Select remaining high scoring projects in Priority Places – From a list of all remaining unfunded Round 2 projects, a filter was applied to select all projects that were: in Wales; from Priority Places; scoring 74.25 and above; which score 12.5/25 or above on all but one of Strategic Fit, the Economic Case (with a minimum “value for money” rating), and Deliverability; passed basic eligibility checks; from any regeneration, regeneration combination, and transport theme. We will work with local authorities and all funding will be provisional until reassurance is given that the project can meet the required minimum standards.
+43. Step 4C: Select high scoring projects from across ITL2 Regions - From a list of all remaining unfunded Round 2 projects, a filter was applied to select all projects that were: in Wales; not funded in previous steps; scoring 74.25 and above; which scored 12.5/25 or above on Strategic Fit, the Economic Case (with a minimum “value for money” rating), and Deliverability, alongside passing basic eligibility checks; from any regeneration or regeneration combination theme; and from local authorities that had not received Round 2 funding. This was capped at 1 project per local authority, ordering by bid score.
+Technical Annex 5: List of Successful Projects
+Table 2: Full List of Successful Projects
+| LA Name | Bid Name | Bid Value (£) |
+|---|---|---|
+| Birmingham | National Centre for Decarbonisation of Heat | £19,999,260 |
+| Blackpool | Blackpool Town Centre Access Scheme (TCAS) - regeneration focused transport investment | £15,385,023 |
+| Bolton | Bolton Town Centre North Regeneration Project | £20,000,000 |
+| Bradford | Enhancing Keighley engineering, manufacturing, and economic role in the region | £19,814,140 |
+| Carmarthenshire | Regenerating Llanelli | £15,547,105 |
+| Cheltenham | National Cyber Innovation Centre | £20,000,000 |
+| Chorley | Town Centre Improvements and Civic Square Development | £20,000,000 |
+| Croydon | Reconnected Croydon | £18,498,777 |
+| Denbighshire | Tackling Deep Rooted Denbighshire Deprivation through Pride of Place & Natural Environment | £19,973,283 |
+| Doncaster | Levelling Up Doncaster North | £17,950,341 |
+| Dudley | Levelling Up Halesowen | £20,000,000 |
+| Dudley | Brierley Hill Education Quarter | £20,000,000 |
+| Dumfries and Galloway | Dumfries and Galloway Transport Bid | £13,752,000 |
+| Dumfries and Galloway* (with Scottish Borders and South Lanarkshire) |
+Three Rivers Active Tourism Project | £22,809,416 |
+| Enfield | Levelling Up Angel Edmonton | £11,902,562 |
+| Glasgow City | Drumchapel Town Centre Regeneration | £14,979,646 |
+| Gloucester | Greyfriars Quarter Regeneration | £11,002,685 |
+| Gosport | Reconnecting Historic Gosport Waterfront | £18,117,915 |
+| Gravesham | St George’s Square | £20,000,000 |
+| Isle Of Wight | Island Green Link | £13,634,420 |
+| Kirklees | Huddersfield Open Market Regeneration Project (HOMH) | £16,649,855 |
+| Kirklees | Penistone Line Rail Upgrade | £47,917,122 |
+| Leeds | Heart of Holbeck | £15,949,291 |
+| Leicester | Connecting St Margaret’s | £12,177,706 |
+| Manchester | Regenerating Wythenshawe Town Centre | £20,000,000 |
+| Moray | Elgin City Centre Masterplan: Levelling Up Moray | £18,291,000 |
+| Neath Port Talbot | Newbridge Active Travel Link and Dock Access | £12,166,268 |
+| Neath Port Talbot | Port Talbot Town Centre Regeneration | £14,835,600 |
+| Newark And Sherwood | Shaping Sherwood Revival | £19,995,358 |
+| Newcastle Upon Tyne | River Tyne Regeneration Infrastructure | £19,417,075 |
+| North Ayrshire* (with South Ayrshire) | Levelling Up For Ayrshire: Commercial and Low Carbon Infrastructure | £37,456,821 |
+| North Lincolnshire | Scunthorpe Town Centre Vibrancy | £15,867,608 |
+| Norwich | Mile Cross Health, Wellbeing and Economic Activity | £7,583,515 |
+| Nottingham | Bulwell Town Centre Regeneration | £19,867,000 |
+| Pembrokeshire | Westgate to Eastgate: Levelling Up Pembroke Town | £10,543,627 |
+| Plymouth | Plymouth and South Devon Freeport (Freeport) Accelerating Plymouth Waterfront Regeneration | £19,946,417 |
+| Powys | Promoting recreational tourism in Powys through transport investment | £17,714,498 |
+| Sandwell | Grove Lane | £18,063,128 |
+| Sheffield | Parkwood Springs | £19,389,336 |
+| Somerset** | A Vision for Tonedale 2022 | £19,987,663 |
+| South Derbyshire | Swadlincote Town Centre | £1,108,000 |
+| South Lanarkshire | National Business District: Shawfield - Remediation and Development | £14,637,600 |
+| South Tyneside | South Shields Riverside Transformation | £20,000,000 |
+| Stafford | Stafford Station Gateway | £19,998,144 |
+| Stockton-on-Tees | Stockton North - Billingham Town Centre | £20,000,000 |
+| Tameside | Destination Denton | £16,764,793 |
+| Test Valley | Andover Revealed | £18,316,968 |
+| Torbay | Brixham Fish and Hi Tech Chips | £20,000,000 |
+| Vale Of Glamorgan | Barry Making Waves - Y Barri Creu Tonnau | £19,856,251 |
+| Wakefield | The Ridings Wakefield | £15,255,684 |
+| Watford | Create Watford | £16,021,788 |
+| Westmorland and Furness*** | Heart of Kendal | £13,476,700 |
+| Wigan | Leigh Town Centre | £11,389,554 |
+| Wirral | Renewal of Liscard Town Centre | £10,788,000 |
+| Wolverhampton | Green Innovation Corridor | £19,992,245 |
+*Joint bid
+**Due to data availability calculations were based on local government boundaries as of 2022. Somerset West and Taunton was the identified local authority which was abolished and the new Somerset Council was established on 1 April 2023.
+***Due to data availability calculations were based on local government boundaries as of 2022. South Lakeland was the identified Local Authority which was abolished and the new Westmorland and Furness Council was established on 1 April 2023.

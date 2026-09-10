@@ -1,0 +1,29 @@
+{
+  "total": 3,
+  "passed": 0,
+  "pass_rate": 0.0,
+  "pass_rate_by_tag": {
+    "baseline_comparison": 0.0,
+    "cross_corpus": 0.0,
+    "dissertation": 0.0,
+    "employment_quality": 0.0,
+    "gva_horizon": 0.0,
+    "limits": 0.0,
+    "local_evidence": 0.0,
+    "plain_english": 0.0,
+    "sme": 0.0
+  },
+  "timestamp_utc": "2026-08-26T13:47:05.673064+00:00",
+  "mode": "baseline",
+  "gold_file": "C:\\Users\\User\\Desktop\\RAG\\swindon-gva-rag-updated\\swindon-gva-rag\\eval\\gold_questions.jsonl",
+  "results_file": "C:\\Users\\User\\Desktop\\RAG\\swindon-gva-rag-updated\\swindon-gva-rag\\eval\\results\\eval_baseline_20260826T134348Z.jsonl",
+  "llm_model": "qwen2.5:14b",
+  "retrieval_metrics": {
+    "by_k": {},
+    "overall": {
+      "questions_ran": 3,
+      "questions_with_relevance_judgements": 0,
+      "map_mean": null
+    }
+  }
+}

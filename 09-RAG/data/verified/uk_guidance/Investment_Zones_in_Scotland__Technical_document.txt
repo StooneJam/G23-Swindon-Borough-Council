@@ -1,0 +1,1766 @@
+Investment Zones in Scotland: Technical document
+Sets out how we will jointly develop and deliver proposals, including the co-development process and overall delivery governance.
+Applies to Scotland
+This technical document sets out guidance on how the Scottish and UK governments develop and deliver proposals with regional partners. It includes details of the co-development process, proposal criteria, assessment, procurement, subsidy control and evaluation.
+1. Overview
+The government has an ambitious plan for growth and prosperity, rooted in boosting the UK’s potential, to grow strengths in key industries to support national and local priorities across the UK.
+In Scotland, the Investment Zones (IZ) programme has been designed to provide regional partners with a set of tools that can be deployed with flexibility and autonomy to boost Scotland and the United Kingdom’s innovation potential, grow strengths in key industries to drive growth, reduce economic inequalities, and level up communities across the country. This programme is committed to supporting devolution at all levels - empowering regional partners in Scotland to drive growth in partnership with UK government and Scottish Government. For more detail, please refer to the Scottish Investment Zones policy and methodology note.
+Regional partners in Scotland are expected to ensure that proposals are designed in a way that delivers value for money and ensures accountability to their own local stakeholders. This guidance sets out the basis for this. This will require a holistic and flexible approach and must be rooted in partnership between UK and Scottish governments, local government, research institutions and the private sector, to realise the potential of our cities and regions.
+This document sets out further guidance to regional partners in Scotland on the approach to delivering Investment Zone proposals in Scotland only.
+2. The co-development process
+Principles of co-development
+The government is committed to working closely with Regional Economic Partnerships (REPs) to develop Investment Zone proposals. This will be a locally led process and undertaken in partnership with places and with agreement of the Scottish Government and UK government. The process will be guided by the following principles:
+- Locally led: Investment Zones will be locally led, and all stages of co-development will allow flexibility and autonomy for each place to identify and select the best mix of interventions for their proposal.
+- Partnership: co-development will be genuinely iterative and done in partnership with each place to maximise the quality, ambition, and impact of Investment Zones. Government will set the parameters and criteria, provide support and challenge to ensure plans are genuinely strategic, and identify opportunities to align with wider government policy and investment. Local knowledge on strengths, opportunities and the needs of the existing innovation base and business environment should drive each approach.
+- Devolved delivery: building on the government’s wider devolution and funding simplification agendas, co-development, and the process for agreeing proposals will adopt a proportionate and criteria-based approach. This will allow places the flexibility to design and deliver their proposals, while providing the government with the necessary assurance that proposals are high quality and deliverable. We will set broad but clear criteria and agree specific outputs and outcomes against which to hold places to account for progress.
+Gateway stages
+The co-development process will be structured around a set of thematic gateways that will cover the core components of an Investment Zone proposal. The gateways will focus on five themes:
+Vision setting – covering the overall vision for the proposal.
+- Sector and economic geography – agreeing a sector focus and spatial focus for the Investment Zone, understanding the broad approach to tax & flexible spend interventions and decision making, and reviewing evidence that the criteria have been met.
+- Governance – agreeing the governance structure and assurance processes for the design, approval, and delivery of the Investment Zone and reviewing evidence that the criteria have been met.
+- Interventions – agreeing the specific mix of interventions and levers to be deployed and where, ensuring a logical link from the vision to the key opportunities and challenges identified, the portfolio of interventions selected and outputs, intermediary and overall outcomes for interventions and reviewing evidence that the criteria have been met.
+- Delivery – agreeing the delivery model or models, including any delivery vehicles for planning interventions, register of interdependencies and risks, finalising timelines and financial profiles, and reviewing evidence that the criteria have been met.
+Proposal criteria
+The criteria set out what an Investment Zone proposal is expected to demonstrate at each gateway, before agreement can be reached across all parties that the proposal can progress to the next. This will ensure that the overall proposal is developed to an appropriate standard, to ensure the policy delivers its stated outcomes and delivers value for money. The criteria have been designed based on several principles:
+- They are based on the evidence of what constitutes successful, sustainable clusters and strong regional innovation ecosystems.
+- They are stretching to ensure all Investment Zone proposals are as strong as possible and can achieve their potential.
+- Proposals with devolved and reserved tax incentives will be assessed separately against how well they deliver against the Investment Zone objectives and sectoral focus. Proposals will need to justify why intervention is necessary and how any negative effects are accounted for and mitigated.
+For supplementary guidance on non-domestic rates retention see Annex B and for supplementary guidance on tax incentives see Annex C.
+Sign off and approvals
+The Investment Zones programme in Scotland is being delivered jointly by Scottish Government and UK government (DLUHC and HMT). As such, final proposals will be signed off, including the framework which provides assurance that REPs will comply with all relevant delivery governance including PSED and subsidy control requirements, by all relevant ministers in the Scottish Government and UK government.
+- The proposal criteria, and how we will assess proposals (see Annex A, are broken down into 5 stages, one for each of the gateway themes set out above.
+- This process has been designed to guide co-development in a logical way that allows space for discussion. At each stage, we ask, ‘What is it, why and what does it do?’
+- All stages will include reviewing the proposals against the evidence and criteria and, where relevant, this will include seeking the views of other Scottish Government and UK government departments, including HMT, and others where the proposed sector or policy interventions relate to them.
+- The REP’s accountable body (or lead local authority, depending on locally agreed structures) for each Investment Zone should seek the appropriate level of sign off at each stage to ensure accountability and buy-in across the REP within scope of the Investment Zone intervention and other interested parties.
+- Progress to the next gateway only happens once the previous stage of the proposal has met the necessary requirements, and agreement has been reached across all parties.
+- As set out in the policy prospectus, the Scottish Government and UK government reserve the right to not take forward proposals if agreement cannot be reached and proposals will only be formally signed off in full at the conclusion of the process. Signing off proposals is subject to agreement of delivery plans before funding will be released.
+- Recognising IZ’s approach to be locally led and devolving delivery, REPs will agree the final proposals that is then approved by both the Scottish Government and UK government.
+Match funding criteria
+All proposals should include a degree of match funding from the private sector, third sector and local government e.g. universities, charities. Where no match funding has been secured against an intervention, we would expect a clear rationale to be set out. We expect that each Investment Zone proposal will be matched or part-matched by private sector investment and co-funding from other public bodies where relevant. We strongly encourage REPs to go further with partners whenever possible, particularly when their interventions are focused on themes such as business support, research and innovation and local infrastructure. The programme offers each Investment Zone an overall £160 million funding envelope. If proposals include tax incentives, these are deducted from the £160 million. We would then seek at least 60% of match funding to the remaining funds. Non-domestic rates retention sits outside of the overall funding envelope.
+To catalyse the strong and positive relationship with business that Investment Zones are designed to create, REPs should ensure buy in with private sector partners, creating a shared, outcomes driven, approach. Regions should be ambitious in terms of the source of match funding, for example, avoiding the use of any expected non-domestic rates retention (NDRR) that would come out of a proposal as a source of match funding. As part of the development of Investment Zone proposals, REPs ought to make clear which proposed interventions will be match funded, at what scale and if not, why that is the case.
+The Scottish Government and UK government also encourage REPs to work with regional partners to ensure that conditionality is considered where possible, for example, the principle of Fair Work should be embedded at every opportunity, the consideration of a Community Wealth Building approach, and skills interventions developed with businesses in the sector to deliver an offer to young people (16–24-year-olds) through engagement with regional Jobcentre Plus Partnership teams.
+3. Outcomes and outputs
+Investment Zones objectives
+Investment Zones will support the development and growth of clusters in order to increase regional innovation capacity, attract investment and, above all, strengthen the private sector – which is the engine of economic growth. In turn, this will help to boost regional productivity and growth, while a holistic approach will ensure that the benefits of that growth and investment are felt by local communities. These are not isolated objectives, and will support our shared and overarching Scottish and UK government ambitions, including helping to deliver on aspects of the National Strategy of Economic Transformation (particularly Productive Business and Regions) and the Scottish Government’s commitment to implement recommendation of the Regional Economic Policy Review.
+Introducing the regional logic model (flows from A to F)
+The suggested regional logic model below sets out the framework for how Investment Zone interventions should connect and flow. It introduces criteria for productivity growth and connects to supporting productive businesses and regions as set out in the NSET, which interventions should reasonably improve as part of delivering the programme objectives.
+A – Current state of target cluster in priority sector (setting out the binding constraints and opportunities at the selected geographical location)
+Current State: Constraints or unrealised opportunities from:
+- Human capital – for example, skills available and the local labour market
+- Physical capital – for example, access to appropriate specialist premises, transport infrastructure and need for new plant and equipment
+- Intangible capital – for example, opportunities to develop new technologies, equipment, processor or supply chains
+- Financial capital – for example, availability of FDI, bank finance, private equity finance
+B – Regional Inputs (general inputs such as funding and other resources that will be delivered at the selected geographical location)
+- Scottish Government and UK government input
+- Local government input
+- Non-government input
+C – Regional Activities (interventions being delivered at the selected geographical location. Non IZ interventions should also be accounted for)
+- IZ Activities:
+      - flexible spend
+- research and innovation
+- skills
+- local infrastructure
+- enterprise and business support
+- planning and development
+ 
+- Fiscal Incentives:
+      - Land & Buildings Transaction Tax
+- Non-domestic rates
+- enhanced capital allowance
+- enhanced structures and building allowance
+- employer national insurance contributions relief
+ 
+- Non- IZ Activities:
+      - for example, City Region Deals, innovation projects, Green Freeports, regional skills plans, net zero infrastructure/activity etc
+ 
+D – Regional Suggested Outputs (the outputs of IZ interventions at the selected geographical location. If outputs of IZ interventions differ to non-IZ interventions, this should be accounted for)
+- Regional outputs IZ - expected direct outputs from interventions (expect to be realised within the 5-year programme lifetime, for example:
+      - number of training courses available
+- number of apprenticeships available
+- number of businesses receiving non-financial support
+- number of businesses receiving grants
+- number of local supply chain businesses benefitting
+ 
+- Regional outputs non-IZ (if different) - expected improvements from interventions, for example:
+      - number of Green Freeport related trade activities, interactions with City Region Deals, innovation projects, regional skills plans, net zero infrastructure/activity etc.
+ 
+E – Region Suggested Intermediate Outcomes (the impact of the IZ interventions at the selected geographical location on regional immediate outcomes, linked to the 6 capitals. Non-IZ interventions should be linked to the IZ intermediate outcomes)
+- Improvement in Physical Capital, for example increase in:
+      - floor space unlocked
+- investment in plants and machinery
+ 
+- Improvement in Intangible Capital, for example increased:
+      - time to market for R&D product
+- R&D activity undertaken by businesses
+- increased spending on from specific training
+ 
+- Improvement in Human Capital, for example increase in:
+      - learners enrolled in relevant skills programmes
+ 
+- Improvement in Financial Capital, for example:
+      - increase in size of investment rounds
+ 
+F – Regional Outcomes (the impact of the IZ interventions at the selected geographical location on regional outcomes, linked to the shared national outcomes.)
+- Boost productivity in the REP
+- Increased real earnings for high and low skilled workers within the REP
+- Increased internationally competitiveness of companies within the cluster
+- Internationally demanded new technologies
+The long-term Investment Zone regional outcomes (impact) are a statement of intent, shaping REPs’ interventions. It is an articulation of what we expect Investment Zones to ultimately realise in their region if, a) constructed well in and of themselves and, b) complemented or amplified by other non-Investment Zone related activity in a region as part of a wider regional economic strategy. We will not be asking regions to provide projections for these.
+Then, as part of developing their Investment Zone proposal and logic model, regions should set out in their response to the criteria and accompanying template what interventions (activities) they will pursue with the flexible funding available, and what intervention level outputs and intermediate outcomes each of these interventions will deliver. The intervention level outputs and outcomes are published in the ‘outcomes framework’ and regions will need to pick at least one (but not all unless all apply) from Annex D.
+This is so we know what public money is being spent on and with what outputs, and can form the basis of how we monitor progress and hold regions to account for delivery. We will also ask regions including tax and/or NDRR sites as an intervention what outcomes (employment, land value and business investment) this intervention will deliver, and where multiple interventions will unlock an employment site, we will also ask for jobs numbers associated with this group of interventions.
+This will help form a coherent regional level logic model and mean that regions can demonstrate how their chosen interventions will increase the relevant shared national outcomes from both Scottish Government and UK government and drive Investment Zone intermediate outcomes that will contribute to the long-term impacts of the programme.
+REPs may identify additional further outcomes relating to the impact of their Investment Zone interventions that link to shared national outcomes. We do require this to be additional to at least one output and one outcome from our framework per intervention. The Scottish Government and UK government will consider any additional outcomes reporting from REPs.
+Future updates to the outputs and outcomes framework
+A joint Scottish and UK government M&E strategy will inform which of these outputs and outcomes are required for both the reporting and performance management elements of the programme, and the programme evaluation. At that stage we will confirm which outputs/outcomes are required for reporting, and specifics on metrics. That can then be used when developing detailed delivery plans with detailed outputs, outcomes, and indicators for a place’s interventions, and agree the delivery milestones and quantum for these deliverables, which will be included in the grant funding agreement before funding is released in the financial year 2025/26. We recognise these committed deliverables may evolve as the programme delivers and regions will be expected to highlight this through the programme’s change control process. This will be set out in more detail in a later iteration of this technical document.
+Interventions
+This section sets out the different themes of interventions, their objectives, and the types of capital they are expected to deliver. These objectives and capitals set the framework for the outputs and outcomes in the attached framework in Annex D.
+Skills
+Specialist sectoral-focused skills programme where the regional labour market need, as identified by the Investment Zone, is not being met by existing programmes – for example, sector-specific interventions or funding for regional join-up of the apprenticeships system across providers and businesses. Investment Zone plans must demonstrate how interventions are targeted to specific needs and understand the regional labour market. Where appropriate, it would be useful to connect this work with wider regional skills plans/strategies. We expect skills interventions to deliver human capital intermediate outcomes as more employees and people in the regional labour market move to higher qualifications.
+Regional infrastructure
+Specific regional infrastructure improvement projects (for example, those included in City Region Deals, regional transport schemes, digital infrastructure schemes) linked to specific business investment opportunities or to unlock specific sites, for example, schemes to improve connectivity to support the regional labour market’s ability to benefit from and access the sector or land remediation for lab space. We expect to see infrastructure interventions unlocking physical capital outcomes as sites and development are unlocked and access improved for regional employees through these activities.
+Research and innovation
+Funding for research and development (R&D) grants to support bringing products to market, commercialisation, improving uptake, streamlining processes, and supporting innovation. We expect to see these interventions delivering (depending on the focus) a mix of intangible, physical and human capital intermediate outcomes including those connected to the Innovation Strategy. R&D grants to businesses and stakeholders to invest in lab space and equipment, for example, will unlock physical outcomes. R&D grants to sponsor sectoral networks and knowledge sharing should be delivering intangible outcomes. Investment to support PhDs and other specialist qualifications will also contribute to human capital improvements alongside innovative activity.
+Business support
+Building on sector-specific tailored support for start-ups and businesses that leverage regional research strengths and facilities (e.g., Catapults), and is additional and complementary to the national offer. Like R&D interventions, business support interventions will also contribute to either intangible, physical or human capital intermediate outcomes (or a combination of more than one of these.
+Further guidance:
+- regions have regard to alignment and engagement with other Scottish and UK Government funded business support activities and provision that would be of relevance to businesses within the Investment Zone. This would include, for example, the Department for Business and Trade’s trade/export/inward investment services, the British Business Bank’s UK network, Scottish National Investment Bank, Business Gateway, Innovate UK for support to innovative businesses, sector-specific support such as Made Smarter, the Department for Science, Innovation and Technology’s locally delivered digital initiatives.
+- interventions relating to seed funding should ensure they are not duplicating existing British Business Bank programmes.
+- where possible, Investment Zones should work in collaboration with relevant Scottish Enterprise agencies and the Find Business Support Scotland service, as these are the two main government-funded national and regional entry points for businesses seeking advice and guidance, to convene and simplify the business support ecosystem for businesses and providers in their areas.
+Planning
+Developments will be expected to take account of the Scotland’s National Planning Framework (NPF4), and the relevant local development plan for the area (which together form the development plan). Areas should look to best practice and follow innovative approaches where they would add value. These could include the establishment of project-focussed teams, proactive master-planning, use of planning protocols or processing agreements and aligning consent procedures where appropriate. We envisage each area using their core Investment Zone funding to support this planning offer.
+We expect planning interventions to contribute to physical intermediate outcomes as development sites are unlocked at a faster rate (and at a higher quality) through these activities to speed up the planning process.
+4. Assurance and risk
+Accountability
+While the Investment Zone REP is responsible for effective delivery of the Investment Zone according to the detail set out in agreed and approved proposals, the REP will be accountable to the Scottish Government and UK government for the expenditure and management of public money. The Accountable Officer (AO) for UKG sits within DLUHC and responsible for budget transfer to SG via an MOU, so in accordance with the Cabinet Office Government Grants Functional Standards, the assurance for the Investment Zone programme will align with the principles of the three levels of assurance, referred to as the three lines of defence. The AO for the Scottish Government is the Director General for Economy who will be responsible for the onward issue of grants to REPs. As such, all grants will be in compliance with the Scottish Public Finance Manual, and follow the principles of the Grant Offer Letter, to be agreed with REPs and reflect the particular levers chosen.
+First line of defence
+The first line of defence should be delivered at an operational management level where the management responsibility is owned. The grant recipient will be the accountable body identified by the REP with funds allocated through a Grant Offer Letter administered by Scottish Government. The first line of defence is provided by the accountable body’s Chief Finance Officer (s95 officer) as they act at an operational management level in receipt of the funding. The Chief Finance Officer is therefore responsible for the delivery of Government investment, with propriety, regularity, and value for money.
+We recognise the wider legislation and regulations governing regional authorities throughout Scotland and as such seek a proportionate approach to assurance and performance management for the Investment Zones does not duplicate the accountable body’s statutory duties and rules to use public money well.
+Reporting carried out by accountable bodies will be used to secure evidence of the effectiveness of the first line of defence. The Chief Finance Officer will be required:
+- 
+    to provide written confirmation that they have necessary checks to ensure that the accountable body, funding allocation, and the programme specific project(s) have in place the processes to ensure proper administration of its financial affairs regarding the funding programme, and these are in place, effective and in active use. This is particularly relevant to financial administration and transparency of governance; and 
+- 
+    to respond directly to questions addressing the governance and transparency for aspects of their Investment Zone’s grant management including, procurement, conflict of interest, subsidy control, counter fraud, and risk. 
+Second line of defence
+Given the devolved nature of the fund, the second line of defence is informed by the Scottish Public Finance Manual, which sits alongside the Local Government in Scotland Act. This will be delivered by local government and aligns with the devolved nature of the programme in seeking assurance that Investment Zone activity will be delivered in line with statutory duties of the accountable body and the policy prospectus and UK government’s commitment to continue to improve wider local government transparency and reporting.
+There should be co-ordination across governments that bring different analysis together on a common basis to understand the overall fiscal position of local authorities, and particular risks and opportunities. This will support and manage any risk emerging in the delivery of the Investment Zones.
+Local government audit also plays a vital role in providing local authorities with accurate and reliable financial information to plan and manage their services and finances effectively. Local audit also ensures local authority financial arrangements, including whether value for money is being achieved, are transparent to the taxpayer, and facilitates assurance for the public sector.
+This independent structure provides further oversight of the work of the accountable body’s Chief Finance Officers, whose assurance and work are essential to the delivery of the Investment Zones. If assurance risks or concerns arise from the second line of defence, governments may undertake additional desktop audit of Investment Zone delivery, in engagement with the accountable body.
+We will keep this second line of defence under review, as the department takes forward the objectives of the programme objectives to improve transparency, the information and incentives available to local decision makers.
+Third line of defence
+The third line of defence should be undertaken by independent audit or a suitable independent/external body to secure an ‘objective opinion on the effectiveness of governance, risk management and internal controls. This opinion should cover both the second and first lines of defence.
+The Government Internal Audit Agency (GIAA) can provide independent risk-based assurance over the design and operation of controls within the arrangements for the Investment Zones and liaise with internal audit teams across governments as appropriate.
+The scope and timing of this independent assurance will be discussed between governments and its key stakeholders as part of the standard approaches to public spending.
+Funding governance
+The Scottish Government will issue a Grant Offer Letter to the Accountable Body within the REP on an annual basis. The acceptance of the grant offer will be signed by the Chief Executive Officer of the Accountable Body and relevant Section 95 Officer(s). The timing of receipt of Investment Zone grants from the Scottish and UK governments will be agreed with the Scottish Government and UK government on an annual basis. The timing of onward distribution to relevant third parties will be determined by the REP. Member authorities and third parties are individually and collectively responsible for ensuring they comply with reporting and governance arrangements as contained in the annual Investment Zone Grant Offer Letter which will be shared at the appropriate time.
+The value of the grant distributed to all Projects will be based on actual eligible expenditure (as per capital accounting rules) at the end of each year. The amount disbursed will reflect up to 100% of eligible expenditure incurred by the REP up to that point. Where possible the Accountable Body should distribute all Investment Zone grant in the same financial year in which it is received.
+Risk
+Investment Zone delivery will be managed by the REP and Third Parties in line with the requirements set out within the proposals. It is crucial that all risks relevant to the successful delivery of the Investment Zones and agreed outcomes are identified, evaluated and controlled in a transparent, consistent and systematic manner.
+Any issues should be reported via agreed Governance. Where issues remain unresolved and/or where progress, delivery or performance is deemed inadequate, there must be a clear route for escalation, and Scottish Government and UK government must be informed as appropriate. A lessons learned exercise should be undertaken for each significant issue encountered.
+5. Reporting, monitoring and performance management
+Reporting
+Investment Zones have been designed to empower selected regions in Scotland to take the lead in shaping and delivering their proposal. The Scottish Government and UK government will require formal reporting on a six-monthly basis, which ought to be informed by internal monthly reporting managed by the REP. To support our understanding of progress, we will also ask accountable bodies to develop and adopt an Annual Delivery Plan prepared in Q4 that both reflects on performance and describes activity / spend anticipated the following financial year.
+Accountable bodies will provide one report on a 6-monthly basis, as will be set out in the Grant Offer Letter by Scottish Government. Part 1 will include the following questions:
+- spend to date against outputs/outcomes and forecast against each intervention
+- project level summary under each intervention including location, description, how much it costs, its status in terms of delivery
+- summary of progress with an overall Red, Amber, Green (RAG) rating of the progress and trend (using dropdowns). Plus, short narrative progress summary update (maximum 250 words)
+- forecast underspend/overspend at the end of the financial year (capital and revenues totals)
+- forward look to provide narrative highlighting any new projects, events, case studies and opportunities for joint ministerial visits (maximum 200 words)
+Part 2 will be to assess whether accountable bodies have provided enough information and assurance to spend grant funding, six-monthly plans should summarise:
+- amount of funds committed and the profile of that spend
+- amount of funds allocated, but not committed to projects and the profile of that spend
+- plan for the allocation of unallocated funds, key milestones regarding timing of calls, commitment of funds and spend profiles
+- risk management, for example, confirmation that plans are in place to manage risks relating to project pipeline and capacity
+- expected progress made against set of Investment Zones outputs/outcomes
+Reports must be signed off by the accountable body’s Chief Finance Officer (s95 officer).
+Continued funding and support from both Scottish Government and UK government. is reliant upon REPs’ provision of sufficient information and evidence of progression against their proposals. However, if the reports provided by REPs relating to spend and delivery cause concern, and this concern cannot be ameliorated through dialogue, agreement and action, the Scottish Government and UK government reserve the right to make appropriate adjustments to payments, potentially making them in staged phases, and may withhold payments altogether.
+We have tried to limit the questions that we will ask accountable bodies in their six-monthly reports, in line with the principles of regional autonomy, decision making and accountability. The joint government approach to performance management is that it should be proportionate, asking only for the information we need to understand delivery progress and satisfy our own duties.
+What will we do with the data provided?
+The questions and data requested from accountable bodies is intended to capture information for three purposes:
+- a programme level oversight of the progress of the Investment Zones to assure the Scottish Government and UK government, the accounting officer(s), Scottish and UK ministers, and both Scottish Parliament and UK Parliament
+- support evaluation of the programme, the principles of which are set out in the monitoring and evaluation section and are expanded upon in the evaluation strategy
+- monitor that Investment Zones monies are being spent on the Investment Zones priorities, and that the outputs and outcomes delivered are in line with expectations detailed in investment plans.
+All data submission returns will need to be scrutinised and signed off by accountable bodies and REPs via their agreed governance.
+Performance management and change process
+The following section sets out the process for a REP, through its identified accountable body, to make changes to their proposals and their duties to inform the Scottish Government and UK government regarding changes. These sit alongside existing statutory duties of accountable bodies (as the representative of the REP) and rules to use public money well.
+Triggers for change
+The REP, through its accountable body, will have a degree of flexibility in changing regional priorities and plans in line with the responsibilities delegated to them. This means that joint government approval will only need to be sought when material changes are made to proposals. More detail on the threshold for material changes and the process for seeking approval from the Scottish Government and UK government will be set out in due course and will reflect the appropriate REP Governance.
+Questions for accountable bodies to answer as part of change process
+The following questions will be asked of REPs, and their accountable bodies, the REP as part of the joint government consideration of any material changes.
+- Has the accountable body within the REP’s Chief Finance Officer and their own Governance approved that the change is necessary and deliverable?
+- Is there evidence that the REP is content with the change request, and understands the impacts and implications of making the requested change?
+Further details on the format of and collection of this data from REPs and their accountable bodies will be set out in due course following discussion with the REPs to ensure it reflects internal Governance structures, in advance of the first formal reporting deadline.
+The programme’s ethos and design are intended to give REPs and their accountable bodies flexibility and responsibility in delivering. However, governments will not consider in-year requests to increase the amount of revenue funding (RDEL) and reduce the amount of capital funding (CDEL) to be used in that year. Scottish Government will issue annual grant offer letters to accountable bodies which will set out an RDEL and a CDEL allocation. CDEL funding cannot be converted to RDEL, however the amount of CDEL can be increased by converting RDEL to CDEL.
+6. Evaluation
+Evaluation is central for generating learning which can improve future project design and delivery, and help all collaborators understand impacts. This chapter sets out the proposed scope of the national and regional evaluation and expectations of REPs to support this evaluation and learning.
+Scope of national process evaluation
+Process evaluations are necessary to understand how the design and delivery of a programme has worked in practice. This is reliant on monitoring and reporting information, supplemented by engagement with those involved in the delivery of the programme. The Scottish Government and UK government will work collaboratively to undertake a feasibility study to assess what level of evaluation is possible and proportionate and will provide detail of this in due course. This will link to English Investment Zones where appropriate, recognising where there is consistency and difference in the approaches. Regardless of the type and level of evaluation, governments will lead the evaluation work and will rely on the support of REPs to provide data and contribute to analysis where appropriate.
+Proposed scope of the national impact and value for money evaluations
+The Investment Zone programme presents a unique opportunity to evaluate what works in research, innovation and levelling up policy. Dependant on the findings of the feasibility study, governments intend to cover the following:
+- intervention level – this would evaluate the different categories of interventions (including skills, business support and R&D investment as well as the tax benefits on offer) through a thematic or intervention level evaluation. The findings of this evaluation will contribute to learning more about what works well for this policy approach to increasing productivity and addressing inequalities within and between regions.
+- regional level evaluation – there are currently eight Investment Zones in England, and four across Scotland, Wales and Northern Ireland. This presents an excellent opportunity to understand impacts at a regional level in different policy environments, and to compare this with other national programmes such as City Region and Growth Deals.
+- programme level – this would allow governments to understand the cumulative impact of the Investment Zones programme over time, recognising they operate in different economic, governance and policy landscapes.
+Requirements from regions
+Regions are expected to participate in activities jointly coordinated by governments to evaluate the programme. This could include facilitating access to sites, identifying stakeholders for study teams and/or participation in focus groups or interviews. All regions are required to submit monitoring data in line with guidance, regardless of whether they chose to undertake their own regional evaluation. A simplification process is currently underway, to consolidate, reduce and standardise the indicators collected from regions to feed into monitoring and evaluation activities. The frequency and detail of the indicators related to Investment Zone activity will be informed by the outputs of this simplification exercise, which will be made available later in the year.
+Monitoring and evaluation arrangements will be set out in the Grant Offer Letter.
+Regional evaluation
+REPs are encouraged to undertake their own evaluations to further their own understanding of what works, and why, in their region. Where REPs do conduct evaluations, they will be encouraged to share evaluation outputs and data with the Scottish Government and UK government, and to publish findings. Governments can provide collated standard output and outcome indicators which REPs may wish to use for evaluation purposes. Plans for project evaluations should be proportionate to the scale of the project.
+Feasibility study and detailed M&E strategy
+The exact scope of the government led evaluation will be confirmed after a feasibility study has been undertaken, which assesses whether robust impact and value for money evaluations at each of these three levels will be possible, and if so, the most appropriate methodological approaches, methods and datasets to conduct these. The findings of this study will contribute to the development of an overarching Investment Zones Monitoring & Evaluation Strategy, which will be made available through both Scottish and UK government websites.
+The strategy will outline the policy aims and objectives, the questions the evaluations will answer, and the department’s approach to evaluating whether and how the Investment Zone policy has achieved its desired objectives. The strategy will also include the Theory of Change (ToC), demonstrating how the Investment Zones policy is expected to progress from implementation through to its desired outputs, outcomes, and impacts. The ToC will steer the Investment Zones evaluation approach and provide additional questions and hypotheses to be tested.
+Following the conclusion of the feasibility study, governments will develop and publish the M&E Strategy later this year, which will contain:
+- shared policy aims and objectives
+- a ToC summarising the evidence supporting how the Investment Zones policy is expected to progress from inputs to desired outputs, outcomes, and impacts
+- policy questions the evaluation will be expected to answer
+- high-level overview of the methods and datasets that will be conducted as part of a robust evaluation approach (including monitoring, process evaluation, and potential impact and value for money evaluations)
+- provisional timeline of deliverables the evaluation is expected to deliver, including interim and final evaluation reports
+Approach to evaluation-centred design of policies
+We expect REPs to think about how policies could be evaluated robustly, and we will consider what resources we can use to support them to set this up and deliver it. As we continue to work with REPs to design their intervention-level policies, we will encourage REPs to identify where there are opportunities to design the implementation in such a way that allows robust evaluation such as randomised control trials (RCTs). Governments will jointly consider options to support the streamlining of the evaluation design. Governments will also consider any lessons learned from existing programmes including from the Deals and Green Freeports programme to reduce the burden from REPs.
+7. Subsidy control
+The REP, its accountable body/local authority must consider whether the Investment Zones proposals will involve providing a subsidy and, if so, will need to comply with Subsidy Control Act 2022 and the UK’s international obligations on subsidy control, including the Windsor Framework.
+The Subsidy Control Act 2022 requires public authorities to consider the subsidy control principles and ensure that their subsidy or scheme is consistent with those principles before giving an individual subsidy or making a subsidy scheme. Public authorities should use the subsidy control principles assessment template to ensure that their subsidies and subsidy schemes are consistent with the subsidy control principles.
+For more further guidance see the Subsidy control: guidance.
+This guidance does not constitute legal advice and should not be used in isolation when designing subsidies. Those responsible for giving subsidies should always ensure that they fully understand the subsidy control requirements and satisfy themselves that their policies or projects are compliant. Public authorities should also seek their own legal advice if, and where, they are unsure of their legal obligations or the lawfulness of a proposed subsidy or scheme.
+8. Procurement
+For England, Scotland, and Wales, all spend associated with the programme must be assessed by the REP in advance to ensure that proposed investment is compliant with the Public Procurement Act 2023 (which replaces the Public Contracts Regulations 2015) or Public Contracts (Scotland) Regulations 2015 where relevant and follows local constitution and grant rules, processes and procedures as and where relevant. For Northern Ireland interventions, all spend associated with the programme must comply with the Public Contracts Regulations 2015, where relevant. This will be assessed by the department prior to approval and subject to monitoring after approval, in collaboration with relevant organisations as appropriate.
+The REPs are best placed to decide the most beneficial approaches to maximise the impact of the Investment Zones interventions within their region, such as the application of Community Wealth Building principles. Accountable bodies have the necessary experience and knowledge of delivering such projects in a legally compliant way. The REP, and its appointed accountable body, should use any opportunities to undertake competitions for grant funding, commissioning, and procurement activities, or use in-house teams to achieve objectives if their chief finance officer is assured that the minimum standards and legal obligations will be compliant in delivery of this programme:
+- Constitution of the Authority including any local Grant / Contract rules, processes or procedures
+- Procurement Act 2023 or Public Contracts (Scotland) Regulations 2015 (Scottish Regulations) including any amendments or any subsequent legislation that replaces either the PCR or the Scottish Regulations
+- all other applicable legislation to activity undertaken, such as Modern Slavery Act 2015, IR35 (Intermediaries Legislation), Equality Act 2010, Subsidy Control Act 2022
+- the Government Grants Functional Standard with specific focus to compliance on following areas:
+    - Fraud Risk Assessment (FRA) – pages 15-19
+- Due Diligence – pages 20-24
+ 
+REPs should also consider and implement wherever possible:
+- sustainability and green measures in procurement plans, aligned with the government’s Net Zero Strategy
+- innovative procurement, including the factoring in of social value into procurement
+- government initiatives, guidance and policy such as the Sourcing and Consultancy Playbooks, Construction Playbook, the Outsourcing Playbook and government guidance on Resolution Planning
+It will be the responsibility of the REP and its accountable body to ensure that minimum standards stated above are applied, monitored, and maintained throughout the period of the Investment Zones grant.
+Where non-contracting authorities are involved in Investment Zones project delivery, they should adopt such policies and procedures that are required to ensure that value for money has been obtained in the procurement of goods or services funded by the programme. This should include adopting the following minimum procedures unless different thresholds have been approved internally via the accountable body’s appropriate internal governance process and their chief finance officer:
+- if the value of contract is £0 - £2,499 then the minimum procedure is to directly award
+- if the value of contract is £2,500 - £24,999 then the minimum procedure is three written quotes or prices sought from relevant suppliers of goods, works and / or services
+- if the value of the contract us over £25,000 then the minimum procedure is a formal tender process
+Accountable bodies will be responsible for ensuring that these policies and procedures are applied by non-contracting authorities as appropriate, reported upon and monitored.
+Fraud Risk Assessment (FRA)
+Accountable bodies shall be responsible for ensuring that fraud is a key consideration in all spend activity and that the following minimum standards are met:
+- follow Grants Functional Standards on Fraud Risk Assessment (FRA) – pages 15-19
+- undertake FRAs at an appropriate level to each individual project dependent on risk
+- ensure that Investment Zones spend is undertaken in accordance with effective authority fraud prevention policy and procedure, and via engagement with colleagues specialising in this area
+- ensure that relevant evidence and data to prevent fraud is gathered as part of due diligence undertaken ahead of releasing funds
+- implement reporting and monitoring requirements that will identify irregularities or issues in use of funds which can be investigated further
+- store and file all work undertaken on FRA in the event of any issues or audit requirements
+Due Diligence
+Accountable bodies shall be responsible for ensuring that proportional due diligence is applied to all Investment Zones spend and that the following minimum standards are met:
+- follow Grants Functional Standards on Due Diligence – pages 20-24
+- undertake due diligence at an appropriate level to each individual project dependent on risk
+- ensure that Investment Zones due diligence is undertaken in accordance with effective authority rules and procedures through teams specialising in this area
+- ensure that key areas of due diligence identified for projects in which you invest are reported on and monitored throughout the term of delivery
+- store and file all work undertaken on due diligence in the event of any issues or audit requirements
+9. Equalities
+In Great Britain, the public sector equality duty (PSED) under the Equality Act 2010 (“Act”) requires public authorities in exercising their functions to have due regard to the need to: eliminate discrimination, harassment, victimisation, and any other conduct that is prohibited by or under the Act; advance equality of opportunity between persons who share a relevant protected characteristic and persons who do not share it; foster good relations between persons who share a relevant protected characteristic and persons who do not share it.
+Accountable bodies in Great Britain are required to comply with PSED when carrying out their duties related to the Investment Zones.
+As part of PSED, UKG will conduct a programme level equality impact assessment with SG requiring REPs to conduct a region level equality impact assessment on Investment Zones after proposals have finalised and the types of interventions to be delivered for each region are known. Accountable bodies will be responsible for their own compliance with the PSED duties.
+10. Branding
+Branding and publicity play a key role in ensuring effective promotion of the Investment Zone programme. A part of this will be acknowledgement of the wider policy agenda of Scottish Government and UK government, for example Fair Work and NSET.
+The requirements relate to all communications materials and public facing documents relating to funded activity – including print and publications, through to digital and electronic materials. This includes any preparatory activity linked to the programme.
+We will publish further guidance on these requirements.
+11. Indicative funding profile
+| 25/26 | 26/27 | 27/28 | 28/29 | 29/30 | 30/31 | 31/32 | 32/33 | 33/34 | 34/35 | Total | ||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Glasgow City Region | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 160 | |
+| CDEL | 9.6 | 9.6 | 9.6 | 9.6 | 9.6 | 9.6 | 9.6 | 9.6 | 9.6 | 9.6 | 96 | |
+| RDEL | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 64 | |
+| North East of Scotland | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 16 | 160 | |
+| CDEL | 9.6 | 9.6 | 9.6 | 9.6 | 9.6 | 9.6 | 9.6 | 9.6 | 9.6 | 9.6 | 96 | |
+| RDEL | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 6.4 | 64 | |
+| Total (both REPS) | 32 | 32 | 32 | 32 | 32 | 32 | 32 | 32 | 32 | 32 | 320 | 
+We understand that Investment Zones will require support to administer funding. Each accountable body in England, Scotland and Wales will be able to use up to 4% of the full funding envelope (both tax and flexible spending interventions) by default to undertake necessary fund administration, such as project assessment, contracting, monitoring and evaluation and ongoing stakeholder engagement. Where an Investment Zone spends less than 4% of the funding on administration, the balance will be retained to support intervention expenditure.
+Setting up the fund may need a larger administration budget in the first year than in later years. This is acceptable so long as the overall percentage (4%) is not exceeded over the full funding period. Any expenditure incurred prior to the release of funding is at the accountable body’s own risk, and how it is met is subject to local arrangements following the release of funding.
+Annex A: Criteria for Investment Zones proposals
+Approach
+This document sets out the criteria that an Investment Zone proposal would be expected to display at each gateway before agreement being reached across all parties that the proposal can progress to the next stage. The criteria have been designed based on a number of principles:
+- the criteria are developed based on evidence of what constitutes successful, sustainable clusters and strong regional innovation ecosystems
+- the criteria are stretching to ensure all Investment Zone proposals are as strong as possible, allowing government to work together with a REP in the spirit of co-development to reach that point
+- each gateway will be framed by specific associated criteria, which if not met will mean progress is paused at that gateway to work together with the Scottish Government and UK government to refine the proposal to an appropriate standard.
+Throughout, we will consider the responses provided to questions with wider Scottish and UK government colleagues as appropriate, which may result in the request for changes or revisions to answers provided.
+a. based on both government’s understanding of the sector, cluster, and its challenges/opportunities
+b. to ensure Investment Zones are as aligned as possible with wider Scottish and UK government strategies and investment, identify opportunities to go further or consider if the proposed options are feasible to address the issues
+c. to properly drive private sector investment and research institution innovation
+This information, alongside the answers provided by REPs will help to guide the co-development and appraisal process.
+As previously stated, no Investment Zone proposal will be endorsed jointly by the Scottish Government and UK government until the co-development process has fully concluded, and we reserve the right to reject an Investment Zone proposal even after it has passed through all the gateways, prior to the proposal going to the REP Governance for final approval.
+We would consider engaging ministers formally at a later date with an update on discussions and setting out if we consider agreement unlikely in good time ahead of the financial year 2025/26.
+As REPs consider these criteria, they should bear in mind that the accountable body identified by the REP to report on their behalf will be wholly accountable to government for ensuring the successful delivery of all Investment Zone policy interventions it chooses to pursue through the Investment Zone offer. Where the accountable body lacks direct power over specific levers, it must put in place appropriate and robust arrangements that enable it to ensure policy levers are used in line with the policy intent.
+For grant funding, this will mean the accountable body receiving funding on behalf of the REP from the Scottish Government and UK government, and then commissioning and / or procuring interventions to support the growth of their sectoral cluster.
+If a REP opts to propose tax sites, this will involve the accountable body working with partners to attract investment into the sites and ensuring that all investment on the site is appropriate and aligned with the Investment Zone sector(s) and the wider objectives of the policy. The REP must be able to demonstrate an ability to ensure this.
+If a REP opts to propose NDRR sites, this will mean the accountable body within the REP working with the relevant local authorities to ensure that any growth in non-domestic rates relative to the agreed baseline, and taking into account a displacement effect, is used exclusively to support the growth of their sectoral cluster, is guided by a clear strategy for reinvestment, and that decisions about the use of retained non-domestic rates are taken in an appropriate, transparent way that enables the REP to remain responsible to the Scottish Government and UK government for the overall Investment Zone programme.
+Logic Chain (Theory of Change)
+Outlined below is a place-level, strategic theory of change.
+The criteria have been designed to broadly align with the different sections of the logic chain. This means the final proposal should have a clear link to the constraints or unrealised opportunities in a place, which should guide the outputs, and outcomes a REP chooses to deliver.
+- Information from Gateway 1 will feed into Chain 1 and Chain 2
+- Information from Gateway 3 and Gateway 4 will feed into Chain 3 and Chain 4
+- Information from Gateway 4 will feed into Chain 1 and Chain 2
+This is a broad template to:
+a) demonstrate how the information collected in the gateways builds the rationale for place-level interventions, and
+b) will serve as a template for REPs to complete their own region-specific logic model as part of Gateway 4.
+Chain 1 - Describe the current state of target cluster in the priority sector
+- The existing strengths of your chosen priority sector
+- The existing strengths of the wider eco-system
+- the interaction of other live policy interventions and the Investment Zone
+Chain 2 - Identify constraints faces by current cluster and the unrealised opportunities
+- The constraints to boost the sector(s) growth potential
+- The unrealised opportunities to boost the growth potential of the sector(s)
+Chain 3 - Proposed interventions to alleviate constraints or maximise unrealised opportunities
+- The list of proposed interventions and how they come together to address the constraints and opportunities for growth
+- How the surrounding research institutions will support the Investment Zone’s interventions and objectives
+- The role of an investment zone in crowing in private sector investment and support to further the programme’s objectives
+- How skills/planning/tax sites and non-domestic rates can address constraints or unrealised opportunities, and contribute to the desired eventual outcomes of the Investment Zone programme
+- How the sectoral focus and geography of the Investment Zone interventions support the overall Investment Zone programme objectives
+Chain 4 - Proposed geographies for interventions
+- Aligning additional non-Investment Zone interventions with Investment Zone proposals to ensure that they are coherent and complementary
+Chain 5 - Outputs
+- Set out the outputs expected for each intervention, linked to the intermediate outcomes
+- Each output will need to have an accompanying metric
+Chain 6 - Intermediate outcomes
+- Set out the intermediate outcomes expected for each intervention to improve the 6 capitals. This will include at least one of the following:
+      - human capital, for example, increase in people with specialist skills to work in priority sector, increase in cluster employment, higher average real wages for low and high skilled workers
+- physical capital, for example, increase in m2 of space for sector production or R&D
+- intangible capital, for example, number of new patents generated, estimated value of new technologies developed
+- financial capital, for example, investment in new plant and machinery, Foreign Direct Investment
+ 
+Chain 7 - Final outcomes (impact)
+- Align the intermediate outcomes to the overall regional economic outcomes (and the national economic outcomes). These are:
+      - boost productivity in the region
+- increased real earnings for high and low skilled workers within the region
+- increased international competitiveness of companies within the cluster
+- internationally demanded new technologies
+ 
+- Each final outcome will need to have an accompanying metric
+Gateway 1: Vision and Inception Meeting
+This stage does not have associated criteria. REPs will be expected to set out their vision for their Investment Zone so the Scottish Government and UK government can collectively understand the early thinking on the sector they would like to support and interventions they wish to pursue through the policy offer.
+Gateway 2: Sector and Geography
+At this gateway, REPs are expected to identify the priority sector(s) they intend to support through their Investment Zone, the nature of this regional strength, the geography of the existing target cluster, and then define a coherent spatial focus for the Investment Zone. The place selection process analysed: the presence of priority clusters in REP areas (we used ONS/BRES data on employment in industries defined by SIC codes); the strength of research-intensive institutions (we used university grants and presence of catapults data); and the concentration of high skilled workers in areas (we used ONS/BRES ‘knowledge intensive employment as a % of total employment’ data)
+It also asks for information on potential tax and/or NDRR sites (given it is possible to opt for NDRR without the other tax offers) to understand how they align with the existing cluster and proposed spatial focus.
+Proposed tax/NDRR sites will be assessed in more detail at the Interventions gateway.
+Sector Question
+- What priority sector will your Investment Zone support and why is it a strength? (500 words)
+- REPs should set out the priority sector(s) they intend to support through their Investment Zone, considered against other options, with evidence to demonstrate that it is a significant regional strength. Where data is not available, REPs can introduce data and/or proxies that best fits the purpose, with a clear explanation as to why it has been introduced and how it has been interpreted. We will consider proposals to support more than one priority sector, subject to evidence that these sectors intersect as part of a coherent economic cluster. REPs should:
+    - provide a qualitative exposition of the nature and strength of sector(s) in the region, including the existing business base from SMEs through to large companies and wider supply chains
+- provide evidence of an existing innovation base, for example universities, research and technology organisations, public sector research facilities with strengths in the priority sector
+- provide an overview of the scale of opportunity and potential for future growth. For example, this could describe the high value-added activities the sector produces or evidence of growing demanded for the sector’s goods and/or services
+ 
+Where REPs are proposing to support sectors that overlap within a cluster, they should explain and provide evidence on how the intersecting sectors form part of a single coherent economic cluster, for example:
+- economic linkages demonstrated by shared supply chains, specialist inputs or technologies to support the priority sector(s)
+- common skills need
+- physical co-location between companies in different sectors
+The qualitative description should be complemented with the following regional data, using suitably, robust proxies where appropriate:
+- current number and growth rate of companies in the sector(s), over the last 10 years, in the region
+- current and growth in employment in sector(s), over the last 10 years, in the region, size of companies in sector, with discussion where not exact
+- total revenue generated by the sector(s) for the region, over the last 10 years, in the region
+- To proceed, a REP should provide clear evidence to demonstrate that their chosen priority sector(s) is a regional strength, alongside a detailed understanding of that strength supported by available data. We would expect that this aligns with existing regional industrial strategies, economics plans and wider strategies. Proposals focused on clusters that support more than one priority sector should provide details for all sectors. Governments will jointly consider if the evidence provided on the intersection of sectors is credible and realistic.
+Cluster question 1
+- Please describe the existing economic cluster your Investment Zone will support and strengths of the wider eco-system? (500 words)
+- We expect REPs to provide a credible description of the cluster, its wider actors and economic geography. REPs could consider how the cluster aligns with wider national and regional priorities and investments.
+As part of this, REPs could include specific discussion on the location referencing the type of detail below:
+- cluster supply chains
+- knowledge anchors
+- location of workers
+- how the cluster aligns with wider priorities and central / regional investments
+This could include quantitative information, for example:
+- commercial and/or industrial space created or developed, and any land redeveloped
+- types of workers employed by companies in the intended cluster
+- current average real wages in intended cluster, for low and high skilled workers
+- related research to cluster in partner research institutions
+- current research partnerships related to cluster in partner research institutions
+- current patents generated by companies and research institutions related to the cluster
+- REPs should describe an existing cluster ecosystem capable of supporting the proposed Investment Zone and sustainable cluster growth. Government will consider if the answer:
+    - aligns with wider government strategies, priorities, and investment
+- is credible and realistic in the description of the link between the sector, the cluster, and its geography
+- has the scale or focus to support the programmes objectives
+ 
+Cluster question 2
+- What are the constraints or unrealised opportunities that if addressed could boost the cluster’s growth potential? (500 words)
+- This should include consideration of at least one of the following, linked to the sector and cluster:
+    - constraints to or unrealised opportunities for human capital – for example, skills available and the regional labour market
+- constraints to or unrealised opportunities for physical capital – for example, access to appropriate specialist premises, transport infrastructure and need for new plant and equipment
+- constraints to or unrealised opportunities for intangible capital – for example, opportunities to develop new technologies, equipment, processes, or supply chains
+- constraints to or unrealised opportunities for financial capital – for example, availability of FDI, bank finance, private equity finance
+ 
+Qualitative evidence could include case studies where appropriate. Quantitative evidence should be provided, this must support the constraint(s) or unrealised opportunit(y/ies) identified. For example, these could include:
+- current skills mix in a place
+- evidence of a skills mismatch or shortfall
+- research partnerships per researcher
+- regional versus national research partnership ratios
+- evidence of challenges or potential opportunities for raising finance, including FDI.
+- market failures associated with brownfield land / availability of sufficient commercially viable land
+- To proceed, a REP should evidence that it has a clear and credible sense of the challenges and unrealised opportunities, related directly to the sector/cluster. They should be grounded in at least one of the four examples of capitals and linked to NSET, set out in the evidence and supported by the relevant qualitative and quantitative information available. Governments will consider if these challenges/ unrealised opportunities can be realistically realised through the Investment Zone policy offer.
+Geography question
+- What is the proposed spatial focus of your Investment Zone? (500 words)
+- Answers should describe the proposed spatial focus of the Investment Zone, with reference to the cluster ecosystem and barriers/opportunities. They should also set out how this will support:
+    - Agglomeration – the types of support you discuss could include:
+        - the collaboration of businesses in exchanging new ideas, best practice and building regional supply chains
+- matching businesses to workers with the right skills and increasing opportunities for people in the region
+- encouraging the use of shared resources, such as facilities and lab space, to meet the needs of businesses
+- transport connectivity
+ 
+- National Shared Outcomes
+        - REPs should provide credible evidence that their planned spatial focus can reduce levelling up and wellbeing economy need (or rather add something about the need in Scotland to support the NSET ambition of productive businesses and regions).
+- This could be linked to quantitative information such as, with consideration of location
+            - Under skilled workers (the percentage of adults with low or no qualifications; the percentage of adults by highest qualification for any other relevant qualification levels;
+- Median gross weekly pay; Percentage of adults earning the real living wage or above;
+ 
+- Healthy life expectancy;
+- Multiple deprivation.
+ 
+ 
+- Agglomeration – the types of support you discuss could include:
+        
+- To proceed REPs should clearly articulate the spatial focus of their Investment Zone and how it will support agglomeration and shared national outcomes. Governments will consider this based on the economic coherency of the proposed Investment Zone geography.
+Early indications of tax interventions
+- How many tax sites are you proposing and where are you planning to locate those tax sites? (Map and up to 500 words)
+- At this stage, REPs will be expected to confirm the number of tax sites they wish to propose, and they could consider the interventions they will deliver with the remaining flexible funding accordingly. The details on the tax sites could be provided as a list that clearly states:
+    - name of the proposed site
+- its proposed ha
+- all postcodes that will be included across your tax sites
+- how the proposed tax site(s) meet the underdevelopment criteria
+ 
+Who is/are the landowners and what is the planning status of the site? Alongside any postcodes, REPs could provide maps as per the tax guidance. REPs could confirm whether landowners and other key stakeholders are on board with your Investment Zone proposal and how they will secure necessary agreements. We reserve the right to request further information as the proposal progresses and in advance of designation/release of funding. Please refer to the Investment Zones policy prospectus and separate tax guidance.
+- REPs can propose up to three tax sites as part of their Investment Zone, totalling up to 600 ha. HMG will not consider any tax site proposals:
+    - that contain more than three sites in total
+- where the total hectarage of all sites in combination is over 600ha
+- that are on land considered developed
+- that do not meet the size and shape criteria
+- do not provide details on the landowners of the site and its planning status
+ 
+Alongside any postcodes, REPs should provide maps as per previous guidance.
+Early indication of Non-domestic Rates Retention (NDRR) sites
+- How many NDRR sites (max of three) are you proposing and where are you planning to locate those sites? (Map and up to 500 words)
+- The details on the NDRR sites should be provided as a list that clearly states:
+    - name of the proposed site(s)
+- its/their proposed number of hectares (ha)
+- how the proposed NDRR site(s) meet the underdevelopment criteria
+- all postcodes that will be included across the NDRR site(s) – where part of a postcode is to be included, this should be highlighted, and an estimate of the proportion of that postcode area within the NDRR site proposal should be provided
+- the landowner(s) and the planning status of the site
+ 
+Governments will not consider any NDRR site proposals:
+- that contain more than three sites in total
+- a combination of sites that are over 600ha in total size
+- that are on land considered to be developed
+- that do not meet the size and shape criteria
+Alongside any postcodes, maps could be included as per previous guidance.
+Early indication of planning interventions
+- How will your planning offer help accelerate the progress of the Investment Zone proposal? (500 words)
+- The policy prospectus set out that Investment Zones should have a credible and ambitious planning offer to accelerate development needed to support the target cluster. REPs could set out at this stage:
+    - the planning proposal/offer for the Investment Zone
+- how the planning proposals can accelerate existing development or bring forward new development, including detail on how this will be delivered
+- where planning is likely to take place and how it relates to other relevant frameworks e.g., NPF4, STPR2 and local development plans.
+- the Local Planning Authorities who will be responsible for planning decisions and which local authorities it will cover.
+- key known planning issues (for example, infrastructure requirements, environmental constraints, land ownership challenges).
+- explain the current planning status including status in relation to the local plan.
+- explain the planning needs for the anticipated development.
+- detail how these development needs will be met, including what options have been considered.
+- explain the steps taken (or planned) to engage with local communities to consider how proposals will maintain and enhance where possible the quality of the locality within which the proposal is located.
+- explain how any relevant requirements for environmental assessment will help to mitigate any adverse impacts. Applications can also usefully indicate whether any early engagement with key agencies has been undertaken as part of this.
+- provide evidence of early discussions they have had with planning authorities on the potential use of place-based planning tools.
+ 
+REPs could also provide details regarding landowners and existing master planning status. REPs could work to ensure better join up between strategic land use planning and transport planning, at the earliest stages of the funding and planning process.
+- REPs should include the following details to proceed to the next gateway or explain when they will be able to provide them by:
+    - the major development sites within or linked to the Investment Zone
+- how this planning proposal accelerates the development necessary to support the cluster, beyond existing plans
+- status with respect to relevant development plans
+ 
+Where planning requirements are necessary, REPs will have to ensure relevant links are made to local planning authorities, alongside indicative Regional Spatial Strategies which were used to inform NPF4.
+Private investment question
+- How will the Investment Zone proposal help to secure additional private investment? (500 words)
+- REPs could set out how the cluster they are supporting has significant current strengths to build on, evidence of commercial interest and upcoming potential commercial opportunities and potential to support leveraging in investment.  REPs could reference any key upcoming investment opportunities, including list of businesses, anchor tenants and emerging intel on the scale of potential investment.  This could include any information which can be provided on potential timings of investment, for example, when an organisation might make first spend, and when it might then move into an area. REPs could consider how they will:
+    - foster internationally competitive companies
+- generate new technologies for which there would be widespread demand (both domestically and internationally)
+- attracting significant domestic private or FDI investment, including anchor tenants
+ 
+REPs could include reference to potential indicators, such as:
+- capital flow into the cluster/sector in the region
+- the exportable products of the sector/cluster
+- does the sector/cluster have a track record of producing exportable intellectual property
+- REPs should provide details to demonstrate that there is significant private sector interest in their target cluster, with specific link to the lead sector(s). REPs should provide a list of business and investment opportunities related to their sector/cluster.
+Strategic assessment
+- How will the Investment Zone interact with other live policy interventions? (250 words)
+- REPs should:
+    - include evidence of how they have taken account of existing related policy interventions across the area when choosing the geographic location for interventions
+- provide a qualitative discussion of complementarities and steps to support additionality and mitigate risks of displacement
+ 
+- To proceed, REPs should clearly set out how they ensure the Investment Zone proposed considers potential displacement and is designed to be additional and complementary to other interventions.
+Outcomes
+- Taken together, how will the sectoral focus and geography of IZ intervention support the overall Investment Zone programme objectives? (500 words)
+- We expect REPs to provide a credible narrative around how the cluster choice is appropriate to support the intended programme objectives. REPs could also include available quantitative data to underline how supporting the cluster can support the objectives and make sure they support additionality. For example:
+    - current average earnings in the intended cluster
+- commercial and/or industrial space created or developed, and any land redeveloped
+- types of workers employed by companies in the intended cluster
+- current average real wages in intended cluster, for low and high skilled workers
+- related researchers to cluster in partner research institutions
+- current research partnerships related to cluster in partner research institutions
+- current patents generated by companies and research institutions related to the cluster
+ 
+- To proceed, REPs should clearly articulate how their chosen sectoral cluster can support the programmes objectives. This should include, at a minimum, how the Investment Zone will do at least one of the four:
+    - boost productivity in the region
+- increase real earnings for high and low skilled workers within the region
+- increase international competitiveness of companies within the cluster
+- internationally demanded new technologies
+ 
+Research institution co-sign
+- Considering the focus of your Investment Zone, which research institution(s) will co-sign your Investment Zone proposal? (250 words)
+- REPs should identify a research institution(s) to be a co-signatory of the document, setting out why they are appropriate to do so based on the priority sector, the needs of the cluster and wider area.
+- To proceed to the next Gateway, REPs should identify and name their co-signatory partner(s) research institution.
+Gateway 3: Governance
+Governance question 1
+- Set out if the governance structure that will oversee the Investment Zone is existing or not? (750 words)
+- If No:
+    - set out the proposed Governance structures and provide detail on how this will achieve Investment Zone objectives. REPs should evidence interim structures as the proposed structures are developed
+- where setting up new governance, REPs could set out why new governance is needed, clear and implementable milestones for its formation and the proposed membership and frequency of meetings during design and delivery of the programme
+ 
+- If Yes:
+    - provide documentation to evidence the current structure, membership and how it will be able to consider the specific sector and innovation considerations of the Investment Zone
+- if using an existing governance structure, REPs could provide existing membership, proof of track record of delivery and how it has been adapted or will bring in sector/cluster experience
+- REPs must ensure existing governance structures will draw upon the expertise needed to grow their cluster, with a clear link to the priority sector and its needs
+- both must consider how the proposed Governance structure will engage their research institutions, innovation eco-system and could include the following types of partners:
+        - sector specific businesses
+- supply chain businesses
+- wider research institutions, for example, Catapults
+- cluster bodies
+- education, skills providers, employment experts and providers
+ 
+ 
+- To proceed, REPs should have strong existing governance in place or a clear and implementable plan to form new governance. This could be supported by evidence requested. Governments will consider if the governance structures appropriately engage cluster expertise from the sector, wider research institutions and stakeholders.
+Governance question 2
+- What is the team structure for design and delivery of the Investment Zone proposal? (500 words, plus file)
+- REPs should set out the proposed management arrangements for design and delivery of Investment Zone. REPs could describe the accountability and assurance that will be in place for design and delivery of the Investment Zone, if this uses existing structures, REPs could detail arrangements here. REPs should provide the following evidence:
+    - a named senior responsible officer for the Investment Zone, listing their responsibilities and accountabilities throughout the stages of the Investment Zone
+- details and description of the planned team to oversee the Investment Zone, including timelines for appointments or details about existing structures, if in place
+ 
+This could be provided in one of several formats:
+- organogram
+- list of roles and responsibilities
+- if proposing tax or NDRR sites, it should include specific details on their planned future management
+- To proceed to the next gateway, REPs should provide the evidence requested, which will be considered based on its credibility.
+Governance question 3
+- How will relevant research institution and private businesses be engaged and involved in the Investment Zone Governance? (500 words)
+- REPs could set out how partner organisations will feed into the process of Investment design and delivery. The Scottish Government and UK government will want to work with REPs to ensure proposals have clear plans and to engage relevant organisations, to consider what direct support they can offer to an Investment Zone proposal. Proposals could consider how they can be leveraged to secure direct support they can offer to an Investment Zone proposal.
+- Governance proposals should engage research institutions and businesses beyond the simple co-sign off the research institution set out above. The programme governance should ensure they have a long-term role in the governance and delivery of it bringing to bear their own resources.
+Governance question 4
+- How will you engage planning authorities as you develop and deliver the planning offer as part of Investment Zones? (250 words)
+- REPs could explain the engagement to date with planning authorities and how that has informed the design of their Investment Zone proposal and how it will enable future delivery. REPs could also set out how they have engaged regional transport partnerships.
+- REPs ought to engage with local planning authorities and provide evidence that any planning requirements ensure alignment with existing plans/NPF4 and RSS
+- To proceed, Investment Zone proposals should:
+    - evidence engagement with the relevant planning authorities
+- have the support of their planning authority for the planning being pursued
+- describe governance in place to work with the relevant planning authorities moving forward
+ 
+- Governments will jointly consider this, based on feasibility when compared against the answers at Gateway 2.
+Governance question 5
+- Do you intend to deploy any specialised delivery vehicles, for example, development corporations or corporate special delivery vehicles, such as Urban Regeneration, or joint development plans? Answers could reference Governance question 5 and Early indication of tax interventions (250 words)
+- This is a Yes/No question
+    - if Yes, REPs could set out if this is an existing delivery vehicle or a new one. If new, the timelines and milestones for its formation. If existing, how it will incorporate and manage the Investment Zone planning offer into its current governance and work.
+- if No, REPs could set out why they have considered them to not be suitable for their Investment Zone proposal and how they will manage the delivery of the Investment Zone planning offer instead.
+- The Scottish Government and UK government will work with REPs to understand the specialised delivery vehicles available to them and consider if they are best placed to deliver the Investment Zone’s planning and development goals alongside other objectives.
+ 
+Non-domestic Rates Retention (NDRR)
+- REPs only need to complete if they have chosen to take forward NDRR. Please confirm the local authorities within site(s) (maximum of three per Investment Zone) have been engaged and that they have:
+i.	seen and consented to this proposal (Yes/No)
+ii.	understood that the local authority will continue to be responsible for collecting non-domestic rates in its area (Yes/No)
+iii.	drafted an MOU between them and the accountable body detailing these arrangements on how decisions about the use of retained non-domestic rates are taken in an appropriate, transparent way that enables the REP to remain responsible to the Scottish Government and UK government for their use in line with the Investment Zone’s aims (Yes/No)
+iv.	consented to any non-domestic rates growth retained as a result of the site being invested back into the programme in line with overall Investment Zone objectives (Yes/No)
+- For questions (i) and (ii), this is a yes or no question. For question (iii), please provide details of who will be responsible for the re-investment of the NDRR monies collected. This could include detail on what arrangements will underpin that between the REP and the constituent partnership members. These arrangements could consider how decisions about the use of retained non-domestic rates are taken in an appropriate, transparent way that enables the REP to remain responsible to the Scottish Government and UK Government for their use in line with the Investment Zone’s aims.
+- The description of the arrangements could include how the reinvestment strategy will support the Investment Zone over the lifetime over the NDRR site(s).
+Governance question 6
+- Have you identified any key fraud risks that could affect Investment Zone delivery and what are your processes place to mitigate them? (500 words)
+- REPs should:
+    - provide details of how they will identify, mitigate, and manage potential risk of fraud
+- cover any initial key risks identified
+- set out a plan to develop a risk management framework for government by early 2025 ahead of first payment of funding
+ 
+- REPs should provide a full plan for risk mitigation, based on the early interventions they are considering, for example, risks to commissioning services, tax sites or NDRR sites. Governments expect this to be updated as the Investment Zone proposal is iterated, as part of delivery planning.
+Governance question 7
+- Set out details of how you have actively engaged MPs and MSPs. (500 words)
+- REPs could provide details of how they have engaged members of the Scottish and UK parliaments. REPs could provide details of how they were engaged, for example:
+    - writing to their MPs and MSPs
+- hosting briefing sessions with MPs and MSPs on the development of their Investment Zone
+- if stretching over a large area, REPs could invite all MPs and MSPs for the region to a convened engagement group
+ 
+REPs could provide the feedback from that engagement. This could include specific details of any not supportive of the Investment Zone proposals and their reasons for opposition.
+- We expect proposals to demonstrate that this engagement has taken place over the area affected by the Investment Zone with the clear objective of consensus. Scottish Government and UK government reserve the right to discuss further with MPs regarding their feedback.
+Gateway 4: Interventions
+This gateway gathers information on the interventions to ensure that we are confident that they will genuinely boost the supply capacity of the regional economy, to ensure that improvements are additive and do not simply displace economic activity from elsewhere in the region or elsewhere in the UK.
+Match funding guidance
+The policy prospectus set out that all proposals should include a degree of match funding from the private sector, third sector and local government. Where no match funding has been secured against an intervention, governments would expect a clear rationale to be set out.
+We expect that each Investment Zone proposal will be matched or part-matched by private sector investment, council borrowing and co-funding from other public bodies where relevant. We strongly encourage REPs to go further with partners whenever possible particularly when their interventions are focused on themes such as business support, research and innovation and regional infrastructure. We expect this to be at least 60%.
+As part of the development of Investment Zone proposals governments will expect to understand which proposed interventions will be match funded, at what scale and if not, why that is the case. Governments also encourage REPs to work with wider regional partners in Scotland to ensure that wider conditionality is considered where possible.
+REPs will be expected to provide details of their plans to secure match funding at the Investment Zone proposal stage. As they move into delivery of their proposals and project design based on their approved interventions, they should begin to commission interventions in a way that meets their stated ambitions. Governments expect an update on this ahead of final sign off proposals and release of funding.
+Subsidy Control guidance
+The REP and its accountable body should consider whether the Investment Zones proposals will involve providing a subsidy and, if so, will need to comply with Subsidy Control Act 2022 and the UK’s international obligations on subsidy control, including the Windsor Framework.
+The Subsidy Control Act 2022 requires public authorities to consider the subsidy control principles and ensure that their subsidy or scheme is consistent with those principles before giving an individual subsidy or making a subsidy scheme. Public authorities should use the subsidy control principles assessment template to ensure that their subsidies and subsidy schemes are consistent with the subsidy control principles.
+For more further guidance see the Subsidy control: guidance.
+Interventions narrative
+- How do the packaged of proposed interventions come together to address the constraints to and opportunities for growth for the cluster identified at Gateway 2? (1000 words)
+- REPs should:
+    - demonstrate that the Investment Zone interventions are delivering outputs and outcomes will help to bring additionality to the R&D, productivity and innovation activity already occurring in the region
+- set out a coherent strategy over the spatial focus of the Investment Zone and could ensure that the interventions proposed are linked to the specific challenges and opportunities described at Gateway 2
+- REPs should provide a short-written explanation of how their intervention is creating social value that would not have existed in its absence
+- refer to the characteristics below as guidance for assessing the extent of additionality for each of the interventions
+        - low additionality characteristics
+            - displacement – the intervention leads to an increase in economic activity or social welfare in one area but causes a corresponding reduction elsewhere
+- deadweight – the outcomes resulting from the intervention would have occurred even without the specific intervention
+- leakage – the positive effects of the intervention do not extend significantly beyond the target area
+- substitution – firms or industries substitute one type of labour or activity for another without increasing overall employment or output
+ 
+- high additionality characteristics
+            - displacement – the intervention generates a net increase in economic activity or social welfare without significant displacement efforts
+- deadweight – the intervention brings about outcomes that would not have occurred in the absence of the specific interventions
+- leakage – the intervention effectively generates spill over effects that positively impact neighbouring regions or communities
+- substitution – the intervention fosters genuine job creation
+ 
+ 
+- low additionality characteristics
+            
+- set out how they will use the interventions to support shared national outcomes
+- produce a logic model, using the template provided, which sets out the constraints and unrealised opportunities to specific interventions outputs and intermediate outcomes, and how they link to longer-term place-level outcomes
+- clearly identify risks for displacement, and consequences for negative spill overs from each intervention, with either:
+        - a proposed approach to monitor and mitigate such displacement or negative spill overs
+- how any displacement of activity to an area offers benefits for economic growth or agglomeration
+ 
+ 
+- In the answer to this question, governments will jointly consider how regions address the following points:
+    - direct, clear and credible explanation of the link between their challenges and the proposed package of interventions
+- how the package of interventions interacts to increase investment, jobs and support the overall objectives of boosting productivity and levelling up
+- how the interventions will help to realise additional benefits and provide sufficient information on the additionality of their proposed package of interventions
+- how the Investment Zone contributes to shared national policy outcomes
+- identified risks for displacement and the consequences for negative spill overs from each intervention, a proposed approach to monitoring and mitigating such displacement/ negative consequences, or how any displacement of activity to an area offers benefits for shared national outcomes
+ 
+Interaction between interventions and wider policies
+- REPs could explain how they are aligning additional non-Investment Zone interventions with Investment Zone proposals to ensure that they are coherent and complementary (500 words)
+- List of related interventions that could interact with Investment Zone proposals:
+    - major transport programmes that will have an impact in the area
+- regional infrastructure such as housing and regeneration schemes
+- any regional labour market or employment interventions
+- wider regional and national economic plans
+- wider local, regional or national freight strategies
+ 
+Discussion of complementarities between interventions, and implemented choices made to support these complementarities.
+- REPs should set out where existing interventions can align with Investment Zone aims or where Investment Zone aims can maximise existing interventions linked to the programme’s objectives. Governments will jointly consider if the proposed list properly maximises the Investment Zone proposal.
+Interventions summary
+- Please complete the attached document.
+- REPs should complete a document covering the following details:
+    - interventions selected, matching the size of their flexible funding pot
+- the spending profile of those interventions over the ten years: financial years 2025/26, 26/27, 27/28, 28/29, 29/30, 30/31, 31/32, 32/33, 33/34, 34/35 (interventions might not need to take place for the full ten-year period)
+- the outputs and outcomes associated each of these Interventions including the years in which they expect those to be delivered
+- the match funding against each intervention – if no match funding has been sourced an explanation of why this has been justified
+- a short description (50 words) of what the intervention is intended to do
+ 
+A full list of outputs and outcomes will be published.
+- REPs should complete the spreadsheet. They should include the full funding profile for the 10-year period, when the estimated value of their proposed tax sites has been discounted. All interventions should include overall expected outputs and outcomes against them, (including any outputs/outcomes expected to materialise after the 10-year period). Governments will look to understand the scale of the interventions proposed and any early thinking from REPs on potential projects. In particular, whether:
+    - spending profiles are realistic and credible
+- the outputs and outcomes are deliverable but ambitious when compared to the scale of funding
+- the level of match funding is appropriate
+ 
+Where completing interventions related to land remediation, REPs could provide details of the current land value, predicated value, estimate of future value and type of land.
+Research institution led interventions
+- How will research institutions support the Investment Zone’s interventions and wider objectives? (500 words)
+- At a minimum, the research institution providing co-sign off should set out clear plans of work it will deliver to support and complement the proposed Investment Zone interventions, and the measurable impact they expect these plans, taken together, to have on research institution-led activity in the Investment Zone. REPs could consider how:
+    - the support described links to the Investment Zone specifically or helps to address the challenges more widely described at Gateway 2
+- complementary interventions could maximise outputs and outcomes described in a place’s logic model
+ 
+This could include but is not limited to the examples below:
+- research collaborations with cluster businesses
+- conduct new or additional research that supports their Investment Zone’s sector and objectives
+- amending terms and conditions on university participation in spinouts (for example, through introducing common terms on IP and equity) to maximise flow of new spinouts
+- commitment to supporting the increase of lab space, as well as other productive spaces relevant to existing industries
+- support to attract global talent to the university and smooth their transition
+- partnering with SMEs, local government, and other research institutions to showcase investment potential and attract larger-scale investors
+- partnering with regulators and stakeholders (for example, Health and Social Care Partnerships) to create test beds for new technologies in the target sector
+- commitment to spend through regional SMEs related to the sector wherever possible
+- commitment to provide support for technology adoption and diffusion, and or business and management support for regional SMEs in the cluster
+- commitment to form and strengthen partnership with major regional businesses, to increase their adoption of innovative technology and practice
+Research institutions and REPs could also consider where they could go further in this support to the Investment Zone, and detail what extra support from Scottish Government and UK government, Agencies or arm’s length bodies could help realise these ambitions.
+- At a minimum, REPs should have clearly stated plans, with routes to implementation set out by the co-signatory research institutions and linked to the Investment Zone.
+Role of the private sector
+- How will you ensure businesses in your area, linked to the target cluster, support the Investment Zone objectives? (500 words)
+- REPs could think about how potential anchor businesses and representative SMEs potentially in receipt of support, via the tax offer or wider Investment Zone support offer, could provide additional funding or additional interventions to support the Investment Zone objectives. REPs can also consider conditionality with businesses, for example, where sector linked businesses could provide apprenticeship schemes or in-work progression schemes for their current workforce in return for Investment Zone interventions which focus on skills. Help to unlock land for development where necessary or provide expertise to cluster organisations. At this stage we expect REPs to set out a clear plan to ensure private sector buy in, shared commitment and conditionality where possible. This could include any commitments already made by private sector partners to support the Investment Zone objectives.
+- REPs should set out how they plan to leverage the role of the private sector. REPs must provide evidence of private sector engagement. This can be in the form of:
+    - letters of support
+- minutes from engagement meetings
+- emails with stakeholders
+ 
+Role of match funding
+- Please set out a plan to secure match funding in support of the Investment Zone proposal. (500 words)
+- As per the policy prospectus, REPs could endeavour to secure match funding in line with the interventions described earlier in this section. REPs could set out:
+    - how they intend to secure match funding against each intervention
+- the planned source(s) of match funding
+- what scale of match funding they expect to secure and to what timeline
+- why they are not proposing match funding if that is the case
+ 
+- Government will expect to see that the level of match funding is appropriate to the interventions described and meets the match funding guidance published alongside these criteria.
+Skills interventions
+- Only complete if you have chosen Skills Interventions. How will skills interventions address constraints or unrealised opportunities, and contribute to the desired eventual outcomes of the Investment Zone programme? (500 words)
+- If regions have pursued Skills interventions, they should clearly explain how they:
+    - relate specifically to the sector
+- take account of the regional labour market
+- target existing skills gaps
+- facilitate access to high real-wage jobs for those of low and middle skill levels
+- are needed beyond existing national and regional skills provision
+ 
+In Scotland, when considering potential skills provision, investment could look to support the work of the designated employer representative body responsible for the development and subsequent reviews of a Regional Skills Improvement Plan, if in place, for a specified geographical area.
+- Investment Zone plans should demonstrate how interventions are targeted to specific needs and understand the regional labour market.
+Planning interventions
+- Where planning requirements are necessary, REPs will have to ensure relevant links are made to Local Planning Authorities, alongside indicative Regional Spatial Strategies which were used to inform NPF4.
+- Please set out how planning interventions will address constraints or unrealised opportunities, and contribute to the desired eventual outcomes of the IZ programme? (500 words)
+- REPs should set out a credible and ambitious planning offer to accelerate the development necessary to support the cluster. Governments will be looking for partners to work together to streamline planning consent processes, in order to support swift delivery of development. REPs should include a single point of contact for investors to support proactive and constructive engagement on planning matters. Where REPs have pursued planning interventions, they could set out how these interventions:
+    - directly/indirectly link to the planning vision set out at Gateway 2
+- how the interventions have supported development to bring forward the Investment Zones ambitions
+- how this utilises or maximises existing strengths of the sector and the knowledge anchor
+- how planning interventions can help to realise opportunities such as access to work, spill over benefits and attractiveness to Investors
+- align with wider regional or national infrastructure projects
+ 
+- REPs should include planning interventions which are credible and support the acceleration or additional development to support the Investment Zone.
+Off-menu interventions
+- Where used - how will other bespoke interventions address constraints or unrealised opportunities, and contribute to the desired eventual outcomes of the Investment Zone programme? (500 words)
+- REPs should provide the following details associated with any bespoke interventions they wish to pursue:
+    - what the intervention will do
+- why it is important to address constraints or unrealised opportunities within the Investment Zone
+- why these opportunities cannot be addressed with other listed interventions
+- why the intervention delivers VFM, ensuring appropriate and additionality displacement managed
+- the outputs and outcomes they want to deliver
+- how the intervention will align with the theory of change
+ 
+REPs could include in the excel in the same format as on-menu interventions.
+- If REPs cannot provide the following details for bespoke interventions, they will not be taken forward. Governments will consider if they are appropriate to resolve the challenges described. REPs will need to show clearly articulated reasoning for the need for the intervention, and the reason that this cannot be met by other interventions in the standard policy menu. The effectiveness of this intervention will need to be clearly evidenced, drawing on previous examples and academic evidence where appropriate. The outputs and outcomes will need to be explicitly defined and will need to show that these align with their logic model.
+Tax site interventions question 1
+- You do not need to complete if you have not chosen to take forward tax incentives. Where used – how will tax sites address constraints or unrealised opportunities, and contribute to the desired eventual outcomes of the IZ programme? (500 words)
+- Please outline this, including why the tax reliefs are necessary, using the best available data and analysis for each proposed site. REPs could set out tax sites which are coherently linked to their overall Investment Zone proposal and that support new and additional private sector investment that is linked directly to their target cluster. REPs should provide details of the site and its access to necessary infrastructure, for example, transport (both for potential workforce and freight), utilities, digital and housing.  REPs could consider if these can be resolved in the funding timeline. REPs must provide any information they have on the additional value they anticipate being created by the tax site, in terms of:
+    - additional jobs
+- additional capital investment
+- amount of money spent on the construction of new commercial buildings or existing buildings (and ideally their size) that will be expanded within the Investment Zone
+ 
+- REPs should:
+    - clearly explain why the tax sites help to support the opportunities and address the challenges described at Gateway 2
+- demonstrate a clear and deliverable vision for the tax site, with a high degree of private sector interest
+- not create pressures on infrastructure route to resolution
+- provide information setting out the outputs and outcomes derived from tax sites, as per the excel format
+ 
+Tax site interventions question 2
+- You do not need to complete if you have not chosen to take forward tax incentives. How will the tax offer will help to ensure additional development comes forward on the proposed site(s), that would otherwise not have? (500 words)
+- When answering this question, REPs should consider how the tax offer will help to address the current market failure of each of their proposed site by supporting additional development or helping to accelerate potential development. REPs could outline how they are going to account for and mitigate any negative effects of the tax site proposal, including displacement and more general UK and international trade and investment effects. REPs can present this in a variety of ways, including:
+    - viability gap analysis for each site
+- description of persistent challenges/difficulties the site has experienced and how the tax offer will help to address those, with supporting quantitative evidence
+- commercial modelling or internal rates of return
+ 
+- REPs should set out how the Investment Zone proposal is addressing a current market failure around development on the specific tax site(s).
+Tax site interventions question 3
+- You do not need to complete if you have not chosen to take forward tax incentives. How will the proposed tax site be utilised within the next 10 years? (500 words)
+- REPs could provide a list of the businesses and companies who are interested in the site and intel. Answers to this question could address:
+    - a list of businesses, investments, and organisations REPs hope to attract to the tax site, the scale of potential investment and the confidence in attracting them
+- how REPs envisage each tax relief available as part the Investment Zones offer to be used in each tax site over time, noting the programme’s 10-year length
+- based on that, understanding of when the earliest investment eligible for tax relief may happen
+ 
+Use this section to describe what work/if any needs to be done to prepare the site, for example, connecting it to utilities, transport infrastructure or land remediation.
+- REPs should demonstrate a clear and deliverable vision for the tax site, with a high degree of private sector interest. REPs should describe the breakdown of the money saved that they expect the tax reliefs to amount to.
+Tax site interventions question 4
+- You do not need to complete if you have not chosen to take forward tax incentives. How does your tax site proposal meet the underdevelopment criteria? (You should include final full postcodes with this) (500 words)
+- REPs could describe in detail any existing building and activity on proposed tax sites, including existing employment and already planned investment. If the site proposal includes any empty land, REPs could provide an estimate of the proportion of the proposed site that is currently empty land.
+- Please provide full postcodes (where part of a postcode is proposed to be included, please highlight this and provide an estimate for the proportion of that postcode area within your tax site proposal).
+non-domestic rates Retention (NDRR) site(s)
+- You do not need to complete if you have not chosen to take forward NDRR incentives. Where used – how will NDRR measures that form part of the Investment Zone policy address constraints or unrealised opportunities to cluster growth, and contribute to the desired eventual outcomes of the Investment Zone programme? (500 words)
+- REPs could consider NDRR as they consider where to place any potential tax site(s), with Government officials available to offer ongoing support and guidance as decisions are scoped out and made. REPs should use the best available data and analysis for each proposed site to complete this section and could use this section to describe what work (if any) needs to be done to prepare the site, for example, connecting it to utilities, transport infrastructure or land remediation.
+- REPs will not proceed unless they clearly explain why the NDRR site(s) help(s) support the opportunities and address the challenges described at Gateway 2. REPs should demonstrate a clear and deliverable vision for the NDRR site. Sites will not be taken forward which create pressures on infrastructure without a clear route to resolution.
+non-domestic rates Retention (NDRR) site(s) interventions
+- You do not need to complete if you have not chosen to take forward NDRR incentives. How will you ensure development comes forward on your proposed NDRR site? (500 words)
+- When answering this question, REPs should set out how they will bring forward development on the proposed NDRR site(s).
+- This could include a description of persistent challenges/difficulties the site has experienced and how the NDRR, wider Investment Zone offer, or other policy interventions will help to address those.
+- REPs should set out how they will bring forward development on the NDRR site(s), setting out how they will use Investment Zone interventions or wider interventions to enable this.
+non-domestic rates Retention (NDRR) question 1
+- You do not need to complete if you have not chosen to take forward non-domestic rates retention incentives. How will the proposed NDRR site be utilised within the next 25 years? (500 words)
+- REPs should outline a financial forecast of when they expect non-domestic rates income to increase over the agreed baseline and how they expect this to increase thereafter. REPs could outline if, and how, they intend to borrow against these revenues. REPs should provide a list of businesses, investments, and organisations they hope to attract to the NDRR site, the scale of potential investment and their confidence in attracting them. REPs should provide any information they have on the additional value they anticipate being created by reinvest of the NDRR funds, in terms of:
+    - additional jobs
+- additional capital investment
+- amount of money spent on the construction of new commercial buildings or existing buildings (and ideally their size) that will be expanded within the Investment Zone
+ 
+- REPs should provide a percentage figure for the expected displacement effect based on economic evaluation of the anticipated development mix caused by the Investment Zone investment. The Scottish Government will consider this and the final agreed figure will then apply across all property types.
+- REPs should describe the breakdown of the NDR income that is expected to be retained over the next 25 years. They will only progress if the Scottish and UK Government consider this to be a realistic and deliverable amount.
+non-domestic rates Retention (NDRR) question 2
+- You do not need to complete if you have not chosen to take forward NDRR incentives. Please describe the reinvestment strategy for non-domestic rates retained and how it will support the Investment Zone. (500 words)
+- You could set out clearly:
+    - how the reinvestment strategy for rates retention described at this gateway aligns with the opportunities and challenges describe at Gateway 2
+- how the proposed approach will allow the Investment Zone accountable body to be accountable for the use of public funds
+- how decisions over the reinvestment of retained rates will be taken
+ 
+- Governments will not take forward non-domestic rates retention unless REPs clearly set out how retained NDR income will be reinvested to support the Investment Zone’s objectives. Governments will jointly consider if the NDRR reinvestment strategy described is credible and ambitious, this includes considering if the answer provided helps to meaningfully address the challenges set out at Gateway 2 and relate to the governance described at Gateway 3.
+non-domestic rates Retention (NDRR) question 3
+- You do not need to complete if you have not chosen to take forward NDRR incentives. Do your proposed NDRR sites overlap with other increased NDRR arrangements like Freeports or Tax Incremental Financing? - Yes/No
+- This is a Yes/No question.
+- Sites which propose an overlap will not be taken forward by governments.
+non-domestic rates RETENTION (ndrr) Question 4
+- You do not need to complete if you have not chosen to take forward NDRR incentives. How does your site proposal meet the underdevelopment criteria? You should include final full postcodes with this. (500 words)
+- REPs could describe in detail any existing building and activity on proposed sites, including existing employment and already planned investment. REPs could provide full postcodes (where part of a postcode is proposed to be included, this could be highlighted, and an estimate provided for the proportion of that postcode area within your site proposal).
+- Sites which do not meet the underdeveloped criteria will not be taken forward. Sites which do not provide full postcodes will not be taken forward.
+PSED considerations
+- REPs could set out the consideration of their Public Sector Equality Duty (PSED) and equality impact assessment in the design of their Investment Zone proposal.
+- REPs will be expected to set out the consideration of their public sector equality duty in the design of their proposals interventions and in the implementation their investment plan, including in the selection of projects.
+- Proposals which do not set out their approach to compliance with PSED cannot be funded by either government.
+NZ45 climate and environmental considerations
+- How will the location of your planned interventions interact with the surrounding environment? (250 words)
+- REPs could use this question to set out how the location of their planned interventions interacts with the surrounding environment, for example, any flood risks, potential detriment to wildlife rich habitats, water quality, biodiversity? REPs could use this question to explain how they have accounted for this in their choice of locations, such as referencing:
+    - flood risks
+- potential detriment to wildlife rich habitats
+- water quality, biodiversity
+ 
+- Government will consider the proposed Investment Zone’s interaction with existing activities and REPs could provide evidence of how the Investment Zone helps to improve them, or if not, manage and mitigate negative impacts.
+NZ45 climate and environmental considerations
+- Demonstrate how they will support Scotland’s legal commitments to cut greenhouse gas emissions to net zero by 2045, and those set by regional partners in Scotland, and achievement of the new legally binding environmental targets and be resilient to the effects of climate change. (500 words)
+- A qualitative description of how the proposals will support legally binding targets on biodiversity, water quality, air quality and waste. This could include reference to:
+    - overall carbon reduction of the site and / or wider impact area
+- Green Jobs created
+- buildings decarbonised if regenerating existing site (or low carbon build standard if new build)
+- amount of renewable energy produced
+ 
+- REPs should demonstrate how they will support Scotland’s legal commitments to cut greenhouse gas emissions to net zero by 2045, and their own commitments, legally binding environmental targets and how they have considered the need for climate resilience.
+Gateway 5: Delivery
+Criteria at this stage will ensure REPs demonstrate they are able to deliver the Investment Zone and effectively manage the risk present in delivery. Consequently, we will also ask for a further update on delivery progress and planning from REPs before the end of the financial year 2023/24 providing more exact details, ahead of releasing funding for 2025/26.
+Delivery question 1
+- What is the delivery structure and its associated timelines? (500 words and space for one file)
+- Accurately explains the delivery structure and associated timelines. We would expect these timelines to be high level and subject to further refinement and detail ahead of release of funding in 24/25.This should include one of the following products:
+    - Gannt chart
+- timeline
+- alternative graphical representation of the timeline for delivery
+ 
+If REPs have chosen to take forward the tax offer, they should also outline how specifically they are planning on delivering their tax site proposal?
+The Scottish Government and UK government will consider the proposed delivery structure to check if convincing and realistic. We will base this judgement on previous track record of delivery and wider intelligence on the delivery of the REP and its members.
+Delivery question 2
+- What risks are there to effective delivery of the interventions you have proposed? (500 words)
+- REPs could set out how what risks they have initially identified as they have considered the sector they have chosen to focus on and the geography they have decided to implement interventions across.
+- This should include a description of any initial risks you have identified, which for example could include:
+    - risks to realising anticipated benefits linked to tax sites or NDRR sites
+- risks from commissioning and delivering chosen funding interventions
+- wider risks linked to both regional and national interdependencies
+ 
+- We will consider this section on the basis that the risks set out by a REP seem to be rational and well considered. Governments will jointly assess if REPs have identified risks appropriately at this stage and considered them in the detail required to propose effective. We will consider wider national strategies and intel to consider if the risks are properly considering wider interdependencies, for example, national policy and strategies.
+Delivery question 3
+- How will you manage these risks and mitigate them, what contingency plans do you propose? (500 words)
+- REPs could present their strategy for risk management, at a minimum:
+    - setting out the approach for mitigating these risks and managing the emergence of other risks.
+ 
+- Governments will jointly consider risks and if the mitigations set out are achievable and detailed, this will include considering if the proposed mitigations of risks were sufficient based on factors including:
+    - the effect of wider national policy
+- how the risks relate to challenges and opportunities described at Gateways 2 and 4
+- whether the risk management approach described can be delivered by the governance structures set out at Gateway 3
+- the overall approach to accountability and assurance for risk purposes
+ 
+Delivery question 4
+- Confirm that they will collate data to provide Scottish Government and UK government with the information required to carry out national evaluation. (Yes/No)
+- Yes/No
+- Governments will provide conditions and standards for REPs to collect and report data to support national evaluation of Investment Zones. Technical Guidance will set out the M&E requirements of the programme.
+Annex B: Supplementary Guidance – Non-Domestic Rates Retention (NDRR) offer in Investment Zones in Scotland
+The non-domestic rates retention (NDRR) offer in Investment Zones
+As part of the overall programme of interventions, Governments are offering accountable bodies the ability to identify up to three sites within the zone within which the relevant local authority will be able to retain up to 100% of any future growth in non-domestic rates above an agreed baseline, taking into account a displacement effect, for 25 years, from the point at which the site is designated.
+In drawing up proposals for Investment Zones, the accountable body will need to demonstrate how NDRR will:
+- provide for regional economic growth within the region
+- support existing regional strategies with a focus on growth
+- support the priority sector within the Investment Zone
+- represent value for money for the Government
+Proposed sites must be underdeveloped (see below) and span no more than 600ha split over up to three sites. Proposals must be put forward in collaboration with the local authority, or local authorities, given their responsibility for collecting NDR, and retention of any NDR income, in their area. The local authority and accountable body, as part of the REP, will need to work together to develop a strong reinvestment strategy for the revenue stream.
+The accountable body should also consider how they can use an uplift in non-domestic rates to cover borrowing costs for infrastructure (where relevant); re-invest in the Investment Zone tax site(s) to generate further growth; or offset expected effects of displacement of local economic activity from disadvantaged areas.
+It is intended that the local authority or local authorities in which the Investment Zone tax site(s) are located will retain the non-domestic rates growth for that area above an agreed baseline and taking into account a displacement effect. This will be guaranteed for 25 years, giving local authorities the certainty they need to borrow to invest in regeneration and infrastructure that will support further growth. Retained receipts should be used to cover borrowing costs (where relevant); or re-invest in the Investment Zone to generate further growth.
+Applicants should detail the costs of delivering their proposal, as far as possible this should be broken down by financial year. Key delivery milestones should also be reflected in applicant responses as part of their implementation plan. Proposals should also detail community support, and any critical interdependencies.
+To ensure resources in the local economy are used appropriately, Investment Zone proposals should build on and add to existing partnerships and plans, and complement pre-existing strategies such as Regional Economic Strategies, Local Development Plans, Skills Development Scotland strategic plans, spatial strategies and national, regional and local transport plans. Governments will jointly assess applications for the use of the NDRR offer on these criteria. The Scottish Government and UK Government reserve the right to reject sites based on cost, value for money and deliverability.
+Criteria that NDRR site proposals need to meet
+Size and shape of NDRR sites – any NDRR sites in investment zones
+- Sites should be clearly delineated on a map with a single continuous boundary.
+- Sites can have uneven boundaries, if that helps capture promising areas while cutting out areas that are more developed, so long as those sites are distinct.
+- Can encompass up to three individual sites, ideally of no more than 200 hectares each. We will consider submissions that make an economic case for an individual site that falls outside the 200 hectares guideline, but the total area of the individual sites within the Investment Zone must not exceed 600 hectares. Those that do put forward proposals that exceed 600 hectares will be automatically dismissed.
+- Sites do not have to be a single piece of land – for example, a single site could be two pieces of land split by a road. If there is no portion of land connecting the sites – for example, if they are split by a river, or residential property – we would consider these two separate sites unless very clear geographic and economic interconnection can be demonstrated (e.g. travel between them is plausible).
+- The accountable body will need to clearly state how many local authority areas are included within each proposed site. They will also need to demonstrate that all local authorities have consented to administrative arrangements and agreed to put in place appropriate MOUs to ensure all additional retained non-domestic rates are reinvested in the Investment Zone objectives.
+- Sites do not need to be fenced – but it should have clearly identifiable boundaries (for operational purposes) and be clearly delineated on a map provided as part of the application. Please see the map guidance (Annex A).
+NDRR sites should be “underdeveloped” so that the NDRR measures support areas with economic potential, rather than already economically successful sites
+Under this broad, economic definition, empty land, brownfield land, under-utilised land with some construction and vacant premises are some examples of what might be considered “underdeveloped” so long as a good case is made. When justifying how their sites are “underdeveloped”, applicants should consider the following main criteria underpinning our definition:
+- under-utilised: NDRR sites should have sufficient viable but unoccupied physical space that is yet to be developed, is currently being developed or being used, to allow new or expanding businesses to construct, renovate, purchase or lease new premises in the NDRR site
+- potential investment growth: the REP should explain how Investment Zone status and the NDRR site location will lead to additional investment by new and/or existing businesses in the NDRR site(s) above current levels. The NDRR site should relate to the priority sector either through the type of development coming forward, the location of the site, or the reinvestment strategy for retained rates. Where relevant this should include how the objectives of a place’s wider Investment Zone proposal such as agglomeration and additionality benefits, proposed new or accelerated development that avoids displacement, or infrastructure to support the diffusion of wider benefits from the cluster - are supported via additional retained rates
+- interaction with tax sites: where both interventions are proposed, tax site(s) and NDRR site(s) should be coterminous. If a REP is not proposing tax site(s), then Governments will jointly consider NDRR site(s) with a mixture of developed and undeveloped land, subject to a clear rationale, supporting development in the site and/or wider Investment Zone, directly driving the Investment Zone’s objectives. This is intended to reflect the urban reality of derelict brownfield sites which could be developed sitting next to existing businesses or research institutions in regions
+- only new non-domestic rates growth over an agreed baseline will be retained in full, subject to a displacement factor to be agreed with REPs. Non-domestic rates will continue to be collected by relevant local authorities. The baseline will represent the properties on the valuation roll in the retention site as at the day prior to designation, with rateable values as at the same day. Scottish Government will issue a form to be filled in by the council in order to calculate the baselines for each retention site. Scottish Government will retain the right to query the inclusion of any property or growth to ensure only non-domestic rates associated ‘but for’ growth is retained.
+Scale and costs
+- Ahead of the interventions gateway, governments will expect to see a financial forecast estimating the growth in non-domestic rates income relative to the agreed baseline over the lifetime of the site. Governments will also expect to see upon request a list of non-domestic properties within the retention site, detailing UARNs, rateable values and reliefs awarded in order to establish the baseline for retention. The Scottish Government and UK government accept that there is a level of uncertainty in any forecast and would welcome an estimate of this.
+- Governments reserve the right to reject non-domestic rates retention sites that we believe are (i) operationally unviable, (ii) do not offer value for money, and (iii) do not align or contribute to the economic potential, sectoral focus and objectives of the IZ site.
+- As part of the non-domestic rates retention site assessment process outlined (see below) and through the provided template, Investment Zones should provide information to facilitate government’s appraisal.
+Alignment with wider investment zone programme objectives
+- The Scottish Government and UK Government require assurance that proposed governance structures, agreements with stakeholders, risk assessments and delivery plans are robust and/or achievable before NDRR sites are formally designated.
+- This implementation process will be separate to the NDRR site assessment process and more detail will be communicated soon.
+NDRR site assessment and designation
+The Governments will jointly assess Investment Zone NDRR site proposals against the criteria set out in this document to ensure that sites are compatible with those. As part of this assessment process, REPs will need to submit detailed information about their proposals, explaining how they satisfy the assessment criteria.
+NDRR proposals will be reviewed against the criteria, governments reserves the right to reject or rework NDRR sites based on cost and deliverability following review. REP will be invited to present their NDRR site proposals teams to ensure that those are understood. Partially completed proposals will also be dismissed.
+The governments reserves the right to reject, or ask for modifications to, NDRR sites that do not meet these requirements.
+Governments reserves the right to look across all proposals for non-domestic rates retention sites and reject sites based on cost and deliverability.
+Map requirements for NDRR sites
+Maps and other geospatial information on the NDRR sites should be provided to assist with the analysis and evaluation of Investment Zones.
+Maps provided in PDF format
+The following maps should be provided in PDF format:
+- a map of the REP boundaries to a scale of at least 1:50,000;
+- a map of the whole local authority or local authorities to a scale of at least 1:50,000 which shows the tax sites within;
+- a map of the proposed NDRR sites to a scale of at least 1:1,250.
+Maps provided in PDF should be titled, dated, and free of any markers or data except for the title, date, boundary demarcation, and any applicable keys or legends. Maps should be based on the Ordnance Survey MasterMap. Boundaries should be recorded as vectors. The underlying map may be a flat image (raster). More information on raster and vector graphics is available. The published UK Freeports maps demonstrate these requirements. More information and examples are also available in HM Registry plans guidance.
+Boundaries and cross hatching
+On the tax site map, boundaries of local authority areas should be demarcated using a solid blue line. The proposed tax sites should be clearly demarcated using a solid red line. Each tax site boundary must be filled with red cross hatching to clearly demarcate your proposed tax site areas. Examples of cross-hatching can be found in the published Freeport tax site maps. No other boundaries or markers should be included in this map.
+On each NDRR site map, the NDRR site should be enclosed by a solid red boundary line. Each boundary must be filled with red cross-hatching to clearly demarcate your proposed NDRR site areas. The boundary line will need to clearly delineate the boundaries of the NDRR site to provide certainty. For the avoidance of doubt, the NDRR site area should be the area up to the inside edge of the boundary line, and the boundary line itself will not constitute part of the area of the NDRR site. If present, boundaries of local authority areas should be demarcated using a solid blue line.
+No other boundaries or markers should be included in this map (for example, alternative sites).
+Boundaries provided in GIS format
+Boundaries of NDRR sites should additionally be provided in a GIS format (preferably GeoJSON or ESRI shapefile). The boundaries of each NDRR site should be provided in a separate file. The GIS files should use the British national Grid (OSGB36 / EPSG:27700) coordinate system.
+These boundaries will be relied upon when determining how much additional non-domestic rates above the agreed baseline should be retained for the period of 25 years. Therefore, it is essential that the boundary lines are accurately drawn so as not to exclude parts of land, buildings, and structures that you intend to form part of the NDRR site.
+Annex C: Supplementary Guidance - Tax offer in Investment Zones in Scotland
+Tax offer in Investment Zones
+As part of the overall Investment Zone policy offer, government offers the following tax reliefs in designated tax sites within each Investment Zone:
+- Land & Building Transaction Tax (LBTT): a full LBTT relief for land and buildings bought for commercial use or development for commercial purposes
+- Non-Domestic Rates: 100% relief from non-domestic rates for up to 5 years on newly occupied business premises, and certain existing businesses where they expand in Investment Zone tax sites
+- Enhanced Capital Allowance: 100% first year allowance for companies’ qualifying expenditure on plant and machinery assets for use in tax sites
+- Enhanced Structures and Buildings Allowance: accelerated relief to allow businesses to reduce their taxable profits by 10% of the cost of qualifying non-residential investment per year, relieving 100% of their cost of structures and buildings over 10 years
+- Employer National Insurance Contributions relief: zero-rate Employer NICs on salaries of any new employee working in the tax site for at least 60% of their time, on earnings up to £25,000 per year, with Employer NICs being charged at the usual rate above this level. This relief can be applied for up to 36 months per employee
+Criteria that tax site proposals need to meet
+Size and shape of tax sites
+Any tax sites in Investment Zones:
+- should be clearly delineated on a map – they should not be engineered to create a single site with the use of long and narrow lines (if there is an economic case for it there can be multiple sites, please see refer to tax site guidance)
+- should encompass up to three individual sites, ideally of no more than 200 hectares each. We will consider submissions that make an economic case for an individual site that falls outside the 200 hectares guideline, but the total area of the individual sites within the Investment Zone must not exceed 600 hectares. Those that do put forward proposals that exceed 600 hectares will be automatically dismissed
+- can have uneven boundaries, if that helps capture promising areas while cutting out areas that are more developed, so long as those sites are justifiably single and individual
+- do not have to be a single piece of land – for example, a single site could be two pieces of land split by a road. We are open to one single site containing multiple parcels of land split by a road, protected area or geographic feature (such as a river) so long as the parcels within the land can reasonably be considered one single site because geographic and economic interconnection between the sites can be demonstrated (for example, travel between them is possible)
+- do not all have to be owned by one owner – it can include multiple, separately owned parcels of land that all fall under the single delineated site. Applicants must provide evidence that landowners have signed up to the vision for the proposed tax site and will take appropriate steps to ensure development on the site aligns with the Investment Zones objectives and those of the wider Investment Zones policy
+- do not need to be fenced – but it should have clearly identifiable boundaries (for enforcement purposes) and be clearly delineated on a map provided as part of the application. Please see the map guidance in Annex A.
+Tax sites should be underdeveloped
+Tax measures support areas with economic potential, including through the creation of new jobs, rather than already economically successful sites. The tax measures support areas with economic potential including through the creation of new jobs, rather than already economically successful sites. When justifying how their sites are “underdeveloped”, applicants should have regard to the following factors:
+a) job creation: applicants should evidence that their proposed tax site does not contain significant incumbent employment in relation to the regional region. Applicants should then explain how tax site status and the associated tax reliefs will lead to additional employment in the Investment Zone tax site(s) by new and/or existing businesses above current level
+b) underutilisation: tax sites should have sufficient viable but unoccupied physical space that is yet to be developed or used to allow new or expanding businesses to construct, renovate, purchase, or lease new premises in the Investment Zone
+c) potential investment growth: applicants should explain how tax site status and the associated tax reliefs will lead to additional investment by new and/or existing businesses in the tax site(s) significantly above current levels
+d) examples of sites that may be considered “underdeveloped” are sites containing empty land, brownfield land, or underutilised land with some construction and vacant premises. Site proposals which present other cases for underdevelopment will be considered where underpinned by a strong evidence base
+e) sites will be considered on a case-by-case basis, and we reserve the right to reject or request amendments to sites that do not meet these criteria
+Scale and costs
+The policy offers flexibility in how many tax sites each area can make use of. Investment Zone areas can opt to use both the single 10-year tax offer and spend or only spending. Tax reliefs are offered over a maximum size of 600 hectares for one site or can be divided across a maximum of three 200-hectare sites. If a region chooses not to take up tax reliefs, they will have a larger spending envelope available to them. There is no flexibility on the tax reliefs available. Only the size/number of tax sites is scalable.
+Based on UK government estimates of Investment Zones in England, the estimated cost of 600 hectares of tax reliefs for 5 years could be £90 million, scaled down to £30 million for 200 hectares, to be deducted from the overall £160 million envelope available to an Investment Zone. As part of the tax site assessment process outlined in section 3 and through the provided criteria Investment Zones need to provide information about the value of their tax site proposals. We reserve the right to reject tax sites that we believe cost significantly more than the above estimate.
+Alignment with wider Investment Zones programme objectives and subsidy control
+Tax site proposals will also be assessed separately against how well they deliver against the Investment Zone objectives and sectoral focus. Proposals will need to justify why intervention is necessary and how any negative effects are accounted for and mitigated. Government will also require assurance that proposed governance structures, agreements with stakeholders, risk assessments and delivery plans are robust and/or achievable before tax sites are formally designated in legislation.
+These areas will largely be assessed as part of DLUHC’s overall gateway assessment process, and we reserve the right to request additional information and assurances before tax sites are approved and designated.
+The Investment Zones tax offer will be subject to the UK’s domestic and international subsidy control obligations. If needed, the government may, at an appropriate point, introduce further guidance for businesses claiming Investment Zones tax reliefs, to reflect those ongoing obligations and any changes to them. Businesses located in designated tax sites will need to fulfil any requirements in region to ensure compliance with those obligations in advance of, during, and after claiming relief.
+Tax site assessment and designation
+The government will assess Investment Zone tax site proposals against the criteria set out in this document and the gateway process guidance as set out in 2.4 above. Regions will need to submit detailed information about their proposals, explaining how they satisfy all assessment criteria. The government reserves the right to reject or ask for modifications to tax sites that do not meet these criteria.
+The tax site assessment process will be run in parallel with the gateway process. No formal approval of tax sites will be received until the overall Investment Zone proposal passes all gateways and is formally approved.
+We anticipate that from submission, the tax site assessment process will usually take around 12 weeks, although we reserve the right to take longer if there are issues that need to be resolved. Regions may be invited to present their tax site proposals to the HMT / HMRC assessment teams to ensure that they are understood.
+Tax sites which are approved by HMT / HMRC will be designated in secondary legislation only when the Investment Zone proposal passes all gateways and receives final approval. Following their designation in legislation, sites will be formally activated at the point where legislation comes in force. All tax reliefs will be available from this point onwards.
+The statutory instrument (legislation) designating a special tax site will do so with reference to the Investment Zone outer boundary maps and the maps of each special tax site. The mapping products are therefore required for both legislative and compliance purposes. Tax sites cannot be designated until suitable maps are provided and subsequently cleared by HMRC and relevant UK government ministers.
+Map requirements
+Standards for maps of tax sites
+All maps should be provided digitally and in single image files – each map should be contained within a single file, ideally in a GIS format. For example, if your Investment Zone has three proposed tax sites then the following four map image files would need to be submitted:
+- the local authority boundaries
+- each proposed tax site
+All maps should be Ordnance Survey maps.
+Specifications
+- any indicators on the map should be created as vectors (not a flat image) including:
+    - the border
+- the cross-hatching
+- any titles
+- any keys (for example, map scale, example of border)
+ 
+- the underlying map itself can be a flat image (raster) with the vectors over the top (although if everything is vector it will make the file size smaller). More information on raster and vector graphics is available
+- the file should be submitted in PDF format
+- the file size should be no larger than 50 MB for Investment Zone outer boundary maps
+The file should be a GIS format (preferably GeoJSON or ESRI shapefile)
+Maps of Investment Zones
+A titled dated map of the whole local authority or local authorities to a scale of at least 1:50,000 which shows the tax sites within. This should be free of any markers or data other than the title, date, and boundary demarcation (see ‘Boundaries and cross-hatching’ section below). You can find more information and examples of ordnance mapping in HM Land Registry plans guidance. You can review examples of published maps of UK Freeports which demonstrate these requirements.
+Maps of tax sites
+A titled (including tax site area name) and dated map for each tax site to a scale of 1:1,250. This should be free of any markers or data other than the title, date and boundary demarcation (see ‘Boundaries and cross-hatching’ section below). You can find examples of published maps of Freeport tax sites drawn to 1:1,250 which demonstrate these requirements.
+HMRC has chosen this scale because it conforms to the most accurate scale used by Land Registry for urban mapping. As stated in the Delivery Model Guidance, HMRC will need to clearly determine whether parts of land, structures and buildings lie inside or outside a special tax site.
+Boundaries and cross hatching
+On the map of the Investment Zone, local authority boundaries should be clearly demarcated using a solid blue line. The proposed tax sites should be clearly demarcated using a solid red line. Each Tax Site boundary must be filled with red cross hatching to clearly demarcate your proposed tax site areas. Examples of cross-hatching can be found in the published Freeport tax site maps. No other boundaries or markers should be included in this map.
+On each tax site map, the tax site should be enclosed by a solid red boundary line. Each boundary must be filled with red cross-hatching to clearly demarcate your proposed tax site areas. The boundary line will need to clearly delineate the boundaries of the tax site to provide certainty. For the avoidance of doubt, the tax site area should be the area up to the inside edge of the boundary line, and the boundary line itself will not constitute part of the area of the tax site. No other boundaries or markers should be included in this map (for example, alternative sites).
+These maps will be given legal effect and will be relied upon when determining whether the tax reliefs apply. Therefore, it is essential that the boundary lines are accurately drawn so as not to exclude parts of land, buildings, and structures that you intend to form part of the tax site. For example, if part of an existing building is not entirely included within the red boundary line, qualifying expenditure on that building will require apportioning for the purposes of claiming the enhanced structures and buildings allowance – this may be an unexpected result if the intention was to include the entirety of the building. Similar issues will arise in respect of the other tax reliefs where the intended boundaries are not clearly defined.
+Metadata requirements
+Metadata is required for each PDF product as it aids map accessibility, particularly for users who may have difficulty interpreting an image and may use metadata to understand what they are looking at.
+The following metadata is required and should be included in the document properties:
+- Title
+- Subject (this can be the same as the title)
+- Keywords (this can be a few relevant words or phrases)
+- Application (this should show the application the PDF was made on)
+Guidance and documents on Freeports tax reliefs for reference
+Stakeholders may find the following documents and guidance published in relation to the Freeports tax reliefs helpful. While these may not directly apply to Investment Zones, they will still be relevant. This is not tax advice and guidance may change / will be updated.
+Designation of Tax Sites
+Stamp Duty Land Tax Relief
+- section 61A of the Finance Act 2021
+- Check if you can claim relief from Stamp Duty Land Tax in a Freeport tax site in England
+Enhanced Capital Allowances
+- part 2A of the Capital Allowances Act 2001
+- Check if you can claim the enhanced capital allowance relief in UK Freeport tax sites
+Structures & Buildings Allowances
+- part 2 of the Capital Allowances Act 2001
+- Check if you can claim enhanced structures and buildings allowance relief in UK Freeport tax sites
+National Insurance Contributions
+- National Insurance Contributions Act 2022
+- Social Security Contributions (Freeports) Regulations 2022
+- Check if you can claim National Insurance relief in UK Freeport tax sites
+Non-domestic Rates
+Annex D: Outcomes framework
+Skills
+Skills objectives
+Scotland’s National Strategy for Transformation (NSET) sets out the priorities for Scotland’s economy as well as the actions needed to maximise the opportunities of the next decade to achieve our vision of a wellbeing economy.
+Development of a Skilled Workforce sits as part of the outcome expressed in Scotland’s National Performance Framework as “we are educated, skilled and able to contribute”.
+The NSET Skilled Workforce Programme builds on work already underway to reform the education and skills system with the objective to ensure that people have the skills they need at every stage of life to have rewarding careers and meet the demands of an ever-changing economy and society and that employers invest in the skilled employees they need to grow their businesses.
+Specialist sectoral-focused skills programme where the regional labour market need, as identified by the Investment Zone, is not being met by existing programmes, or funding for regional join-up of the apprenticeships system across providers and businesses.
+Investment Zone plans must demonstrate how interventions are targeted to specific needs and understand the regional labour market. In Scotland, when considering potential skills provision Investment should support the work of the regional skills development plan.
+This can be achieved through collaboration between:
+- the designated ERB for the specified area in which the IZ cluster is located, including feeding sector skill needs into the Regional Skills Improvement Plan process
+- businesses and existing FE and HE providers
+- the relevant combined authority or GLA, regional authorities and Regional Enterprise Partnership with their responsibilities for growth and skills. Proposals will need to align with devolution deals Regions should ensure that Regional Skills Improvement Plans reflect both the current and future skills requirements of the cluster supported by an Investment Zone
+Skills IZ interventions (A-E)
+- 
+A – Investment Zone funding used to complement Regional Skills Plans funded work and complement uses of other funding streams to deliver priorities
+    - Example projects
+        - capital investment for skills facilities identified in the RSPs
+- resource investment to design and commission skills programmes identified in the RSPs
+ 
+- Suggested Outputs
+        - spend RSPs funding shown to directly relate to RSPs priorities through monitoring of financial returns.
+- number of training courses available (and frequency & relevant sector)
+- number of trainees
+ 
+- Suggested Intermediate Outcomes - Human capital outcomes
+        - increase in individuals in skilled employment / with SCQF level? qualification
+- increase in learners enrolled in identified as a priority in RSPs
+- increase in number of employees with required employer skills
+- decrease in reported employer skills shortages
+- number of skills interventions graduates achieving a positive outcome after 6 months
+ 
+ 
+- Example projects
+        
+- 
+B - Funding to support regional skills through training co-designed with employers (Human capital)
+    - Example projects
+        - regional employer sponsored skills programmes
+ 
+- Suggested Outputs
+        - number of training courses available (and frequency & relevant sector)
+- number of employers sponsoring a
+- number of learners completing a
+ 
+- Suggested Intermediate Outcomes - Human capital outcomes
+        - increase in individuals in skilled employment / with SCQF level qualification
+- increase in learners enrolled in identified as a priority in LSIP
+- increase in number of employees with required employer skills
+- decrease in reported employer skills shortages
+- number of skills interventions graduates achieving a positive outcome after 6 months
+ 
+ 
+- Example projects
+        
+- 
+C - Funding to support entrepreneurial skills and networks (Human capital)
+    - Example projects
+        - regional level entrepreneurial skills training programme
+ 
+- Suggested Outputs
+        - number of entrepreneurial skills networks established (and relevant sector)
+- number of entrepreneurs supported
+ 
+- Suggested Intermediate Outcomes - Human capital outcomes
+        - increase in individuals in skilled employment / with level 3+ qualification
+- increase in learners enrolled in Sectoral Skills Assessments (SSAs) identified as a priority in LSIP
+- increase in number of employees with required employer skills
+- decrease in reported employer skills shortages
+- number of skills interventions graduates achieving a positive outcome after 6 months
+ 
+ 
+- Example projects
+        
+- 
+D - Retraining support, to support those into high knowledge sectors (Human capital)
+    - Example projects
+        - retraining programme for existing workers into IZ specific role
+ 
+- Suggested Outputs
+        - number of retraining courses available (and frequency & relevant sector)
+- number of retrainees
+ 
+- Suggested Intermediate Outcomes - Human capital outcomes
+        - increase in individuals in skilled employment / with level 3+ qualification
+- increase in learners enrolled in Sectoral Skills Assessments (SSAs) identified as a priority in LSIP
+- increase in number of employees with required employer skills
+- decrease in reported employer skills shortages
+- number of skills interventions graduates achieving a positive outcome after 6 months
+ 
+ 
+- Example projects
+        
+- 
+E - Investment Zones will be able to propose localised apprenticeship incentives for employers linked to the sectoral focus of the Investment Zone, to stimulate demand for apprenticeships targeted to the specific skills and labour market needs of their Investment Zones. (Human capital)
+    - Example projects
+        - regional apprenticeship incentive scheme
+ 
+- Suggested Outputs
+        - number of employers claiming an incentive payment for a new apprentice
+- number of individuals starting an apprenticeship (and relevant sector)
+ 
+- Suggested Intermediate Outcomes - Human capital outcomes
+        - increase in individuals in skilled employment / with level 3+ qualification
+- increase in learners enrolled in Sectoral Skills Assessments (SSAs) identified as a priority in LSIP
+- increase in number of employees with required employer skills
+- decrease in reported employer skills shortages
+- number of skills interventions graduates achieving a positive outcome after 6 months
+ 
+ 
+- Example projects
+        
+Regional infrastructure
+Regional infrastructure objectives
+Specific regional infrastructure improvement projects (for example, regional transport schemes, digital infrastructure schemes) linked to specific business investment opportunities or to unlock specific sites, for example, schemes to improve connectivity to support the regional labour market’s ability to benefit from and access the sector or land remediation for labs.
+Further recommendations:
+- previous examples include DfT’s Regional Pinch Point Fund and National Productivity Investment Fund to reduce traffic congestion and encourage growth, including some of the then Enterprise Zones
+- BSIP Guidance sets out what type of revenue interventions can be delivered for bus interventions
+- working in conjunction ATE on scheme design to deliver schemes that meet cycle infrastructure design guidance (LTN 1/20)
+Regional infrastructure IZ interventions (A-H)
+- 
+A - Funding for new, or improvements to roads access linked to the emerging sectors including those that increase communities’ abilities to benefit from and support cluster growth (Physical capital)
+    - Example projects
+        - Regional Transport Partnerships provide additional capacity within their roads boundary, or purchased land, to widen roads to segregate different modes, improve junctions or add access spur roads to potential development sites for industry.
+ 
+- Suggested Outputs
+        - number of roads access interventions added / improved
+- number of junctions added / improved
+- number of modes segregated
+ 
+- Suggested Intermediate Outcome - Physical capital outcomes
+        - increase in connectivity of employment and education sites to areas of housing (access to employment)
+- improved regional road capacity
+- increase in active travel and public transport mode share for relevant airports, seaports and rail stations
+- safer road junctions
+- increased investment in plants and machinery
+- increased floorspace unlocked because of intervention (by land use - commercial, lab space, factory, mixed use)
+ 
+ 
+- Example projects
+        
+- 
+B - Additional revenue funding added to the Bus Service Improvement Programme Plus (BSIP+) funding model from June 2024 - that would award funding to LTAs based on a connectivity scoring so they could undertake activities that would boost economic growth. (Physical capital)
+    - Example projects
+        - regional authorities could – through their Enhanced Partnerships – work with bus operators to introduce new bus routes and/or improve the service frequency on existing routes with access to large employment facilities (for example, Amazon)
+ 
+- Suggested Outputs
+        - new or additional bus services to employment sites
+ 
+- Suggested Intermediate Outcomes - Physical capital outcomes
+        - increase in connectivity of employment and education sites to areas of housing (access to employment)
+- improved regional road capacity
+- increase in active travel and public transport mode share for relevant airports, seaports and rail stations
+- safer road junctions
+- increased investment in plants and machinery
+- increased floorspace unlocked because of intervention (by land use - commercial, lab space, factory, mixed use)
+ 
+ 
+- Example projects
+        
+- 
+C - Enhanced capital funding for bus infrastructure to speed up journeys, for example, traffic signalling improvements or bus lanes. This provides better, more reliable public transport access for passengers to employment sites. (Physical capital)
+    - Example projects
+        - bus lanes and traffic signal upgrades along an important bus corridor
+ 
+- Suggested Outputs
+        - length of bus lanes (km)
+- number of signalling upgrade
+ 
+- Suggested Intermediate Outcomes - Physical capital outcomes
+        - increase in connectivity of employment and education sites to areas of housing (access to employment)
+- improved regional road capacity
+- increase in active travel and public transport mode share for relevant airports, seaports and rail stations
+- safer road junctions
+- increased investment in plants and machinery
+- increased floorspace unlocked because of intervention (by land use - commercial, lab space, factory, mixed use)
+ 
+ 
+- Example projects
+        
+- 
+D - Improving transport connections between modes (Physical capital)
+    - Example projects
+        - connection between transport modes/mobility hub – incorporating multiple transport modes in one location, for example, bus services, cycling facilities, electric charging points
+- better provisions for freight and logistics sector
+- connections between local, national and international transport networks
+ 
+- Suggested Outputs
+        - number of multi-modal transport hubs
+- number of regional distribution hubs that meet a specific standard
+ 
+- Suggested Intermediate Outcome - Physical capital outcomes
+        - increase in connectivity of employment and education sites to areas of housing (access to employment)
+- improved regional road capacity
+- increase in active travel and public transport mode share for relevant airports, seaports and rail stations
+- safer road junctions
+- increased investment in plants and machinery
+- increased floorspace unlocked as a result of intervention (by land use - commercial, lab space, factory, mixed use)
+ 
+ 
+- Example projects
+        
+- 
+E - Funding for new, or improvements to active travel (walking/wheeling/cycling) routes that provide high quality, safe and direct links to areas of employment and education that supports growth of new and emerging sectors, and that help to create town and citywide networks that link to major areas of housing. (Physical capital)
+    - Example projects
+        - improved walking routes, road crossings and junctions that reduce severance between residential areas and employment sites to access nearby labour market
+- cycleway links to existing networks that enable high quality end to end journeys
+ 
+- Suggested Outputs
+        - length of new/upgraded footways/cycleway (km)
+- number of new/improved crossings
+- number and m2 of sites where community severance removed, or direct links created
+ 
+- Suggested Intermediate Outcomes - Physical capital outcomes
+        - increase in connectivity of employment and education sites to areas of housing (access to employment)
+- improved regional road capacity
+- increase in active travel and public transport mode share for relevant airports, seaports and rail stations
+- safer road junctions
+- increased investment in plants and machinery
+- increased floorspace unlocked because of intervention (by land use - commercial, lab space, factory, mixed use)
+ 
+ 
+- Example projects
+        
+- 
+F - Specific capital interventions to enable better join up of potential development sites with utilities and access to the grid (Physical capital)
+    - Example projects
+        - access for specific development site to the grid
+ 
+- Suggested Outputs
+        - number and m2 of sites where barriers to utilities removed or direct access created
+ 
+- Suggested Intermediate Outcomes - Physical capital outcomes
+        - increase in connectivity of employment sites to areas of housing (access to employment)
+- increased investment in plants and machinery
+- increased floorspace unlocked because of intervention (by land use - commercial, lab space, factory, mixed use)
+ 
+ 
+- Example projects
+        
+- 
+G - Funding for the development and support of appropriate innovation infrastructure at the regional level
+    - Example projects
+        - development of lab space for growing businesses
+ 
+- Suggested Outputs
+        - number and m2 of commercial buildings developed or improved
+ 
+- Suggested Intermediate Outcomes - Physical capital outcomes
+        - increase in connectivity of employment sites to areas of housing (access to employment)
+- increased investment in plants and machinery
+- increased floorspace unlocked because of intervention (by land use -commercial, lab space, factory, mixed use)
+ 
+ 
+- Example projects
+        
+- 
+H - Funding for new, or improvements to, digital infrastructure capacity and capability in cluster areas to improve connectivity and facilitate the adoption of new technologies
+    - Example projects
+        - support new or existing projects and interventions aimed at providing advanced wireless and gigabit connectivity for businesses and public services, as well as digital connectivity for complimentary Investment Zone activities.
+- projects that encourage innovation and automation with technology supported by 5G and other advanced wireless, for example, in manufacturing, agritech, or public services such as transport and smart city applications.
+- regional interventions that remove barriers to digital infrastructure deployment, for example, improvement to streetworks processes or facilitating access to sites for infrastructure deployment.
+ 
+- Suggested Outputs
+        - number of premises with or covered by improved digital connectivity.
+- number of businesses and public services adopting advanced wireless or gigabit services.
+ 
+- Suggested Intermediate Outcomes - Physical capital outcomes
+        - increase in connectivity of employment sites to areas of housing (access to employment)
+- increased investment in plants and machinery
+- increased floorspace unlocked because of intervention (by land use - commercial, lab space, factory, mixed use
+ 
+ 
+- Example projects
+        
+Research and innovation
+Research and innovation objectives (A-F)
+Funding for R&D grants to support bringing products to market, commercialisation, improving uptake, streamlining processes, and supporting innovation.
+Research and innovation IZ interventions (A-G)
+- 
+A - Locally commissioned and designed R&D and Innovation grants to support bringing products to market (commercialisation), improve translation and uptake and streamline processes. UKRI or Innovate UK can, at the discretion of the responsible body, be approached for advice on how to ensure any R&D grants are set up and targeted sensibly. (Intangible and Financial Capital)
+    - Example projects
+        - provide start-ups, spinouts and researchers with early-stage investment to support the development of an innovative ideas / technology in the Investment Zone. This could include, providing grant funding so innovative stakeholders can access the existing facilities and assets they need to develop and test their idea/technology
+ 
+- Suggested Outputs - Intangible outputs
+        - number of SME firms funded
+- number of large firms funded
+- number of businesses/interested parties receiving financial support other than grants
+ 
+- Suggested Outputs – Financial outputs
+        - number of SME firms funded
+- number of large firms funded
+- number of businesses/interested parties receiving financial support other than grants
+ 
+- Suggested Intermediate Outcomes - Intangible outcomes
+        - increased number of innovation focused partnerships formed between for example, firms, universities, other relevant institutions/research organisations, social enterprises, and regional councils.
+- increased number of businesses in relevant innovative sector
+- improved time-to-market for R&D product
+- R&D activity undertaken by business for example: Increased scope of current R&D activity on Business Enterprise Research and Development Survey (BERD)
+- improved time to market for new products (longer-term). Can be sourced qualitatively from participating firms.
+ 
+- Suggested Intermediate Outcomes - Financial outcomes
+        - increased size of investment rounds / match funding / funding on collaborative R&D projects attracted alongside to the seed funding
+- increased Foreign Direct Investment
+ 
+ 
+- Example projects
+        
+- 
+B - Grant funding to support purchase of capital equipment to support improved R&D activity undertaken by businesses. (Intangible and physical capital)
+    - Example projects
+        - financial support to enable a business to purchase the R&D enabling equipment (including computers) they need to innovate, for example, machinery to develop and test a new idea
+ 
+- Suggested Outputs - Physical outputs
+        - value of new R&D capital equipment attributed to grant. (£ of capital equipment purchased because of grant may lead to over attribution to grant).
+- number of businesses/interested parties receiving grants
+ 
+- Suggested Outputs - Financial outputs
+        - number of businesses/interested parties receiving grants
+- value of new R&D capital equipment attributed to grant. (£ of capital equipment purchased because of grant may lead to over attribution to grant).
+ 
+- Intangible outputs
+        - value of new R&D capital equipment attributed to grant. (£ of capital equipment purchased as a result of grant may lead to over attribution to grant).
+- number of businesses/interested parties receiving grants
+ 
+- Human outputs
+        - Number of businesses/interested parties receiving grants
+- Value of new R&D capital equipment attributed to grant (£ of capital equipment purchased as a result of grant may lead to overattribution to grant)
+ 
+- Suggested Intermediate Outcome - Physical outcomes
+        - increase in plants and machinery
+ 
+- Suggested Intermediate Outcome - Financial outcomes
+        - increased size of investment rounds / match funding / funding on collaborative R&D projects attracted alongside to the seed funding
+- increased Foreign Direct Investment
+ 
+- Suggested Intermediate Outcome - Intangible outcomes
+        - improved time-to-market for R&D product
+- R&D activity undertaken by business for example: Increased scope of current R&D activity on Business Enterprise Research and Development Survey (BERD)
+- improved time to market for new products (longer-term). Can be sourced qualitatively from participating firms.
+ 
+- Suggested Intermediate Outcome – Human capital outcomes
+        - Increase in number of people employed in businesses supported by intervention (and sector)
+ 
+ 
+- Example projects
+        
+- 
+C – Grant funding to support R&D activities subject to implementation considerations (Intangible capital)
+    - Example projects
+        - provide flexible and patent grant funding to innovative SMEs for highly innovative late-stage R&D projects (e.g., TRL 5-9)
+ 
+- Suggested Outputs - Intangible outputs
+        - number and Value of R&D grant given at the firm level
+ 
+- Suggested Intermediate Outcome - Intangible outcomes
+        - increased scope of current R&D activity on Business Enterprise Research and Development Survey (BERD)
+- increase in new areas for research (new project initiated).
+- improved time to market for new products (longer-term). Can be sourced qualitatively from participating firms.
+ 
+ 
+- Example projects
+        
+- 
+D - Support for PhDs linked to sector strengths and commercialisation opportunities (Intangible and financial capital)
+    - Example projects
+        - Part or fully funded PhD fellowships that are aligned with the sector strengths of the Investment Zone
+ 
+- Suggested Outputs - Intangible outputs
+        - number of PhDs on offer in research institution linked to sector
+- number of industry sponsored PhD linked to the sector
+- number of individuals completing a PhD
+ 
+- Suggested Outputs - Human outputs
+        - number of PhDs on offer in research institution linked to sector
+- number of industry sponsored PhD linked to the sector
+- number of individuals completing a PhD
+ 
+- Suggested Intermediate Outcomes - Intangible outcomes
+        - increased knowledge exchange between universities and firms (due to PHD students in relevant specialties). Measured through the KEF framework.
+- increased research capability (number of publications)
+ 
+- Suggested Intermediate Outcomes - Human capital outcomes
+        - increase in individuals in skilled employment / with level 8 qualification
+- increase in number of employees with required employer skills
+- decrease in reported employer skills shortages
+ 
+ 
+- Example projects
+        
+- 
+E - Grant funding and mentoring programmes to support entrepreneurial academics to develop spinout company proposals (Intangible and financial capital)
+    - Example projects
+        - funding to support proof-of-concept targeted projects. RDEL spend can be used to resource a mentorship programme
+ 
+- Suggested Outputs - Intangible outputs
+        - number of academics attending entrepreneurship programmes
+- number of proof-of-concept grants provided to academics
+- number of academics receiving non-financial support
+ 
+- Suggested Outputs - Financial outputs
+        - number of businesses/interested parties receiving grants
+- number of businesses/interested parties receiving financial support other than grants
+ 
+- Suggested Intermediate Outcomes - Intangible outcomes
+        - increased rate of spinouts from university.
+- improved regional university-business research collaboration (co-patents/research
+ 
+- Suggested Intermediate Outcomes - Financial outcomes
+        - increased size of investment rounds / match funding / funding on collaborative R&D projects attracted alongside to the seed funding
+- increased Foreign Direct Investment
+ 
+ 
+- Example projects
+        
+- 
+F – Provide to up funding to support regional existing Knowledge Transfer Partnership to expand into specific sectoral interests or use funding to replicate this model. (Intangible, human, and financial capital)
+    - Example projects
+        - KTPs are funded by a UKRI grant, Investment Zones could cover part of the match funding required, subject to subsidy control
+ 
+- Suggested Outputs – Human capital outputs
+        - number of training courses
+- number of events/participatory programmes
+ 
+- Suggested Outputs - Intangible outputs
+        - number of businesses receiving non-financial support
+ 
+- Suggested Outputs - financial outputs
+        - number of businesses receiving of financial support other than grants
+- number of businesses receiving grants
+ 
+- Suggested Intermediate Outcomes – Human capital outcomes
+        - increase in individuals in skilled workers/with level 3+ qualification
+- increase in number of employees with required employer skills
+- decrease in reported employer skills shortages
+- increase number of organisations engages in new knowledge transfer activity
+- increase in number of people employed in businesses supported by intervention (and sector)
+ 
+- Suggested Intermediate Outcomes - Intangible outcomes
+        - number of businesses adopting new or improved products or services
+- increased spending on sector specific training
+- increased awareness and understanding of industrial digital technologies by SME manufacturers
+- peer-to-peer learning and networking between SME manufacturers
+- improved time to market for new products (long term)
+ 
+- Suggested Intermediate Outcomes - Financial outcomes
+        - increased size of investment rounds / match funding / funding on collaborative R&D projects attracted alongside to the seed funding
+- increased Foreign Direct Investment
+ 
+ 
+- Example projects
+        
+- 
+G – Provide funding to enable the Investment Zone and innovative stakeholders within the Investment Zone, to work with a Catapult on given activities and projects that support the Investment Zone’s targeted sector(s) (Intangible, human and financial capital)
+    - Example projects
+        - paying for stakeholders within the investment zone to access any of the relevant Catapult’s facilities and expertise
+ 
+- Suggested Outputs – Human capital outputs
+        - number of training courses
+- number of events/participatory programmes
+ 
+- Suggested Outputs – Intangible outputs
+        - number of businesses receiving non-financial support
+ 
+- Suggested Outputs – Financial outputs
+        - number of businesses receiving financial support other than grants
+- number of businesses receiving grants
+ 
+- Suggested Intermediate Outcomes – Human capital outcomes
+        - increase in individuals in skilled workers/with level 3+ qualification
+- increase in number of employees with required employer skills
+- decrease in reported employer skills shortages
+- increased number of organisations engaged in new knowledge transfer activity
+- increase in number of people employed in businesses supported by intervention (sector)
+ 
+- Suggested Intermediate Outcomes – Intangible outcomes
+        - number of businesses adopting new and improved products or services
+- increased spending on sector specific training
+- increased awareness and understanding of industrial digital technologies by SME manufacturers
+- peer-to-peer learning and networking between SMT manufacturers
+- improved time to market for new products (longer term)
+ 
+- Suggested Intermediate Outcomes – Financial outcomes
+        - increased size of investment rounds/match funding/funding on collaborative R&D projects
+- increased Foreign Direct Investment
+ 
+ 
+- Example projects
+        
+Business / stakeholder support
+Business / stakeholder support objectives
+Building on sector-specific tailored support for start-ups and businesses that leverage regional research strengths and facilities (for example, Catapults), and is additional and complementary to the national offer.
+It is recommended that regions have regard to alignment and engagement with other HMG-funded business support activities and provision that would be of relevance to businesses within the Zone. This would include DBT’s trade/export/inward investment services, the British Business Bank’s UK network, Innovate UK for support to innovative businesses, Sector-specific support such as Made Smarter, DSIT’s locally delivered digital initiatives, DfE’s regional skills partnerships etc.
+Interventions relating to seed funding should ensure they are not duplicating existing British Business Bank programmes.
+It is recommended that where possible, Investment Zones should work in collaboration with the Growth Hub network and the Business Support Helpline, as these are the two main HMG-funded national and regional entry points for businesses seeking advice and guidance, to convene and simplify the business support ecosystem for businesses and providers in their areas.
+Business / stakeholders support IZ interventions (A-G)
+- 
+A - Funding to develop concierge system to help sector related businesses in navigating the challenges of access to finance and other forms of support. (Intangible and financial capital
+    - Example projects
+        - funding to support proof-of-concept targeted projects. RDEL spend can be used to resource a mentorship programme
+ 
+- Suggested Outputs
+        - investment concierge service - a single point of contact to coordinate incoming investment queries, signpost interested investors to opportunities in the area and troubleshoot queries.
+- innovation hub concierge service
+- an innovation service, consisting of, for example, a lead, knowledge exchange managers, and technical and research specialists - all positions funded from RDEL budget. Innovative businesses in the Investment Zone could access this service free of charge to help them navigate the existing ecosystem including commercial access to facilities and expertise, and work with specialists to help them identify opportunities
+ 
+- Suggested Intermediate Outcomes - Financial outcomes
+        - increased size of investment rounds / match funding / funding on collaborative R&D projects attracted alongside to the seed funding
+- increased Foreign Direct Investment
+ 
+- Suggested Intermediate Outcomes - Intangible outcomes
+        - increased number of businesses adopting new or improved products or services.
+- increased spending on sector specific training
+ 
+ 
+- Example projects
+        
+- 
+B - Support or extend Made Smarter Adoption programme, providing tailored expert advice, intensive support, matched grants, and leadership training to enable SME manufacturers to adopt industrial digital technology solutions. Sector specific tailoring of support to aid all manufacturing sub-sectors (Intangible, human and financial capital)
+    - Example projects
+        - expert advice with grant funding to adopt the right technology to grow a business, increase productivity and reduce energy use and emissions
+ 
+- Suggested Outputs - Human capital outputs
+        - number of technology training courses, number of leadership training courses
+- number of digital internships (student placements)
+ 
+- Suggested Outputs - Intangible outputs
+        - number of businesses receiving non-financial support, for example, expert advice
+- number of businesses undertaking digital road mapping sessions
+ 
+- Suggested Outputs - Financial outputs
+        - number of businesses receiving financial support other than grants
+- number of businesses receiving grants
+ 
+- Suggested Intermediate Outcomes – Human capital outcomes
+        - increase in individuals in skilled workers / with level 3+ qualification
+- increase in number of employees with required employer skills
+- decrease in reported employer skills shortages
+ 
+- Suggested Intermediate Outcomes - Intangible outcomes
+        - number of businesses adopting new or improved products or services
+- increased spending on sector specific training
+- increased awareness and understanding of industrial digital technologies by SME manufacturers
+- peer-2-peer learning and networking between SME manufacturers
+- improved time to market for new products (longer-term)
+ 
+- Suggested Intermediate Outcomes - Financial outcomes
+        - increased size of investment rounds / match funding / funding on collaborative R&D projects attracted alongside to the seed funding
+- increased Foreign Direct Investment
+ 
+ 
+- Example projects
+        
+- 
+C - Funding to support city regions to grow clusters through hosting international business events and conferences that support wider regional growth sectors. (Financial capital)
+    - Example projects
+        - using grant funding to hold a conference for the lead sector
+ 
+- Suggested Outputs
+        - number of businesses attending events
+- number of events/participatory programmes
+ 
+- Suggested Intermediate Outcomes - Financial outcomes
+        - increased size of investment rounds / match funding / funding on collaborative R&D projects attracted alongside to the seed funding
+- increased Foreign Direct Investment
+ 
+ 
+- Example projects
+        
+- 
+D - Seed funding to support the creation of angel/venture capital investor funds (Financial capital)
+    - Example projects
+        - angel investor networking events
+- Venture Capital networking events
+ 
+- Suggested Outputs
+        - number of angel investors/venture capitalist investors engaged
+ 
+- Suggested Intermediate Outcomes - Financial outcomes
+        - increased size of investment rounds / match funding / funding on collaborative R&D projects attracted alongside to the seed funding
+- increased Foreign Direct Investment
+ 
+ 
+- Example projects
+        
+- 
+E - Funding for new and improvements to existing training hubs, business support offers, ‘incubators’ and ‘accelerators’ for regional enterprise which can support entrepreneurs and start-ups through the early stages of development and growth by offering a combination of services, including account management, advice, resources, training, and access to workspace. (Intangible, physical, human, and financial capital)
+    - Example projects
+        - Programmes that provide support to start-ups through the early stages of growth (incubator) and advancement of growth (accelerator). These programmes could support start-ups through various means including by providing access to mentorship networks, expertise on business model development, see investment funding or support applying for it from other sources, and support attracting venture capital firms to invest in the business.
+ 
+- Suggested Outputs - Human capital output
+        - number of training courses
+- number of events/participatory programme
+ 
+- Suggested Outputs - Intangible outputs
+        - number (and value) of businesses/interested parties receiving incubator support
+- number of businesses/interested parties receiving non-financial support
+ 
+- Suggested Outputs - Financial outputs
+        - number of businesses receiving financial support other than grants
+- number of businesses receiving grant
+ 
+- Suggested Outputs - Physical outputs
+        - number of organisations receiving support
+- number and m2 of commercial buildings developed or improved
+- amount of rehabilitated land or premises
+ 
+- Suggested Intermediate Outcomes - Human capital outcomes
+        - increased number of workers trained
+- increased number of organisations engaged in new knowledge transfer activity
+- increase in number of people employed in businesses supported by intervention (and sector)
+ 
+- Suggested Intermediate Outcomes - Intangible outcomes
+        - number of businesses adopting new or improved products or services
+- increased spending on sector specific training
+- increased awareness and understanding of industrial digital technologies by SME manufacturers
+- peer-2-peer learning and networking between SME manufacturers
+- increased scope of current R&D activity on Business Enterprise Research and Development Survey (BERD)
+- increase in new areas for research
+- improved time to market for new products (longer-term). Can be sourced qualitatively from participating firms.
+- patent applications
+ 
+- Suggested Intermediate Outcomes - Financial outcomes
+        - increased size of investment rounds / match funding / funding on collaborative R&D projects attracted alongside to the seed funding
+- increased Foreign Direct Investment
+ 
+- Suggested Intermediate Outcomes - Physical outcomes
+        - increased floorspace unlocked because of intervention (by land use - commercial, lab space, factory, mixed use)
+- increased investment in plants and machinery
+ 
+ 
+- Example projects
+        
+Planning
+Planning objectives
+Developments will be expected to take account of the National Planning Framework (NPF4), and the relevant local development plan for the area (which together form the development plan). Areas should look to best practice and follow innovative approaches where they would add value. These could include the establishment of project-focussed teams, proactive master-planning, use of planning protocols or processing agreements and aligning consent procedures where appropriate. We envisage each area using their core Investment Zone funding to support this planning offer.
+We expect planning interventions to contribute to physical intermediate outcomes as development sites are unlocked at a faster rate (and at a higher quality) through these activities to speed up the planning process.
+Planning IZ interventions (A-B)
+- 
+A - Funding to recruit required technical skills to develop masterplans and associated documents to facilitate development of sites. (Human and physical capital)
+    - Example projects
+        - upskilling regional planners/ procuring consultants/employing additional resource to develop a masterplan for the regeneration of new city quarter.
+- employing a dedicated planning lead at the Combined Authority level or within MDCs who can unblock issues and drive proactive engagement (inc. with developers)
+ 
+- Suggested Outputs - Human outputs
+        - number of qualified planners working in area/authorities
+- number of consultancy days
+- number of consultants with specialist skills successfully recruited
+- number of authorities taking up the opportunity to procure specialist resource
+- number of planners attending training courses
+ 
+- Suggested Outputs - Physical outputs
+        - amount of investment in placemaking
+ 
+- Suggested Intermediate Outcomes - Human outcomes
+        - reducing staffing shortfall
+- Planning Authorities to procure specialist support, unlocking key delivery with regional authority areas
+- increased capacity for Planning Authorities
+- increased number of regional planners upskilled (for example, in master planning, design coding)
+- improved technical skills support wider delivery and performance in the system locally
+ 
+- Suggested Intermediate Outcomes - Physical outcomes
+        - increase in masterplans or development documents produced
+- faster planning application processing times
+- increased planning applications
+- higher proportion of successful applications
+- improved perception of regenerated area
+- increased development activity
+- · increase in new or improved commercial space (linked to sector, for example, lab space, manufacturing space, production space)
+- improved quality of the built environment
+ 
+ 
+- Example projects
+        
+- 
+B - Seed funding for the delivery model. (Human and physical capital)
+    - Example projects
+- Suggested Outputs - Human outputs
+        - number of qualified planners working in area/authorities
+- number of consultancy days
+- number of consultants with specialist skills successfully recruited
+- number of authorities taking up the opportunity to procure specialist resource
+- number of planners attending training courses
+ 
+- Suggested Outputs - Physical outputs
+        - amount of investment in placemaking
+ 
+- Suggested Intermediate Outcomes
+        - human outcomes
+- reduced staffing shortfall
+- Planning Authorities to procure specialist support, unlocking key delivery with regional authority areas
+- increased capacity for Planning Authorities
+- increased number of regional planners upskilled (for example, in master planning, design coding)
+- improved technical skills support wider delivery and performance in the system locally
+ 
+- Suggested Intermediate Outcomes - Physical outcomes
+        - increase in masterplans or development documents produced
+- faster planning application processing times
+- increased planning application
+- higher proportion of successful applications
+- improved perception of regenerated area
+- increased development activity
+- increase in new or improved commercial space (linked to sector, for example, lab space, manufacturing space, production space)
+- improved quality of the built environment
+ 
+ 
+Long term outcomes
+- Boost productivity in FEA
+- Increased real earnings for high and low skills workers within the FEA
+- Increased internationally competitiveness of companies within the cluster
+- Internationally demanded new technologies
+Annex E: Privacy notice
+The following is to explain your rights and give you the information you are entitled to under UK data protection legislation.
+Note that this section only refers to your personal data (your name, address and anything that could be used to identify you personally, not the other contents of your Investment Zones documentation).
+The identity of the data controller and contact details of our Data Protection Officer
+The Ministry of Housing, Communities and Local Government (MHCLG) and the Scottish Government are joint data controllers for all Investment Zones related personal data collected with the relevant forms submitted to MHCLG, and the control and processing of Personal Data.
+The Data Protection Officer can be contacted at dataprotection@communities.gov.uk.
+The Data Protection Officer for the Scottish Government can be contacted at DataProtectionOfficer@gov.scot.
+Why we are collecting your personal data
+REPs and constituent Local Authorities have been designated as lead regional authorities for Investment Zones.
+As part of the co-development gateway process for Investment Zones, we will be collecting the following data from lead regional authorities:
+- names and contact details of key staff preparing the gateway proposals (personal data)
+- names and contact details of key staff approving the gateway proposals (personal data)
+- names and contact details of the REP’s delivery lead managing the delivery of Investment Zones programmes (personal data)
+Your personal data is being collected as an essential part of the Investment Zones, so that we can contact you regarding the gateway process, request supporting documentation if required, process future information which may be requested and for monitoring purposes. We may also use it to contact you about matters specific to the programme.
+Legal basis for processing your personal data
+The Department for Levelling Up, Housing and Communities will process all data according to the provisions of the Data Protection Act 2018 and the UK General Data Protection Regulation 2018 (UK GDPR) and all applicable laws and regulations relating to processing of Personal Data and privacy, including, where necessary, the guidance and codes of practice issued by the Information Commissioner and any other relevant data protection regulations (together “the Data Protection Legislation (as amended from time to time)”).
+The Data Protection Legislation sets out when we are lawfully allowed to process your data.
+The lawful basis that applies to this processing is Article 6 (1) (e) of the UK GDPR; that processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller; data being processed belongs to business contacts processed during the routine course of business of a government department.
+With whom we will be sharing the data
+As part of the process of assessment and monitoring of the Investment Zones, the Department for Levelling Up, Housing and Communities will share your personal data with relevant government departments or arm’s-length bodies, including:
+- His Majesty’s Treasury (HMT)
+- Cabinet Office
+- His Majesty’s Revenue and Customs (HMRC)
+- Department for Work and Pensions (DWP)
+- Department for Transport (DfT)
+- Department for Energy Security and Net Zero (DESNZ)
+- Department for Science Innovation and Technology (DSIT)
+- Department for Business & Trade (DBT)
+- Department for Education (DfE)
+- Ministry of Defence (MOD)
+- Department for Environment Food and Rural Affairs (Defra)
+- Department for Culture, Media and Sport (DCMS)
+We may also share data with contractors for the purposes of assessment, monitoring and evaluation, in which case their contract will set out what they are permitted to do with the data.
+There are data processing agreements in region between the Department and its data processors to ensure that the processing of your personal data remains in strict accordance with the requirements of data protection legislation.
+How long we will keep the personal data, or criteria used to determine the retention period
+Your personal data will be held for up to 12 years from the point of Spring Budget 2023 announcement. This is currently estimated to be 2035. As part of the monitoring process, we will contact you regularly to ensure our records are up to date.
+Your rights, for example, access, rectification, erasure
+The data we are collecting is your personal data, and you have considerable say over what happens to it. You have the right to:
+- know that we are using your personal data
+- see what data we have about you
+- ask to have your data corrected, and to ask how we check the information we hold is accurate
+- object to the use of your personal data in certain circumstances and to have your personal data deleted when the processing is no longer necessary
+- complain to the ICO (see below)
+Sending data overseas
+Your personal data will not be sent overseas.
+Storage, security and data management
+In the first instance, your personal data will be stored on their secure UK-based server. Your personal data will be transferred to our secure government IT system as soon as possible, and it will be stored there for up to 12 years before it is deleted, unless we identify that its continued retention is unnecessary before that point.
+Where data is shared with third parties, as set out in section 4 above, we require third parties to respect the security of your data and to treat it in accordance with the law. All third parties are required to take appropriate security measures to protect your personal information in line with our policies.
+Complaints and more information
+If you are unhappy with the way the department is using your personal data, you can make a complaint.
+You have a right to lodge a complaint with the independent Information Commissioner’s Office (ICO) if you think we are not handling your data fairly or in accordance with the law. You can also contact the ICO for independent advice about data protection, privacy and data sharing. The ICO’s contact details are provided below.
+If you are not happy with how we are using your personal data, you should first contact dataprotection@levellingup.gov.uk and dataprotectionofficer@gov.scot.
+If you are still not happy, or for independent advice about data protection, privacy, and data sharing, you can contact:
+The Information Commissioner’s Office 
+Wycliffe House 
+Water Lane 
+Wilmslow 
+Cheshire 
+SK9 5AF 
+Telephone: 0303 123 1113 or 01625 545 745

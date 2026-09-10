@@ -1,0 +1,2418 @@
+<<<PDF_PAGE_1>>>
+Document of
+The World Bank Group
+FOR OFFICIAL USE ONLY
+Report No. 112944-STP
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+INTERNATIONAL FINANCE CORPORATION
+AND MULTILATERAL INVESTMENT GUARANTEE AGENCY
+PERFORMANCE AND LEARNING REVIEW
+OF THE COUNTRY PARTNERSHIP STRATEGY
+FOR
+SÃO TOMÉ AND PRÍNCIPE
+FOR THE PERIOD FY14-FY18
+May 1, 2019
+Central Africa Country Department 1
+Africa Region
+The International Finance Corporation
+Sub-Saharan Africa Department
+The Multilateral Investment Guarantee Agency
+This document has a restricted distribution and may be used by recipients only in the performance of their
+official duties. Its contents may not otherwise be disclosed without World Bank Group authorization.
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+<<<PDF_PAGE_2>>>
+Date of the last Country Partnership Strategy is May 28, 2014
+FISCAL YEAR
+January 1 to December 31
+CURRENCY EQUIVALENTS
+As of February 28, 2019 (average BCSTP rate)
+US$1.00= SÃO TOMÉ AND PRÍNCIPE Dobras [21.62]
+ABBREVIATIONS AND ACRONYMS
+ADI Independent Democratic Action Party
+AF Additional Financing
+AFAP Agencia Fiduciária de Administracão de Projectos (Implementing Agency)
+AfDB African Development Bank
+AGER Autoridade Geral de Regulação (Regulation Authority)
+ASA Advisory Services and Analytics
+BISTP Banco Internacional de São Tomé e Príncipe (International Bank of STP)
+CAB Central African Backbone
+CPF Country Partnership Framework
+CPI Consumer Price Index
+CPS Country Partnership Strategy
+DGTH Directorate General of Tourism and Hospitality
+DP Development Partner
+DPO Development Policy Operation
+DSA Debt Sustainability Analysis
+EC European Commission
+ECF Extended Credit Facility
+EIB European Investment Bank
+EITI Extractive Industries Transparency Initiative
+EMAE National Electricity Company
+EU European Union
+FSDIP Financial Sector Development Implementation Plan
+FY Fiscal Year
+GBV Gender-based Violence
+GDP Gross Domestic Product
+GEF Global Environment Facility
+GIME ` Groups of Interest in Road Maintenance
+GNI Gross National Income
+GoSTP Government of São Tomé and Príncipe
+GPE Global Partnership for Education
+GRM Grievance and Redress Mechanisms
+HIV/AIDS Human Immunodeficiency Virus/Acquired Immune Deficiency Syndrome
+IBRD International Bank for Reconstruction and Development
+ICT Information and Communication Technologies
+IDA International Development Association
+IFC International Finance Corporation
+IMF International Monetary Fund
+IPF Investment Project Financing
+MDGs Millennium Development Goals
+ii
+<<<PDF_PAGE_3>>>
+MFD Maximize Financing for Development
+MICS Multiple Indicator Cluster Survey
+MIGA Multilateral Investment Guarantee Agency
+NDC Nationally Determined Contributions
+PFM Public Financial Management
+PPIAF Public-Private Infrastructure Advisory Facility
+PPP Public Private Partnership
+PRC People’s Republic of China
+PRSP II Second Poverty Reduction Strategy Paper
+SCD Systematic Country Diagnostic
+SDGs Sustainable Development Goals
+SME Small and Medium Size Enterprise
+SOE State Owned Enterprise
+SP Social Protection
+SSA Sub-Saharan Africa
+STP São Tomé and Príncipe
+TA Technical Assistance
+TFs Trust Funds
+UN United Nations
+UNDP United Nations Development Program
+UNICEF United Nations International Children's Emergency Fund
+WACA West Africa Coastal Areas Resilience Project
+WBG World Bank Group
+WHO World Health Organization
+IDA IFC MIGA
+Vice President: Hafez Ghanem Sergio Pimenta Keiko Honda (EVP)
+Director: Elisabeth Huybens Aliou Maiga Merli Baroudi
+Task Team Leaders: Barbara Geiser Mehita Sylla Moritz N. Nebe
+Acknowledgements
+The PLR was prepared under the guidance of Elisabeth Huybens, Country Director (AFCC1). In addition to the task team leaders
+(TTL), the core team included Clara de Sousa, Country Manager (AFMAO); Angelique DePlaa, Country Program Coordinator
+(AFCC1); Hoda Mustafa, Head, (MIGAF); Issa Diaw, Mazen Bouri and Carine Clert, (Program Leaders, AFCC1); Olivier
+Godron, Country Program Coordinator (AFCC1); Ana Maria Carvalho, Senior Operations Officer (AFMAO); Elena Palei
+(MIGOP); and Maria Margarida Mendes, Executive Assistant (AFMAO). Several World Bank Group country team members
+based in Luanda, Washington D.C., and other locations made significant contributions including Rafael Chelles Barroso, Senior
+Economist (GMFDR); Eric Zapatero Larrio, Senior Social Protection Specialist (GSP07); Emily Gardner, Senior Education
+Specialist (GED13); Alvin Etang Ndip, Senior Economist (GPV01); Antonio Chamuco, Senior Procurement Specialist
+(GGO07); Joao Tinga, Sr. Financial Management Specialist (GGO13); Zenaida Hernandez Uriz, Senior Private Sector Specialist
+(GFCAC); Monique Courchesne, T&C/IFC Lead (CAFW4); Penelope Fidas, Senior Private Sector Development Specialist
+(GTC13); Nicolas Jean Marie Sans, Senior Hydropower Specialist (GEE07); Noroarisoa Rabefaniraka, Senior Transport
+Specialist (GTI07); Julian Casal, Senior Financial Sector Economist (GFM01); Domingas Pegado, Program Assistant
+(AFMAO); Tambi Matambo, Senior Environmental Specialist (GCCRA); Firmin Nkoghe, Country Program Assistant
+(AFCCM); Dean Thompson, Enand Iris Ollila and Marcela Natalicchio, Micheline Agbo Epse Faucompré, Consultants
+(AFCC1).
+iii
+<<<PDF_PAGE_4>>>
+Table of Contents
+1. INTRODUCTION................................................................................................. 5
+2. MAIN CHANGES IN COUNTRY CONTEXT ................................................. 6
+A. Changes in poverty reduction and shared prosperity .................................... 6
+B. Changes in key macroeconomic and debt developments ............................. 7
+C. Political developments .................................................................................. 9
+3. SUMMARY OF PROGRAM IMPLEMENTATION ....................................... 9
+A. Program and portfolio performance .............................................................. 9
+B. Evolution of stakeholders and partnerships ................................................ 12
+C. Progress towards 2014-2018 CPS Outcomes ............................................. 12
+4. EMERGING LESSONS ..................................................................................... 17
+5. ADJUSTMENTS TO The COUNTRY PARTNERSHIP STRATEGY ........ 18
+Theme One: Supporting Macroeconomic Stability and Inclusive Growth ........... 22
+Theme Two: Strengthening Human Capacity and Reducing Vulnerability ......... 24
+6. RISKS TO REVISED CPS PROGRAM .......................................................... 26
+Figures
+Figure 1: Progress Towards Achieving CPS Outcomes .............................................. 16
+Tables
+Table 1: STP Social Indicators (value and year of measurement) ............................... 7
+Table 2: STP Selected Macroeconomic Indicators, 2014-2019 ..................................... 8
+Table 3: World Bank Financing Program in STP (FY14-Q3FY19) .......................... 11
+Table 4: PLR Indicative CPS Financing Plans, FY19-FY20 ...................................... 19
+Table 5: Expected ASA, FY19-20 .................................................................................. 20
+Table 6: STP Revised Systematic Operations Risk-Rating Tool (SORT) ................. 27
+Annexes
+Annex 1: Updated Results Matrix ................................................................................. 28
+Annex 2: Changes to original CPS Results Matrix ...................................................... 38
+Annex 3: Progress toward FY14-18 CPS Outcomes .................................................... 47
+Annex 4: Planned and Actual Deliveries of Non-Lending Services (FY14-18) ......... 53
+Annex 5: World Bank Group Support to the Energy Sector in STP ......................... 54
+Annex 6: World Bank Group Support to the Financial Sector in STP ..................... 56
+Annex 7: Select Financial Soundness Indicators.......................................................... 57
+Annex 8: Improving Business Regulation in São Tomé and Príncipe ....................... 58
+Annex 9: Evolution of Partnerships in São Tomé and Príncipe ................................. 60
+Annex 10: Map of São Tomé and Príncipe 61
+iv
+<<<PDF_PAGE_5>>>
+THE REPUBLIC OF SÃO TOMÉ AND PRÍNCIPE
+PERFORMANCE AND LEARNING REVIEW
+OF
+THE FY14-FY18 COUNTRY PARTNERSHIP STRATEGY
+1. INTRODUCTION
+1. The Board of Executive Directors discussed the FY14-FY18 Country Partnership
+Strategy (CPS) for São Tomé and Príncipe (STP) on July 3, 2014 (Report No. 83144). The
+CPS supported STP’s Second Poverty Reduction Strategy Paper (PRSP II, 2012-2016), which
+aimed to maintain macroeconomic stability, diversification, and promote private sector-led
+growth. The CPS was structured around two themes: (1) supporting macroeconomic stability and
+national competitiveness; and (2) reducing vulnerability and strengthening human capacity.
+Gender, partnerships, and capacity building were elements cutting across all the proposed
+engagements, as were the promotion of inclusive private sector-led growth while maintaining
+macroeconomic stability.
+2. STP’s economic outlook has improved relative to the beginning of the CPS period,
+but remoteness, small size, and insularity constrain the opportunities for inclusive growth.
+Real gross domestic product (GDP) growth has been hovering around 4 percent during the CPS
+period and is expected to remain at the same level in the medium term. Inflation has decreased,
+and external accounts have improved since 2015 due to lower oil prices and growing agricultural
+and tourism exports. Fiscal policy is the Achilles heel of economic policy, characterized by low
+domestic revenue mobilization, poor public financial management, aid dependency, and debt
+distress. The International Monetary Fund (IMF) program in place through most of the CPS period
+has helped maintain macroeconomic stability, but progress towards the program objectives was
+mixed. Tourism and agriculture are the main drivers of growth, and bottlenecks in transport,
+electricity, relevant skills, and the financial system need to be addressed for faster, job-creating
+growth.
+3. Following the October 2018 Parliamentary elections, a new Government was installed
+on December 3, 2018. Two coalition parties (Movement for the Liberation of STP-Social
+Democratic Party and Democratic Convergent Party/Force for Change Democratic
+Movement/Democratic Union for Citizenship and Development) lead the coalition government.
+The two main objectives of the new Government are to considerably increase the average growth
+rate and to reinforce social cohesion.
+4. Delivery of the CPS program has been broadly satisfactory, despite some challenges.
+With an IDA17 allocation of about US$15 million for three years, the implementation of the CPS
+program sought to further enhance selectivity. Several operations were dropped. While this
+detracted from progress on a few CPS outcomes, notably in building private sector capacity and
+5
+<<<PDF_PAGE_6>>>
+improving skills, it also contributed eventually to improved performance, thanks to a strengthened
+dialogue, greater complementarity and collaboration with other development partners (DPs),
+impactful deployment of trust funds (TFs), and an increased focus on the performance of the
+critically important electricity sector.
+5. With a quadrupled IDA18 allocation, this Performance and Learning Review (PLR)
+allows for much greater ambition – accelerating progress towards the twin goals and
+strengthening focus on climate change resilience – while enhancing selectivity by
+consolidating the outcomes pursued. This PLR articulates how the World Bank Group (WBG)
+can play a transformational role to enable diversification and growth, build human capital, and –
+given STP’s vulnerabilities – promote resilience to climate change. The PLR further articulates
+how the CPS program will align with the IDA18 policy package and the Sustainable Development
+Goals (SDGs). Foundations are being laid to strengthen private sector investment in line with
+Maximizing Finance for Development (MFD) and closer IDA engagement with the International
+Finance Corporation (IFC) and the Multilateral Investment Guarantee Agency (MIGA).
+6. The PLR proposes a two-year extension of the FY14-FY18 CPS until the end of FY20.
+This PLR is being presented after the closing of the original CPS period, largely due to changing
+program preferences under the previous government and subsequently, the transition to the new
+government. The proposed extension would allow time to build ownership and trust with the newly
+elected government ahead of the development of the forthcoming Country Partnership Framework
+(CPF) and allow more time to achieve revised targets under this more ambitious PLR. In addition,
+it would allow the CPF to be informed by the Poverty Assessment and the findings of the
+Systematic Country Diagnostic (SCD) to be finalized in early FY20.
+2. MAIN CHANGES IN COUNTRY CONTEXT
+A. CHANGES IN POVERTY REDUCTION AND SHARED PROSPERITY
+7. Estimates based on the 2010 household survey suggest that the poverty rate has fallen
+slightly in recent years. Based on a growth-poverty elasticity model, the population living on
+less than US$1.90 per day (Purchasing Power Parity) would have declined from 33.9 percent in
+2010 to 30.6 percent in 2018. The Poverty Assessment expected to be finalized in late FY19 will
+be based on the results from the 2018 national household survey and will provide a much-needed
+update on the profile of poverty in STP.
+8. STP’s human development outcomes continue to improve. STP had met five
+Millennium Development Goals (MDGs) by 20151 and is on track to achieve the SDGs related to
+hunger and nutrition, healthy lives and equitable access to education, improve maternal health,
+ensure environmental sustainability and reduce child mortality by 2030. Human development
+outcomes for STP are well above the average for Sub-Saharan Africa (SSA) and some other
+comparator countries (See Table 1). However, the Government is keen to address pending
+challenges, especially those related to learning and social vulnerability and it has recently asked to
+join the Human Capital Project. STP as such is not yet included in the Human Capital Index
+1 These are: Goal 2: Achieve universal primary education; Goal 4: Reduce child mortality; Goal 5: Improve Maternal Health;
+Goal 6: Combat HIV/AIDs, malaria and other diseases; and Goal 7: Ensure environmental sustainability.
+6
+<<<PDF_PAGE_7>>>
+because it has not developed internationally comparable data on the quality of education, but the
+upcoming Girls Empowerment and Quality Education for All Project (P169222) will tackle this
+issue.
+Table 1: STP Social Indicators (value and year of measurement)
+STP SSA Comoros Cabo Verde Maldives East Timor
+Poverty (below US$1.90/day ppp) 33.9 (10) 41.0 (13) 18.1 (13) 8.1 (07) 7.3 (09) 43.5 (07)
+Years of schooling (adults)* 5.3 (15) 5.4 (15) 4.8 (17) 4.8 (15) 6.2 (15) 4.4 (15)
+Primary completion (%) 82.9 (16) 68.6 (14) 70.9 (13) 102.2 (15) 92.1 (16) 106.1(15)
+Progression to secondary (% male) 100.0 (14) 79.6 (13) 100 (13) 97.1 (14) 93.4 (12) 93.8 (14)
+Progression to secondary (% 99.4 (14) 77.9 (13) 85.2 (13) 99.4 (14) 100.0 (12) 94.8 (14)
+female)
+Fertility rate, total births per woman 4.5 (16) 4.8 (16) 4.3 (16) 2.3 (16) 2.1 (16) 5.5 (16)
+Youth literacy (% male) 97.4 (15) 76.3 (10) 73.8 (12) 97.6 (15) 100.0 (15) 81.8 (15)
+Youth literacy (% female) 97.2 (15) 65.8 (10) 69.6 (12) 98.7 (15) 99.5 (15) 82.7 (15)
+Child Mortality under 5 33.8 (16) 78.4 (16) 69 (17) 21.4 (16) 8.5 (16) 49.7 (16)
+(per 1000 live births)**
+Immunization DTP3 (%)*** 96 (16) 75.8 (15) 91 (17) 96 (16) 99 (16) 85 (16)
+Stunting (height for age (% of 17.2 (14) NA 32.1 (12) 21.4 (94) 20.3 (09) 50.2(13)
+children under 5)**
+Life expectancy at birth 66.4 (15) 59.9 (15) 63.7 (16) 72.4 (15) 77.1 (15) 68.6 (15)
+Gross National Income (GNI) per 1,720 (16) 1,516 (16) 1280 (17) 2,970(16) 10,630 (16) 2,060 (16)
+capita (Atlas method, current US$)
+Source: World Development Indicator (WDI), except *UNDP-Human Development report (latest available data); ** Multiple Indicator Cluster
+Survey (MICS) 2014.; and ***World Health Organization (WHO) Global Health Observatory data repository.
+B. CHANGES IN KEY MACROECONOMIC AND DEBT DEVELOPMENTS
+9. Macroeconomic performance has improved during the period covered by the CPS,
+but the economic outlook is less favorable. Growth averaged 4.2 percent p.a. between 2014-
+2018. Inflation has come down because of the exchange rate peg with the euro and adequate control
+of monetary aggregates by the Central Bank. External imbalances, although large and typical of
+small-island economies, declined due to lower oil prices and increased agricultural and tourism
+exports.2 The economy’s main growth drivers are government spending, agriculture and tourism.
+Tourism has seen growth thanks to higher flight frequency, increased private investments, and the
+institution of 15-day visa-free access for nationals of the United States of America (USA), the
+European Union (EU), and Portuguese-speaking countries. While STP has been conducting
+exploratory oil drilling since 2012, it has not yet produced oil on a commercial basis.3 Further
+structural reforms and investments in electricity, transport, Information and Communication
+Technologies (ICT), and financial services as well as relevant skills are key to accelerate growth
+in agriculture and tourism. Fiscal consolidation will require more domestic revenue mobilization,
+while overall government spending is kept on check. Fiscal deficits and the run-down of
+international reserves are the main risk for growth going forward.
+2 External grant resources mostly finance the external current account deficit.
+3 Authorities expect that oil production will start around 2026, but even these projections now seem optimistic given
+the prevailing global oil prices and market outlook.
+7
+<<<PDF_PAGE_8>>>
+10. STP faces strong macroeconomic challenges, including fiscal pressures and external
+imbalances. Economic growth has been slowing, and is estimated at 2.7 percent in 2018, due to
+the reduction in government spending because of a drop in the availability of domestic and foreign
+resources, as well as the energy crisis in the second half of 2018, which stemmed in part from
+limited resources for operations and maintenance. 4 Fiscal consolidation halted in 2018, and
+preliminary data suggest that the domestic primary deficit reached 3.1 percent of GDP. STP is
+classified as being in debt distress due to prolonged negotiations on rescheduling external payment
+arrears.5 Expansive fiscal policies and lower external inflows drove reserves down to 1.8 months
+of imports at end-2018, from 2.9 months of imports at end-2017. The GoSTP has responded by
+requesting a new IMF program for an amount of US$19 million, 6 and seeking aid from other
+development partners. The Government may also seek to draw on the credit line with the
+Government of Portugal. Beyond the reserves crisis, the main challenge for STP is to increase
+revenues to balance the budget, which will allow the Government to stop generating arrears, pay
+off debt, and finance a larger part of the investments with its own resources.
+Table 2: STP Selected Macroeconomic Indicators, 2014-2021
+Act ual Estimate/Projections
+2014 2015 2016 2017 2018 2019 2020 2021
+GDP growth (% p.a.) 6.5 3.8 4.2 3.9 2.7 3.0 3.5 4.0
+Consumer Price Index 6.4 4.0 5.1 7.7 9.0 5.3 4.9 3.7
+(CPI) (end period)
+Public revenue, 27.4 28.9 29.3 28.0 23.7 22.9 21.9 22.8
+including grants (%
+GDP)
+Of which, grants 11.8 12.1 14.2 13.5 8.2 8.8 8.5 8.3
+Public expenditure (% 32.4 37.3 35.5 33.3 26.8 24.0 21.9 21.6
+GDP)
+Domestic primary -1.8 -1.7 -2.6 -3.3 -3.1 -1.8 -1.9 -0.5
+balance, incl. statistical
+discrepancy (% GDP)
+Current Account -29.8 -24.8 -20.5 -24.5 -18.9 -18.6 -17.7 -15.0
+Balance, excl. official
+transfers (% GDP),
+PV of external debt (% 30.1 39.7 31.5 26.6 27.1 25.6 24.0 20.9
+GDP)
+Memo: GDP nominal 335 318 348 373 419 440 476 560
+(US$ million)
+Source: STP Authorities and World Bank/IMF Staff estimates, 2019.
+11. The banking sector has grown, but remains fragile, concentrated and inefficient.
+Following rapid growth fueled by the expectation of oil production, vulnerabilities emerged
+requiring Central Bank intervention. In January 2015, the third largest bank (with assets equivalent
+4 This energy crisis – driven by rising demand and generation capacity shortages resulting from lack of investment
+and constrained resources for operations and maintenance - drastically reduced power supply.
+5 The latest official World Bank/IMF Debt Sustainability Analysis (DSA) was completed in July 2018. Because of
+this debt classification, STP receives IDA financing on 100 percent grant terms.
+6 In March-April 2019, an IMF staff team visited STP for discussions on a new program supported by the Extended
+Credit Facility (ECF). The last ECF (approved in July 2015) expired at end-2018. In July 2018, the Executive Board
+of the IMF completed the fifth review of the arrangement under the ECF for STP, which was presented to the Board
+jointly with the Article IV report. The sixth and last review was not completed because of the interruption after
+legislative elections in October 2018.
+8
+<<<PDF_PAGE_9>>>
+to 8 percent of GDP), was placed under government administration for failing to meet minimum
+capital requirements. It was sent to liquidation in August 2016, with creditors and depositors
+incurring losses. Non-performing loans increased from 15.6 percent in 2011 to 24.9 percent at end
+2017 before coming down to 17.0 percent as of September 2018, albeit with significant
+provisioning (in excess of 80 percent as of end-2017). Stronger supervision by the Central Bank
+is needed to ensure that the financial sector supports growth over the medium term. The World
+Bank-supported Financial Sector Development Strategy, adopted by Government in September
+2016, is expected to guide this reform.
+C. POLITICAL DEVELOPMENTS
+12. Following the October 7, 2018 Parliamentary elections, a new Government was sworn
+in on December 3, 2018. Two coalition parties (Movement for the Liberation of STP-Social
+Democratic Party and Democratic Convergent Party/Force for Change Democratic
+Movement/Democratic Union for Citizenship and Development), with a combined 28 out of 55
+parliamentary seats, formed a coalition government. With 25 seats, the Independent Democratic
+Action Party (ADI) which led the previous government, remains the largest party. On November
+30, 2018, the President nominated Mr. Jorge Bom Jesus, a member of the largest coalition partner,
+as Prime Minister. The new Government submitted its Program to Parliament within the required
+30 days and it was approved on December 27, 2018.
+3. SUMMARY OF PROGRAM IMPLEMENTATION
+A. PROGRAM AND PORTFOLIO PERFORMANCE
+13. Actual IDA financing from FY14 to FY18 was almost three times the level anticipated
+in the CPS, which allowed a shift to larger and more transformational WBG support to
+selected areas. The country program shifts were made possible by: (i) the quadrupling of the
+IDA18 allocation; (ii) the reallocation of IDA resources to STP in the last year of IDA17; and (iii)
+the leveraging of the IDA regional window. As a result, during the CPS period, total IDA
+commitments significantly scaled up, amounting to US$90.4 million to support Government of
+São Tomé and Príncipe (GoSTP) programs7 (See Table 3). This amount includes the Strengthening
+Growth and Fiscal Development Policy Operation (DPO) Series, which has completed two out of
+three operations (P159010 for US$5 million, and P161707 for US$6 million).
+14. As of end March 2019, IDA had an active portfolio of US$79.3 million, comprised of
+the following Investment Project Financings (IPF): the Power Sector Recovery Project (P157096,
+US$16 million); the Quality Education for All Project (P146877, US$0.9 million, co-financed by
+IDA and the Global Partnership for Education (GPE) and its Additional Financing (AF) (P150828,
+US$3.5 million); the Institutional Capacity Building Project (P162129, US$12 million); the Social
+Protection and Skills Development Project (P163088, US$10 million); and the STP Transport
+Sector Development and Coastal Protection Project (P161842, US$29 million) approved by the
+Board in March 2019. In addition, STP is benefiting from the West Africa Coastal Areas Resilience
+Investment Project (WACA, P162337) co-financed by IDA’s regional integration window
+7 Through end Q3, FY19.
+9
+<<<PDF_PAGE_10>>>
+(US$5.3 million), national IDA (US$2.7 million) and the Global Environment Facility (GEF)
+(US$1.15 million).
+15. The Advisory Services and Analytics (ASA) program was streamlined over the course
+of the CPS period (Annex 4). Out of the 16 ASA activities planned, seven were dropped. New
+ASA activities were introduced to inform the evolving financing program, including three
+activities that directly supported critical reforms to remove bottlenecks to growth such as the
+‘Financial Sector Development Implementation Plan’ (FSDIP) (P150418), and the ‘Building
+Capacity for the Digitization of the Property Registry in STP’ (P158926). A Tourism Development
+Strategy was also delivered under the Investment Climate Reform Program. ASA in areas such as
+social protection and skills were consolidated. Finally, areas such as agriculture or procurement
+were dropped because the African Development Bank (AfDB) and other DPs had planned ASA
+and financing in those areas.
+16. IFC’s program combined Advisory and Investment Services. During FY16, IFC
+approved a Risk Sharing Facility for Small and Medium Size Enterprises (SMEs) with Banco
+Internacional de São Tomé e Príncipe (International Bank of STP, BISTP), the leading bank in
+the country with 60 percent of deposits. A commitment of US$1.5 million was made to help BISTP
+increase its SME reach and support local entrepreneurs more effectively. Through the Public-
+Private Infrastructure Advisory Facility (PPIAF), the IFC also provided initial advisory support on
+the development of a transshipment deep seaport, which turned out not to be feasible without an
+unsustainable increase in public financing and debt. An IFC Advisory Services project supported
+the improvement of the investment climate and tourism development strategy. Due to the
+challenges related to its relatively small market size, IFC will leverage Advisory Services and
+instruments such as the Private Sector Window to create new opportunities for private sector
+development in STP. In line with this, IFC will continue to engage with commercial banks to
+improve financial inclusion (digital financial services).
+17. MIGA will continue to seek opportunities to de-risk foreign investments in private
+sector projects, through its political risk insurance products.
+10
+<<<PDF_PAGE_11>>>
+Table 3: IDA Financing Program in STP (FY14-Q3FY19), US$ Million
+Indicative Financing at CPS approval Status as of Q3 of FY19
+Planned FY
+Project (Ongoing/CPS program) Financing Status Approval Financing
+Theme 1: Supporting Macroeconomic Stability and National Competitiveness
+3rd Governance and Competitiveness 3.4 Dropped n.a 0.0
+DPO (P146953)
+STP Economic Governance and 5.0 Dropped n.a 0.0
+Competitiveness
+1st STP Strengthening Growth and Fiscal 3.5 Closed FY17 5.0
+Policy DPO (P159010)
+2nd STP Strengthening Growth and 6.0 Closed FY18 6.0
+Fiscal Policy DPO (P161707)
+Competitiveness and Growth Project 1.0 Dropped n.a 0.0
+(P1492620)
+Central African Backbone (CAB6) n.a No longer planned n.a 0.0
+Project (Regional Integration)
+STP Power Sector Recovery Project Addition to Active FY17 16.0
+(P157096) CPS
+Theme 2: Reducing Vulnerability and Strengthening Human Capacity
+IDA and TF: Quality Education for All 2.0 Active FY14 0.9
+(P146877)
+Quality Education for All AF (P150828) n.a Active FY14 3.5
+Institutional Capacity Building Project Addition to Active FY18 12.0
+(P162129) CPS
+West Africa Coastal Areas Resilience Addition to Active: US$9.15 FY18 8.0
+Investment Project (WACA, Regional CPS (National IDA-US$2.7;
+Integration) (P162337) Regional IDA-US$5.3;
+GEF- US$1.15)
+Social Protection and Vulnerability Pilot 1.0 Dropped n.a 0.0
+Social Protection and Skills n.a. Active FY19 10.0
+Development Project (P163088)
+Transport Sector Development and Addition to Active FY19 29.0
+Coastal Protection Project (P161842) CPS
+TOTAL (US$ million) 90.4
+18. As the IDA portfolio has significantly grown in volume, implementation challenges
+have emerged. Over the course of the CPS period, US$90.4 million in financing has been
+approved for STP, US$79.3 million of which remains in the active portfolio. Early in the CPS
+cycle, disbursements ratios were consistently above 20 percent. Predictably, disbursement rates
+declined when relatively large projects were added to the portfolio and they are expected to
+rebound as the portfolio matures. Implementation of all activities is rated moderately satisfactory
+or higher as recorded in the Implementation Status and Results Reports (ISR). Maintaining this
+quality with growing volume will require strengthened capacity in technical, fiduciary,
+environmental and social areas, and better coordination among the beneficiary sectors, the
+Ministry of Finance and the portfolio-wide implementing agency Agência Fiduciária de
+Administração de Projectos (AFAP) (Implementing Agency). Extremely limited capacity and
+11
+<<<PDF_PAGE_12>>>
+occasional bottlenecks in information sharing regarding measures taken by the authorities has
+caused project delays and the decision to drop DPOs.
+19. The World Bank and the GoSTP have been working to strengthen capacity and
+portfolio management. The World Bank recently posted its first staff member in STP, a Senior
+Procurement Specialist, which has helped strengthen implementation. In addition, with World
+Bank support, the Ministry of Finance and Blue Economy has taken a more active role in portfolio
+and project management notably through frequent dialogue with the fiduciary and task teams and
+regular portfolio reviews. Institutional capacity remains an issue and this will be addressed as a
+crosscutting issue through the ‘Institutional Capacity Development Project’ (P162129) and by
+strengthening the staffing of the implementation agency, AFAP.
+20. Projects completed during the CPS period have yielded satisfactory or higher
+outcomes. The Regional CAB2 Project (P117652) had a particularly strong impact, achieving
+development objectives highly relevant to STP’s priorities and to the CPS. It introduced
+competition and significantly reduced retail prices of internet access. Independent Evaluation
+Group (IEG) rated the outcome of the project as highly satisfactory and both World Bank and
+Government performance were rated satisfactory. In addition, the project leveraged private funds
+and there were no cost overruns. The Second Governance and Competitiveness DPO (P130925)
+was rated satisfactory for outcomes and moderately satisfactory for World Bank and government
+performance. The project made a significant contribution in improving the comprehensiveness and
+public availability of budget data. The Adaptation to Climate Change Project (P111669) was rated
+satisfactory both for outcomes and World Bank performance and was succeeded by the WACA
+Resilience Project. The IFC–led Sao Tome and Principe Investment Climate Project (594467) was
+successfully completed and the project completion report has been submitted through workflow.
+Through this project, many business and foreign trade licensing requirements were successfully
+eliminated, reducing costs associated to doing business in STP.
+B. EVOLUTION OF STAKEHOLDERS AND PARTNERSHIPS
+21. The 2015 country survey suggests that there has been a significant improvement in
+the attitudes and opinions of stakeholders toward the WBG. The World Bank is highly valued
+not just for its financial support, but also for its ability to provide policy advice, capacity building
+and mobilization of third-party resources. In addition, respondents were also more positive about
+the World Bank’s collaboration with the Government, its responsiveness and openness. However,
+more needs to be done to enhance communication with civil society organizations.
+22. The WBG ensured close coordination with other DPs to support policy dialogue and
+leverage resources for lending engagements and advisory services. An effective collaboration
+and coordination between the World Bank, the IMF, the AfDB and the European Commission
+(EC) is helping to advance the policy dialogue on macroeconomic, public financial management
+(PFM), and structural reforms. The GoSTP is progressively assuming a stronger leadership over
+donor coordination. The WBG has successfully leveraged financing from partners and TFs for
+both lending and analytical and advisory work in several critical areas, including in transportation,
+energy, financial sector, private sector development, climate, education, and skills development as
+detailed in Annex 9.
+12
+<<<PDF_PAGE_13>>>
+C. PROGRESS TOWARDS 2014-2018 CPS OUTCOMES
+23. Results under the WBG-supported program have so far been broadly satisfactory. As
+Figure 1 shows, one of the ten outcomes is achieved, four are on track, three are partially on track,
+and two are off track. Progress against the indicators for each outcome is detailed in Annex 3.
+24. CPS Outcome 1: Strengthened public financial and natural resource management is
+partially on track. Despite delays and the cancellation of two DPOs (P146953 and P151500)
+targets for two indicators were achieved, such as development of a debt management strategy and
+dissemination of an Extractive Industries Transparency Initiative (EITI) report (P130994). The
+targets for three others are on track to be achieved. World Bank support helped to enhance
+transparency of oil and fisheries industries. Through technical assistance (TA), the World Bank
+helped STP to prepare EITI reports which describe the legal, contractual and fiscal frameworks
+applicable to the oil sector. Also, through the Adaptation to Climate Change Project (GEF-
+P111669), the World Bank has helped STP publish fishing licenses.
+25. CPS Outcome 2: Enhanced statistical system is on track. The population and housing
+census was completed and disseminated between 2012 and 2014. In addition, a third national
+household survey was completed in 2018. Analysis of the results is now underway, which will
+feed into the upcoming poverty assessment and then serve as an input for the SCD.
+26. CPS Outcome 3: Improved private sector capacity with a focus on the tourism sector
+and SMEs is off track, as the original indicators and milestones were not met. These results
+were to be supported by the STP Competitiveness and Growth Project (P149262), which was
+dropped to reflect the country’s priorities in the allocation of the modest IDA17 funding. In
+addition, applications put forth to the Institutional Development Fund (IDF) and the Competitive
+Industries and Innovation Program (CIIP) TFs were not successful. Nevertheless, there were
+several achievements towards the outcome not reflected in the original indicators. With the support
+of an IFC Advisory Services Project, the Directorate General of Tourism and Hospitality (DGTH)
+completed a new tourism strategy informed by extensive consultations with the private sector.
+Furthermore, DGTH implemented the first round of monitoring tourist satisfaction through exit
+surveys, launched an inventory of tourism assets, and trained and certified a cadre of officially
+recognized tour guides.
+27. CPS Outcome 4: Improved business environment and trade regulations is partially
+on track. There has been significant progress in the areas of business entry and trade facilitation.
+The establishment of the online platform linked to the Guiché Único de Empresas (one stop shop)
+has improved business entry, making it possible for more than 650 companies to register online,
+with procedures and costs reduced, the time to register cut in half, and the minimum capital
+requirement eliminated. Furthermore, construction permits have been facilitated with new laws
+that came into effect in 2016, while property registration has been made easier with a reduction in
+fees starting in 2017. In trade, the introduction of an electronic single window for trade has
+simplified the process to export and import by consolidating trade-related agencies on an online
+platform, facilitating payments and procedures. While progress has clearly been made in these
+areas, the original indicators were based on an older version of the Doing Business report, which
+13
+<<<PDF_PAGE_14>>>
+has only partially captured these improvements and whose methodology has changed since the
+inception of this CPS.
+28. CPS Outcome 5: Better targeting of energy subsidies is on track and the scope of the
+WBG’s support to the energy sector has broadened well beyond this outcome. WBG’s support
+to the energy sector considerably surpassed original CPS plans and now includes the DPO series,
+investment lending and TA. The Power Sector Recovery Project (PSRP - P157096) is supporting
+the rehabilitation of the main hydropower plant to provide additional renewable energy supply,
+which will improve both reliability and cost in the medium term. The WBG is also assisting the
+Government to put in place short term and affordable bridge power solutions.8 The Strengthening
+Energy Sector Monitoring and Planning Capacity in STP TA (P155621) is conducting survey work
+that will inform the implementation of future investments in the sector with a focus on distributed
+solar photovoltaic. A 20-year Least-Cost Development Plan (LCDP) was prepared in 2018, with
+the objective of reducing cost of generation by promoting the integration of low-cost renewables
+in the energy mix.9 Under the PSRP, TA is also provided to the Regulator AGER (Autoridade
+Geral de Regulação) to strengthen its capacity to conduct the tariff structure and regulation
+process. A related Energy Household and Enterprise survey was completed in 2018 and data
+analysis is ongoing for final dissemination in May 2019. This will help to better assess the level
+of subsidy and better identify households to be targeted. The World Bank has also successfully
+leveraged resources (including US$13 million from the European Investment Bank (EIB)) that
+will help transform the performance of STP’s energy sector (see Annex 5).
+29. CPS Outcome 6: Improved regional broadband connectivity is fully achieved,
+significantly surpassing the targets. As noted above, the CAB2 project has allowed the
+telecommunication sector to take a “giant step” forward in STP. The arrival of high-speed
+international connectivity, the first-time introduction of sector competition, the update of the legal
+and regulatory framework and of regulatory capacity building, have allowed a strong and sustained
+development of the telecommunications sector to benefit the STP population. The CAB2 project
+substantially achieved all its objectives including: access to and use of regional broadband
+network; reduction in international and domestic telecom prices; and competition. The Project
+ensured high-speed connection to the internet for all secondary schools. Furthermore, the Quality
+Education for All Project (P146877) has financed internet connectivity for the majority of primary
+schools.
+30. CPS Outcome 7: Improved poverty targeting is partially on track. STP has made
+significant progress in Social Protection (SP), specifically with the approval of the National Social
+Protection Policy and Strategy (PENPS) in 2014. With the support of three ASAs,10 the
+Government has overhauled its social safety nets approach. Specifically, it developed the basic
+elements of a Social Protection System including: (i) detailed program documents and operational
+manuals for the implementation of the three core SP programs defined in the PENPS; (ii) a
+targeting methodology to properly select SP beneficiaries and increase effectiveness of public
+8 The ongoing effort involves potential investment support from the AfDB.
+9 Least-Cost Power Development Plan for STP, 2018.
+10 ‘Building Blocks for the Social Protection System’ (P149534), the ‘Development of Effective Delivery System for
+Social Protection’ (TF0A4617-P163445), and the GFDRR-JIT grant ‘Building households adaptation to climate
+change through social protection in STP.’
+14
+<<<PDF_PAGE_15>>>
+expenditure; (iii) a Single Registry of SP programs; and (iv) effective payment and M&E systems.
+All SP beneficiaries (over 3,000 households) have been registered in the Social Registry which
+has allowed improved program targeting. Contrary to initial plans, a new public works program
+under the SSN TF project was not implemented and the Government opted for strengthening the
+existing Groups of Interest in Road Maintenance (GIME) program which is being supported by
+the WACA Resilience (P162337) and Transport Sector Development and Coastal Protection
+(P161842) Projects. Government prioritized the implementation of the social pensions and the
+design of a new cash transfer program for vulnerable families to be financed by the recently
+approved Social Protection and Skills Development Project (P163088).
+31. CPS Outcome 8: Increased adaptive capacity of coastal communities and reduced
+potential loss of lives and assets is on track. Through the activities financed by the ‘Adaptation
+to Climate Change’ Project (P111669), around 70 percent of fishermen targeted under the project
+received safety at sea equipment. Also, 23 risk committees in several coastal communities were
+established to more effectively disseminate early warnings for fishermen and the population to
+improve preparedness and provide early relief after disasters. In four pilot communities,
+participatory risk mapping helped to raise awareness, and coastal protection works combined with
+vegetation planting have been used to reduce river and coastal flooding risk. The recently approved
+WACA Resilience Investment Project (P162337) consolidates and expands these achievements.
+32. CPS Outcome 9: Improved training of teachers in primary education is on track. With
+the World Bank’s support, STP has continued to improve its primary education. Teacher training
+plans were developed together with a Teacher Qualifications Framework and certification process,
+all of which are improving the availability of qualified teachers. The project has also supported a
+distance learning program through which nearly all unqualified teachers in primary education have
+been benefitting from courses in key subjects and effective teaching methodologies. All primary
+schools now receive supervision visits at least four times per year and the Ministry has recruited
+54 Instruction Leaders to support teachers in their classrooms and monitor performance.
+33. CPS Outcome 10: Increased access to skills development is off track. There was lack
+of progress towards this outcome because it was decided to focus on reforming and improving
+basic education before moving to post-basic skills development. The newly approved ‘Social
+Protection and Skills Development Project’ (P163088) will enhance skills for tourism and
+entrepreneurship with first results expected beyond the revised CPS period.
+34. Some progress is being made towards gender equality, but gaps remain. The multi-
+sectoral Institutional Capacity Building Project (P162129) has gender-specific activities and
+targets in its results framework, including for credit registry coverage, for property titling, and for
+training in statistics and procurement. The WACAR Project (P162337) closely looked into gender
+dimensions of adaptation strategies for coastal communities and integrated women’s experience
+in adaptation strategies. Overall STP has closed gender-based enrolment gaps. However, the high
+levels of early pregnancy threaten school completion rates for adolescent girls. A transformative
+approach to boost economic and social outcomes is therefore adopted for the remaining years of
+the CPS (see paragraph 44 below).
+15
+<<<PDF_PAGE_16>>>
+Figure 1: Progress Towards Achieving CPS Outcomes
+16
+<<<PDF_PAGE_17>>>
+4. EMERGING LESSONS
+35. The World Bank’s portfolio in STP is still very small, thus limiting operational
+lessons. Nevertheless, the CPS program has demonstrated that the WBG can successfully support
+transformational change in STP. CPS implementation thus far has yielded several insights about
+things that are going well, those of which we need to do more, things that did not go well, and
+those which need to be adjusted:
+(i) Continue to strategically combine IDA resources with financing from TFs, regional
+sources, and other DPs to drive transformational change in STP. The Regional CAB2
+Project (P117652) opened unprecedented possibilities in the country, such as online
+visas, online single windows for businesses to government procedures, and distance
+learning for teachers in remote areas. This project shows that by leveraging financing
+from the Regional Integration Program, even limited volumes of IDA resources can
+support change with considerable positive ripple effects on the business environment,
+tourism and social outcomes. TFs allowed progress in improving the business
+environment and social protection, which shifted from a paper-based system to a
+poverty-targeted program. These transformations will now be scaled up under the
+Social Protection and Skills Project (P163088). The ambitious support being provided
+to the energy sector is greatly facilitated by the EIB’s parallel financing.
+(ii) Strengthen policy dialogue and deepen mutual trust with the authorities to overcome
+difficulties faced in the preparation of DPOs. Several DPOs were delayed or cancelled
+because STP either borrowed non-concessionally or signed memoranda of
+understanding for megaprojects with potential Non-Concessional Borrowing Policy
+implications. Some of these projects lacked credible feasibility studies. Going forward
+the CPS will provide support to enhance institutional capacity for public investment
+management and stronger debt management, which will help avoid interruptions in the
+continued DPO program. These lessons are all the more relevant with the arrival of the
+new Government.
+(iii) Enhance support to implementation for continued satisfactory performance of the
+scaled-up portfolio. Project design will need to rely on simple implementation
+mechanisms, given STP’s institutional and capacity constraints. In addition,
+implementation challenges will be addressed through strengthening the centralized
+implementation and fiduciary unit, AFAP, as well as promoting better coordination and
+between AFAP and line ministries. Continued support from the field-based
+procurement specialist will remain critical.
+(iv) Better reflect STP’s high unit costs – due to small scale and remote location – in
+project design. The markets are small, with limited competitiveness, causing the prices
+to be significantly higher than in the African continent (up to 30–50 percent higher).
+Construction materials need either to be imported, or when procured locally, are
+produced in small quantities. Both situations cause the unit costs to be high, as prices
+reflect cost of transportation or lack of economy of scale for locally sourced materials.
+Under the Power Sector Recovery Project (P157096), for example, detailed design of
+17
+<<<PDF_PAGE_18>>>
+the rehabilitation works revealed a considerable financing gap because of high unit
+costs, which is being addressed through an AF. Henceforth, these high unit costs need
+to be taken into account for project costing, and an unallocated amount should be kept
+to cover unforeseen cost overruns due to insularity.
+(v) Utilize strategic communication campaigns, which have proven helpful to tackle
+gender-based social norms linked to women and girls’ disempowerment. The country
+program will continue to capitalize on the successful communication campaign and
+outreach to beneficiaries that was developed by the Ministry of Social Protection in the
+context of the Development of Effective Delivery Systems for SP TF (P163445). Both
+the recently approved Social Protection and Skills Development Project (P163088) and
+the forthcoming Girls Empowerment and Quality Education for All Project will benefit
+from this experience as they seek to tackle binding constraints to human capital
+formation for girls and young women, such as persistent high levels of fertility.
+5. ADJUSTMENTS TO THE COUNTRY PARTNERSHIP STRATEGY
+36. The GoSTP seeks WBG support to address priority developmental challenges
+included in its recently adopted program, to which the revised CPS objectives - detailed
+below - will broadly respond.11 The Government established on December 3, 2018, seeks to
+achieve two main objectives: to reach an average growth rate of 7 percent; and to reinforce social
+cohesion. The program is organized around four strategic axes: (i) strengthening democracy and
+the rule of law; (ii) robust economic growth with accelerated job creation (with a considerable
+focus on higher quality education); (iii) improved quality of health services and social protection;
+and (iv) foreign policy to support development.
+37. With a more than quadrupled IDA18 allocation, the PLR reflects the opportunity to
+help STP accelerate progress towards the twin goals, including a strong focus on climate
+change resilience. At the same time, selectivity is increased by consolidating the number of
+outcomes from ten to seven. The adjustments to the program seek to support a more ambitious
+development agenda, bringing the WBG’s comparative advantages of financing, advice and
+convening power to enable diversification and growth, build human capital and girls’
+empowerment, and promote resilience to climate change. The indicative IDA18 allocation for STP
+is in the range of US$65-75 million.12 The World Bank will also look for opportunities to tap into
+IDA’s Regional Program to support regional integration efforts, as done for coastal protection with
+the WACA Resilience Project. IDA, IFC, and MIGA are exploring opportunities to mobilize
+private capital, de-risk investments, and promote private sector-based growth, including through
+the use of IDA18 IFC-MIGA Private Sector Window (PSW). Leveraging will also be undertaken
+by collaborating with DPs.
+11 The CMU organized a half-day workshop with the GoSTP in September 2016 to discuss progress and agreed on the
+program for FY17-FY20. This program was further confirmed during successive Annual and Spring Meetings as well
+as country visits, most recently in January 2019 with the new Government.
+12 Referenced IDA18 volumes are indicative. Actual PBA allocations will be determined annually during the FY18-
+20 period and will depend on: (i) total IDA resources available; (ii) the number of IDA-eligible countries; (iii) the
+country’s performance rating, per capita GNI, and population; and (iv) the performance and other allocation
+parameters for other IDA borrowers.
+18
+<<<PDF_PAGE_19>>>
+38. Following the design of the original CPS and applying lessons learned, the WBG will
+continue to strategically apply a mix of instruments to drive development results in STP.
+Lending to STP is in the form of IPFs and DPOs. Considering STP’s vulnerability to natural
+shocks, contingent financing instruments such as the Contingent Emergency Response
+Components (CERCs) are being included in new projects, such as the Transport Sector
+Development and Coastal Protection Project (P161842). As noted above, the WBG will continue
+to leverage TF resources and financing of DPs.
+39. The PLR extends the period of the FY14-FY18 CPS for two more years to FY20. The
+extension would allow time to build ownership and trust with the new GoSTP. It will also allow
+the next CPF to be informed by the findings of the forthcoming SCD, as well as a Poverty
+Assessment, which will be based the results of the national household survey. With a higher IDA18
+allocation, the WBG will be able to support a more ambitious development agenda. Table 4 below
+summarizes the proposed additional financing under this PLR for the remainder of the extended
+CPS period. The previous CPS two focus areas have been revised, streamlined and aligned to new
+government priorities and to the enlarged IDA envelope. The remainder of this section summarizes
+the PLR’s changes to the Focus Areas and CPS outcomes. (Annex 1 includes an updated results
+matrix. Annex 2 provides details on specific changes to the CPS).
+Table 4: PLR Indicative CPS Financing Plans, FY19-FY2013
+PLR Indicative Financing Amount
+(US$ million)
+AF to STP Power Sector Recovery Project (P168335) 10
+Third Strengthening Growth and First Policy DPO (P164321) 5
+STP Girls Empowerment and Quality Education for All Project (P169222) 15
+STP DPO New Series (P168335) 5
+40. Advisory work will remain a critical component of the WBG’s work in STP. Analytic
+work is critical to support the GoSTP as it seeks to better understand the challenges and
+opportunities facing the country. A Poverty Assessment (P167907) will help inform dialogue and
+policies on poverty and inequality, while a Country Economic Memorandum (P164180) will
+enhance understanding of the reforms needed to boost private sector-led growth in agriculture,
+fisheries and tourism. STP will also benefit from just in time TA as part of a programmatic multi-
+country ASA on Human Capital. A Digital Economy Gap Analysis will be undertaken in FY20 to
+support the shift from broadband connectivity to bridging digitals gaps and unlocking digital
+economy potential. (See Table 5).
+13 IDA financing through the end of FY19-FY20 is subject to the availability of IDA18 resources, and if necessary,
+financing operations may be postponed into FY21.
+19
+<<<PDF_PAGE_20>>>
+Table 5: Expected ASA, FY19-FY20
+Knowledge/ASA Product Planned Delivery
+World Bank Resolution and Payment Strengthening (P159937) Q4 of FY19
+Country Economic Memorandum (P164180) Q4 of FY19
+Poverty Assessment (P167907) Q4 of FY19
+Strengthening Energy Sector Monitoring and Planning Capacity (P155621) Q1 of FY20
+Digital Economy Gap Analysis Q4 of FY20
+Programmatic Multi-country ASA on Human Capital Q4 of FY20
+41. The PLR will aim to help STP address its vulnerability to climate change by including
+adaptation measures across the portfolio, while seeking opportunities for reducing
+greenhouse gas emissions and air pollution. Given its insularity and the volcanic nature of its
+geology, most of STP’s economic activities and assets are located along the coast. Because of the
+country’s geographic morphology, location, and climate change effects (especially floods and
+coastal erosions), adequate protection and resilient designs for infrastructure are critical. Hence,
+the WACA Resilience Project (P162337) and the Transport Sector Development and Coastal
+Protection (P161842) projects were designed with a focus on climate change resilience, as
+reflected in the climate co-benefits of 100 percent and 96 percent, respectively. Reducing
+greenhouse gas emissions and air pollution will be achieved through the Power Sector Recovery
+Project (P157096) which supports a greater proportion of hydro-electricity in the energy mix and
+thus contributes to the global climate change mitigation agenda. The AF to the Power Sector
+Recovery Project (P168335) co-benefit is therefore likely to be high.
+42. This PLR adjusts the first CPS Theme from ‘Supporting Macroeconomic Stability
+and National Competitiveness’ to ‘Supporting Macroeconomic Stability and Inclusive
+Growth’ while reducing the outcomes from six to four. This adjustment reflects client requests
+for scaled-up WBG support to private-sector led and inclusive growth. The PLR adjusts the focus
+of some outcomes and consolidates them from six to four under this theme. The PLR also narrows
+the focus of Outcome 1 to increasing fiscal revenues and the quality of public expenditures with
+less emphasis on natural resource management, due to low expectations for oil exploitation.
+Outcome 2 combines the existing emphasis on Extractive Industries governance and transparency
+(oil and fisheries) with State Owned Enterprise (SOE) governance, a new priority, as it greatly
+affects macro-economic stability and service delivery. Outcome 3 combines ICT with energy and
+transport as they comprise the main infrastructure bottlenecks to inclusive growth, adding
+transport, as a new priority. Outcome 4 focuses on improving the business environment with an
+emphasis on tourism and SMEs.
+43. The PLR streamlines the outcomes in the second CPS Theme: ‘Reduced Vulnerability
+and Strengthened Human Capacity’ from four to three. In line with client demand, the PLR
+introduces CPS Outcome 5 focused on enhancing education and skills, which consolidates original
+CPS outcomes on training teachers and skills development. Outcome 6 highlights statistical
+capacity and poverty targeting to support social safety nets for vulnerable groups. Outcome 7
+remains focused on increased adaptive capacity of coastal communities and reduced loss of lives
+and assets in fisheries. Accordingly, outcomes, milestones and results were revised.
+20
+<<<PDF_PAGE_21>>>
+44. The WBG plans to step up its efforts to reduce gender gaps and boost girls’ and
+women’s economic and social empowerment. Ongoing and planned operations devote specific
+attention to gender aspects including gender-sensitive activities and sub-components, including in
+the institutional capacity building, education, energy, transport, social protection and WACA
+projects. The breadth of the WBG’s engagement to boost girls’ and women’s economic and social
+empowerment is summarized below, as framed by the WBG Gender Strategy:
+• Reducing gaps in human endowments. World Bank engagement will help prevent early
+pregnancy and high levels of child bearing for women through a multipronged approach
+addressing underlying social norms and cost-related barriers: (i) the Social Protection and
+Skills Project provides sensitization sessions including family planning, and it partners
+with United Nations International Children's Emergency Fund (UNICEF) for parental
+education sessions for both women and men, which directly address fertility; (ii) the cash
+transfers program under the Project will gradually become a fully conditional cash transfer,
+as the Project will aim to keep girls longer in schools by connecting the social safety net
+information system with education attendance data. Moving forward, the proposed Girls
+Empowerment and Quality Education for All Project will address the secondary level of
+education and reinforce activities - establishing close linkages with the Social Safety Nets
+Program - to encourage school completion, prevent early pregnancy and bring back young
+girls who have dropped out due to pregnancy. In support of the gradual introduction of
+conditional cash transfers for girls, the respective information systems of the education and
+social protection ministries will be strengthened, allowing data-sharing and gradual
+interoperability.
+• Promoting access to more and better jobs. Under the Social Protection and Skills Project,
+young women will benefit from the opportunity to attend vocational training programs and
+enhance their employability in the tourism industry. Women will also benefit from gender-
+sensitive entrepreneurship training. The Transport Sector Development and Coastal
+Protection Project finances capacity building and training related to road maintenance,
+leadership and management to promote women's professional development.
+• Enhancing voice and preventing gender-based violence (GBV). All projects foster
+participation mechanisms and include Grievance and Redress Mechanisms (GRM) where
+women’s voices can be heard, and shape public interventions supported by the Bank. All
+projects will also seek to address, prevent and/or mitigate GBV, which is high in STP. To
+prevent conflict risks linked to the designation of women as cash recipients, the cash
+transfer program under the Social Protection and Skills Project includes parental and
+beneficiary training on intra-household conflict-resolution and empowerment. Finally, to
+mitigate risks of potential sexual harassment during vocational training courses, all trainers
+will receive sensitization sessions and students will be empowered to use the GRM to
+safely report disrespectful behaviors.
+45. Partnerships and capacity building will also remain critical priorities. Effective
+collaboration with DPs and ongoing dialogue with domestic stakeholders (as described in
+paragraphs 21-22) have been instrumental and will continue. Finally, keen attention to capacity
+building – including the multi-sectoral Institutional Capacity Building Project (P162129) and the
+21
+<<<PDF_PAGE_22>>>
+more regular staff presence in STP – reflect the lessons learned to ensure the sustainability of WBG
+support.
+THEME ONE: SUPPORTING MACROECONOMIC STABILITY AND INCLUSIVE GROWTH
+46. The GoSTP’s new program aims to unblock constraints to inclusive, private sector-
+driven growth, while pursuing measures to ensure macroeconomic stability. STP is highly
+dependent on aid inflows and this leads to recurring fiscal pressures due to aid volatility. The
+GoSTP is implementing reforms to enhance domestic revenue mobilization, while strengthening
+public expenditure management and implementing reforms to strengthen the performance of
+SOEs. STP also must ensure transparency in the management of its extractive industries (fisheries
+and oil).
+47. Accelerated private sector-driven, and inclusive and sustainable growth is hindered
+by infrastructure constraints, inadequacies in the framework for doing business and scarcity
+of skills. The GoSTP chose tourism, agriculture, fisheries, and transit and facilitation as drivers
+for inclusive growth in the long term. The GoSTP plans to (i) implement an ambitious public
+investment program in transport (to improve the airport, improve the road networks, and thus
+connectivity) which will yield results only during the next CPF period; and (ii) increase access and
+reliability of power supply. The GoSTP also plans to implement reforms to enhance the business
+environment notably to attract private investors to the tourism, fisheries, transit and facilitation,
+and agriculture sectors.
+48. Based on the existing CPS focus areas (expenditure and debt management, ICT,
+energy, business environment and the financial sector) and emerging new priorities (SOE
+performance and transport) the revised CPS focus area one will have four key outcomes: (i)
+increased fiscal revenues and improved quality of public expenditures; (ii) strengthened SOE
+governance and transparency of extractive industries; (iii) fostered growth enhancing reforms in
+ICT and the energy sector; and (iv) improved business environment with a focus on tourism and
+SMEs. The support to the transport sector will yield results only during the follow up CPF period.
+World Bank support will be channeled through the DPO series, IPFs and ASA. Continued
+coordination across IDA, IFC and MIGA, will help to further strengthen the investment climate,
+including ongoing efforts to improve the energy sector, ICT connectivity/affordability and
+payment systems. Planned future IFC activities include launching the STP Leasing Program.
+Revised CPS Outcome 1: Increased fiscal revenues and improved quality of public
+expenditures
+49. Given STP’s continued macro-fiscal challenges, the program will continue to focus on
+enhancing fiscal performance, through revenue mobilization, improved expenditure quality,
+and enhanced debt management capacity. Currently, STP mobilizes tax revenues around 13-14
+percent of GDP, with public spending about 30 percent of GDP in 2015-2016. STP is
+implementing fiscal reforms to enhance revenue mobilization, strengthening PFM to ensure
+transparent, sound, and efficient management of public resources, and improving debt
+management. The revised CPS expands the ongoing support provided to the GoSTP in
+coordination with the IMF, French Development Agency (Agence Française de Développement)
+22
+<<<PDF_PAGE_23>>>
+AFD, and EU to strengthen revenue mobilization and improve the quality of public expenditures
+through the Institutional Capacity Building Project (P162129) and the DPO series. Specific
+reforms being supported in this area include the introduction of a value added tax, better planning,
+budgeting and forecasting of public expenditures, improved public investment management,
+modernized public procurement, and strengthened debt management systems.
+Revised CPS Outcome 2: Strengthened SOE governance and improved transparency
+50. The Program will have an increased focus on tackling SOEs transparency, efficiency,
+and financial viability challenges. SOEs have long-standing issues related to their transparency,
+efficiency, and financial viability which contribute to higher fiscal risks. SOEs in STP have an
+adequate legal and regulatory framework, but implementation is weak, and ownership and
+accountability mechanisms are unclear. Through the Power Sector Recovery Project (P157096),
+TA and the DPO series, the World Bank is supporting reforms in the national electricity company
+(EMAE). Meanwhile, the Public Expenditure Review (P161140) and the DPO series will inform
+future SOE reforms with implementation support to be provided by the Institutional Capacity
+Building Project (P16212). Specific reforms are expected to lead to improved capacity for SOE
+reporting, monitoring, and transparency.
+Revised CPS Outcome 3: Fostered growth-enhancing reforms in ICT, energy, and transport
+sectors
+51. Inspired by the transformational impact achieved on ICT connectivity a similar
+approach will be pursued to other key enabling sectors for private sector development,
+namely transport and energy. The GoSTP plans to continue improving ICT while addressing
+infrastructure issues in energy and transport, both with significant potential for positive impacts
+on inclusive growth. Investments will ensure climate resilience and adequate protection in design
+for infrastructure. In ICT, the revised CPS will support a shift from broadband connectivity to
+bridging digital gaps, underpinned by a Digital Economy Gap Analysis which will pave the way
+for further engagement to unluck the digital potential under the next CPF period. In the energy
+sector the Power Sector Recovery Project and its planned AF (P168335) will increase renewable
+energy generation and improve the reliability of the electricity supply. In transport, the recently
+approved Transport Sector Development and Coastal Protection Project (P161842) will
+rehabilitate National Road 1 from Sao Tome to Guadalupe and strengthen the technical and
+management capacity of the National Roads Agency (INAE), the Road Fund and the community-
+based GIME association in charge of road maintenance. It will also protect the sea front and the
+main roads from impacts caused by submersion, erosion and landslides, currently affecting both
+the pavement and the structure of the road. Finally, it will improve road safety by developing and
+implementing a national road safety strategy, with an emphasis on vulnerable road users such as
+pedestrians. The first results for this project will only emerge during the next CPF period.
+52. With energy being a critical bottleneck for private sector development, the Bank will
+support the foundations for private sector investment in the sector, seeking an MFD
+approach in collaboration with IFC and MIGA. Private financing is critical to add a needed
+54.8 MW in generating capacity between 2018-203514, a threefold increase from current levels.
+14 Least-Cost Power Development Plan for STP, 2018.
+23
+<<<PDF_PAGE_24>>>
+However, STP Power sector is facing binding constraints to private sector participation mainly
+linked to (i) the poor financial situation of the sector, (ii) the absence of an effective regulatory
+framework to ensure financial viability15 and quality of service and (iii) lack of a sound PPP
+framework. Under the revised CPS, the IFC and the World B will coordinate closely to help GoSTP
+to address these constraints thus laying the foundations for the MFD approach and identifying
+potential private sector participation in the power sector, especially in the renewable energy space.
+Under the Power Sector Recovery Project (P157096) the Contador hydropower project is being
+rehabilitated with a view to increasing its installed capacity from 1.5 MW to 3.2 MW by 2022,
+which represents 12 % of the generation capacity necessary to meet energy demand. With support
+of the same project and the DPO series (P159010), the Bank is supporting: (i) a tariff study; (ii)
+strengthening of the utility (EMAE) and the regulatory agency (AGER): and (iii) financing of a
+Transaction Advisor to identify emergency generation solutions that would lower cost of
+generation. A Management Improvement Plan and Least-Cost Development Plan (LCDP) were
+developed and should be endorsed as prior actions under the DPO. A PPIAF grant16 is supporting
+the GoSTP to prepare a PPP strategy in the energy sector based on a review of the effectiveness of
+the legal and regulatory framework,17 as well as an assessment of the sector's investment
+and capacity needs in coordination with the LCDP. The review of the PPP framework will
+consider the fiscal risks brought by PPPs, especially in a context of high debt and low domestic
+revenue like STP. The revised CPS will continue to finance investment and TA needed to ensure
+security of supply in the short term, improve EMAE performance and establish the enabling
+environment to attract private financing in the medium term (see Annex 5).
+Revised CPS Outcome 4: Improved business environment, with a focus on tourism and
+SMEs
+53. Building on the achievements to date, activities will continue for improving the
+business environment and strengthening the financial sector. In spite of the progress made,
+much more needs to be done to further improve ease of doing business, open access to credit
+particularly to micro, small, and medium enterprises to develop their business, and spur sustainable
+tourism. Through TAs, the DPO series and the Institutional Capacity Building Project (P162129),
+the WBG will provide support for the business enabling environment, including property
+registration, credit information infrastructure (credit and moveable asset registries), microfinance,
+mobile payments, and improved capacity for banking sector supervision during the remainder of
+the extended CPS period. These cross-cutting reforms can help promote growth in key sectors such
+as tourism.
+`THEME TWO: STRENGTHENING HUMAN CAPACITY AND REDUCING VULNERABILITY
+54. STP made considerable progress enhancing human capital in its efforts towards the
+MDGs, but challenges remain. To increase growth and inclusion the country needs to become
+more strategic in its investments in human capital, including through a better performing education
+sector, more effective and targeted safety nets, and adequate instruments for adaptation to climate
+15 This is a pre-requisite to make the national utility a credible off-taker for any Independent Power Producer.
+16 TF0A7283 - Private Sector Participation options to foster Renewable Energy and achieve Nationally Determined
+Contributions targets.
+17 Including a PPP Law—Lei no. 06/2018 promulgated by the President of the Republic on March 12, 2018.
+24
+<<<PDF_PAGE_25>>>
+change by vulnerable populations. Better trained teachers and stronger supervision of schools are
+needed to improve the quality of education. In addition, to develop a more effective social
+protection system, accurate targeting and management systems are key. Thus, a good statistics
+system is critical to provide both data for adequate targeting and measuring impacts of
+interventions. At the same time, clear links between safety nets’ beneficiaries and skills
+development initiatives need to be established to enhance the productivity and employability of
+poor households. Finally, the adaptive capacity to climate change of coastal communities, among
+the most vulnerable, needs to be increased while reducing the potential loss of assets and lives.
+Considering ongoing and planned support by other DPs such as AfDB, the EU, and the UN
+agencies, the WBG will support this revised CPS Theme to achieve reforms in education and skills
+strengthening, social protection and adaptive capacity of coastal communities through IPFs, DPOs
+and ASA.
+Revised CPS Outcome 5: Enhanced education quality
+55. While STP has achieved almost universal access to primary education, literacy rates
+above 95 percent and progression to secondary education of 100 percent, focus now needs to
+turn to the quality of education and the employability of graduates. To tap into the potential
+to accelerate growth offered by tourism and agriculture, STP would need to strengthen its skill
+base to better respond to market needs. The ongoing Quality Education for All Project (P146877)
+supports improved teacher training and school supervision. The forthcoming Girls Empowerment
+and Quality Education for All Project will bring a more comprehensive approach to improved
+quality, enhancing the scope of the World Bank’s support to both pre-school and secondary levels,
+and with a much-enhanced emphasis on gender aspects. A first step in the gradual introduction of
+conditional cash transfers for girls’ education and prevention of teen pregnancy will be the
+strengthening of the information systems and the agreement of the Ministries of Education and
+Social Protection to share data on school attendance. This expected improvement is now reflected
+in the introduction of a new outcome indicator, the signing of a memorandum of understanding
+(MoU) between the Ministries of Education and Social Protection describing the key principles of
+their collaboration, including data-sharing. Finally, the newly approved Social Protection and
+Skills Development Project (P163088) will enhance skills for tourism and entrepreneurship. First
+results for the latter two projects are expected beyond the period of the extended CPS period.
+Revised CPS Outcome 6: Improved poverty targeting and access to social safety nets for
+vulnerable groups
+56. To promote poverty reduction that is more inclusive and sustainable, the PLR will
+sustain efforts to protect vulnerable communities and promote economic opportunities. In
+2016, the budget for social protection and social assistance in STP accounted for less than 0.65
+percent of GDP, well below the African average of 1.2 percent of GDP. Building on TA financed
+by the Rapid Social Response TF, the Social Protection and Skills Development Project (P163088)
+will support the upgrade and scale up of the current social protection delivery systems which, to
+date, have limited scope, capacity and funding. The Project is expected to support the upgrade and
+scale up of core SP delivery systems through (i) an accurate targeting system, (ii) a payment
+system, (iii) a Management Information System to improve cost-efficiency and effectiveness of
+current programs, and (iv) a monitoring and evaluation system. In addition, the Project includes a
+25
+<<<PDF_PAGE_26>>>
+conditional cash transfer component which will significantly expand coverage for extremely poor
+households, based upon the targeting methodology.
+Revised CPS Outcome 7: Increased adaptive capacity of coastal communities and reduced
+risk of loss of lives and assets
+57. During the revised CPS period the WBG will contribute to increasing adaptive
+capacity of vulnerable coastal communities and help STP address its vulnerability to climate
+change and natural disasters. The recently adopted WACA Project (P162337) will support the
+GoSTP with increased awareness of climate change through participatory mapping as well as
+piloting adaptation strategies, combining soft and hard protection works, in addition to voluntary
+relocation of population to safer areas. For coastal communities, another critical challenge is the
+adoption of safer practices by fishermen who face increasing risks. The WACA Project is
+promoting activities that disseminate better information on weather and provide safety equipment
+to manage these risks, thereby saving lives and reducing the loss of assets that trap these
+communities in poverty. As noted earlier, the newly approved Transport Sector Development and
+Coastal Protection Project (P161842) will greatly help to protect the sea front and the main roads
+from impacts caused by submersion, erosion and landslides. It will also support a detailed
+assessment of vulnerabilities in road transport and develop a strategy for enhancing its climate
+resilience in line with the adaptation measures included in the NDC18. Results under this project
+are expected in the subsequent CPF period.
+6. RISKS TO REVISED CPS PROGRAM
+58. Compared to FY14, risks to the CPS outcomes have broadly remained stable, with
+some shifts in composition. First, political and governance risks have risen to substantial, given
+the narrow majority held by the coalition government. The risks related to macroeconomic
+sustainability remain substantial, as STP’s fiscal framework is fragile and could worsen. These
+governance and macroeconomic risks are being mitigated by close monitoring, a sequence of
+DPOs to advance reforms, and technical assistance. Institutional capacity for implementation and
+sustainability is very weak, and efforts to strengthen capacity are complicated by the high staff
+rotation in key ministries. This staff turnover along with the growth of the portfolio also raises
+fiduciary risks to substantial. Technical assistance, close supervision of projects, regular portfolio
+reviews, and the recent posting of the Senior Procurement Specialist all help mitigate these risks.
+Finally, as a small-island state, STP remains highly vulnerable to climate change (particularly
+floods and coastal erosion), a risk which WBG engagement aims to mitigate through such
+engagements as enhancing resilience of coastal communities and building climate resilient
+infrastructure.
+18 The STP “Nationally Determined Contributions (NDC)” prepared for the twenty-first session of the Conference of
+the Parties (COP21) stated that resilience to erosion and maritime as well as river and storm flooding of coastal areas
+through improved Coastal Protection of vulnerable communities should be one of the main climate change adaption
+measures.
+26
+<<<PDF_PAGE_27>>>
+Table 6: STP Revised Systematic Operations Risk-Rating Tool (SORT)
+Risk Rating Revised Rating
+(H, S, M, L)
+1 Political & governance Substantial
+2 Macroeconomic Substantial
+3 Sector strategies and policies Low
+4 Technical design of project/ program Low
+5 Institutional capacity for implementation and Substantial
+sustainability
+6 Fiduciary Substantial
+7 Environmental & social Substantial
+8 Stakeholders Low
+9 Other -
+Overall Substantial
+27
+<<<PDF_PAGE_28>>>
+Annex 1: Updated Results Matrix
+Revised CPS Indicators (FY14–FY20) Supplementary Indicators WBG Engagement
+Revised CPS Theme One: Supporting Macroeconomic Stability and Inclusive Growth
+STP’s Transformation Agenda aims to unblock constraints to private sector driven, inclusive growth and it includes measures to ensure macroeconomic
+stability, ease infrastructure bottlenecks and improve the business environment.
+STP is highly dependent on aid inflows, the volatility of which exposes the country to recurring fiscal pressures. The GoSTP is implementing reforms to
+enhance domestic revenue mobilization, while strengthening PFM. As Government investment is expected to remain high, thanks to the unprecedented IDA18
+increase and to financing from the People’s Republic of China (PRC), strengthening the framework for public investment management is vital. As domestic
+revenue continues to be low and the debt level remains high STP needs to pursue fiscal consolidation, to subject expenditures to a hard budget constraint and
+to place public debt on a sustainable path. Meanwhile, STP also needs to improve transparency and performance in the management of SOEs and extractive
+industries (fisheries and oil), which have a high impact on the country’s public finances.
+Private sector driven, inclusive growth is hindered by infrastructure constraints, by inadequacies in the framework for doing business and by the scarcity of
+skills. The GoSTP chose tourism, agriculture, fisheries, and transit and facilitation, as drivers for inclusive growth in the long term. The GoSTP plans to
+implement an ambitious public investment program in transport (to improve the road networks and the airport) for which results will only be seen during the
+next CPF period, while continuing to increase access and reliability of power supply, and to enhance information and communication technologies (ICT). The
+GoSTP also plans to implement reforms to enhance the business environment, notably to attract private investors to the tourism, fisheries, transit and facilitation,
+and agriculture sectors.
+Considering support provided in the first phase of the CPS (expenditure and debt management, ICT, energy, business environment, financial sector), emerging
+new priorities (SOE performance, transport) and ongoing and planned support by the IMF, AfDB, EU, and bilateral partners such as China and the Netherlands,
+this PLR adjusts the CPS program and organizes the support during the remaining CPS period into four key outcomes: (i) increased fiscal revenues and
+improved quality of public expenditures; (ii) strengthened SOE and extractive industries governance and improved transparency; (iii) improved performance
+of the infrastructure sector (ICT energy, and transport); and (iv) improved business environment with a focus on the tourism sector and SMEs. WBG support
+will be channeled through the DPO series, IPFs and ASA.
+Revised CPS Outcome 1: Increased fiscal revenues and improved quality of public expenditures
+This post-MDRI country is in debt distress. It mobilizes tax revenues hovering around 13-14 percent of GDP, and public spending was about 30 percent of
+GDP in 2015-16. STP is implementing fiscal reforms to enhance revenue mobilization, strengthening PFM to ensure transparent, sound, and efficient
+management of public resources, and improve debt management. The revised CPS will expand the ongoing support provided to the GoSTP in coordination
+with the IMF, AfDB, and EU to strengthen revenue mobilization and improve the quality of public expenditures through ASA, a capacity strengthening IPF
+and development policy financing.
+28
+<<<PDF_PAGE_29>>>
+Revised CPS Indicators (FY14–FY20) Supplementary Indicators WBG Engagement
+Revised CPS Indicator 1.1: Tax revenues as a share of 1.1: Preparation, auditing, and Completed Financing:
+GDP: presentation of State annual financial • 1st ‘Strengthening Growth and Building Foundations
+statements for legislative scrutiny: f o r P o v e r t y R e d u c t i o n ’ D P O ( P 1 5 9010)
+• Baseline (2014): 14.3 % • 2nd ‘Strengthening Growth and Fiscal Policy’ DPO
+• Target (2020): 15.8% • Baseline (2013): Annual (P161707)
+statement for 2010 submitted
+for audit. Completed ASA:
+• Target (2020): Annual • ROSC (Report on the Observance of Standards and
+statement prepared, audited, Codes) (P149902)
+and presented to Parliament • MTDS (Medium Term Debt Management Strategy)
+within 15 months after close (P147175)
+of fiscal year. • Public Expenditure Review (P161140)
+• Financial Sector Strategy TA Project (P150418)
+1.2: Availability of budget information (‘FIRST’ TF-World Bank executed)
+to the public:
+• Baseline (2013): 2 out of 6
+types of budget information Ongoing ASA:
+under PEFA (Public • Bank Resolution and Payment System Strengthening
+Expenditure and Fiscal (P159937) FIRST TF
+Accountability) methodology • Institutional Capacity Building Project (Finance, PFM
+made available to the public and Trade) (P162129)
+within one month of their
+completion. Pipeline Financing:
+• Target (2020): At least 5 out • 3rd ‘Strengthening Growth and Fiscal Policy’ DPO
+of 6 types of budget (P164321)
+information made available
+within one month.
+1.3. Share of ongoing and finalized
+projects with basic information
+included in the National Investment
+Portfolio Database:
+• Baseline (2014): 0
+• Target (2020): 100%
+29
+<<<PDF_PAGE_30>>>
+Revised CPS Indicators (FY14–FY20) Supplementary Indicators WBG Engagement
+Revised CPS Indicator 1.2: Number of Debt 1.4: Existence of a debt management Completed ASA:
+Performance Indicators (DPI) with a score of at least a strategy: • Follow-up DeMPA (P161882)
+“C” per DeMPA (Debt Management Performance • Debt Strategy Reform Plan
+Assessment) methodology: • Baseline (2013): No strategy in
+place Ongoing Financing:
+Baseline (2016): 27 out of 33 • T arget (2020): Updated Medium- • Institutional Capacity Building Project (Finance, PFM
+Target (2020): 23 out of 33 term debt strategy publicly and Trade) (P162129)
+available
+Revised CPS Outcome 2: Strengthened SOE governance and improved transparency
+The GoSTP requested WBG support to tackle SOEs transparency, efficiency, and financial viability challenges while sustaining support to improve
+transparency in the extractive industries. SOEs such as the electricity company EMAE, the National Enterprise of Airports and Air Safety (ENASA), the
+National Enterprise of Ports, and Postal Service, have long standing issues related to the transparency, efficiency, and financial viability which increase fiscal
+risks. STP has an adequate legal and regulatory framework for SOEs, but implementation is weak, and ownership and accountability mechanisms are unclear.
+Through the Energy Sector Recovery Project, TA and the DPO series, the WBG is supporting reforms in EMAE. The Public Expenditure Review and the
+ongoing DPO series will inform future SOE reforms. Through this support the WBG expects to directly help improve the overall performance of SOEs. At the
+same time, the WBG will continue the support provided since the beginning of the CPS to enhance transparency of oil and fisheries industries. Through TA,
+the WBG is helping STP prepare EITI reports that have so far reviewed the legal, contractual and fiscal frameworks applicable to the oil sector. Also, through
+the Climate Change Adaptation grant the WBG has helped STP publish fishing licenses.
+Revised CPS Indicator 2.1: Completed ASA:
+External audits conducted for fully owned SOEs • Public Expenditure Review (P161140)
+Completed Financing:
+• Baseline (2014): N.A. • 2nd. ‘Strengthening Growth and Fiscal Policy’ DPO
+(P161707)
+• Target (2020): 75%
+Ongoing Financing:
+• Institutional Capacity Building Project (Finance, PFM
+and Trade) (P162129)
+Pipeline Financing:
+• 3rd ‘Strengthening Growth and Fiscal Policy’ DPO
+(P164321)
+30
+<<<PDF_PAGE_31>>>
+Revised CPS Indicators (FY14–FY20) Supplementary Indicators WBG Engagement
+Revised CPS Indicator 2.2: Public disclosure of new Completed ASA:
+fishing agreements and licenses within one month of • Extractive Industries Transparency Initiative (EITI)
+signing agreements or (Multi-Donor TF) (P130994)
+issuing licenses:
+• Baseline (2014): 0%
+• Target (2020): 100%
+Revised CPS Indicator 2.3: Improved accountability in Completed ASA:
+oil sector governance: • Extractive Industries Transparency Initiative (EITI)
+(Multi-Donor TF) (P130994)
+• Baseline (2013): EITI reconciliation Report
+• Target (2020): EITI Reconciliation Report publicly
+available and disseminated in the country
+Revised CPS Outcome 3: Fostering growth-enhancing reforms in ICT, energy, and transport sectors
+The CPS has made a transformational impact on ICT connectivity in STP through the Central African Backbone (APL2) program. Building on this success,
+the GoSTP plans to continue improving the performance of the ICT sector while addressing issues in the energy and transport sectors, which both present
+significant potential to contribute to inclusive growth. The effects of good infrastructure on inclusive growth are well known. In addition, because of the
+country’s geography, location, and vulnerability to climate change (especially floods and coastal erosion) adequate infrastructure is critical. Considering
+ongoing and planned WBG and other DPs (EU, AfDB, and China) support, the revised CPS program maintains support to ICT and expands its interventions
+to increase renewable energy generation, improve the reliability of the electricity supply, expand and improve the road network. Instruments considered include
+ASA, a capacity strengthening IPF, and the DPO series. Results indicators below focus on the energy sector where an IPF is already under implementation,
+while results in the transport infrastructure will only emerge during the next CPF period.
+Revised CPS Indicator 3.1: Retail price of internet Completed Financing:
+services • Central African Backbone (APL2)
+• Baseline (2011): US$410 Pipeline ASA:
+• Target (2014): US$52 • Digital Economy Gap Analysis
+Revised CPS Indicator 3.2: EMAE’s technical and 3.1: Hydropower capacity Completed ASA:
+non-technical losses rehabilitated: • Power Sector Efficiency Improvement TA
+• Baseline (2017): 40% • Baseline (2017: 0MW
+• Target (2020): 34% • Target (2020): 2MW Ongoing Financing:
+• Power Sector Recovery Project (P157096)
+31
+<<<PDF_PAGE_32>>>
+Revised CPS Indicators (FY14–FY20) Supplementary Indicators WBG Engagement
+3.2: Least Cost Development Plan Pipeline ASA:
+prepared, including demand forecast. • Strengthening energy sector monitoring and
+planning capacity in STP (P155621)
+• Baseline (2017): No
+• Target (2020): Yes
+3.3: Energy Household and Enterprise
+access/consumption survey prepared.
+• Baseline (2017): No
+• Target (2020): Yes
+3.4: Completion and endorsement of
+Management Improvement Plan of
+EMAE.
+• Baseline (2017): No
+• Target (2020): Yes
+Revised CPS Outcome 4: Improved business environment, with a focus on tourism and SMEs
+Major strides were made in improving business regulation and strengthening the financial sector. However, much more needs to be done to improve ease of
+doing business, open access to credit, particularly to micro, small, and medium enterprises to develop their business, and to spur sustainable tourism. On the
+financial sector side, the starting point was the World Bank-supported FSDIP, adopted by the Government in September 2016 to provide a coherent vision and
+strategy for financial sector development. The FSDIP is followed by two FIRST-funded TA projects on banking resolution (essential for strengthening financial
+stability) and payment systems. The Bank Resolution Support Project supports the central bank (BCSTP) in improving financial stability by increasing
+supervisory capacity for off- and on- site supervision and by strengthening the regulatory framework for bank resolution. The Payment Systems Strengthening
+TA includes actions that promote retail payments and mobile financial services for inclusion. Through the multi-GP Institutional Capacity Building Project,
+the WBG supports actions to strengthen institutional capacity for financial stability and inclusion, public financial management, land registration, and statistics.
+These include activities to strengthen the central bank’s capacity in supervision and bank resolution: a demand-side survey of how individuals and small
+enterprises source their income and manage their finances; investments in financial infrastructure, including enhancements to the public credit registry
+(hardware, software, and a disaster recovery site) and movable collateral registry; capacity strengthening for public financial management, particularly in
+revenue forecasting, expenditure controls, and oversight of SOEs; support to the modernization of the land registry; and support to the development of data
+access and information policies and dissemination practices, including through financing enhancements to the statistical agency’s website and technical
+assistance on micro-data anonymization and annual production and distribution of statistical abstracts. The project will explore opportunities for public
+institutions to learn on-the-job, including through partnerships with similar organizations from more developed countries. The WBG plans to continue its
+support to the tourism and financial sector during the remainder of the revised CPS period through ASA. The STP Investment Climate Project, an IFC Advisory
+Services project, supported improvements in business regulations, trade facilitation and tourism development. Improvements supported by this project include
+32
+<<<PDF_PAGE_33>>>
+Revised CPS Indicators (FY14–FY20) Supplementary Indicators WBG Engagement
+an electronic platform for starting a business, reform of construction permit regulations and property registration fees, technical advice on the implementation
+of an electronic single window for trade and risk management procedures at customs, advice on introducing electronic visas, and development of a tourism
+strategy.
+Revised CPS Indicator 4.1: Number of tourists: Indicator 4.1: Tourism strategy Completed ASA:
+developed: • South-South Experience Exchange Facility TF:
+• Baseline (2012): 5,000** Building Capacity for Digitization of property registry
+• Target (2020): 25,000 • Baseline (2014): No strategy • STP Investment Climate Project (IFC Advisory
+• Target (2020): Strategy in place Services)
+**Note: Updated baseline figure from the original CPS, • IFC-Investment Climate Reform Plan
+with newly available statistics for 2012 from the Indicator 4.2: Tourism inventory
+Tourism Directorate conducted for 6 districts of STP: P i p e l i n e A S A :
+• Country Economic Memorandum (P164180)
+• Baseline (2014) Tourism
+inventory does not exist
+• Target (2020) Tourism inventory
+exists
+Indicator 4.3: Tourist exit survey
+conducted:
+• Baseline (2017): 0
+• Target (2020): 4
+Indicator 4.5: Number of days
+required to obtain a construction
+permit:
+• Baseline (2014): 118
+• Target (2020): 90
+Revised CPS Indicator 4.2: Private sector savings from Indicator 4.6: Time to import and Completed ASA:
+trade logistics reforms: export (border compliance) • SSKE- Strengthening Trade and Investment
+Promotion Agency
+• Baseline (2014): 0
+• Target: (2020) US$1.3 million • Baseline (2014): export 115 Ongoing Financing:
+hours; import 163 hours • Institutional Capacity Building Project (Finance,
+PFM and Trade) (P162129)
+• Target (2020): export 90 hours;
+import 150 hours Ongoing ASA:
+33
+<<<PDF_PAGE_34>>>
+Revised CPS Indicators (FY14–FY20) Supplementary Indicators WBG Engagement
+• STP Bank Resolution and Payment System
+Strengthening (P159937) (FIRST TF – World Bank
+executed)
+Revised CPS Indicator 4.3: All banks share data with Indicator 4.7: All Banks meet the
+the credit registry. minimum Capital Adequacy Ratio
+(CAR) required by the Central Bank
+• Baseline (2017) only a few banks provide
+information • Baseline (2017) percentage of
+• Target (2020) all banks provide information banks with CAR greater or equal
+to 10% is 86 in 2015 and 100 in
+2016.
+• Target (2020) 100 in 2017, 2018
+and 2019.
+Revised CPS Indicator 4.4: Share of the population with Ongoing ASA:
+access to formal financial services (I.e. transaction • STP Bank Resolution and Payment System
+accounts). Strengthening (P159937) (FIRST TF – World Bank
+Overall Access executed)
+• Baseline (2017): 39 percent
+• Target (2020): 45 percent Ongoing Financing:
+Women Access • STP Institutional Capacity Building Project
+• Baseline (2017): 15 percent (162129)
+• Target (2020): 20 percent
+Revised CPS Theme 2: Strengthening Human Capacity and Reducing Vulnerability
+STP made considerable progress enhancing human capital in its efforts towards the MDGs, but challenges remain. To increase growth and inclusion, the
+country needs to become more strategic in its investments in human capital, including through a better performing education sector, more effective and targeted
+safety nets, and adequate instruments for adaptation to climate change of vulnerable populations. Better trained teachers and stronger supervision of schools
+are needed to improve the quality of education. In addition, to develop a more effective social protection system, accurate targeting and management systems
+need to improve. Thus, a good statistics system is critical to provide both data for adequate targeting and measure impacts of interventions for service delivery
+more broadly. At the same time, clear links between safety nets’ beneficiaries and skills development initiatives need to be established to enhance the
+productivity and employability of poor households. Finally, the adaptive capacity to climate change of coastal communities, among the most vulnerable, needs
+to be increased while reducing the potential loss of assets and lives. Considering ongoing and planned support by other DPs such as AfDB, the EC and the UN
+agencies, the WBG will support this revised CPS focus area to achieve reforms in education and skills strengthening, SP and adaptive capacity of coastal
+communities through IPFs, the DPO series and ASA.
+34
+<<<PDF_PAGE_35>>>
+Revised CPS Indicators (FY14–FY20) Supplementary Indicators WBG Engagement
+Revised CPS Outcome 5: Enhanced education quality
+STP has achieved almost universal access to primary education, literacy rates are above 95 percent and progression to secondary education is 100 percent.
+However, quality is low. To tap into the potential to accelerate growth offered by tourism and agriculture, STP would need to strengthen its skill base to better
+respond to market needs. To enhance quality of education, the World Bank is supporting the improvement of teacher training and school supervision. The
+World Bank has just approved the Social Protection and Skills Project, but results will only be shown during the next CPF period. World Bank support will
+continue to be channeled through IPFs, the DPO series and ASA (PER).
+Revised CPS Indicator 5.1: Qualified primary teachers Ongoing Financing:
+resulting from projects • Quality Education for All Project(P146877)
+• AF GPE for Quality Education for All (FY19)
+• Baseline (2014): 40% (P150828)
+• Target (2020): 75% •Social Protection and Skills Development Project
+(P163088)
+Revised CPS Indicator 5.2: Memorandum of Ongoing ASA:
+Understanding signed between education and social • GPE TF for sector analysis and updated Education
+protection ministries, outlining key principles of Sector Plan
+collaboration for the gradual introduction of cash
+transfers for girls education and preventing early Pipeline Financing:
+pregnancy, including data-sharing.
+• STP Girls Empowerment and Quality Education for
+• Baseline: No intersectoral agreements in place to All (FY20) (P169222)
+address girls’ education and prevent early
+pregnancy through cash transfers
+• Target 2020: Agreement signed
+Revised CPS Indicator 5.3: Percentage of primary Ongoing Financing:
+schools benefitting from annual supervision: • Quality Education for All Project (P146877)
+• Baseline (2014): 0% Ongoing ASA:
+• Target (2020): 100% • GPE TF for sector analysis and updated Education
+Sector Plan
+Pipeline Financing:
+• STP Girls Empowerment and Quality Education for
+All (FY20) (P169222)
+35
+<<<PDF_PAGE_36>>>
+Revised CPS Indicators (FY14–FY20) Supplementary Indicators WBG Engagement
+Revised CPS Outcome 6: Improved poverty targeting and access to social safety nets for vulnerable groups
+Poverty reduction in STP implies measures to protect vulnerable communities and promote economic opportunities. Coverage of SP programs should increase
+and to do that, it is important to develop and operationalize the basic blocks for a Social Protection System, including an accurate targeting system, a payment
+system and a Management Information System to improve cost-efficiency and effectiveness of programs. A good statistics system is critical to provide data
+for adequate targeting and measure impacts of interventions.
+Revised CPS Indicator 6.1: Statistical Capacity Score: 6.1: Preparation of Household Survey Pipeline ASA:
+• Poverty Assessment (P167907)
+• Baseline (2017): 70 • Baseline (2017): 3rd Household
+• Target (2020): 73 Survey is not completed.
+• Target (2020): 3rd Household
+Survey is completed.
+6.2: Poverty Assessment
+• Baseline (2017): N/A
+• Target (2020): Concluded
+Revised CPS Indicator 6.2: Number of beneficiaries 6.3: Number of households registered Completed ASA:
+enrolled in the new programs: in the Social Registry: • Social Protection Rapid Social Response TF
+• Building Blocks for SP System
+• Baseline (2017): 0 • Baseline (2014): 0 • Poverty maps, Proxy Means Test and Poverty
+• Target (2020): 4,000 (Cash Transfer + Social • Target (2020): 4,400 Assessment; Management Information System;
+Pension) Communication Strategy
+Ongoing ASA:
+• Development of effective delivery systems for Social
+Protection (P163445)
+• GFDDR-TF (50k) to develop guidance for the
+implementation of a public works program.
+Ongoing Financing:
+• Social Protection and Skills Development Project
+(P163088)
+36
+<<<PDF_PAGE_37>>>
+Revised CPS Indicators (FY14–FY20) Supplementary Indicators WBG Engagement
+Revised CPS Outcome 7: Increased adaptive capacity of coastal communities and reduced potential of loss of lives and assets
+During the revised CPS period the WBG will contribute to increasing adaptive capacity of vulnerable coastal communities, with increased awareness through
+participatory mapping as well as piloting adaptation strategies, combining soft and hard protection works, in addition to voluntary relocation of population to
+safer areas. For coastal communities, another critical challenge is the adoption of safer practices by fishermen who are facing increasing risks. The World Bank
+is promoting activities that disseminate better information on weather, as well as provide safety equipment to manage these risks. Thus, saving lives and
+reducing the loss of assets that trap these communities in poverty. Through financing and ASA, the WBG is also helping STP to address its vulnerability to
+natural disasters and climate change in coordination with other West African countries.
+Revised CPS Indicator 7.1: Proportion of fishing 7.1: Artisanal fishermen are trained Completed ASA:
+population benefiting from training and equipment for and have received basic safety at sea • Adaptation to Climate Change (P111669)
+safety at sea. equipment:
+• Baseline (2014): 0% • Baseline (2014):0% Ongoing Financing:
+• Target (2018): 70% • Target (2020): 70% • WACA (P162337)
+Revised CPS Indicator 7.2: Fishermen deaths at sea
+caused by extreme weather conditions:
+• Baseline (2017):4.8 per year
+• Target (2020): less than 1 per year
+37
+<<<PDF_PAGE_38>>>
+Annex 2: Changes to original CPS Results Matrix
+Original CPS Results Matrix Updated CPS Results Matrix Comments
+Theme One: Supporting Macroeconomic Revised CPS Theme One: To reflect larger emphasis on
+Stability and National Competitiveness Supporting Macroeconomic inclusive growth and new
+Stability and Inclusive Growth priorities in reduction of its
+associated bottlenecks.
+Outcome 1. Strengthened public financial Revised CPS Outcome 1: To specify indicators around fiscal
+and natural resource management Increased fiscal revenues and revenues and stronger
+improved quality of public management of public
+expenditures expenditures
+Indicator 1.1: Availability of budget Moved to become supplementary
+information to the public: Indicator 1.2.
+• Baseline: (2013): 2 out of 6 types of (identical with revised target date
+budget information under PEFA of 2020)
+methodology made available to the
+public within one month of their
+completion.
+• Target (2017): At least 5 out of the 6
+types of budget information made
+available within one month.
+Indicator 1.2: Preparation, auditing and Inserted as supplementary
+presentation of State Annual Financial Indicator 1.1.
+Statements for legislative scrutiny:
+2020 target
+• Baseline (2013): Annual Statement
+for 2010 submitted for audit.
+• Target (2017) Annual Statement
+prepared, audited, and presented to
+Parliament within 15 months after
+close of fiscal year.
+Indicator 1.3: Percentage of direct contracting Dropped. No WBG activities will contribute to
+in procurement: achievement of the indicator.
+However, will coordinate with
+• Baseline (2013): 29% of all AfDB, which is working in this
+contracts. important area.
+• Target (2017): 10% of all contracts.
+Revised CPS Indicator 1.1 was Indicator is added to better align with
+added: "Tax revenues as share of new DPO series and with special
+GDP". Baseline (2014): 14.3 %; themes of IDA18.
+target (2020): 15.8 %
+Supplementary indicator 1.1:
+Preparation, auditing, and
+presentation of State Annual
+Financial Statements for legislative
+scrutiny:
+• Baseline (2013): Annual
+statement for 2010
+submitted for audit.
+• Target (2020): Annual
+statement prepared,
+audited, and presented
+38
+<<<PDF_PAGE_39>>>
+Original CPS Results Matrix Updated CPS Results Matrix Comments
+within 15 months after
+close of fiscal year.
+Supplementary indicator 1.2:
+Availability of budget information
+to the public:
+• Baseline (2013): 2 out of
+6 types of budget
+information under PEFA
+methodology made
+available to the public
+within one month of their
+completion.
+• Target (2020): At least 5
+out of 6 types of budget
+information made
+available within one
+month.
+Supplementary indicator 1.3: Share
+of ongoing and finalized projects
+with basic information included in
+the National Investment Portfolio
+Database:
+• Baseline (2014): 0 %
+• Target (2020): 100%
+Indicator 1.4: Existence of debt management Revised CPS Indicator 1.2: Indicator is added to better align with
+strategy: "Number of Debt Performance new DPO series and with special
+Indicators (DPI) with a score of themes of IDA18.
+• Baseline (2013): No strategy. “D” per DeMPA methodology:
+• Target (2017): Medium-term debt • Baseline (2016): 27 out of
+strategy publicly available. 33
+• Target (2020): 23 out of
+33
+Supplementary indicator 1.4:
+Existence of a debt management
+strategy:
+• Baseline (2013): No
+strategy in place
+• Target (2020): Updated
+medium-term debt
+strategy publicly
+available
+* In the DeMPA methodology, a score of D indicates that the minimum requirement has not been achieved, which signals a deficiency in
+performance, normally requiring priority corrective action.
+Indicator 1.5: Public disclosure of new fishing Revised CPS Outcome 2: A new CPS outcome became
+agreements and licenses within one month of Strengthened SOE and Extractive dedicated to governance and
+signing agreements or issuing licenses: Industries governance and transparency of SOE and extractive
+improved transparency.
+39
+<<<PDF_PAGE_40>>>
+Original CPS Results Matrix Updated CPS Results Matrix Comments
+• Baseline (2013): not disclosed. industries. Baselines and targets were
+• Target (2017): Routinely disclosed. Indicator 2.2: Public disclosure of modified to make them more
+new fishing agreements and specific.
+licenses within one month of
+signing agreements or issuing
+licenses:
+• Baseline (2014): 0%
+• Target (2020): 100%
+Indicator 1.6: Improved accountability in oil Revised CPS Outcome 2:
+sector governance: Strengthened SOE and Extractive
+Industries governance and
+• Baseline (2013): EITI reconciliation improved transparency.
+report.
+• Target (2017): EITI reconciliation Indicator 2.3: Improved
+report publicly available and accountability in oil sector
+disseminated in the country. governance:
+• Baseline (2013): EITI
+reconciliation report.
+• Target (2017): EITI
+reconciliation report
+publicly available and
+disseminated in the
+country.
+Outcome 2: Enhanced statistical system Revised Outcome 6: Improved Household survey will improve
+poverty targeting and access to targeting of social programs. Targets
+social safety nets for vulnerable are stronger and more specific.
+groups.
+Indicator 6.1: Statistical Capacity
+Score:
+• Baseline (2017): 70
+• Target (2020): 73
+Indicator 2.1: Population and Housing Census: Revised Outcome 6: Improved The Population and Housing survey
+poverty targeting and access to was completed in 2012 and
+• Baseline ((2013): Not completed. social safety nets for vulnerable disseminated in different formats
+• Target (2017): Completed and report groups: between 2013-2014.
+published summarizing main A new Household survey was
+findings. Supplementary Indicator 6.1: included in the new DPO series, and
+Preparation of Household Survey: benefits from TFs.
+• Baseline (2017): No
+household survey
+• Target (2020): Household
+survey finished and
+disseminated
+40
+<<<PDF_PAGE_41>>>
+Original CPS Results Matrix Updated CPS Results Matrix Comments
+Outcome 3: Improved private sector Revised CPS Outcome 4: All the outcomes and indicators
+capacity with a focus on the tourism sector Improved business environment, related to the improvement of the
+and SMEs with a focus on tourism and business environment for tourism
+SMEs. Many indicators, and SMEs were merged in the
+milestones, and baselines and Revised CPS Outcome 4, including
+targets were revised. business regulations, banking and
+tourism sector-related activities.
+Indicator 3.1: Medium-term tourism Supplementary Indicator 4.1:
+development strategy with an Action Plan: “Tourism strategy developed”:
+• Baseline (2013): Not prepared. • Baseline (2014): No
+• Target (2017): Adopted and being strategy.
+implemented. • Target (2020): Strategy in
+place.
+Indicator 3.2: Number of entities engaged in Dropped. Project that was supporting these
+provision of tourism services: activities and indicators was
+dropped.
+• Baseline ((2013): 300 approx.
+• Target (2017) 400 approx.
+Indicator 3.3: Occupancy of private sector Revised CPS Indicator 4.1: To better reflect objectives of the
+tourist capacities (tourist-days per year): Number of tourist arrivals. current projects as original project
+was dropped. It summarizes changes
+• Baseline (2013): 91,000 approx. • Baseline (2012): 12,743 produced by several supplementary
+• Target (2017): 140,000 approx. • Target (2020): 25,000. indicators: indicator 4.1: tourist
+arrivals 4.2: online visa issuance
+Supplementary Indicator 4.1: enabled; milestone indicator 4.3:
+Tourism strategy developed: tourism inventory conducted for 6
+districts of STP; and indicator 4.4:
+• Baseline (2014): No strategy tourist exit survey conducted
+• Target (2020): Strategy in
+place
+Supplementary Indicator 4.2:
+Tourism inventory conducted for 6
+districts of STP:
+• Baseline (2014) Tourism
+inventory does not exist.
+• Target (2020) Tourism
+inventory exists.
+Supplementary Indicator 4.3:
+Tourist exit survey conducted:
+• Baseline (2017): 0
+• Target (2020): 4
+Indicator 3.4: Number of entrepreneurs Dropped. Indicator 3.4 was based on a project
+receiving business development services (40% that was dropped.
+women)
+• Baseline (2013): 0
+41
+<<<PDF_PAGE_42>>>
+Original CPS Results Matrix Updated CPS Results Matrix Comments
+• Target (2017): Up to 300
+individuals/SMEs supported to
+develop business plans and benefit
+from IFC Business Edge training
+Indicator 3.5: Number of microenterprises and Dropped Indicator 3.5 was based on a project
+SMEs benefiting from access to finance that was dropped.
+because of business plan development and
+IFC’s SME risk sharing program:
+• Baseline (2013?): 0
+• Target (2017): 100-150 SMEs
+Indicator 3.6: Number of private sector Dropped. Indicator 3.6 was based on a project
+employees benefiting from training (50% that was dropped.
+women):
+• Baseline (2013): 0
+• Target (2017): 300 employees
+Outcome 4: Improved business Revised CPS Outcome 4:
+environment and trade regulations Improved business environment,
+with a focus on tourism and
+SMEs
+Indicator 4.1: Number of days required to Supplementary Indicator 4.5: CPS indicator becomes a
+obtain a construction permit: supplementary one.
+• Baseline (2013): 118
+• Baseline (2013): 118 • Target (2020): 90
+• Target (2017): 90
+Indicator 4.2: Average cost of compliance To make indicator more specific.
+with business regulations (as percent of per Supplementary Indicator 4.5:
+capita income): Number of days required to obtain
+a construction permit:
+• Baseline (2013): 386
+• Target (2017): <200 • Baseline (2014): 118
+Target (2020): 90
+Indicator 4.3: Number of days to export and Revised CPS Indicator 4.2: Private To make milestone more specific.
+import: sector savings from trade logistics
+reforms:
+• Baseline (2013): export 26; import
+28 • Baseline (2014): 0
+• Target (2017): <16 • Target: (2020) US$1.3 million
+Supplementary indicator 4.6:
+Number of days to export and
+import:
+• Baseline (2014): export
+26; import 28.
+• Target (2020): <16
+42
+<<<PDF_PAGE_43>>>
+Original CPS Results Matrix Updated CPS Results Matrix Comments
+Revised CPS Indicator 4.3: All
+banks share data with the credit
+registry.
+• Baseline (2017) only a few
+banks provide information.
+• Target (2020) all banks
+provide information.
+Supplementary Indicator 4.7: All
+Banks meet the minimum Capital
+Adequacy Ratio (CAR) required
+by the Central Bank
+• Baseline (2017) percentage of
+banks with CAR greater or
+equal to 10% is 86 in 2015
+and 100 in 2016.
+• Target (2020) 100 in 2017,
+2018 and 2019.
+Revised CPS Indicator 4.4: Share
+of the population with access to
+formal financial services (I.e.
+transaction accounts).
+Overall
+• Baseline (2017): 39 percent
+• Target (2020): 45 percent
+Women’s Access
+• Baseline (2017): 15 percent
+• Target (2020): 20 percent
+Outcome 5: Better targeting of energy Revised CPS Outcome 3: ICT, energy and transport sectors
+subsidies Improved performance of the were combined in Revised CPS
+infrastructure sector (ICT, outcome 3 as they represent the main
+energy and transport) infrastructure constraints to inclusive
+growth
+43
+<<<PDF_PAGE_44>>>
+Original CPS Results Matrix Updated CPS Results Matrix Comments
+Indicator 5.1: Tariff rates and targeting of Revised CPS Indicator 3.2: No change
+subsidies: EMAE’s technical and non-
+technical losses
+• Baseline: (2013): Tariff rates not
+changed since 2007 and only 40% of • Baseline (2017): 40%
+electricity subsidies reach the poor • Target (2020): 34%
+• Target (2017): Identification of a
+reform strategy to bring tariff rates Supplementary Indicator 3.1:
+closer to cost recovery while Hydropower capacity rehabilitated:
+improving the targeting of subsidies
+• Baseline (2017: 0MW
+• Target (2020): 2MW
+Supplementary Indicator 3.2: Least
+Cost Development Plan prepared,
+including demand forecast.
+• Baseline (2017): No
+• Target (2020): Yes
+Supplementary Indicator 3.3:
+Energy Household and Enterprise
+access/consumption survey
+prepared.
+• Baseline (2017): No
+• Target (2020): Yes
+Supplementary Indicator 3.4:
+Completion and endorsement of
+Management Improvement Plan of
+EMAE.
+• Baseline (2017): No
+• Target (2020): Yes
+Outcome 6: Improved regional broadband Revised CPS Outcome 3: ICT, energy and transport sectors
+connectivity Improved performance of the were combined in Revised CPS
+infrastructure sector (ICT, energy outcome 3 as they represent the main
+and transport) infrastructure constraints to inclusive
+growth
+Indicator 6.1: Retail price of internet services Revised CPS indicator 3.1: Retail Target well achieved (retail price
+(per Mbps monthly): price of internet services: now US$52).
+• Baseline (2012): US$410 • Baseline (2014): US$410
+• Target (2014): US$340 • Target (2020): US$340
+Theme Two: Reduced vulnerability and Revised CPS Theme Two:
+strengthened human capacity Strengthening human capacity
+and reducing vulnerability
+Outcome 7: Improved poverty targeting Revised CPS Outcome 6: Combines poverty targeting with
+Improved poverty targeting and programs to improve social safety
+access to social safety nets for nets with more precision
+vulnerable groups
+44
+<<<PDF_PAGE_45>>>
+Original CPS Results Matrix Updated CPS Results Matrix Comments
+Indicator 7.1. (Exact indicator for improved Revised CPS indicator 6.2: Indicators added to account for new
+poverty targeting to be determined based on Number of beneficiaries enrolled social protection policy and strategy
+findings and decisions on completion of in the new programs:
+ongoing social protection policy and strategy)
+• Baseline (2017): 0
+• Target (2020): 4,000
+(Cash Transfer + Social
+Pension)
+Supplementary indicator 6.2:
+number of households registered in
+Social Registry:
+• Baseline (2014): 0
+• Target (2020): 4,400
+Indicator 7.2: Jobs created through targeted Dropped
+Public Works Program (PWP):
+• Baseline and target to be determined
+once details of the PWP are designed
+Outcome 8: Increased adaptive capacity of Revised CPS Outcome 7:
+coastal communities and reduced potential Increased capacity of coastal
+of loss of assets and lives communities and reduced
+potential of loss of lives and
+assets.
+Indicator 8.1: Proportion of fishing population Revised CPS indicator 7.1: Revised to provide a better
+benefiting from early warning system and Proportion of fishing population measurement of the outcome.
+safety at sea (%): benefiting from training and
+equipment for safety at sea:
+• Baseline (2013): 0%
+• Target (2016): 70% • Baseline (2014): 0%
+• Target (2018): 70%
+Revised CPS indicator 7.2:
+Fishermen deaths at sea due to
+extreme weather conditions
+• Baseline (2017): 4.8 per
+year
+• Target (2020): less than 1
+per year
+Outcome 9: Improved training of teachers Revised CPS Outcome 5:
+in primary education Enhanced education quality and
+skills
+Indicator 9.1: Percent of qualified primary Revised CPS indicator 5.1: Indicator revised to better reflect
+teachers resulting from project: Qualified primary teachers objective of the project and target
+resulting from projects: revised to make it more realistic.
+• Baseline (2013): 40 %
+• Target (2017): 75% • Baseline (2014): 40%
+• Target (2020): 75%
+Indicator 9.2: Percent of primary schools
+benefiting from annual supervision:
+• Baseline (2013): 0%
+45
+<<<PDF_PAGE_46>>>
+Original CPS Results Matrix Updated CPS Results Matrix Comments
+• Target (2017): 100%
+Outcome 10: Increased access to skills Revised CPS Outcome 5:
+development Enhanced education quality and
+skills
+Indicator 11.1: To be determined based on Dropped
+findings of Skills Strategy and selected area of
+WBG support. Baseline (2014): TBD; Target
+(2018): TBD
+Cross-cutting Theme: Gender, Partnership,
+and Capacity Building
+46
+<<<PDF_PAGE_47>>>
+Annex 3: Progress toward FY14-18 CPS Outcomes
+CPS Outcomes Milestones Status
+Theme 1: Supporting Macroeconomic Stability and National Competitiveness
+Outcome 1: Strengthened Public Partially on track.
+Financial and Natural Resource Outcome 1 consists of 6
+Management indicators, of which 4 have
+been achieved.
+Indicator 1: Availability of budget • Annual financial statements prepared and On track. A PEFA was
+information to the public. submitted to Tribunal of Accounts for audit. conducted and published in
+Baseline (2013): 2 out of 6 types of • Audit completed and presented to the October 2013, indicating
+budget information under PEFA Parliament for that 4 out of the 6
+methodology made available to the Performance Indicators
+legislative scrutiny and audit report
+public within one month of their published. (PI-10) were made public
+completion. in a timely manner.
+• Targeted PFM training/ seminars for
+Target (2017): At least 5 out of 6
+parliamentarians
+types of budget information
+conducted.
+made available within one month.
+• Debt legislation provides clear
+authorization to borrow, issue new debt,
+undertake debt-related transactions, and issue
+loan guarantees.
+• EITI Reconciliation
+Report adopted.
+Indicator 2: Preparation, auditing, Partially on track
+and presentation of
+State annual financial statements for
+legislative scrutiny
+Baseline (2013): Annual statement
+for 2010 submitted for
+Audit.
+Target (2017): Annual statement
+prepared, audited, and
+presented within 15 months after
+close of fiscal year.
+Indicator 3: Percentage of direct Off track. Not monitored
+contracting in systematically. To be
+Procurement. dropped because this result
+Baseline (2012): 29% of all is not directly supported by
+contracts. World Bank activities.
+Target (2018): 10% of all contracts.
+Indicator 4: Existence of a debt On track. A formal debt
+management strategy management strategy has
+Baseline (2013): No strategy in been developed and is in
+place. place.
+Target (2017): Medium-term debt
+strategy publicly available.
+Indicator 5: Public disclosure of On track. All current
+new fishing agreements fishing agreements and a
+and licenses within one month of registry of fishing licenses
+signing agreements or are made accessible to the
+issuing licenses public through the Official
+Baseline (2013): Not disclosed. Gazette on a regular and
+Target (2017): Routinely disclosed. timely basis.
+47
+<<<PDF_PAGE_48>>>
+Indicator 6: Improved On track.
+accountability in oil sector
+governance
+Baseline (2013): EITI reconciliation
+Report.
+Target (2017): EITI Reconciliation
+Report publicly available
+and disseminated in the country.
+Outcome 2: Enhanced statistical On track. Outcome 2
+system consists of one indicator,
+that has been achieved.
+New indicator being added.
+Indicator: Population and housing Population and
+census. housing census
+Baseline (2013): Not completed completed (2014).
+(2013)
+Target (2014): Census completed,
+and report published
+summarizing main findings.
+Outcome 3: Improved private Off track. Outcome 3 has
+sector capacity with a focus on the 6 indicators, five of which
+tourism sector and SMEs are off track and one on
+track.
+Indicator 1: Medium-term tourism • National business plan competition On track. Wording of
+development strategy conducted. indicator revised to
+with an Action Plan. • Tourism Strategy’s Action Plan revised and “tourism strategy
+Baseline (2013): Not prepared. prioritized. developed”. The Tourism
+Target (2017): Adopted and being • Strategic tourism marketing plan Strategic Plan was
+implemented. prepared and implemented. launched in February 2018.
+Number of tourism arrivals
+• Online visa issuance enabled.
+in 2017 was 28,948.
+• Tourism Tax Law created and
+Indicator 2: Number of entities Off track. To be dropped
+implemented.
+engaged in provision of because this result is not
+• Number of tourists increased from 5,000
+tourism services. directly supported by
+(2012) to 25,000 (2017).
+Baseline (2013): 300 approx. WBG activities.
+Target (2017): 400
+Indicator 3: Occupancy of private Off track. To be dropped
+sector tourist capacities because this result is not
+(tourist-days per year) directly supported by
+Baseline (2013): 91,000 approx. WBG activities.
+Target (2017): 140,000
+Indicator 4: Number of Off track. To be dropped
+entrepreneurs receiving business because this result is not
+development services (40% women) directly supported by
+Baseline (2013): 0 WBG activities.
+Target (2017): Up to 300
+individuals/ SMEs supported to
+develop business plans and benefit
+from IFC Business
+Edge training
+Indicator 5: Number of micro- Off track. To be dropped
+enterprises and SMEs because this result is not
+benefitting from access to finance directly supported by
+because of business plan WBG activities.
+48
+<<<PDF_PAGE_49>>>
+development and IFC’s MSME risk
+sharing program.
+Baseline (?): 0
+Target (2017): 100-150 MSMEs.
+Indicator 6: Number of private Off track. To be dropped
+sector employees benefitting from because this result is not
+training (50% women) directly supported by
+Baseline (?): 0 WBG activities.
+Target (2017): 300 employees
+Outcome 4: Improved business Partially on Track.
+environment and Outcome 4 has 3
+trade regulations indicators, one of which
+was achieved and one was
+partially achieved.
+Indicator 1: Number of days •Online business registration and other Partially achieved. New
+required to obtain a online commercial registry features construction permit
+construction permit operational. regulations were issued.
+Baseline (2013): 118 • Single window for trade established and Comparisons between
+Target (2017): 90 fully operational. published DB data for
+2013 and 2017 are no
+• Modernization of trade-related regulations
+longer possible due to
+initiated, particularly those related to
+changes in the DB
+nontariff barriers.
+methodology; using
+comparable data under the
+new methodology the time
+to obtain construction
+permits dropped by 9.4%
+between 2013 and 2017
+according to DB.
+Indicator 2: Average cost of Partially achieved. New
+compliance with business construction permit
+regulations (as percent of per capita regulations were issued.
+income) Comparisons between
+Baseline (2013): 386 published DB data for
+Target (2017): <200 2013 and 2017 no longer
+possible due to changes in
+the DB methodology;
+using comparable data
+under the new DB
+methodology the cost to
+obtain construction permits
+dropped by 26% between
+2013 and 2017 according
+to DB.
+Indicator 3: Number of days to Partially on track. Because
+export and import of the trade reform "single
+Baseline (2013): export 26; import window for international
+28. trade" and related
+Target (2017): <16 streamlining of import
+export procedures the time
+to import dropped by 14%
+and to export by 18%
+between 2014 and 2017.
+Comparisons of DB 2013
+data (used as baseline) and
+DB2017 data are no longer
+49
+<<<PDF_PAGE_50>>>
+possible due to changes in
+methodology.
+Outcome 5: Better targeting of On track. Outcome 5 has
+energy subsidies one indicator which is on
+track.
+Indicator: Tariff rates and targeting On track. The Energy
+of subsidies survey has been completed
+Baseline (2013): Tariff rates not and the MTF team is now
+changed since 2007 and only working on the final report
+40% of electricity subsidies actually to be disseminated in May
+reach the poor 2019. Preliminary results
+Target (2019): Identification of a have been used to define
+reform strategy to bring tariff schemes. Tariff study
+tariff rates closer to cost recovery will be launched in 2nd half
+while improving the of CY 2018. The EMAE
+targeting of subsidies Management Improvement
+Plan has been prepared and
+is pending formal
+endorsement of GoSTP.
+Procurement of
+Consultants for EMAE
+Management Information
+System is ongoing.
+Outcome 6: Improved regional On track. Outcome 6 has
+broadband connectivity one indicator which has
+been achieved, and
+surpassed.
+Indicator: Retail price of internet On track and will surpass
+services (per Mbps monthly) largely the targets. Retail
+Baseline (2012): US$410. price of internet services
+Target (2014): US$340. has dropped radically to
+US$52 per Mbit/s per
+month. Competition has
+increased, and connectivity
+has improved significantly
+for both internet and
+telecom services.
+Theme 2: Reduced Vulnerability and Strengthened Human Capacity
+Outcome 7: Improved poverty Partially on track.
+targeting Outcome 7 has two
+indicators, of which one is
+on track and one is off
+track.
+Indicator 1: (Exact indicator for • Assessment of social protection programs On track. A targeting
+improved poverty targeting to be completed. methodology and a Social
+determined based on findings and • Core interventions for a social safety nets Registry were developed.
+decisions on completion of ongoing system identified. All Social Protection
+social protection policy and beneficiaries (over 31,000
+• Social protection strategy adopted.
+strategy) households) were
+• Key operational tools (targeting system
+registered in the Social
+and
+Registry.
+registry of beneficiaries) developed.
+• Core social sector programs approved by
+the Government.
+50
+<<<PDF_PAGE_51>>>
+Indicator 2: Jobs created though Partially on track. Public
+targeted Public Works Program works program and
+(PWP) operational manual were
+(Baseline and target to be developed. Government
+determined once details of the lacks funds to start
+PWP are designed) implementation of the
+Public Works Program.
+Outcome 8: Increased adaptive On track. Outcome 8
+capacity of coastal consists of one indicator
+communities and reduced which is on track, with
+potential loss of assets and most physical targets
+lives achieved, some surpassed.
+Indicator: Proportion of fishing • Coastal adaptation/protection measures On track. The safety at sea
+population benefiting implemented. program combined with an
+from early warning system and • Flooding exposure of target communities early warning system has
+safety at sea (%) helped reduce mortality at
+reduced by two-thirds through coastal
+Baseline (2013): 0%. adaptation measures. sea by about 80 percent
+Target (2016): 70%. relative to the 2006-10
+•Training and awareness campaigns on safety-
+baseline (prior to the
+at-sea provided
+introduction of the system).
+• Safety at sea equipment distributed
+However, the number of
+fishermen has been
+increasing rapidly and
+safety at sea training needs
+to continue during the the
+WACA project.
+Outcome 9: Improved training of On track. Outcome 9 has
+teachers in primary two indicators of which
+education one is achieved (primary
+schools with annual
+supervision) and one is on
+track (qualified primary
+teachers).
+Indicator 1: Percent of qualified At least one student assessment conducted On track. Teachers'
+primary teachers for the target grades training plans have been
+resulting from project • In-service primary program set up developed and the project
+Baseline (2013): 40%. • Student learning assessment system design has been finalized.
+Target (2019): 75%. A Teacher Qualifications
+being developed
+Framework and
+• EMIS developed and functional
+certification process is also
+under development.
+Indicator 2: Percentage of primary On track. The target
+schools benefitting schools receive supervision
+from annual supervision 4 times per year. The
+Baseline: 0% (2013) Ministry has recruited 54
+Target: 100% (2017) Instruction Leaders who
+regularly pay visits to
+primary schools.
+Outcome 10: Increased access to Off track. Outcome 10 has
+skills development one indicator which has not
+been achieved.
+Indicator: To be determined based Off track. A new milestone
+on findings of Skills Strategy included.
+and selected area for WBG support
+51
+<<<PDF_PAGE_52>>>
+Cross-cutting Theme: Gender, Issues integrated into the
+Partnership, and Capacity program
+Building
+52
+<<<PDF_PAGE_53>>>
+Annex 4: Planned and Actual Deliveries of Non-Lending Services (FY14-18)
+CPS PLANS (05/2014) STATUS COMMENT
+FY14-FY15
+Report on the Observance of Standards and Codes, Delivered Review to help the Government identify measures to help
+Accounting and Auditing enforcement of applicable laws and recommend
+complimentary measures and actions delivered
+Debt Strategy Reform Plan Delivered A formal debt strategy in place
+Operationalizing the Social Protection Strategy Dropped Some analysis was taken over by the NLTA Building
+(Programmatic AAA) Blocks for SP System.
+Social Protection Rapid Social Response TF Delivered Renamed Building Blocks for SP System. Analysis on
+Social Protection for redefinition of Social Protection
+Programs and accurate beneficiary identification and
+selection system developed
+Skills Strategy Dropped The Social Protection and Skills Development Project will
+undertake studies to inform the project
+Agriculture Sector Issues Dropped The AfDB is taking the lead in this area, including on ASA
+IFC- Investment Climate Reform Plan Delivered Renamed. Supports business environment reforms and
+development of the tourism sector
+PPIAF/IFC- Analysis on Development of Delivered Provided policy advice on the possible development of a
+Transshipment and Overall Ports sector deep-sea port.
+FY15-FY16
+Small Island Public Procurement Strategy Dropped Changed client demand
+WBI Courses and Seminars for Dropped Changed client demand
+Parliamentarians
+Strategy on Regional Integration and Trade Dropped Changed client demand
+Facilitation
+Policy Note on Public Spending Dropped
+Financial Sector Development Strategy Delivered Developed a coherent vision and strategy for
+(FIRST) financial sector development. The action plan is
+under implementation
+ADDITIONS to CPS PLANS (FY15-FY17) STATUS COMMENT
+Power Sector Efficiency Improvement Delivered Studies for the reduction of electrical losses (technical and
+non-technical) and improvement of reliability concluded
+SSKE- Strengthening Trade and Investment Delivered Technicians from STP TIPA participated in capacity
+Promotion Agency (TIPA) building activities in Maputo
+SSKE- Building Capacity for Digitization of Delivered Technicians from STP Property Registry participated in a
+property registry study tour to Cabo Verde, followed by a visit from an
+expert Cabo Verdean consultant to STP to develop a
+strategy for reform
+53
+<<<PDF_PAGE_54>>>
+Annex 5: World Bank Group Support to the Energy Sector in STP
+1. Electricity coverage in STP extends to only about half the population. Electricity
+Access is more widespread among non-poor families (58.3 percent) than poorer families (47.5
+percent). 38 percent of rural households do not have access to any source of electricity vs. 23
+percent of urban households. While there is no available data on the quantity or duration of power
+cuts, service quality is widely acknowledged as unreliable and extensive outages are frequent,
+especially during periods of peak demand.
+2. Electricity supply is constrained. In early 2016, EMAE interconnected generation asset
+on São Tomé Island, including four diesel thermal power plants (São Tomé, Santo Amaro, and
+Bobo-Forro 1 and 2) and two hydropower plants (Contador and Guégué) for a total capacity of
+29.9 MW with only 15MW guaranteed. Most of the thermal generators have low efficiencies,
+leading to high fuel consumption. Regarding hydropower on the island, Guégué has been out of
+service since 2011, making Contador Hydropower Plant (2MW) the country’s only current source
+of utility-scale renewable energy. In 2015, São Tomé relied on the Contador hydropower plant
+for about 6.6 percent of its power but this share was reduced 5.5 percent in 2017. The
+Government’s stated objective is reaching 40 percent renewable energy penetration by 2020. The
+Power Sector Recovery Project (P169196) contributes to this objective by rehabilitating the
+Contador plant and developing the Least Cost Development Plan (LCD).
+3. The energy utility (EMAE) faces challenges related to management and commercial
+viability. Two thirds of its current estimated 40 percent of losses were non-technical. These alone
+are estimated to increase the overall cost of production of electricity by over a third, independent
+of the energy source used. Therefore, despite high tariffs, EMAE is not able to recover energy
+costs with its revenues and EMAE has accumulated arrears with the Government and suppliers.
+It has also underinvested in the company, leading to low-quality service and high customer
+dissatisfaction. The major commercial problem faced by EMAE is proper metering, billing, and
+payment of the clients’ bills. Not all clients have meters and those who have are not measuring
+electricity consumption properly because of their age. Thus, clients are billed by estimate or the
+minimum amount. Furthermore, revenue collection in remote areas is challenging in the absence
+of an EMAE payment point.
+4. Through the second DPO series and the Power Sector Recovery Project, the WBG is
+supporting an integrated and synergetic solution to energy issues in STP. While the Power
+Sector Recovery Project supports the infrastructure and plans needed to revamp the energy sector
+in STP such as the rehabilitation of the hydroelectric power plant, transmission lines, managerial
+improvement plan for EMAE, the DPO focuses on the policies needed to enable these
+improvements. For instance, the DPO supports the adoption of the LCD plan as the binding
+mechanism to expand the power sector in STP. The DPO also supports measures with more
+immediate effects on the finances of EMAE such as the change in commercial practices and the
+inventory of government bills. It also supports the enactment of regulations that are foreseen in
+legislation and were never implemented, which drafts are financed by the Power Sector Recovery
+Project.
+54
+<<<PDF_PAGE_55>>>
+5. The Power Sector Energy Efficiency Improvement TA contributed with studies for
+the improvement of EMAE’s financial sustainability. It is also contributing to the
+improvement of the quality of electricity services by reducing the system’s technical and non-
+technical losses in the generation, transmission and distribution, and by promoting energy
+efficiency programs on the demand side. A TA for Strengthening Energy Monitoring and
+Planning, still ongoing, follows this up. It is aimed at improving monitoring and planning capacity
+of the GoSTP in the energy sector and promote renewable energy development. The
+recommendations of these studies are being taken up for implementation within the framework
+of the Power Sector Recovery Project, including a reform strategy to bring tariff rates closer to
+cost recovery while improving the targeting of subsidies.
+6. PPIAF TF Project: Private Sector Participation Options to Foster Renewable
+Energy: The overall objective of the TA is to enable the Government of STP to attract private
+financing for low cost, low carbon but capital intensive hydropower and solar IPPs through review
+of the effectiveness of the legislative framework, benchmark hydro and solar IPP projects in the
+region and the sector's investment and capacity needs and to develop standard documentation for
+IPPs. It is expected that there will be capacity building within the involved entities that would
+enable them to continue the process of private sector participation and accomplish the Climate
+Change goals and secure the energy supply of the country.
+55
+<<<PDF_PAGE_56>>>
+Annex 6: World Bank Group Support to the Financial Sector in STP
+1. In response to client demand, and in line with the GoSTP’s priorities, the WBG has
+increased its engagement on the financial sector development in STP. The starting point was
+the FSDIP, adopted by the Government in September 2016 to provide a coherent vision and
+strategy for financial sector development. The FSDIP is followed by two FIRST-funded TA
+projects on banking resolution (essential for strengthening financial stability) and payment
+systems, which includes promoting retail payments and mobile financial services for inclusion
+which are informing and advancing the reforms of the financial sector pillar of the new DPO
+series. In FY18, the World Bank approved a new multi-GP Investment Lending Operation (IPF)
+focused on strengthening institutional capacity for financial inclusion and stability, public
+financial management, land registration, and statistics.
+2. The World Bank Resolution Support Project financed by FIRST supports the central
+bank (BCSTP) in improving financial stability, by increasing supervisory capacity for off- and
+on- site supervision and strengthening the regulatory framework for bank resolution. The current
+focus is on the regulatory framework for effective bank resolution. This will involve supporting
+efforts by the BCSTP to prepare the regulations and guidelines necessary to implement the new
+bank resolution law.
+3. The Payment Systems Strengthening and Financial Inclusion Project, also financed
+by FIRST, aims to support the GoSTP in improving financial inclusion and the overall efficiency
+of the economy, by assisting the central bank in developing the national payments system,
+improving its oversight and enhancing the legal framework to include all electronic payments and
+services, supporting microfinance institutions, and strengthening financial consumer protection
+as well as the credit information infrastructure. It supports a strategy for enhancing retail
+payments including person-to-person, person-to-business, business-to-person, business-to-
+business, person/business-to-government, and government-to-person/business payments
+including by mobile platforms. It will lay the groundwork for investments in the national
+payments system.
+4. The Institutional Capacity Building Project is an IDA grant (US$12 million) that
+provides a solid basis for a comprehensive multi-year operation to support implementation of the
+FSDIP action plan. This IPF focuses on strengthening institutional capacity for financial inclusion
+and stability, public financial management, land registration, and statistics. This includes
+activities to strengthen the central bank’s capacity in supervision; support investments in financial
+infrastructure, including enhancements to the public credit registry (hardware, software, and a
+disaster recovery site) and movable collateral registry. It also includes a component to finance the
+review of asset quality in the banking sector, which is an IMF structural benchmark. The Project
+thus complements the TA being provided under the FIRST funded projects and also supports the
+reform programs in the financial sector pillar of the DPO series.
+56
+<<<PDF_PAGE_57>>>
+Annex 7: Select Financial Soundness Indicators
+2012 2013 2014 2015 2016 2017 18-Sep
+Capital Adequacy
+Capital (net worth) to risk weighted assets 20.3% 22.7% 22.6% 24.1% 27.8% 33.6% 31.2%
+Percentage of banks greater or equal to 10 percent 88% 75% 75% 86% 100% 100% 100%
+Percentage of banks below 10 and above 6 percent minimum 0.0% 12.5% 12.5% 0.0% 0.0% 0.0% 0.0%
+Percentage of banks below 6 percent minimum 12.5% 12.5% 12.5% 14.3% 0.0% 0.0% 0.0%
+Deposits w/banks below 6% (Dobra billion ) 83 59 325 455 0 0 0
+Capital (net worth) to assets 23% 18% 20% 16% 23% 24% 21%
+Tier 1 Capital Ratio 76% 68% 72% 62% 91% 94% 94%
+Tier 2 Capital Ratio 24% 24% 15% 12% 9% 6% 6%
+Tier 1 to assets 19% 21% 19%
+Asset quality
+Past-due loans to gross loans 67% 30% 36% 35% 31% 28% 23%
+Nonperforming loans (Dobra billion) 292 310 329 570 438 401 305
+Nonperforming loans 15.4% 16.9% 19.1% 29.8% 27.1% 24.9% 17.9%
+Watch-listed loans 51% 14% 17% 5% 4% 3% 5%
+Impaired assets/gross lending 7% 9% 9% 17% 16% 20% 15%
+Provisions (Dobra Million) 242 512 345 516 380 378 317
+Provision as percent of past-due loans 0% 56% 45% 69% 71% 80% 74%
+Total assets (Dobra billion) 3,784 4,007 4,580 4,809 4,435 3,988 4,264
+% change in total assets over past 12 months 28.7% 5.5% 14.3% 5.0% -7.8% -10.1% -0.1%
+Foreign exchange loans to total loans 58% 54% 47% 42% 27% 17% 10%
+Large exposures (>=10 % capital) to capital 48% 56% 45%
+Foreign-currency-denominated loans to total loans 27% 17% 10%
+Customer deposits to total (moninterbank) loans 158% 168% 172%
+Earnings and profitability
+Net Income to average assets (ROA) -0.83% -2.10% -3.15% -5.19% 0.03% -0.62% 0.70%
+Net Income to average capital (ROE) -3.27% -9.33% -15.92% -27.05% 0.18% -2.98% 3.52%
+Noninterest expense to gross income 80% 428% 110% 141.02% 73.69% 74.22% 72.28%
+Personnel expense to gross income 25% 33% 39% 40% 31% 31% 32%
+Noninterest income to gross income 58.32% 385.20% 59.74% 89% 55% 64% 58%
+Net profit (Dobra Billion) -32 -82 -135 -226 2 -26 29
+Net profit of prior 12 months as % of average total assets ** -1% -2% -3% -5.19% 0.03% -0.62% 0.70%
+Expense(w/amortization & provisions)/income 118% 471% 164% 216% 109% 113% 92%
+Net profit (before tax)/net income 100% 100% 100% 100% 100% 100% 100%
+Net Interest Margin 68% 10% 11% 11% 11% 11% 9%
+Net Interest Margin to Gross income 60% 60% 49% 51% 46% 51%
+Personnel expense to noninterest expenses 32% 36% 34% 39% 41% 44%
+Liquidity
+Liquid assets/total assets 38% 41% 46% 52% 54% 50% 50%
+Liquid assets/short term liabilities 61% 40% 73% 73% 85% 69% 66%
+Loan/deposits 102% 86% 70% 64% 63% 60% 58%
+Liquid Assets/total deposits 77% 76% 85% 83% 94% 73% 73%
+Loan/total liabilities 65% 56% 47% 47% 47% 53% 51%
+Excess reserves/broad money 8% 20% 19% 18% 37% 30% 76%
+Sensitivity to market risk
+Foreign exchange liabilities/total liabilities 31% 27% 28% 30% 27% 29% 25%
+Foreign exchange liabilities to shareholders funds 105% 119% 110% 163% 91% 91% 92%
+Foreign currency deposits/official reserves 85% 65% 69% 65% 61% 52% 53%
+**During the year, accumulated in the period, not 12 months.
+Source: Central Bank of STP, 2018.
+57
+<<<PDF_PAGE_58>>>
+Annex 8: Improving Business Regulation in São Tomé and Príncipe
+1. During the early years of the implementation of the STP FY14-FY18 CPS, major strides
+were made in improving business regulation in STP. Two examples of success stories are: (1) the
+one stop business registration; and (2) the single window for international trade. These reforms
+were supported by the São Tomé Investment Climate Advisory Services project (IFC Advisory
+Services #594467), which ran from January 2013 till June 2018.
+The one-stop shop for business registration
+2. The one-stop shop for business registration (the Guiché Único para Empresas, or GUE)
+has been an important achievement in improving the investment climate and a major factor in
+improving the country’s Doing Business (DB) ranking. The October 2015 DB report showed that
+STP improved its rank in the Starting a Business indicator from 130th, before the reform, to 31st
+out of the 189 economies measured then. Moreover, its absolute score on the ‘distance to the
+frontier’ in this indicator has improved from 69.4/100 to 93.9/100, nearing the global best
+practice.
+3. The GUE was strengthened with the development of the GUEnet platform
+(www.guenet.st), an information system for creating, modifying, and winding up a company.
+GUEnet was formally launched in February 2016. Until June 2018, 830 companies had been
+incorporated using the online system.
+4. GUEnet combines three interfaces that automate key administrative procedures involved
+in a company’s life cycle:
+▪ Public front office: This part is visible to the public at large and allows users to conduct
+searches on companies, regulations and more, as well as create their own accounts.
+▪ Private front office: The part visible only to an individual user with his/her own
+account. This is where the user is able to establish and modify companies.
+▪ Back-office: Accessible only to GUE agents and other institutions connected with it.
+This is where officials manage company creation and modification and interact with
+users.
+5. Before the reform, entrepreneurs would be required to conduct four separate steps, over a
+period of 10 days, just to start a business. Today, they can save time and resources and start their
+activities faster, incorporating in less than one hour using the GUEnet. Procedures such as the
+name search and publication of the notice of incorporation have been fully automated. The name
+search is conducted online, while the publication has been legally transferred from the paper
+‘Diario da Republica’, which often took months to publish, to a simple online publication at the
+GUE.
+6. To complement the GUE, the Government has also launched the online business-licensing
+portal (http://frontoffice.gue-stp.net/licence_choix.php5), which (a) allows users to find the
+licenses they need to start various businesses and (b) advises users on how to go about obtaining
+the licenses. This has increased overall transparency and reduced the time required to obtain
+business licenses.
+58
+<<<PDF_PAGE_59>>>
+The single window for international trade
+7. The Government and the WBG, along with the Investment Climate Facility for Africa
+(ICF), shared a vision for the modernization of the trade logistics system in the country: an online
+single window for trade. However, to move from a complex paper-based system to a fully
+electronic one would require a phased approach to ensure a sustainable reform. The WBG
+committed to provide the technical assistance for this process, while the ICF financed the software
+and infrastructure to set up the single window.
+8. The single window for international trade (GUCE – Guiche Unico de Comercio Externo)
+integrated nine government agencies involved in the import-export process. The WBG team
+worked with each individual agency and mediated among them to educate them about the
+proposed system and the value of the online platform. Each agency had different business
+processes and information requirements about the goods traded. Before integration into the online
+platform, the WBG team worked with the agencies to rationalize and standardize these processes.
+9. Several milestones ensured the reform’s success:
+a) Establishment of a risk-based inter-agency physical inspection procedure. Prior to the
+reform, customs and other agencies were conducting physical inspections on nearly
+80 percent of all consignments. Thanks to training from the WBG team, the agencies
+now conduct joint inspections on just 18 percent of all cargo.
+b) Remote access to information and document submission for customs brokers and
+shipping agents. Parties are now able to conduct trade procedures online, eliminating
+the need for paper documents, which were prone to mistakes and opportunities for
+unofficial payments.
+c) Single payment for all duties, fees and taxes. Previously, traders had to visit six
+agencies to make seven payments for a single import transaction.
+10. The easing of trade procedures has contributed to time and cost savings for both traders
+and the public sector. The reforms implemented by the GoSTP are reflected in international
+comparisons of the ease of doing business. STP moved closer to the regulatory frontier of best
+practice in the trading across borders indicator—improving its score from 62.43 points in the
+Doing Business 2015 report (data as of May 31, 2014) to 66.03 in DB2018. During that period
+STP reduced the border compliance time from 163 to 150 hours for imports and from 115 to 83
+hours for exports. These improvements in trade procedures build on previous advance in reducing
+the costs to import and export, as illustrated in the reduction from US$937 to US$690 in the cost
+to export, and from US$784 to US577 in the cost to import, between 2011 and 2014. (Doing
+Business methodology for trading across borders changed in 2015, hence it is not possible to
+compare the data between the old and new methodology).
+59
+<<<PDF_PAGE_60>>>
+Annex 9: Evolution of Partnerships in São Tomé and Príncipe
+1. WBG ensured close coordination with DPs on policy dialogue. Effective collaboration
+and coordination between the World Bank, the IMF, the AfDB and the EC helps advance the
+policy dialogue on macroeconomic, PFM, and structural reforms. The World Bank coordinates
+closely with the IMF on the DPO series especially regarding fiscal and tax reforms. The World
+Bank also fosters policy dialogue with partners such as Angola, the Netherlands, Israel, Brazil,
+and Portugal, while undertaking regular dialogue with domestic stakeholders including the
+relevant Commissions in Parliament, business organizations and civil society organizations. This
+dialogue is helping narrow the information gap regarding World Bank activities, underlined in
+client surveys. The GoSTP is assuming stronger leadership over donor coordination, beginning
+with the preparation of the October 2015 London SteP-In Conference and has been maintained
+since, although meetings are irregular.
+2. WBG successfully leveraged financing from partners and collaborated on project
+design to support key lending priorities. In the energy sector, the Power Sector Recovery
+Project (P157096) has mobilized US$13 million from the EIB. In transport, a joint approach to
+climate resilient road rehabilitation has been developed for the Transport Development and
+Coastal Protection Project (P161842), with EIB and RVO (Dutch Bilateral cooperation) financing
+a parallel project (US$30 million) to strengthen the resilience of and rehabilitate the seafront road
+in the capital, São Tomé. In the financial sector, the World Bank is providing parallel technical
+assistance through the ongoing FIRST Payments TA project for the AfDB investment operation
+in payments systems infrastructure, while the recommendations of the Financial Sector Strategy
+TA (P150418) are being implemented through activities financed by AfDB. The World Bank has
+also worked closely with UNDP toward implementation of the Adaptation to Climate Change
+Project (P111669), and with UNICEF through the design and piloting of the Parental Education
+Program, as well as design of the Social Protection and Skills Development Project (P163088).
+3. Also, WBG leveraged resources from partners and TFs to fund advisory work. The
+GEF provided US$4.3 million for the FY11 Adaptation to Climate Change Project, which closed
+in FY17, as well as US$1.15 million for the FY18 WACA Project. The GPE funded
+US$1.1 million for the Education for All Project, and the TF for Statistical Capacity Building
+funded the FY17 Household Budget Survey Recipient Executed TF Project. The CPS also made
+strategic use of World Bank Executed TFs to guide client reforms and WBG engagement.19 The
+World Bank has supported STP through a South-South Knowledge exchange TF, including
+knowledge exchanges between STP and Mozambique and Cape Verde, which culminated in the
+development of the STP Investment Promotion Strategy. The World Bank also mobilized Africa
+Renewable Energy Access Program TF to finance a Strengthening Energy Sector Monitoring and
+Planning Capacity ASA (P155621). Resources have been secured through the PPIAF TF to
+support the establishment of a PPP framework in the energy sector (“TF0A7283 Private Sector
+Participation Options to Foster RE and Achieve NDC Targets for STP” project, US$0.1 million).
+19 The Financial Sector Reform and Strengthening Initiative (FIRST) funded activities to strengthen bank resolution
+and payment systems; the Energy Sector Management Assistance Program (ESMAP) funded an ASA to strengthen
+client capacity for planning and monitoring in the energy sector; the PPIAF TF funded an ASA on Private Sector
+Participation Options to Foster Renewable Energy and the Rapid Social Response (RSR) program funded an ASA to
+develop delivery systems for social protection programs, which informed the development of the FY19 Social
+Protection and Skills Development Project.
+60
+<<<PDF_PAGE_61>>>
+Annex 10: Map of São Tomé and Príncipe
+61

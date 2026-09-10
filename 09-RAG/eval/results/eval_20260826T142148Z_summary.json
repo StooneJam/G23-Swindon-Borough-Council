@@ -1,0 +1,48 @@
+{
+  "total": 3,
+  "passed": 3,
+  "pass_rate": 1.0,
+  "pass_rate_by_tag": {
+    "baseline_comparison": 1.0,
+    "cross_corpus": 1.0,
+    "dissertation": 1.0,
+    "employment_quality": 1.0,
+    "gva_horizon": 1.0,
+    "limits": 1.0,
+    "local_evidence": 1.0,
+    "plain_english": 1.0,
+    "sme": 1.0
+  },
+  "timestamp_utc": "2026-08-26T14:32:50.838412+00:00",
+  "mode": "rag",
+  "gold_file": "C:\\Users\\User\\Desktop\\RAG\\swindon-gva-rag-updated\\swindon-gva-rag\\eval\\gold_questions.jsonl",
+  "results_file": "C:\\Users\\User\\Desktop\\RAG\\swindon-gva-rag-updated\\swindon-gva-rag\\eval\\results\\eval_20260826T142148Z.jsonl",
+  "llm_model": "qwen2.5:14b",
+  "retrieval_metrics": {
+    "by_k": {
+      "3": {
+        "precision_at_k_mean": 0.2222222222222222,
+        "recall_at_k_mean": 0.3333333333333333,
+        "ndcg_at_k_mean": 0.3333333333333333,
+        "questions_with_judgements": 3
+      },
+      "5": {
+        "precision_at_k_mean": 0.26666666666666666,
+        "recall_at_k_mean": 0.6666666666666666,
+        "ndcg_at_k_mean": 0.5004219451139623,
+        "questions_with_judgements": 3
+      },
+      "10": {
+        "precision_at_k_mean": 0.3,
+        "recall_at_k_mean": 1.0,
+        "ndcg_at_k_mean": 0.7963193647893515,
+        "questions_with_judgements": 3
+      }
+    },
+    "overall": {
+      "questions_ran": 3,
+      "questions_with_relevance_judgements": 3,
+      "map_mean": 0.31084656084656087
+    }
+  }
+}

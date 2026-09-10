@@ -7,7 +7,7 @@ other folder (agents/, pipelines/, rag/, utils/) depends on.
 
 Used by:
   - pipelines/review_panel.py, right after a human approves a scraped document
-  - pipelines/run_pipeline1.py / manual scripts, to load local_evidence files
+  - pipelines/batch_search.py / review_panel.py, to load local_evidence files
     (which are never scraped — the user supplies them directly)
 """
 import sys
@@ -178,7 +178,7 @@ def _row_to_natural_text(row: dict, id_cols: dict) -> str:
     sentences = [f"{label}{id_str} is an LSOA in the Swindon local evidence dataset."]
     if rank is not None:
         sentences.append(
-            f"{label} has an IPI (Investment Prioritisation Index) rank of {rank}."
+            f"{label} has an IPI (Intervention Priority Index) rank of {rank}."
         )
     if ipi_val is not None:
         sentences.append(f"{label}'s IPI value is {ipi_val}.")

@@ -17,6 +17,7 @@ sys.path.insert(0, str(_ROOT / "agents"))
 
 import config
 import ingest
+import pdf_store
 import search_agent
 
 PREVIEW_CHARS = 800
@@ -46,8 +47,12 @@ def _sidecar(filepath: Path) -> Path:
     return filepath.with_name(filepath.stem + ".meta.json")
 
 
-def _pdf_sidecar(filepath: Path) -> Path:
-    return filepath.with_name(filepath.stem + ".pdf")
+def _pending_pdf(filepath: Path) -> Path:
+    return pdf_store.pending_path(filepath.stem)
+
+
+def _legacy_staging_pdf(filepath: Path) -> Path:
+    return pdf_store.legacy_staging_pdf(filepath.stem)
 
 
 def review_one(filepath: Path) -> str:
@@ -55,14 +60,17 @@ def review_one(filepath: Path) -> str:
     print("\n" + "=" * 70)
     print(f"FILE: {filepath.name}")
     meta_path = _sidecar(filepath)
-    pdf_path = _pdf_sidecar(filepath)
+    pending_pdf = _pending_pdf(filepath)
+    legacy_pdf = _legacy_staging_pdf(filepath)
     if meta_path.exists():
         import json
         meta = json.loads(meta_path.read_text(encoding="utf-8"))
         print(f"SOURCE: {meta.get('source_url')}")
         print(f"ISSUING AUTHORITY: {meta.get('issuing_authority')}   PUBLISHED: {meta.get('published_date')}")
-    if pdf_path.exists():
-        print(f"RAW PDF AVAILABLE: {pdf_path.name}  (open it directly to view the original document)")
+    if pending_pdf.exists():
+        print(f"RAW PDF AVAILABLE: docs/pdfs/pending/{pending_pdf.name}")
+    elif legacy_pdf.exists():
+        print(f"RAW PDF AVAILABLE (legacy): data/staging/{legacy_pdf.name}")
     print("-" * 70)
     print(_preview(filepath))
     print("-" * 70)
@@ -77,10 +85,19 @@ def review_one(filepath: Path) -> str:
         shutil.move(str(filepath), str(dest_path))
         if meta_path.exists():
             shutil.move(str(meta_path), str(dest_dir / meta_path.name))
-        if pdf_path.exists():
-            shutil.move(str(pdf_path), str(dest_dir / pdf_path.name))
+        promoted = pdf_store.promote_to_corpus(dest_path.stem, corpus)
+        if promoted:
+            print(f"  -> PDF stored at docs/pdfs/{corpus}/{promoted.name}")
         print(f"  -> approved into '{corpus}', now ingesting into Chroma...")
-        ingest.ingest_file(dest_path, corpus)
+        try:
+            ingest.ingest_file(dest_path, corpus)
+        except Exception as e:
+            print(f"  -> INGEST FAILED: {e}")
+            print("  -> File is in data/verified/ but NOT in Chroma. Fix Chroma then run:")
+            print(f"       python modules/ingest.py ingest-file \"{dest_path}\" {corpus}")
+            print("     Or rebuild the whole index:")
+            print("       python utils/rebuild_chroma.py")
+            return f"approved_ingest_failed:{corpus}"
         return f"approved:{corpus}"
 
     if choice == "4":
@@ -90,8 +107,7 @@ def review_one(filepath: Path) -> str:
         filepath.unlink()
         if meta_path.exists():
             meta_path.unlink()
-        if pdf_path.exists():
-            pdf_path.unlink()
+        pdf_store.delete_staging_pdf(filepath.stem)
         print("  -> rejected, deleted, and recorded so it won't be re-staged in future searches.")
         return "rejected"
 
@@ -102,7 +118,7 @@ def review_one(filepath: Path) -> str:
 def run_review_session() -> None:
     files = sorted(p for p in config.DATA_STAGING.iterdir() if p.is_file() and p.suffix == ".txt")
     if not files:
-        print(f"No files waiting in {config.DATA_STAGING}. Run agents/search_agent.py or pipelines/run_pipeline1.py first.")
+        print(f"No files waiting in {config.DATA_STAGING}. Run pipelines/batch_search.py first.")
         return
 
     print(f"{len(files)} document(s) awaiting review.")

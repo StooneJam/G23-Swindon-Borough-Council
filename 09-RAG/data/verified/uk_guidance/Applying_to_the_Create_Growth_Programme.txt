@@ -1,0 +1,650 @@
+<<<PDF_PAGE_1>>>
+Create Growth Programme FY 22/23-24/25: Guidance for Applicants
+Content:
+1. Summary
+2. Context of the grant programme
+2. 1. Strategic Context
+2. 2. The Creative Scale Up Pilot
+3. Overview of the Create Growth Programme
+3. 1. Target Market
+3. 2. Support Package
+3. 3. Delivery
+3. 4. Objectives and Outputs
+3. 5. Budget
+4. Grant funding for shortlisted applicants
+5. Eligibility
+5. 1. Who can apply
+5. 2. Applications from consortia
+5. 3. Multiple Applications
+6. Application instructions and timelines
+6. 1. Instructions for submitting an Expression of Interest
+6. 2. Instructions for submitting a full application
+6. 3. Timelines
+7. Assessment criteria
+7. 1. Expressions of Interest
+7. 2. Full applications
+7. 3. Scoring Criteria
+7. 4. Balancing
+8. Grant requirements
+Applicants should read all sections of this document carefully before applying for funding.
+Please use the Expression of Interest (EOI) Form provided to submit your EOI.
+<<<PDF_PAGE_2>>>
+1. Summary
+The Creative Industries are one of the fastest growing sectors of the UK economy, providing
+significant local employment opportunities and economic benefits. The Department for Digital,
+Culture, Media and Sport (DCMS) is inviting local area partnerships in England (except London)
+to submit Expressions of Interest (EOIs) to participate in the Create Growth Programme (CGP)
+from FY22/23 to FY24/25 (three years). Each successful local area partnership will be awarded
+approximately £1.275 million in grant funding for business support. Creative businesses in
+participating local area partnerships will also have the opportunity to benefit from up to a £7
+million fund for finance support, as well as investor networking activities.
+The CGP is an expansion of the Creative Scale Up pilot (2019-2021), which provided the Greater
+Manchester, West Midlands and West of England Combined Authorities with a package of
+business and investor support for creative businesses to scale and access finance outside
+London. The CGP will build on the success of the pilot to provide six regions in England, outside
+London, with a bespoke package to support high-growth potential creative businesses and build
+investor networks. The support package will comprise three complementary strands: business
+support targeted at the creative industries; finance; and investor capacity building activities.
+Local area partnerships will deliver targeted business support to high-growth potential creative
+businesses. It is expected that participation in the CGP will help to build local knowledge,
+capacity and infrastructure to support creative businesses beyond the programme.
+A national delivery provider will be appointed to deliver finance to creative businesses and
+investor capacity building activities, as well as to provide the administration and monitoring of the
+programme across the six participating regions. It is intended that local area partnerships and the
+national delivery provider will work closely together to ensure the programme meets its objectives
+and outcomes.
+The deadline for EOIs is 23:59 hrs BST, Thursday 7 July 2022. An EOI Form should be
+completed using the template provided and submitted via this email: creategrowth@dcms.gov.uk.
+EOI applicants will be shortlisted by a panel appointed by DCMS. Shortlisted applicants will be
+invited to submit full applications to bid to participate in the programme. Full applications will be
+assessed by a panel appointed by DCMS using the scoring system outlined in section 7.3 of this
+document. Applications will also be reviewed against a set of balancing criteria outlined in section
+7.4 of this document. If you are invited to submit a full application, this is not a guarantee that the
+application will be successful. The deadline for full applications is 23:59 hrs BST, Thursday
+25 August 2022. Full applications should be completed using the template provided and
+submitted via this email: creategrowth@dcms.gov.uk.
+As part of the EOI stage, DCMS is inviting local area partnerships to apply for grants of up to a
+maximum of £10,000 (ten thousand pounds) to support them in developing full applications to the
+CGP if they are shortlisted. Only shortlisted applicants that can demonstrate a clear need for a
+grant to develop a full application will be awarded grant funding. The grant must be spent on
+activities to support full applications to the CGP.
+2
+<<<PDF_PAGE_3>>>
+2. Context of the grant programme
+2. 1. Strategic context
+The creative industries (CIs) are one of the fastest growing sectors in the UK economy. Pre-
+pandemic, in 2019 the CIs generated £115.9 billion in Gross Value Added (GVA) and employed
+2.1 million people - or approximately 6.3% of the economy (DCMS Economic Estimates). Despite
+the disproportionate impact of Covid-19 on many creative sub-sectors, as of December 2021
+monthly GVA for the CIs is estimated to be 3.2% greater than pre-pandemic levels in 2020
+(DCMS Economic Estimates).
+The CIs high-growth potential was recognised by this Government in its ‘Build Back Better: our
+plan for growth’ (March 2021), where it was identified as a priority sector for driving post-
+pandemic recovery. DCMS’s forthcoming Creative Industries Sector Vision will set a clear and
+ambitious vision for supporting our high-growth creative industries. The CGP will play an
+important role in delivering this objective.
+Moreover, with 47 identified creative clusters located across the UK, the CIs can play a critical
+role in supporting the Government’s Levelling Up objectives. The CGP was recognised in the
+Government’s Levelling Up White Paper (February 2022) as a key intervention for driving
+economic growth and boosting productivity, pay, jobs and living standards across regions.
+However, despite the CIs growth potential, there are distinct market and information failures that
+prevent creative businesses scaling and accessing finance outside of London. The creative
+sector - predominantly made up of small and medium-sized enterprises (SMEs) - lacks capacity
+and access to expertise on business planning and finance advice, as well as wider support
+programmes. Creative businesses produce intangible intellectual property, which creates barriers
+to accessing traditional sources of finance. Additionally, information failures mean private
+investors can struggle to understand the sector and to measure investment risk.
+2. 2. The Creative Scale Up pilot (2019-2021)
+In 2019, the Creative Scale Up pilot was launched with £4 million of Government funding as part
+of the Creative Industries Sector Deal (2018) (see link). The pilot provided three Combined
+Authorities (Greater Manchester, West of England and West Midlands) with a bespoke package
+to support creative businesses at the scaling stage and to build investor networks. More
+information on the pilot can be found at the participating Combined Authority web pages below:
+● Greater Manchester Combined Authority;
+● West of England Combined Authority;
+● West Midlands Combined Authority.
+Since the pilot’s launch, it has supported over 200 businesses and engaged with 215 investors.
+The pilot’s evaluation identified that, after 12 months of participating in the pilot, businesses on
+average experienced increases in turnover of £91,000 (per business) and employment growth of
+23%. UK Business Angels Association have estimated that the approximate investment capacity
+to date of investors registered to the toolkit developed in the pilot is in the range of £149 million
+and £303 million.
+3
+<<<PDF_PAGE_4>>>
+3. Overview of the Create Growth Programme
+3. 1. Target Market
+The Create Growth Programme will build on the success of DCMS’s Creative Scale Up pilot. One
+of the learnings identified from the pilot evaluation was that there is a pipeline of high-growth
+potential creative businesses, not yet at the scaling stage, which can benefit from the support
+offer provided and become investment ready. The CGP has therefore been designed to support
+creative businesses, with high-growth potential, between the seed and scaling stages.
+DCMS will work with the national delivery partner, successful local area partnerships and industry
+experts to refine criteria for selecting high-growth potential businesses during the course of the
+programme. As initial guidance, we understand ‘high-growth potential’ businesses as those
+demonstrating the following characteristics:
+● Turnover growth of 10% year-on-year over approximately 3 years (including either prior
+to or during the pandemic);
+● Employing a minimum of 2 people over the last two years (full-time, part-time or
+freelance);
+● Created a revenue generating product, launched a new platform or service or reached a
+market of scale;
+● Generated a sales revenue in the last 2 years.
+For the purpose of the Create Growth Programme, creative businesses refers to those with a
+high intensity of creative occupations. Please refer to DCMS Economic Estimates, available here,
+for a list of the sub-sectors and their associated SIC codes that DCMS classifies under the
+creative industries. Sub-sectors under the creative industries include: Advertising and Marketing;
+Architecture; Crafts; Design and Designer Fashion; Film, TV, Video, Radio and Photography; IT,
+Software and Computer Services; Publishing; Museums, Galleries and Libraries; Music,
+Performing and Visual Arts.
+3. 2. Support Package
+The CGP will provide participating regions with a bespoke support package comprising of the
+following complementary elements:
+● Business Support - Bespoke business support that is tailored to the specific needs of
+high-growth potential creative businesses, with the aim of building businesses’
+management skills and understanding of different finance routes to support business
+growth and investment readiness. It is expected that the support offer will include a suite
+of workshops, one-to-one mentoring and peer-learning. Content is expected to focus on
+areas where CI specific advice is needed (eg. Intellectual Property, business models
+and access to new markets). For generic business support, businesses will be referred
+elsewhere.
+● Investor Capacity Building - The aim of the investor capacity building element is to
+increase the number of private investors willing to invest in creative businesses outside
+London, through educating investors about investment opportunities in the sector and
+building investor networks. Building on the Creative Scale Up pilot, it will include a
+4
+<<<PDF_PAGE_5>>>
+combination of pitching events, investor outreach and an investor toolkit (building on the
+Invest in Creative toolkit developed during the pilot).
+● Finance - Targeted finance will be provided to selected businesses that can
+demonstrate through a diagnostic assessment that it will act as a stimulus for growth
+and investment, through leveraging in further private investment.
+3. 3. Delivery
+Building on the success of the CSU pilot, the business support element of the CGP is to be
+delivered directly by local area partnerships to allow flexibility to meet local needs. The local
+delivery of business support aims to build long-term legacy infrastructure, skills and capacity for
+supporting creative businesses in areas beyond the programme. DCMS view there to be
+considerable benefits in local area partnerships working with relevant experts in the creative
+sector in developing and delivering the business support package. This will help ensure that it
+meets the specific needs of creative businesses and complements other activities and
+programmes already existing in the area. We recommend that local area partnerships draw on
+existing networks and industry expertise wherever possible.
+A national delivery provider will be appointed to deliver the finance and investor capacity building
+elements of the programme across participating regions. The national delivery provider will also
+oversee the administration of the programme and monitoring and evaluation across participating
+regions.
+It is intended that the national delivery provider and local area partnerships will work closely
+together and engage industry expertise to ensure the programme meets its objectives and
+outcomes. All local area partnerships applying to the CGP are expected to work jointly with other
+participating local areas, the national delivery partner and industry experts.
+3. 4. Objectives and outputs of the Create Growth Programme
+The objectives of the Create Growth Programme are to:
+● Support high-growth potential creative businesses to become investment ready
+outside of London, by developing businesses’ knowledge, skills and access to finance.
+● Increase the number of investors willing to invest in creative businesses outside of
+London, by educating and developing investor networks.
+To support these objectives, local area partnerships will be asked to provide the following
+activities and outputs:
+Business Support
+● Develop a targeted business support package specific to high-growth potential creative
+businesses, including a suite of workshops, one-to-one mentoring and peer learning
+activities;
+● Procure workshop facilitators and mentors to deliver the business support programme;
+● Identify businesses into appropriate cohorts, based on their growth stage, business
+model and/or sub-sector;
+● Baseline and track the performance of participating businesses and those that applied
+and were unsuccessful to support the evaluation of the programme;
+5
+<<<PDF_PAGE_6>>>
+● Support the ongoing investor capacity building strand of the programme, through
+collecting and providing relevant data and aligning the business support programme with
+investor workshops and pitching events;
+● Refer businesses to other regional business support programmes, where appropriate.
+This includes businesses which are unsuccessful at the initial application stage, but could
+benefit from other existing regional support offers; it also includes businesses that are
+selected for the programme, but where a specific support need is best met through
+another existing regional programme;
+● Work with the national delivery partner to ensure the business support package aligns
+with and complements the finance and investor capacity building elements of the
+programme;
+● Share best practice on developing and delivering the business support offer across other
+participating regions.
+Comms
+● Develop marketing, communications campaigns and events across regions to
+encourage business applications.
+Governance
+● Support the evaluation of the programme through collecting data on participating
+regional businesses and the business support offer and sharing this with the evaluators,
+the national delivery provider and DCMS. The CGP provides a significant opportunity to
+improve data on creative businesses at a local level, which will help improve the
+targeting of future policies and programmes to support the CIs;
+● Maintain an up-to-date risk register for the business support package and escalate any
+risks that materialise to the national delivery provider and DCMS;
+● Audit assurance and compliance;
+● Provide progress and performance reports to the national delivery provider and DCMS.
+3. 5. Budget
+The Create Growth Programme has a budget of £17.51 million over three financial years
+(FY22/23-24/25). Each successful local area partnership will be awarded approximately £1.275
+million in grant funding to deliver the business support package across three financial years. In
+addition to this, businesses across participating local area partnerships will have the opportunity
+to benefit from up to a £7 million fund for finance support. Local area partnerships will also benefit
+from the investor capacity building activities developed through the programme.
+4. Grant funding for Shortlisted Applicants
+DCMS recognises the resource pressures that bidding for competitive funding places on local
+areas and that there are discrepancies between areas in their access to resources to develop
+funding applications. As part of the EOI stage, DCMS is therefore inviting local area partnerships
+to apply for grants of up to a maximum of £10,000 (ten thousand pounds) to be used to support
+the development of full applications to the CGP if shortlisted.
+Local area partnerships are asked to specify in the EOI Form under Section 4 the amount of
+grant needed up to a maximum of £10,000 and demonstrate a clear justification for how the grant
+6
+<<<PDF_PAGE_7>>>
+will help them to develop full proposals for the competition. Only shortlisted applicants that can
+demonstrate a clear need for a grant to develop a full application will be awarded application
+grant funding.
+The application grant must be spent on activities to support full applications to the CGP. This
+could include:
+● Agency staff/consultancy for bid writing;
+● Consultation;
+● Data gathering and analysis;
+● Industry expertise.
+If your proposal for an application grant is accepted, this is not a guarantee that the full
+application to the CGP will be successful.
+5. Eligibility
+Please read the eligibility requirements for the programme carefully. If you do not meet the
+eligibility requirements, it will not be possible to consider your application.
+5. 1. Who can apply?
+The programme is open to EOIs from local area partnerships in England and outside of London
+only. London boroughs and the Greater London Authority are excluded from applying to the
+programme either as a stand alone application or as part of a consortium bid. The CGP is
+focused on supporting creative businesses and unlocking economic growth in other parts of the
+country.
+Applicants must be either a Combined Authority, Local Authority or Local Enterprise Partnership
+(LEP). In the case of a consortium application, the lead organisation must be either a Combined
+Authority, Local Authority or LEP.
+There is no predetermined minimum or maximum size of geographical area(s) that can apply.
+However, local area partnerships will be assessed on their capacity to deliver on the stated
+objectives of the CGP and will be required to demonstrate there are enough businesses in the
+area that can benefit from the programme and sufficient local infrastructure to support businesses
+beyond the programme. It is therefore suggested that local area partnerships should, where
+existing, be a Mayoral Combined Authority or a consortium of upper tier and unitary authorities
+elsewhere.
+5. 2. Applications from consortia
+One organisation must act as the lead organisation and submit the application. Applications from
+consortia should be submitted once only, by the lead organisation.
+Please note that DCMS is unable to award a grant to multiple organisations. The lead
+organisation would therefore need to be responsible for distributing funding through an invoicing
+arrangement and managing working relations with the other partners. The lead partner is the
+responsible organisation who will share the Memorandum of Understanding (MoU) and
+determination letters with all parties involved.
+7
+<<<PDF_PAGE_8>>>
+5. 3. Multiple applications
+Lead organisations are eligible to submit a single application only. Local organisations (Combined
+Authorities, Local Authorities, LEPs) applying as part of a consortium bid, either as a lead or non-
+lead, will count as one application. They must not submit a separate, stand-alone application and
+an application as part of a consortium, either as a lead or non-lead.
+6. Application instructions and timelines
+6.1 Instructions for submitting an Expression of Interest (EOI)
+The Create Growth Programme will open for EOI applications from Thursday 9 June 2022 to
+Thursday 7 July 2022, 23:59hrs BST. Any EOI forms received after the closing date will not be
+considered.
+The EOI form will include an eligibility questionnaire which must be completed. The EOI form will
+also give you the opportunity to describe your proposal in no more than 1000 words against the
+criteria outlined in section 7 of this document.
+If you wish to apply for grant funding to support the development of a full application if you are
+shortlisted, then please complete Section 4 of the EOI Form.
+To apply, please submit your EOI form to creategrowth@dcms.gov.uk adding “EOI CGP” and the
+lead organisation name to the subject line.
+6. 2. Instructions for submitting a full application
+All EOI applicants will be informed whether or not they have been successful at the shortlist
+stage. Shortlisted applicants will then be invited to submit a full application using a provided
+template and submit evidence against the set of predefined criteria outlined in section 7 of this
+document. Only full applications from shortlisted applicants invited to apply will be assessed. If
+you are invited to submit a full application, this is not a guarantee that the application will be
+successful.
+Please submit your full application adding “Full Application CGP” and the name of the lead
+organisation to the subject line to this email: creategrowth@dcms.gov.uk
+Full applications will be assessed by a panel appointed by DCMS using the scoring system
+outlined in section 7.3 of this document. Applications will also be reviewed against a set of
+balancing criteria outlined in section 7.4 of this document.
+The application process is outlined below:
+● Submit EOI form;
+● DCMS undertakes eligibility check;
+● DCMS appointed panel reviews EOI;
+● Applicants informed of EOI outcome and applications for grant funding to support full
+applications;
+8
+<<<PDF_PAGE_9>>>
+● Shortlisted applicants are invited to submit full applications. Those successful in applying
+for grant funding to support full applications will receive grant funding;
+● DCMS appointed panel assesses applications against criteria;
+● DCMS appointed panel reviews applications against balancing criteria;
+● All applicants are informed of the decision outcome.
+All available information and guidance relating to the application to the CGP is contained within
+this document. The Creative Economy Team in DCMS can answer questions related to the
+application process and eligibility. However, as the application process is competitive, they are
+unable to provide any support in completing the application. If you have a question, please
+contact this email: creategrowth@dcms.gov.uk
+6. 3. Timelines
+The EOI will open for applications on Thursday 9 June 2022. The closing date for submitting
+EOI applications is 23:59hrs BST, Thursday 7 July 2022.
+All EOI applicants will be informed whether or not they have been successful at the shortlist stage
+by Thursday 21 July 2022.
+Shortlisted applicants will then be invited to submit a full application by 23:59hrs BST, Thursday
+25 August 2022. Only shortlisted applicants will be eligible to submit full applications. Applicants
+should expect to be notified of the decision outcome in September 2022.
+The programme is expected to launch in Autumn 2022. All funding must be accounted for by 31
+March 2025.
+7. Assessment Criteria
+7. 1. Expression of Interest Form
+The following sections of the Expression of Interest (EOI) form must be completed for the
+application to be considered.
+Section 1: Eligibility Questionnaire: Essential Criteria
+All applicants are required to complete the eligibility questionnaire with essential criteria.
+Essential criteria must be met by all applicants to qualify for the EOI stage. If these essential
+criteria are not met, the EOI application concerned will not be considered.
+Essential criteria:
+1. The entity bidding must be either a Combined Authority, Local Authority or Local
+Enterprise Partnership (LEP). In the case of a consortium of bidders, the lead
+organisation must be either a Combined Authority, Local Authority or Local Enterprise
+Partnership (LEP).
+2. The entity bidding (and all members of a consortium) must be in England or deliver the
+programme outputs and objectives in England.
+9
+<<<PDF_PAGE_10>>>
+3. The entity bidding (and all members of a consortium) must be outside London or deliver
+the programme outputs and objectives outside London. London boroughs and the
+Greater London Authority are not eligible to apply.
+Section 2: Local Area Partnership details
+Section 2 of the EOI form is intended to capture key details about the lead organisation and
+consortium members (if applicable) of the local area partnership applying. Please make sure this
+information is accurate as it will inform DCMS’s due diligence and risk assessment checks.
+Section 3: Proposal
+Section 3 of the EOI form will give you the opportunity to provide a response in no more than
+1000 words to the following criteria:
+● Characteristics of place: local creative businesses and infrastructure (200 words
+max):
+○ Briefly describe the creative sector in your region, including the types of creative
+businesses by sub-sector and growth stage, creative infrastructure and investor
+communities that are present.
+○ Which existing or future regional support offers (both CI-specific and sector
+agnostic) are present in the region that businesses could be referred to or could
+provide feeder or follow-on support? This could include but is not limited to
+growth hubs, innovation accelerators and regional business support or funding
+programmes.
+● Programe need (200 words max):
+○ Briefly describe the need for the programme in the region and how high-growth
+potential creative businesses are currently under-served by support offers.
+○ Please confirm that the programme does not duplicate other existing support
+offers in the region. Where there are similar programmes being delivered, please
+explain how the Create Growth Programme will provide additional benefits to
+high-growth potential creative businesses and the investor community.
+● Local organisational capacity (200 words max):
+○ Briefly describe your previous experience in delivering comparable programmes,
+either sector agnostic or targeted at the creative industries. Describe how you will
+either draw on existing organisational skills and resources or engage specialist
+expertise to deliver the programme.
+○ Explain how the programme will be monitored and reported (this should include
+financial expenditure and intended outcomes and benefits).
+● Programme legacy (200 words max):
+○ Explain how the programme’s stated objectives align with existing or future local
+cultural, creative industries and economic growth strategies or plans.
+○ Explain how you will support local economic growth and productivity in the
+creative sector beyond the CGP. DCMS welcomes local area partnerships to
+identify opportunities for additional funding to support the continuation of the
+programme beyond its lifecycle or to support complementary feeder and follow-
+on programmes.
+○ Explain how the programme will help to build capacity in the local area
+partnership team for supporting the CIs.
+10
+<<<PDF_PAGE_11>>>
+● Equality, diversity and inclusion (200 words max):
+○ Briefly explain how as part of the CGP you intend to engage diverse businesses,
+employing those with protected characteristics;
+○ Please also describe how the business support offer provided will support
+businesses in diversifying their workforce and open up opportunities for those
+with protected characteristics.
+Section 4: Application Grants (optional)
+If you wish to apply for grant funding to support the development of a full application to the CGP if
+you are shortlisted, then please complete Section 4 of the EOI Form according to the template
+provided.
+To be eligible to apply for an application grant, you must confirm the following:
+● The bidder has not previously been successful in bidding for public or private funding to
+deliver similar programmes;
+● The bidder is not currently in receipt of public or private funding for delivering similar
+proposals or programmes.
+You will be required to specify the following:
+● The amount of funding you need up to a maximum of £10,000 (ten thousand pounds);
+● Why you need the grant to develop a full application (150 words max). You must
+demonstrate that you do not currently have sufficient resource in place for developing an
+application and that there is a clear need for the use of grant funding to develop a full
+application;
+● What activities you will spend the grant on to support the development of an application
+to the CGP. This could include, but is not limited to, the following:
+■ Agency staff/consultancy for bid writing;
+■ Consultation;
+■ Data gathering and analysis;
+■ Industry expertise.
+7. 2. Full application form
+If you are shortlisted at the EOI stage, you will be invited to submit a full application form. Please
+note that this is not a guarantee that the application will be successful. You will be provided with a
+full application form that will require you to expand on the response you provided in the EOI form
+and provide evidence against the following criteria:
+● Section one: Characteristics of place: local creative businesses and infrastructure
+- Local area partnerships should demonstrate that they have a large enough cluster (or
+group of clusters) of creative businesses with suitable growth prospects to enable
+meaningful engagement with and impact from the programme and there is sufficient
+local infrastructure to support businesses beyond the programme. This includes:
+○ How many creative businesses in the region do you estimate engaging as part of
+the programme?
+○ Which creative sub-sectors are covered by these businesses?
+○ How do these businesses meet the description of ‘high-growth potential’?
+11
+<<<PDF_PAGE_12>>>
+○ Which existing or future regional support offers (both CI-specific and sector
+agnostic) are present in the region that businesses could be referred to or could
+provide feeder or follow-on support? This could include but is not limited to
+growth hubs, innovation accelerators and regional business support or funding
+programmes.
+● Section two: Programme need - Local area partnerships should demonstrate that
+there is unmet demand for the programme and that it will build on and not duplicate
+existing activity in the region. This includes:
+○ Describe the need for the programme in the region and how creative businesses
+are currently under-served by support offers.
+○ Please confirm that the programme does not duplicate other existing support
+offers in the region. Where there are similar programmes being delivered, please
+explain how the Create Growth Programme will provide additional benefits to
+businesses and the investor community.
+● Section three: Local organisational capacity - Local area partnerships should
+demonstrate that they have the capacity, skills and resources to deliver the programme,
+as well as sufficient understanding of, and partnerships with, creative businesses and
+networks in their region. This includes:
+○ Briefly describe your previous experience in delivering comparable programmes,
+either sector agnostic or targeted at the creative industries. Describe how you will
+either draw on existing organisational skills and resources or engage specialist
+expertise to deliver the programme.
+○ Explain how you intend to engage with creative industry expertise in developing
+the business support package;
+○ How you will resource activity (eg. additional staff recruitment, training
+requirements or procuring third party providers);
+○ How you will undertake the procurement activity for the project (if applicable), in
+line with Public Contracts Regulations 2015;
+○ Provide evidence of your organisation’s financial stability, appropriate
+governance and an ability to administer and account for the grant. In the event of
+a consortium bid, all bidding organisations must provide evidence of financial
+stability and the presence of appropriate governance arrangements between all
+consortium members;
+○ Provide outline costs of how you intend to spend the grant to deliver the business
+programme, including salaries of staff and contractors;
+○ Provide a summary of key risks relating to the delivery of the programme and
+how these will be monitored and managed;
+○ Explain how you intend to monitor and report on the programme (this should
+include expenditure; timetable; outcomes and benefits). Describe the financial
+management systems and processes you intend to put in place. Please provide a
+clear proposal for how much funding will be drawn down each month from
+September 2022 to March 2025 and describe how this will be accounted for.
+12
+<<<PDF_PAGE_13>>>
+● Section four: Programme legacy - Local area partnerships should demonstrate how
+the programme will support them in developing partnerships and building long-term
+capacity and legacy infrastructure to support the creative industries in their area after the
+programme ends. This includes:
+○ How does the programme’s stated objectives align with existing or future local
+cultural, creative industries and economic growth strategies or plans?
+○ How will you support local economic growth and productivity in the creative
+sector beyond the CGP? DCMS welcomes local area partnerships to identify
+opportunities for additional funding to support the continuation of the programme
+beyond its lifecycle or to support complementary feeder and follow-on
+programmes.
+○ Briefly describe how the programme will support you to strengthen local
+understanding and partnerships with CI businesses within the region and how it
+will help to build capacity in the local area partnership team for supporting the
+CIs;
+○ Briefly describe how the programme will support you to strengthen investor
+networks willing to invest in the CIs within region.
+● Section five: Equality, diversity and inclusion - Local area partnerships should
+demonstrate their commitment to opening up access and broadening the diversity of
+workforce in creative businesses in their area.This includes:
+○ Briefly describe how you intend to engage diverse businesses, employing those
+with protected characteristics, as part of the CGP;
+○ Please also describe how the business support offer provided will support
+businesses in diversifying their workforce and open up opportunities for those
+with protected characteristics;
+○ Explain how you will monitor the diversity of workforce in the businesses
+supported.
+7. 3. Scoring criteria
+The essential criteria listed in section 7.1 of this document must be met by all EOI applicants to
+qualify for the shortlisting stage. If the essential criteria are not met, the EOI application will not be
+considered.
+If the essential criteria are met, EOIs will be reviewed by a Panel appointed by DCMS. As part of
+the EOI process, DCMS will use any other information we hold about the lead applicant or
+consortium member. We may share your application with expert stakeholders or other
+government departments for their review and comment to help inform the panel’s decision.
+The application will be scored using the weighting system detailed overleaf.
+13
+<<<PDF_PAGE_14>>>
+Section Weighting
+1. Characteristic of Place: Local Creative 25
+Businesses and Infrastructure
+2. Programme Need 25
+3. Local Organisational Capacity 20
+4. Programme Legacy 20
+5. Equality, diversity and inclusion 10
+Each section of an application will be evaluated and marked on a scale of 0-4 where:
+0 = Serious concerns (e.g. application does not meet requirements and/or raises serious
+concerns)
+1 = Minor concerns (e.g. application meets some requirements but with gaps and/or some minor
+concerns)
+2 = Adequate confidence (e.g. application meets most/all requirements and provides a detailed
+response but lacks evidence in minor areas)
+3 = Good confidence (e.g. application meets all requirements and provides a detailed response
+but lacks evidence in minor areas)
+4 = Excellent confidence (e.g. application meets all requirements and provides a detailed
+response and evidence which demonstrates a particularly strong understanding of the
+requirements)
+Your overall score will be a percentage and will be determined by the marks awarded for each
+criteria (out of 4) in accordance with the applicable weighting. For example, if the weighting for a
+question is 20%, a mark of 4 for that question would lead to a score of 20%, a mark of 3 for that
+question would lead to a score of 15%, a mark of 2 for that question would lead to a score of
+10%, a mark of 1 for that question would lead to a score of 5%, and a mark of 0 would lead to a
+score of 0%. DCMS reserves the right to reject any bidder who scores 0 in any of the questions
+and/or achieves an overall score of less than 50%.
+7. 6 Balancing Criteria
+The Create Growth Programme seeks to support a range of creative sub-sectors and a good
+geographical spread of regions across England. In addition to the main criteria, at the full
+application stage DCMS will use a set of balancing criteria to differentiate between a number of
+proposals that are considered fundable. The Panel appointed by DCMS will balance applications
+across the following criteria:
+● Geographic spread - DCMS will look to ensure a fair spread of successful regions
+across England.
+● Creative sub-sectors - Different regions may have particular strengths in specific
+creative sub-sectors (eg. film, video games, fashion and publishing). DCMS will look to
+ensure that the portfolio of regions participating in the CGP supports businesses across
+a range of creative sub-sectors.
+14
+<<<PDF_PAGE_15>>>
+● Growth potential - DCMS will look to support regions that are identified as having
+growth potential for the creative industries. We realise that regions will be starting with
+different levels of existing infrastructure and at different growth stages. We will look to
+target those regions where the programme will be most additive and have the greatest
+impact on driving growth. DCMS will draw on relevant research and data sets on
+creative scale up firms in regions to support the assessment of a region’s growth
+potential.
+● Existing support for creative businesses - DCMS will look to support regions where
+the programme can have maximum impact through aligning with other regional support
+offers but also does not duplicate activity funded by other public or private investment.
+8. Grant Requirements
+Maximum grant value FY22/23-24/25
+Successful applicants will be awarded a grant of approximately £1.275 million over three financial
+years (FY22/23-24/25).
+The value of the grant will be set out in the determination letter provided, which will be reviewed
+and issued at least each financial year. DCMS will review the amount of grant being committed
+based on a local area partnership’s performance against target and success measures for the
+programme. Confirmed funding for FY 22/23 is approximately £425,000. Indicative Funding,
+based on performance, for FY 23/24 and FY 24/25 is approximately £425,000. Payments will be
+made monthly or quarterly (subject to agreement between DCMS and the local area partnerships
+prior to signing the MoU).
+Grant programme management
+The Creative Economy Team in the Media and Creative Industries directorate at DCMS will
+manage grants to local area partnerships.
+For application grants to shortlisted applicants, the legal power is the UK Internal Market Act
+2020, Section 50.
+For successful applicants to the Create Growth Programme, the legal power for this grant is the
+Local Government Act 2003, Section 31.
+What to expect from DCMS if you are shortlisted
+● We will carry out detailed due diligence and risk assessment checks, which may involve
+requests for further information.
+What to expect from DCMS if you are successful at the full application stage
+● DCMS will send a Memorandum of Understanding (MoU) and a determination letter, with
+details of the value of the grant.
+● Determination letters will be issued at least each financial year of the programme and
+DCMS will review the value of the grant awarded on this basis. DCMS will review the
+amount of grant being committed in the determination letter based on a local area
+partnership’s performance against target and success measures for the programme.
+15
+<<<PDF_PAGE_16>>>
+● The monitoring process between local area partnerships, DCMS and the national
+delivery provider will be set out in the MoU.
+● DCMS will work with the successful applicant on relevant public communications
+regarding the CGP.
+Checks you are expected to undergo
+Your organisation will also need to pass DCMS’s due diligence checks, which ensure:
+● You are not already receiving funding for this project from Government.
+● That there is no indication of fraud. DCMS does not tolerate fraud, bribery or corruption.
+Applications will be checked against various databases to assess accuracy of the
+information provided. Fraud measurement and post-event assurance will also be carried
+out throughout the programme.
+● We expect applicants to provide further information, if requested, as the result of due
+diligence and risk assessment checks.
+Additionally, if you have been funded by another part of Government, we may seek feedback
+from that department.
+Financial requirements
+1. The DCMS financial year runs 1st April to 31st March. All funds awarded through this
+grant must be accounted for by 31st March 2025. If successful, your determination letter
+will set out the committed amount of grant that DCMS will pay for the first financial year
+(FY 22/23) and indicative amounts for the next two financial years (FY 23/24-24/25).
+2. The grant award must not exceed 50% of your annual income/turnover or collective
+annual income/turnover if you are applying as a formal consortium.
+3. If you are shortlisted and invited to submit a full application, you will be asked to
+describe the financial management systems and processes you will put in place. You will
+also be expected to set out a clear proposal for how much funding will be drawn down
+each month from September 2022 to March 2025.
+4. Payments will be made monthly or quarterly (subject to agreement between DCMS and
+the local area partnerships prior to signing the MoU).
+5. If you believe there is a compelling reason to be paid at the point of need, please set this
+out in your full application. Your request will be considered as part of the assessment
+process and subsequent due diligence, but will not, in itself, disadvantage your
+application.
+Subsidy control
+As of 1 January 2021, EU state aid rules no longer apply in the UK for new subsidies awarded
+after that date. The UK has entered into a Trade and Cooperation Agreement with the EU, which
+contains certain Subsidy Control provisions governing the award of subsidies by UK public
+authorities that may affect trade and investment between the UK and the EU.
+The current rules are explained in the Department for Business, Energy and Industrial Strategy
+(BEIS) guidance Technical Guidance on the UK’s International Subsidy Control Commitments.
+The Subsidy Control Act 2022 will come fully into force in October 2022.
+16
+<<<PDF_PAGE_17>>>
+Local area partnerships will need to consider whether any grant funding they award is compliant
+with rules on Subsidy Control applicable at the time of award.
+17
